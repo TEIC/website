@@ -1,0 +1,16 @@
+a {
+  color: midnightblue;
+}
+.hero-div h1 {
+  font-size: 4rem;
+  word-wrap: unset;
+}
+.nav-link {
+  color: white;
+}
+img.hero-emblem {
+  margin: auto;
+}
+li {
+  list-style: none;
+}
