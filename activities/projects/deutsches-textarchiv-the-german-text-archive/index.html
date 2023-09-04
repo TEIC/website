@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/teic.css">
+    <title>Deutsches Textarchiv  (The German Text Archive)</title>
+  </head>
+  <body>
+    <nav class="navbar navbar-expand-lg navbar-dark" style="background-color: #0059A8;">
+  <div class="container-fluid">
+    <a class="navbar-brand p-0 m-0" href="/">
+      <img src="/img/emblem_color_dark.png" alt="TEI Emblem" width="40">
+    </a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#TEIMenu" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="TEIMenu">
+      <ul class="navbar-nav ms-1 me-auto mb-2 mb-lg-0">
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="guidelinesMenu" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Guidelines
+          </a>
+          <div class="dropdown-menu" aria-labelledby="guidelinesMenu">
+            <a class="dropdown-item" href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/index.html">Current Guidelines</a>
+            <a class="dropdown-item" href="/guidelines/p5/">Older Versions</a>
+            <a class="dropdown-item" href="/guidelines/customization/">Customization</a>
+            <a class="dropdown-item" href="/guidelines/licensing-and-citation/">Licensing & Citation</a>
+            <a class="dropdown-item" href="https://github.com/TEIC/TEI">TEI @ GitHub</a>
+            <a class="dropdown-item" href="/support/learn/">Learn the TEI</a>
+            <a class="dropdown-item" href="/guidelines/">About the Guidelines</a>
+          </div>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="activitiesMenu" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Activities
+          </a>
+          <div class="dropdown-menu" aria-labelledby="activitiesMenu">
+            <a class="dropdown-item" href="https://members.tei-c.org/Events/meetings">Annual Meetings</a>
+            <a class="dropdown-item" href="/activities/council/">Technical Council</a>
+            <a class="dropdown-item" href="/activities/board/">Board</a>
+            <a class="dropdown-item" href="/activities/workgroups/">Workgroups</a>
+            <a class="dropdown-item" href="/activities/sig/">SIGs</a>
+            <a class="dropdown-item" href="/activities/infrastructure-group/">Infrastructure Group</a>
+            <a class="dropdown-item" href="/activities/projects/">Projects Using the TEI</a>
+            <a class="dropdown-item" href="https://journals.openedition.org/jtei">jTEI: Journal of the TEI</a>
+            <a class="dropdown-item" href="https://journal.tei-c.org/index.php/journal/about/submissions">jTEI: article submission system (for authors)</a>
+          </div>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="toolsMenu" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Tools
+          </a>
+          <div class="dropdown-menu" aria-labelledby="toolsMenu">
+            <a class="dropdown-item" href="https://oxgarage.tei-c.org/">OxGarage</a>
+            <a class="dropdown-item" href="https://roma.tei-c.org">Roma</a>
+            <a class="dropdown-item" href="https://romaantiqua.tei-c.org">Roma Antiqua</a>
+            <a class="dropdown-item" href="/tools/stylesheets/">Stylesheets</a>
+            <a class="dropdown-item" href="/tools/">About TEI Tools</a>
+          </div>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="membersMenu" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Membership
+          </a>
+          <div class="dropdown-menu" aria-labelledby="membersMenu">
+            <a class="dropdown-item" href="https://members.tei-c.org/">Members Page</a>
+            <a class="dropdown-item" href="http://members.tei-c.org/Join">How to Join</a>
+            <a class="dropdown-item" href="http://members.tei-c.org/Events/meetings">Meetings</a>
+            <a class="dropdown-item" href="http://members.tei-c.org/Directory">List of members</a>
+          </div>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="supportMenu" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Support
+          </a>
+          <div class="dropdown-menu" aria-labelledby="supportMenu">
+            <a class="dropdown-item" href="/support/learn/">Learn the TEI</a>
+            <a class="dropdown-item" href="/support/#tei-l">TEI-L Mailing List</a>
+            <a class="dropdown-item" href="https://github.com/TEIC/TEI/issues">Bug Reports and Feature Requests</a>
+          </div>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="aboutMenu" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            About
+          </a>
+          <div class="dropdown-menu" aria-labelledby="aboutMenu">
+            <a class="dropdown-item" href="/about/mission/">Goals and Mission</a>
+            <a class="dropdown-item" href="/about/board-of-directors/">Board of Directors</a>
+            <a class="dropdown-item" href="/activities/council/">Technical Council</a>
+            <a class="dropdown-item" href="/about/frequently-asked-questions/">Frequently Asked Questions</a>
+            <a class="dropdown-item" href="/about/history/">History</a>
+            <a class="dropdown-item" href="http://www.tei-c.org/Vault/">Archive</a>
+            <a class="dropdown-item" href="/about/contact/">Contact Us</a>
+          </div>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/news/">News</a>
+        </li>
+      </ul>
+      <form class="d-flex">
+        <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+        <button class="btn btn-outline-light" type="submit">Search</button>
+      </form>
+    </div>
+  </div>
+</nav>
+    <main>
+      <div class="container col-xxl-8 mt-4">
+        <h1>Deutsches Textarchiv  (The German Text Archive)</h1>
+<ul>
+<li>Host: Berlin-Brandenburg Academy of Sciences and Humanities</li>
+<li>Other institutions involved: Funded by the German Research Foundation (Deutsche Forschungsgemeinschaft, DFG)</li>
+<li>URL: <a href="http://www.deutschestextarchiv.de">http://www.deutschestextarchiv.de</a></li>
+<li>Email: <a href="mailto:dta@bbaw.de">dta@bbaw.de</a></li>
+<li>Main language: German</li>
+<li>TEI Encoding Guidelines used: XML/TEI-P5 subset DTA “Base Format” (DTABf) (cf. Implementation description below)</li>
+</ul>
+<p>General description:
+The DFG-funded project Deutsches Textarchiv (DTA) started in 2007 and is located at
+the Berlin-Brandenburg Academy of Sciences and Humanities (Berlin-Brandenburgische
+Akademie der Wissenschaften, BBAW). Its goal is to digitize a large cross-section
+of printed works in modern New High German Language, ranging from ca. 1600 to 1900.
+Images and electronic full-text are available online, the latter can be downloaded
+as HTML, XML, TCF or plain text. The DTA presents almost exclusively the first editions
+of the respective works. Currently (April 2016), there are 2422 texts dating from
+1600–1900 online, and over 400 more are prepared to be published, comprising a total
+of more than 650,000 digitized pages with around 1.1 billion characters and roughly
+157 million tokens.</p>
+<p>The majority of DTA’s texts is transcribed by non-native speakers using the double
+keying method (vendors guarantee 99.9+% character accuracy). The DTA provides linguistic
+applications for its corpus, i. e. tokenization, lemmatization, lemma based and phonetic
+search, and rewrite rules for historic spelling.</p>
+<p>All DTA texts are freely available for download in different formats: the original
+XML/TEI texts, an HTML rendered version, two different kinds of TCF versions, the
+raw text transcription. Moreover, CMDI metadata comprising TEI header information
+may be harvested via OAI-PMH.</p>
+<p>Implementation description:
+Each text in the DTA is encoded using the XML/TEI-P5 format. The markup describes
+text structures (headlines, paragraphs, speakers, poem lines, index items etc.), as
+well as the physical layout of the text down to the position of each character on
+a page.
+The text annotation follows the DTA “Base Format” (DTABf), a customization of the
+TEI P5 Guidelines. The DTABf consists of about 80 TEI P5
+text elements which are needed for the basic formal and semantic structuring of the DTA
+reference corpus. The purpose of developing the DTABf was to gain coherence at the
+annotation level, given the heterogeneity of the DTA text material over time (1600-1900)
+and text types (fiction, functional and scientific texts). More, frequently updated
+information on the DTABf here: <a href="http://www.deutschestextarchiv.de/doku/basisformat">http://www.deutschestextarchiv.de/doku/basisformat</a> (description), <a href="http://www.deutschestextarchiv.de/doku/basisformat_table">http://www.deutschestextarchiv.de/doku/basisformat_table</a> (overview: table elements within text).</p>
+<p>Access:
+Open access / <a href="http://creativecommons.org/licenses/by-nc/3.0/de/">CC BY-NC</a></p>
+<p>References (selected from <a href="http://www.deutschestextarchiv.de/doku/publikationen">http://www.deutschestextarchiv.de/doku/publikationen</a>):</p>
+<ul>
+<li>Haaf, Susanne, Alexander Geyken and Frank Wiegand (2014/15): The DTA “Base Format”:
+A TEI Subset for the Compilation of a Large Reference Corpus of Printed Text from
+Multiple Sources, In:
+Journal of the Text Encoding Initiative (jTEI) 8, 2014–2015, <a href="http://jtei.revues.org/1114">http://jtei.revues.org/1114</a>.</li>
+<li>Alexander Geyken (2013): Wege zu einem historischen Referenzkorpus des Deutschen:
+das Projekt Deutsches Textarchiv. In: Perspektiven einer corpusbasierten historischen
+Linguistik und Philologie. Internationale Tagung des Akademienvorhabens „Altägyptisches
+Wörterbuch“ an der Berlin-Brandenburgischen Akademie der Wissenschaften, 12.–13. Dezember
+2011, Edited by Ingelore Hafemann, Berlin 2013, p. 221–234, <a href="http://nbn-resolving.de/urn:nbn:de:kobv:b4-opus-24424">http://nbn-resolving.de/urn:nbn:de:kobv:b4-opus-24424</a>.</li>
+<li>Jurish, Bryan (2013): “Canonicalizing the Deutsches Textarchiv”. In:
+Perspektiven einer corpusbasierten historischen Linguistik und Philologie. Internationale Tagung des Akademienvorhabens „Altägyptisches Wörterbuch“ an der
+Berlin-Brandenburgischen Akademie der Wissenschaften, 12.–13. Dezember 2011. Edited
+by Ingelore Hafemann, Berlin 2013, p. 235–244, <a href="http://nbn-resolving.de/urn:nbn:de:kobv:b4-opus-24433">http://nbn-resolving.de/urn:nbn:de:kobv:b4-opus-24433</a>.</li>
+<li>Haaf, Susanne, Frank Wiegand and Alexander Geyken (2013): “Measuring the Correctness
+of Double-Keying: Error Classification and Quality Control in a Large Corpus of TEI-Annotated
+Historical Text”. In:
+Journal of the Text Encoding Initiative (jTEI) 4, 2013, <a href="http://jtei.revues.org/739">http://jtei.revues.org/739</a>.</li>
+<li>Thomas, Christian and Frank Wiegand (2012): “Making great work even better. Appraisal
+and Digital Curation of widely dispersed Electronic Textual Resources (c. 15th–19th
+cent.) in CLARIN-D”. Full Paper for the International Conference “Historical Corpora
+2012”, December 6–9, 2012; Goethe University, Frankfurt, Germany, <a href="http://edoc.bbaw.de/volltexte/2012/2308/">http://edoc.bbaw.de/volltexte/2012/2308/</a>. [Updated print version in: Gippert, Jost / Gehrke, Ralf (Hrsg.): Historical Corpora.
+Challenges and Perspectives. Tübingen 2015, S. 181–196.]</li>
+<li>Geyken, Alexander, Susanne Haaf and Frank Wiegand (2012): “The DTA ‘base format’:
+A TEI-Subset for the Compilation of Interoperable Corpora”. In:
+11th Conference on Natural Language Processing (KONVENS) – Empirical Methods in Natural
+Language Processing, Proceedings of the Conference. Edited by Jeremy Jancsary. Wien, 2012 (= Schriftenreihe der Österreichischen Gesellschaft
+für Artificial Intelligence 5), <a href="http://www.oegai.at/konvens2012/proceedings/57_geyken12w/57_geyken12w.pdf">http://www.oegai.at/konvens2012/proceedings/57_geyken12w/57_geyken12w.pdf</a>.</li>
+<li>Geyken, Alexander et al. (2012): “TEI und Textkorpora: Fehlerklassifikation und Qualitätskontrolle
+vor, während und nach der Texterfassung im Deutschen Textarchiv”. In:
+Jahrbuch für Computerphilologie, <a href="http://www.computerphilologie.de/jg09/geykenetal.html">http://www.computerphilologie.de/jg09/geykenetal.html</a>.</li>
+<li>Geyken, Alexander et al. (2011): “Das Deutsche Textarchiv: Vom historischen Korpus
+zum aktiven Archiv”. In:
+Digitale Wissenschaft. Stand und Entwicklung digital vernetzter Forschung in Deutschland, 20./21. September 2010. Beiträge der Tagung. Edited by Silke Schomburg, Claus Leggewie,
+Henning Lobin und Cornelius Puschmann. 2., ergänzte Fassung. hbz, 2011, p. 157–161,
+<a href="http://www.hbz-nrw.de/dokumentencenter/veroeffentlichungen/Tagung_Digitale_Wissenschaft.pdf#page=159">http://www.hbz-nrw.de/dokumentencenter/veroeffentlichungen/Tagung_Digitale_Wissenschaft.pdf#page=159</a>.</li>
+<li>Jurish, Bryan (2011): “Finite-state Canonicalization Techniques for Historical German”.
+PhD thesis, Universität Potsdam, January, 2011, URN urn:nbn:de:kobv:517-opus-55789,
+<a href="http://opus.kobv.de/ubp/volltexte/2012/5578/">http://opus.kobv.de/ubp/volltexte/2012/5578/</a>.</li>
+</ul>
+<p>Contact:</p>
+<p>Susanne Haaf / Matthias Boenig / Christian Thomas</p>
+<p>Berlin-Brandenburgische Akademie der Wissenschaften</p>
+<p>Jägerstraße 22–23</p>
+<p>10117 Berlin</p>
+<p>Germany</p>
+<p>Tel: +49 (0)30 20370 523</p>
+<p>Email: <a href="mailto:dta@bbaw.de">dta@bbaw.de</a></p>
+
+      </div>
+    </main>
+    <div class="container">
+  <footer class="py-3 my-4">
+    <ul class="nav justify-content-center border-top pb-3 mb-3">
+      <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary">Home</a></li>
+      <li class="nav-item"><a href="/about/code-of-conduct/" class="nav-link px-2 text-body-secondary">Code of Conduct</a></li>
+      <li class="nav-item"><a href="/about/contact/" class="nav-link px-2 text-body-secondary">Contact Us</a></li>
+    </ul>
+    <p class="text-center text-body-secondary">
+      <img src="/img/emblem_color_dark.png" alt="TEI Emblem" width="40"> © 2023 TEI Consortium — Hosted by <a href="https://www.huma-num.fr/" class="text-body-secondary">
+        <img src="/img/logo-petit-hn-rvb-1.png" alt="Hosted by Huma-Num" width="50">
+      </a>
+    </p>
+  </footer>
+</div>
+    <script src="/js/bootstrap.bundle.min.js"></script>
+  </body>
+</html>

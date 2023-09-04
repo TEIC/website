@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/teic.css">
+    <title>American Verse Project</title>
+  </head>
+  <body>
+    <nav class="navbar navbar-expand-lg navbar-dark" style="background-color: #0059A8;">
+  <div class="container-fluid">
+    <a class="navbar-brand p-0 m-0" href="/">
+      <img src="/img/emblem_color_dark.png" alt="TEI Emblem" width="40">
+    </a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#TEIMenu" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="TEIMenu">
+      <ul class="navbar-nav ms-1 me-auto mb-2 mb-lg-0">
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="guidelinesMenu" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Guidelines
+          </a>
+          <div class="dropdown-menu" aria-labelledby="guidelinesMenu">
+            <a class="dropdown-item" href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/index.html">Current Guidelines</a>
+            <a class="dropdown-item" href="/guidelines/p5/">Older Versions</a>
+            <a class="dropdown-item" href="/guidelines/customization/">Customization</a>
+            <a class="dropdown-item" href="/guidelines/licensing-and-citation/">Licensing & Citation</a>
+            <a class="dropdown-item" href="https://github.com/TEIC/TEI">TEI @ GitHub</a>
+            <a class="dropdown-item" href="/support/learn/">Learn the TEI</a>
+            <a class="dropdown-item" href="/guidelines/">About the Guidelines</a>
+          </div>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="activitiesMenu" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Activities
+          </a>
+          <div class="dropdown-menu" aria-labelledby="activitiesMenu">
+            <a class="dropdown-item" href="https://members.tei-c.org/Events/meetings">Annual Meetings</a>
+            <a class="dropdown-item" href="/activities/council/">Technical Council</a>
+            <a class="dropdown-item" href="/activities/board/">Board</a>
+            <a class="dropdown-item" href="/activities/workgroups/">Workgroups</a>
+            <a class="dropdown-item" href="/activities/sig/">SIGs</a>
+            <a class="dropdown-item" href="/activities/infrastructure-group/">Infrastructure Group</a>
+            <a class="dropdown-item" href="/activities/projects/">Projects Using the TEI</a>
+            <a class="dropdown-item" href="https://journals.openedition.org/jtei">jTEI: Journal of the TEI</a>
+            <a class="dropdown-item" href="https://journal.tei-c.org/index.php/journal/about/submissions">jTEI: article submission system (for authors)</a>
+          </div>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="toolsMenu" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Tools
+          </a>
+          <div class="dropdown-menu" aria-labelledby="toolsMenu">
+            <a class="dropdown-item" href="https://oxgarage.tei-c.org/">OxGarage</a>
+            <a class="dropdown-item" href="https://roma.tei-c.org">Roma</a>
+            <a class="dropdown-item" href="https://romaantiqua.tei-c.org">Roma Antiqua</a>
+            <a class="dropdown-item" href="/tools/stylesheets/">Stylesheets</a>
+            <a class="dropdown-item" href="/tools/">About TEI Tools</a>
+          </div>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="membersMenu" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Membership
+          </a>
+          <div class="dropdown-menu" aria-labelledby="membersMenu">
+            <a class="dropdown-item" href="https://members.tei-c.org/">Members Page</a>
+            <a class="dropdown-item" href="http://members.tei-c.org/Join">How to Join</a>
+            <a class="dropdown-item" href="http://members.tei-c.org/Events/meetings">Meetings</a>
+            <a class="dropdown-item" href="http://members.tei-c.org/Directory">List of members</a>
+          </div>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="supportMenu" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Support
+          </a>
+          <div class="dropdown-menu" aria-labelledby="supportMenu">
+            <a class="dropdown-item" href="/support/learn/">Learn the TEI</a>
+            <a class="dropdown-item" href="/support/#tei-l">TEI-L Mailing List</a>
+            <a class="dropdown-item" href="https://github.com/TEIC/TEI/issues">Bug Reports and Feature Requests</a>
+          </div>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="aboutMenu" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            About
+          </a>
+          <div class="dropdown-menu" aria-labelledby="aboutMenu">
+            <a class="dropdown-item" href="/about/mission/">Goals and Mission</a>
+            <a class="dropdown-item" href="/about/board-of-directors/">Board of Directors</a>
+            <a class="dropdown-item" href="/activities/council/">Technical Council</a>
+            <a class="dropdown-item" href="/about/frequently-asked-questions/">Frequently Asked Questions</a>
+            <a class="dropdown-item" href="/about/history/">History</a>
+            <a class="dropdown-item" href="http://www.tei-c.org/Vault/">Archive</a>
+            <a class="dropdown-item" href="/about/contact/">Contact Us</a>
+          </div>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/news/">News</a>
+        </li>
+      </ul>
+      <form class="d-flex">
+        <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+        <button class="btn btn-outline-light" type="submit">Search</button>
+      </form>
+    </div>
+  </div>
+</nav>
+    <main>
+      <div class="container col-xxl-8 mt-4">
+        <h1>American Verse Project</h1>
+<p></p>
+<p>Not for publication or redistribution</p>
+<p>Announcement of American Verse project posted on TEI-L (TEI-L@uicvm.uic.edu) on 16 and 18 December, 1995. Literary Texts 20 September 2007 Chris Ruotolo Converted to TEI P5
+11 December 2001 edit</p>
+<p>Stuart Brown Minor edit; URL amended from website redirect</p>
+<p>2 June 2000 edit</p>
+<p>Frances Condron Updated previous and next links</p>
+<p>12 August 1996 edit</p>
+<p>WP Corrected source description, noting that description was from TEI-L.</p>
+<p>25 June 1996 create</p>
+<p>WP Created file</p>
+<p></p>
+<ul>
+<li><strong>Host:</strong> University of Michigan Humanities Text Initiative</li>
+<li><strong>URL:</strong><a href="http://quod.lib.umich.edu/a/amverse/">http://quod.lib.umich.edu/a/amverse/</a></li>
+</ul>
+<p><strong>Description:</strong> &quot;The <a href="http://www.hti.umich.edu">University of Michigan Humanities Text Initiative</a>, along with the University of Michigan Press, has released a new textual resource.
+American Verse is a growing collection of texts encoded in SGML using the TEI Guidelines. The collection is made accessible in SGML, dynamically rendered HTML, and as a searchable database. As with all of the other Humanities Text Initiative resources, simple word and phrase searches are supported, as well as proximity searches, and searches for verses or paragraphs containing two or three phrases. The project uses an unusual model for rights for a project involving a University Press: most uses are without practical restrictions and cost, but the texts are available for sale to other publishers and agencies who wish to provide access to the texts from their own system. We will continue to expand the collection as time and resources allow.</p>
+<p>We are particularly interested in comments from readers of this list on one particular feature of the collection. In addition to the modes of searching noted above, we have implemented a mode we have called (pardon our audacity) TEI Link. Based on the extended pointer syntax as implemented with xptr and xref (p. 406 of the Guidelines), the mechanism takes DOC, FROM, and TO parameters, and returns the area defined by the span between the FROM and TO in the DOC containing a given ID. What is especially unusual here is that we're implementing the feature through CGI on the Web, where these parameters are encoded in one long URL or POST block. Despite the fact that the roughly twenty volumes in the collection are in single file, it is possible to point to and retrieve a single poem, stanza, line, or range of lines. To demonstrate this, we have included Harriet Monroe's essay on Millay's Renascence, marking up the essay first in SGML, and then in HTML with embedded URLs. A brief description of the mechanism, along with our rationale, is included in the project. Briefly, though, the notion is that it would be possible for us to assemble a collection which we would guarantee would be permanent and relatively fixed (changes would be noted in the teiHeader), and that individuals could cite and substantiate notions using this independently maintained collection.&quot;</p>
+<p>– J. Price-Wilkin, originally posted on TEI-L on 16 December, 1995.</p>
+<p><strong>Contact:</strong> John Price-Wilkin</p>
+<p><strong>Email:</strong> <a href="mailto:jpwilkin@umich.edu">jpwilkin@umich.edu</a></p>
+
+      </div>
+    </main>
+    <div class="container">
+  <footer class="py-3 my-4">
+    <ul class="nav justify-content-center border-top pb-3 mb-3">
+      <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary">Home</a></li>
+      <li class="nav-item"><a href="/about/code-of-conduct/" class="nav-link px-2 text-body-secondary">Code of Conduct</a></li>
+      <li class="nav-item"><a href="/about/contact/" class="nav-link px-2 text-body-secondary">Contact Us</a></li>
+    </ul>
+    <p class="text-center text-body-secondary">
+      <img src="/img/emblem_color_dark.png" alt="TEI Emblem" width="40"> © 2023 TEI Consortium — Hosted by <a href="https://www.huma-num.fr/" class="text-body-secondary">
+        <img src="/img/logo-petit-hn-rvb-1.png" alt="Hosted by Huma-Num" width="50">
+      </a>
+    </p>
+  </footer>
+</div>
+    <script src="/js/bootstrap.bundle.min.js"></script>
+  </body>
+</html>

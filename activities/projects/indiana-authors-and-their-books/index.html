@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/teic.css">
+    <title>Indiana Authors and Their Books</title>
+  </head>
+  <body>
+    <nav class="navbar navbar-expand-lg navbar-dark" style="background-color: #0059A8;">
+  <div class="container-fluid">
+    <a class="navbar-brand p-0 m-0" href="/">
+      <img src="/img/emblem_color_dark.png" alt="TEI Emblem" width="40">
+    </a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#TEIMenu" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="TEIMenu">
+      <ul class="navbar-nav ms-1 me-auto mb-2 mb-lg-0">
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="guidelinesMenu" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Guidelines
+          </a>
+          <div class="dropdown-menu" aria-labelledby="guidelinesMenu">
+            <a class="dropdown-item" href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/index.html">Current Guidelines</a>
+            <a class="dropdown-item" href="/guidelines/p5/">Older Versions</a>
+            <a class="dropdown-item" href="/guidelines/customization/">Customization</a>
+            <a class="dropdown-item" href="/guidelines/licensing-and-citation/">Licensing & Citation</a>
+            <a class="dropdown-item" href="https://github.com/TEIC/TEI">TEI @ GitHub</a>
+            <a class="dropdown-item" href="/support/learn/">Learn the TEI</a>
+            <a class="dropdown-item" href="/guidelines/">About the Guidelines</a>
+          </div>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="activitiesMenu" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Activities
+          </a>
+          <div class="dropdown-menu" aria-labelledby="activitiesMenu">
+            <a class="dropdown-item" href="https://members.tei-c.org/Events/meetings">Annual Meetings</a>
+            <a class="dropdown-item" href="/activities/council/">Technical Council</a>
+            <a class="dropdown-item" href="/activities/board/">Board</a>
+            <a class="dropdown-item" href="/activities/workgroups/">Workgroups</a>
+            <a class="dropdown-item" href="/activities/sig/">SIGs</a>
+            <a class="dropdown-item" href="/activities/infrastructure-group/">Infrastructure Group</a>
+            <a class="dropdown-item" href="/activities/projects/">Projects Using the TEI</a>
+            <a class="dropdown-item" href="https://journals.openedition.org/jtei">jTEI: Journal of the TEI</a>
+            <a class="dropdown-item" href="https://journal.tei-c.org/index.php/journal/about/submissions">jTEI: article submission system (for authors)</a>
+          </div>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="toolsMenu" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Tools
+          </a>
+          <div class="dropdown-menu" aria-labelledby="toolsMenu">
+            <a class="dropdown-item" href="https://oxgarage.tei-c.org/">OxGarage</a>
+            <a class="dropdown-item" href="https://roma.tei-c.org">Roma</a>
+            <a class="dropdown-item" href="https://romaantiqua.tei-c.org">Roma Antiqua</a>
+            <a class="dropdown-item" href="/tools/stylesheets/">Stylesheets</a>
+            <a class="dropdown-item" href="/tools/">About TEI Tools</a>
+          </div>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="membersMenu" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Membership
+          </a>
+          <div class="dropdown-menu" aria-labelledby="membersMenu">
+            <a class="dropdown-item" href="https://members.tei-c.org/">Members Page</a>
+            <a class="dropdown-item" href="http://members.tei-c.org/Join">How to Join</a>
+            <a class="dropdown-item" href="http://members.tei-c.org/Events/meetings">Meetings</a>
+            <a class="dropdown-item" href="http://members.tei-c.org/Directory">List of members</a>
+          </div>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="supportMenu" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Support
+          </a>
+          <div class="dropdown-menu" aria-labelledby="supportMenu">
+            <a class="dropdown-item" href="/support/learn/">Learn the TEI</a>
+            <a class="dropdown-item" href="/support/#tei-l">TEI-L Mailing List</a>
+            <a class="dropdown-item" href="https://github.com/TEIC/TEI/issues">Bug Reports and Feature Requests</a>
+          </div>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="aboutMenu" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            About
+          </a>
+          <div class="dropdown-menu" aria-labelledby="aboutMenu">
+            <a class="dropdown-item" href="/about/mission/">Goals and Mission</a>
+            <a class="dropdown-item" href="/about/board-of-directors/">Board of Directors</a>
+            <a class="dropdown-item" href="/activities/council/">Technical Council</a>
+            <a class="dropdown-item" href="/about/frequently-asked-questions/">Frequently Asked Questions</a>
+            <a class="dropdown-item" href="/about/history/">History</a>
+            <a class="dropdown-item" href="http://www.tei-c.org/Vault/">Archive</a>
+            <a class="dropdown-item" href="/about/contact/">Contact Us</a>
+          </div>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/news/">News</a>
+        </li>
+      </ul>
+      <form class="d-flex">
+        <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+        <button class="btn btn-outline-light" type="submit">Search</button>
+      </form>
+    </div>
+  </div>
+</nav>
+    <main>
+      <div class="container col-xxl-8 mt-4">
+        <h1>Indiana Authors and Their Books</h1>
+<ul>
+<li>Host: Indiana University</li>
+<li>URL: <a href="http://www.dlib.indiana.edu/collections/inauthors">http://www.dlib.indiana.edu/collections/inauthors</a></li>
+<li>Main language: English</li>
+</ul>
+<p>General description: (Indiana
+Authors) is an LSTA-funded project based on the digitization
+and encoding of the 3-volume reference work Indiana Authors
+and Their Books, which initially identified approximately 150
+monographs by selected authors from Indiana’s Golden Age of
+Literature (1880-1920). Since its original conception, the
+project grew in scope as a test-bed for &quot;productionizing&quot;
+e-text workflows in partnership with the Indiana University
+Bloomington Libraries Technical Services department. Another
+200 texts in the public domain, and, at the time not yet
+digitized as part of the Google Books initiative, were
+selected for electronic conversion. Although the encyclopedic
+3-volume reference work is at the center of this project, the
+online Indiana Authors resource is being launched in phases,
+with an initial focus on the encoded monographs that will be
+fully integrated with the encyclopedia by late Spring 2012.
+This newest release of the Indiana Authors project includes
+approximately 250 monographs.</p>
+<p>will provide students,
+educators, researchers, and the general public, in Indiana
+and throughout the world, with a searchable reference tool
+that will draw from unique state resources, link biographical
+sketches of famous Hoosier authors to full text electronic
+texts, and make Indiana’s rich literary history available
+online. A three-volume encyclopedia, Indiana Authors and
+Their Books, provides the framework for this project.
+Published over several decades, the comprehensive work
+attempts to include a biographical entry and a complete
+bibliography for all book authors who were born, raised, or
+educated in Indiana, or who lived in the state for a major
+portion of their lives. Among the 7,000 entries are many
+famous Hoosier authors from Indiana’s first 100 years of
+statehood, including Theodore Dreiser, Gene Stratton Porter,
+James Whitcomb Riley, and Booth Tarkington. The
+bio-bibliographic entries will link to digitized full-text
+editions of representative works by the most famous authors,
+and has provided a foundation for future development,
+including the addition of more full text editions by other
+Hoosier authors.</p>
+<p>Implementation description:
+Of the approximately 350 monographs that are
+currently part of the Indiana Authors Project, 150 of those
+were produced through an LSTA-funded grant. The full texts
+were generated and then encoded in Extensible Markup Language
+(XML) following the Text Encoding Initiative (TEI)
+Guidelines, TEI Lite version P4, at a Level 3 as described in
+the Best Practices for TEI in Libraries. Starting in 2009,
+the Digital Library Program partnered with the IUB Libraries
+Technical Services Department to continue encoding additional
+texts not included in the original grant proposal. In this
+next round of encoding, full text is generated with optical
+character recognition (OCR) software that is then ported into
+automatically created TEI templates ready for additional
+markup. The TEI templates contain a pre-populated header with
+bibliographic metadata from MARC records and other
+boilerplate metadata along with automatic insertion of page
+breaks. The Technical Services team adds the additional
+structural markup to conform to Level 3 of the Best Practices
+for TEI in Libraries. Technical Services plans to complete
+encoding of the remaining monographs beyond those covered
+under the original LSTA grant.</p>
+<p>The delivery and discovery capabilities of this site are
+implemented using a customized version of the open source
+eXtensible Text Framework (XTF) developed by the California
+Digital Library. It is served using the Tomcat application
+server and Apache HTTP Server software. Local customizations
+to XTF at Indiana University include a unique native page
+image viewer and a page turner that are both driven
+exclusively by the information encoded in the source TEI
+files and require no additional software beyond what can be
+accomplished by customizing XTF's XSLT templates. This
+feature enables switching between text and page images at any
+time while navigating a document's structure, and allows
+viewing of one or more page images as moveable overlays
+simultaneously with the text in the paged text mode. The
+actual page images are stored and delivered via the IU
+Digital Library Program's Fedora repository. The encoded
+texts are stored in a local e-text repository called Xubmit,
+which was developed by the IU Digital Library Program. Xubmit
+is comprised of web services using Java and Axis, the
+Revision Control System (RCS) for file versioning, and a
+graphical user interface developed in Java that is delivered
+using the Tomcat application server. Along with the XML/TEI
+P4 files, Xubmit stores the schema and Schematron files for
+the project.</p>
+<p>Copyright information: Indiana University makes no claim of copyright
+to the original texts, which have been published before 1923
+and are, therefore, in the public domain. Permission is
+granted to download, transmit or otherwise reproduce,
+distribute or display the original texts so long as the
+header is included in its entirety.</p>
+<p>Indiana University makes a claim of copyright only to
+original contributions made by the Indiana Authors
+participants. All other use, including but not limited to
+commercial or scholarly reproductions, redistribution,
+publication or transmission, whether by electronic means or
+otherwise, is strictly prohibited without the prior
+permission of the copyright holder.</p>
+<p>Determination of the status of an online document ultimately
+rests with the person desiring to reproduce or use the item.
+If you have any questions or for general inquiries, contact
+the Indiana University Digital Library Program,
+diglib@indiana.edu.</p>
+<p>Contact:</p>
+<p>Michelle Dalmau</p>
+<p>Indiana University Digital Library
+Program</p>
+<p>Herman B Wells Library</p>
+<p>1320 East 10th Street, Room W501</p>
+<p>Bloomington, Indiana 47401</p>
+<p>USA</p>
+<p>Telephone: 18128551261</p>
+<p>Email: <a href="mailto:mdalmau@indiana.edu">mdalmau@indiana.edu</a></p>
+
+      </div>
+    </main>
+    <div class="container">
+  <footer class="py-3 my-4">
+    <ul class="nav justify-content-center border-top pb-3 mb-3">
+      <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary">Home</a></li>
+      <li class="nav-item"><a href="/about/code-of-conduct/" class="nav-link px-2 text-body-secondary">Code of Conduct</a></li>
+      <li class="nav-item"><a href="/about/contact/" class="nav-link px-2 text-body-secondary">Contact Us</a></li>
+    </ul>
+    <p class="text-center text-body-secondary">
+      <img src="/img/emblem_color_dark.png" alt="TEI Emblem" width="40"> © 2023 TEI Consortium — Hosted by <a href="https://www.huma-num.fr/" class="text-body-secondary">
+        <img src="/img/logo-petit-hn-rvb-1.png" alt="Hosted by Huma-Num" width="50">
+      </a>
+    </p>
+  </footer>
+</div>
+    <script src="/js/bootstrap.bundle.min.js"></script>
+  </body>
+</html>

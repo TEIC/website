@@ -1,0 +1,311 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/teic.css">
+    <title>MyManuskrip (Malaysian Manuscripts):                 a Digital Library</title>
+  </head>
+  <body>
+    <nav class="navbar navbar-expand-lg navbar-dark" style="background-color: #0059A8;">
+  <div class="container-fluid">
+    <a class="navbar-brand p-0 m-0" href="/">
+      <img src="/img/emblem_color_dark.png" alt="TEI Emblem" width="40">
+    </a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#TEIMenu" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="TEIMenu">
+      <ul class="navbar-nav ms-1 me-auto mb-2 mb-lg-0">
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="guidelinesMenu" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Guidelines
+          </a>
+          <div class="dropdown-menu" aria-labelledby="guidelinesMenu">
+            <a class="dropdown-item" href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/index.html">Current Guidelines</a>
+            <a class="dropdown-item" href="/guidelines/p5/">Older Versions</a>
+            <a class="dropdown-item" href="/guidelines/customization/">Customization</a>
+            <a class="dropdown-item" href="/guidelines/licensing-and-citation/">Licensing & Citation</a>
+            <a class="dropdown-item" href="https://github.com/TEIC/TEI">TEI @ GitHub</a>
+            <a class="dropdown-item" href="/support/learn/">Learn the TEI</a>
+            <a class="dropdown-item" href="/guidelines/">About the Guidelines</a>
+          </div>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="activitiesMenu" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Activities
+          </a>
+          <div class="dropdown-menu" aria-labelledby="activitiesMenu">
+            <a class="dropdown-item" href="https://members.tei-c.org/Events/meetings">Annual Meetings</a>
+            <a class="dropdown-item" href="/activities/council/">Technical Council</a>
+            <a class="dropdown-item" href="/activities/board/">Board</a>
+            <a class="dropdown-item" href="/activities/workgroups/">Workgroups</a>
+            <a class="dropdown-item" href="/activities/sig/">SIGs</a>
+            <a class="dropdown-item" href="/activities/infrastructure-group/">Infrastructure Group</a>
+            <a class="dropdown-item" href="/activities/projects/">Projects Using the TEI</a>
+            <a class="dropdown-item" href="https://journals.openedition.org/jtei">jTEI: Journal of the TEI</a>
+            <a class="dropdown-item" href="https://journal.tei-c.org/index.php/journal/about/submissions">jTEI: article submission system (for authors)</a>
+          </div>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="toolsMenu" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Tools
+          </a>
+          <div class="dropdown-menu" aria-labelledby="toolsMenu">
+            <a class="dropdown-item" href="https://oxgarage.tei-c.org/">OxGarage</a>
+            <a class="dropdown-item" href="https://roma.tei-c.org">Roma</a>
+            <a class="dropdown-item" href="https://romaantiqua.tei-c.org">Roma Antiqua</a>
+            <a class="dropdown-item" href="/tools/stylesheets/">Stylesheets</a>
+            <a class="dropdown-item" href="/tools/">About TEI Tools</a>
+          </div>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="membersMenu" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Membership
+          </a>
+          <div class="dropdown-menu" aria-labelledby="membersMenu">
+            <a class="dropdown-item" href="https://members.tei-c.org/">Members Page</a>
+            <a class="dropdown-item" href="http://members.tei-c.org/Join">How to Join</a>
+            <a class="dropdown-item" href="http://members.tei-c.org/Events/meetings">Meetings</a>
+            <a class="dropdown-item" href="http://members.tei-c.org/Directory">List of members</a>
+          </div>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="supportMenu" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Support
+          </a>
+          <div class="dropdown-menu" aria-labelledby="supportMenu">
+            <a class="dropdown-item" href="/support/learn/">Learn the TEI</a>
+            <a class="dropdown-item" href="/support/#tei-l">TEI-L Mailing List</a>
+            <a class="dropdown-item" href="https://github.com/TEIC/TEI/issues">Bug Reports and Feature Requests</a>
+          </div>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="aboutMenu" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            About
+          </a>
+          <div class="dropdown-menu" aria-labelledby="aboutMenu">
+            <a class="dropdown-item" href="/about/mission/">Goals and Mission</a>
+            <a class="dropdown-item" href="/about/board-of-directors/">Board of Directors</a>
+            <a class="dropdown-item" href="/activities/council/">Technical Council</a>
+            <a class="dropdown-item" href="/about/frequently-asked-questions/">Frequently Asked Questions</a>
+            <a class="dropdown-item" href="/about/history/">History</a>
+            <a class="dropdown-item" href="http://www.tei-c.org/Vault/">Archive</a>
+            <a class="dropdown-item" href="/about/contact/">Contact Us</a>
+          </div>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/news/">News</a>
+        </li>
+      </ul>
+      <form class="d-flex">
+        <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+        <button class="btn btn-outline-light" type="submit">Search</button>
+      </form>
+    </div>
+  </div>
+</nav>
+    <main>
+      <div class="container col-xxl-8 mt-4">
+        <h1>MyManuskrip (Malaysian Manuscripts):                 a Digital Library</h1>
+<ul>
+<li>Host: University of Malaya. Faculty of
+Computer Science and Information Technology.
+Digital Library Research Group</li>
+<li>Other institutions involved:
+Our partners are the Centre of Malay
+Letter, Dewan Bahasa dan Pustaka Library, Kuala
+Lumpur, Malaysia and the University of Malaya
+Library, Kuala Lumpur, Malaysia</li>
+<li>URL: <a href="http://mymanuskrip.fsktm.um.edu.my">http://mymanuskrip.fsktm.um.edu.my</a></li>
+<li>Main language: English</li>
+</ul>
+<p>General description: The objectives of MyManuskrip are: (a)
+to find out the current state of manuscript
+collection management and practices in selected
+libraries; (b) to identify the problems faced by
+manuscript repositories; (c) to study the metadata
+schema used by repositories to describe their
+manuscript collections, and (d) to identify a
+suitable open source digital library to support a
+digital library of manuscripts. The study gather
+qualitative data from an open ended questionnaire
+distributed to five manuscript librarians.
+Cataloguing practices by the manuscript
+repositories are observed and the open source
+digital library Greenstone was studied for
+suitability. The information gathered and observed
+helped determine the requirements of a digital
+library that empowers repositories in building,
+storing, preserving and disseminating information
+about manuscript collections is developed. Users
+are also empowered with better access options.
+Malay manuscripts are found in the Malay World,
+that is, the Malay Archipelago of Malaya, Borneo,
+Sumatra, Riau, and Indonesia. These items can also
+be found in repositories and Museums in the United
+Kingdom and the Netherlands. Detailed description
+of these manuscripts becomes essential to
+distinguish between the many versions of a single
+title held in various collections within Malaysia
+and abroad. No two manuscripts are alike. All these
+factors make cataloguing of manuscripts a
+challenging task. MyManuskrip aims to support a
+more detailed description and categorizations. It
+was found that the TEI meta tags are not found in
+the tag sets available in Greenstone. The TEI tag
+sets are added and used in the Greenstone digital
+library environment.</p>
+<p>Implementation description:
+This project used a selection of the
+TEI metadata schema indicated by the tool ROMA. The
+TEI ROMA tool basically contains 63 fields, and
+MyManuskrip adopts 25 fields to describe Malay
+manuscripts.</p>
+<p>NO PROPOSED LABELS DESCRIPTIONS</p>
+<ol>
+<li>
+<p>Title: A title given to the resource.</p>
+</li>
+<li>
+<p>AltTitle: Another or alternative name the
+manuscript is known as, or nickname</p>
+</li>
+<li>
+<p>Shelf Mark: Call number, shelf mark, accession
+number to identify the manuscript</p>
+</li>
+<li>
+<p>Creator: A person primarily responsible for making
+the content of the</p>
+</li>
+</ol>
+<p>manuscript, the copier</p>
+<ol start="5">
+<li>Category: Controlled terms that indicate a
+category of the manuscript (Hikayat,</li>
+</ol>
+<p>Syair, Historiography, Religious Text, etc)</p>
+<ol start="6">
+<li>
+<p>Repository: Name of library or repository within
+which the manuscript is held</p>
+</li>
+<li>
+<p>OrigDate: Contain any form of date, used to
+identify the date of origin for a</p>
+</li>
+</ol>
+<p>manuscript or manuscript part, date begin, date
+ending</p>
+<ol start="8">
+<li>
+<p>OrigPlace: Place of origin for a manuscript</p>
+</li>
+<li>
+<p>Dimensions: Contains a dimensional
+specification</p>
+</li>
+<li>
+<p>Foliation: Numbering system used to count the
+leaves or pages</p>
+</li>
+<li>
+<p>Layout: Description about ruling techniques,
+layout of text on the pages</p>
+</li>
+<li>
+<p>TextLang: Names of languages used in the
+manuscript</p>
+</li>
+<li>
+<p>Material: A word or phrase describing the form a
+manuscripts are stored</p>
+</li>
+<li>
+<p>Condition: Description of the physical conditions
+of the manuscript</p>
+</li>
+<li>
+<p>DecoNote: Informative description about the
+decoration or illustration available</p>
+</li>
+<li>
+<p>Support:
+Contains a description of the materials, etc which
+make up the
+physical support for the written part of a
+manuscript</p>
+</li>
+<li>
+<p>Surrogate: Describe the digital or photographic
+representation of the manuscript</p>
+</li>
+<li>
+<p>Incipit: Opening words of the text proper</p>
+</li>
+<li>
+<p>Explicit: Ending words or phrases of a text</p>
+</li>
+<li>
+<p>Subjects: Describes the intellectual content of a
+manuscript</p>
+</li>
+<li>
+<p>Summary: Brief summary of the content provided by
+the cataloguer</p>
+</li>
+<li>
+<p>Watermark: A word of phrase describing a
+watermarks identified in the pape</p>
+</li>
+<li>
+<p>Source: Describes the original source that
+contains information about the</p>
+</li>
+</ol>
+<p>manuscript</p>
+<ol start="24">
+<li>
+<p>Acquisition: Indicates acquisition history</p>
+</li>
+<li>
+<p>Additional: Additional bibliographic sources
+related to the manuscript</p>
+</li>
+</ol>
+<p>Related resources: Zainab, A.N., A. Abrizah, M.R.
+Hilmi. 2009. What a Digital Library of Malay
+Manuscripts Should Support: An Exploratory Needs
+Assessment, Libri [Accepted for publication for
+2009]</p>
+<p>Contact:</p>
+<p>Zainab A.N.</p>
+<p>University of Malaya</p>
+<p>Faculty of
+Computer Science and Information Technology</p>
+<p>Digital Library Group</p>
+<p>50603 Kuala Lumpur</p>
+<p>MALAYSIA.</p>
+<p>Email: <a href="mailto:zainab@um.edu.my">zainab@um.edu.my</a></p>
+
+      </div>
+    </main>
+    <div class="container">
+  <footer class="py-3 my-4">
+    <ul class="nav justify-content-center border-top pb-3 mb-3">
+      <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary">Home</a></li>
+      <li class="nav-item"><a href="/about/code-of-conduct/" class="nav-link px-2 text-body-secondary">Code of Conduct</a></li>
+      <li class="nav-item"><a href="/about/contact/" class="nav-link px-2 text-body-secondary">Contact Us</a></li>
+    </ul>
+    <p class="text-center text-body-secondary">
+      <img src="/img/emblem_color_dark.png" alt="TEI Emblem" width="40"> © 2023 TEI Consortium — Hosted by <a href="https://www.huma-num.fr/" class="text-body-secondary">
+        <img src="/img/logo-petit-hn-rvb-1.png" alt="Hosted by Huma-Num" width="50">
+      </a>
+    </p>
+  </footer>
+</div>
+    <script src="/js/bootstrap.bundle.min.js"></script>
+  </body>
+</html>

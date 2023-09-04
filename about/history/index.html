@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/teic.css">
+    <title>History</title>
+  </head>
+  <body>
+    <nav class="navbar navbar-expand-lg navbar-dark" style="background-color: #0059A8;">
+  <div class="container-fluid">
+    <a class="navbar-brand p-0 m-0" href="/">
+      <img src="/img/emblem_color_dark.png" alt="TEI Emblem" width="40">
+    </a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#TEIMenu" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="TEIMenu">
+      <ul class="navbar-nav ms-1 me-auto mb-2 mb-lg-0">
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="guidelinesMenu" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Guidelines
+          </a>
+          <div class="dropdown-menu" aria-labelledby="guidelinesMenu">
+            <a class="dropdown-item" href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/index.html">Current Guidelines</a>
+            <a class="dropdown-item" href="/guidelines/p5/">Older Versions</a>
+            <a class="dropdown-item" href="/guidelines/customization/">Customization</a>
+            <a class="dropdown-item" href="/guidelines/licensing-and-citation/">Licensing & Citation</a>
+            <a class="dropdown-item" href="https://github.com/TEIC/TEI">TEI @ GitHub</a>
+            <a class="dropdown-item" href="/support/learn/">Learn the TEI</a>
+            <a class="dropdown-item" href="/guidelines/">About the Guidelines</a>
+          </div>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="activitiesMenu" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Activities
+          </a>
+          <div class="dropdown-menu" aria-labelledby="activitiesMenu">
+            <a class="dropdown-item" href="https://members.tei-c.org/Events/meetings">Annual Meetings</a>
+            <a class="dropdown-item" href="/activities/council/">Technical Council</a>
+            <a class="dropdown-item" href="/activities/board/">Board</a>
+            <a class="dropdown-item" href="/activities/workgroups/">Workgroups</a>
+            <a class="dropdown-item" href="/activities/sig/">SIGs</a>
+            <a class="dropdown-item" href="/activities/infrastructure-group/">Infrastructure Group</a>
+            <a class="dropdown-item" href="/activities/projects/">Projects Using the TEI</a>
+            <a class="dropdown-item" href="https://journals.openedition.org/jtei">jTEI: Journal of the TEI</a>
+            <a class="dropdown-item" href="https://journal.tei-c.org/index.php/journal/about/submissions">jTEI: article submission system (for authors)</a>
+          </div>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="toolsMenu" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Tools
+          </a>
+          <div class="dropdown-menu" aria-labelledby="toolsMenu">
+            <a class="dropdown-item" href="https://oxgarage.tei-c.org/">OxGarage</a>
+            <a class="dropdown-item" href="https://roma.tei-c.org">Roma</a>
+            <a class="dropdown-item" href="https://romaantiqua.tei-c.org">Roma Antiqua</a>
+            <a class="dropdown-item" href="/tools/stylesheets/">Stylesheets</a>
+            <a class="dropdown-item" href="/tools/">About TEI Tools</a>
+          </div>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="membersMenu" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Membership
+          </a>
+          <div class="dropdown-menu" aria-labelledby="membersMenu">
+            <a class="dropdown-item" href="https://members.tei-c.org/">Members Page</a>
+            <a class="dropdown-item" href="http://members.tei-c.org/Join">How to Join</a>
+            <a class="dropdown-item" href="http://members.tei-c.org/Events/meetings">Meetings</a>
+            <a class="dropdown-item" href="http://members.tei-c.org/Directory">List of members</a>
+          </div>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="supportMenu" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Support
+          </a>
+          <div class="dropdown-menu" aria-labelledby="supportMenu">
+            <a class="dropdown-item" href="/support/learn/">Learn the TEI</a>
+            <a class="dropdown-item" href="/support/#tei-l">TEI-L Mailing List</a>
+            <a class="dropdown-item" href="https://github.com/TEIC/TEI/issues">Bug Reports and Feature Requests</a>
+          </div>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="aboutMenu" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            About
+          </a>
+          <div class="dropdown-menu" aria-labelledby="aboutMenu">
+            <a class="dropdown-item" href="/about/mission/">Goals and Mission</a>
+            <a class="dropdown-item" href="/about/board-of-directors/">Board of Directors</a>
+            <a class="dropdown-item" href="/activities/council/">Technical Council</a>
+            <a class="dropdown-item" href="/about/frequently-asked-questions/">Frequently Asked Questions</a>
+            <a class="dropdown-item" href="/about/history/">History</a>
+            <a class="dropdown-item" href="http://www.tei-c.org/Vault/">Archive</a>
+            <a class="dropdown-item" href="/about/contact/">Contact Us</a>
+          </div>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/news/">News</a>
+        </li>
+      </ul>
+      <form class="d-flex">
+        <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+        <button class="btn btn-outline-light" type="submit">Search</button>
+      </form>
+    </div>
+  </div>
+</nav>
+    <main>
+      <div class="container col-xxl-8 mt-4">
+        <h1>History</h1>
+<p>The TEI was established in 1987 to develop, maintain, and promulgate hardware- and software-independent methods for encoding humanities data in electronic form. For over three decades the TEI has been extraordinarily successful at achieving its objective and it is now widely used by scholarly projects and libraries around the world.</p>
+<p>Although a comprehensive history of the TEI has not yet been written, all known
+documentary resources about the TEI are stored in the  <a href="/Vault/">Archive</a>. If you (or others you know)
+have electronic copies of any original TEI documents not available here, please <a href="mailto:web@tei-c.org">get in touch</a>.</p>
+<p>The <a href="https://listserv.brown.edu/archives/tei-l.html">archive</a> of the
+<a href="/Support/index.xml#tei-l">TEI-L discussion list</a> is a rich
+resource for historical information, as is the archive of the now defunct TEI-TECH
+mailing list, which can be <a href="/wp-content/uploads/2018/04/tei-tech.tar.gz">downloaded</a> in its
+entirety.</p>
+<h2>Origins of the TEI</h2>
+<p>When the Text Encoding Initiative (TEI) was originally established, scholarly
+projects and libraries attempting to take advantage of digital technology seemed
+to be faced with an overwhelming obstacle to creating sustainable and shareable
+archives and tools: the proliferating systems for representing textual material.
+These systems seemed almost always to be incompatible, often poorly designed,
+and multiplying at nearly the same rapid rate as the electronic text projects
+themselves. This situation was inhibiting the development of the full potential
+of computers to support humanistic inquiry by erecting barriers to access,
+creating new problems for preservation, making the sharing of data (and
+theories) difficult, and making the development of common tools impractical.</p>
+<p>Part of the problem was simply a lack of opportunity for sustained communication
+and coordination, but there were more systemic forces at work as well. Longevity
+and re-usability were clearly not high on the priority lists of software vendors
+and electronic publishers, and proprietary formats were often part of a business
+strategy that might benefit a particular company, but at the expense of the
+broader scholarly and cultural community. At the end of the eighties there was a
+real concern that the entrepreneurial forces which (then as now) drive
+information technology forward would impede such integration by the
+proliferation of mutually incompatible technical standards.</p>
+<p>In November 1987 a meeting at Vassar College was convened to address these
+problems. Sponsored by the Association for Computers in the Humanities and
+funded by the National Endowment for the Humanities, it brought together a
+diverse group of scholars from many different disciplines and representing
+leading professional societies, libraries, archives, and projects in a number of
+countries in Europe, North America, and Asia. At this meeting the <a href="/Vault/ED/edp01.htm">intellectual foundation</a> for Text
+Encoding Initiative was articulated. The organization of the actual work of
+developing the TEI Guidelines was then undertaken by the three TEI sponsoring
+organizations: The Association for Computers in the Humanities, the Association
+for Literary and Linguistic Computing, and the Association for Computational
+Linguistics. A Steering Committee was organized from representatives of the
+sponsoring organizations, and an Advisory Board of delegates from various
+professional societies was formed. To lead the actual work two editors were
+chosen and four working committees appointed. By the end of 1989 well over 50
+scholars were already directly involved and the size of the effort was growing
+rapidly.</p>
+<p>The initial phase resulted in the release of the first draft (known as &quot;P1&quot;) of
+the Guidelines in June 1990. A second phase, involving an additional 15 working
+groups making revisions and extensions, immediately began and released its
+results throughout 1990–1993. Then, after another round of revisions,
+extensions, and supplements, the first official version of the Guidelines
+(P3) was released in May 1994. Early on in this process
+a number of leading humanities textbase projects adopted the Guidelines — while
+they were still very much a moving target of rapidly changing drafts — as their
+encoding scheme, identifying problems and needs and contributing proposed
+solutions. In addition, workshops and seminars were conducted to introduce the
+wider community to the Guidelines and ensure a steady source of experience to
+support continuing development. As more scholars became acquainted with the
+Guidelines, comments, corrections, and requests for extensions arrived from
+around the world. In the end there were nearly 200 scholars from many
+disciplines, professions, and countries in the core group that was developing
+the TEI Guidelines.</p>
+<h2>The TEI Consortium</h2>
+<p>In January of 1999, the University of Virginia and the University of Bergen
+(Norway) presented a proposal to the TEI Executive Committee for the creation of
+an international membership organization, to be known as the TEI Consortium,
+which would maintain, continue developing, and promote the TEI. This proposal
+was accepted by the TEI Executive Committee, and shortly thereafter, Virginia
+and Bergen added two other host institutions with longstanding ties to the TEI:
+Brown University and Oxford University.</p>
+<p>This group then formulated an <a href="/Vault/consortium.html">Agreement to Establish a Consortium for the Maintenance of the Text Encoding Initiative</a> which was the basis on which a transition group comprising
+representatives from the three original sponsoring organizations of the TEI, as
+custodians of rights in the TEI, and from the incoming Host Organizations set
+about the job of drafting and incorporating the TEI Consortium during 2000.</p>
+<p>Incorporation was completed during December of 2000, and the first Board members
+took office during January of 2001.</p>
+<p>The goal of establishing the TEI Consortium was to maintain a permanent home for
+the TEI as a democratically constituted, academically and economically
+independent, self-sustaining, non-profit organization. In addition, the TEI
+Consortium was intended to foster a broad-based user community with sustained
+involvement in the future development and widespread use of the TEI Guidelines.
+In both of these goals the creation of the Consortium has proven a positive
+step. Inasmuch as the original goal of the TEI was to promote collaborative
+research on electronic texts, by making the encoding system no longer an
+obstacle to such work, the Consortium's efforts are similarly directed towards
+making the TEI encoding system as effective a tool for creating, archiving, and
+sharing textual data as possible. For its members, the TEI Consortium provides
+valuable services to assist them in the creation and use of digital resources,
+and to help them stay abreast of rapidly changing technologies and
+practices.</p>
+<p>Following the establishment of the TEI Consortium, a critical priority was the
+release of an XML version of the TEI Guidelines, updating P3 to enable users to
+work with the emerging XML toolset. The P4 version of the Guidelines was
+published in June 2002. It was essentially an XML version of P3, making no
+substantive changes to the constraints expressed in the schemas apart from those
+necessitated by the shift to XML, and changing only corrigible errors identified
+in the prose of the P3 Guidelines. However, given that P3 had by this time been
+in steady use since 1994, it was clear that a substantial revision of its
+content was necessary, and work began immediately on the P5 version of the
+Guidelines. This was planned as a thorough overhaul, involving a public call for
+features and new development in a set of crucial areas including character
+encoding, graphics, manuscript description, standoff markup, and the language in
+which the TEI Guidelines themselves are written. The P5 version of the
+Guidelines was released in November 2007.</p>
+<h2>Impact of the TEI</h2>
+<p>The impact of the TEI on digital scholarship has been enormous. Today, the TEI is
+internationally recognized as a critically important tool, both for the
+long-term preservation of electronic data, and as a means of supporting
+effective usage of such data in many subject areas. It is the encoding scheme of
+choice for the production of critical and scholarly editions of literary texts,
+for scholarly reference works and large linguistic corpora, and for the
+management and production of detailed metadata associated with electronic text
+and cultural heritage collections of many types. See the <a href="/activities/Projects/">projects page</a> for a list of currently
+active TEI projects, ranging from small research applications to major encoding
+ventures.</p>
+<p>The TEI's recommendations have been endorsed by many organizations, including the
+US National Endowment for the Humanities, the UK's Arts and Humanities Research
+Board, the Modern Language Association, the European Union's Expert Advisory
+Group for Language Engineering Standards, and many other agencies around the
+world that fund or promote digital library and electronic text projects.
+Recognizing its importance in the emerging digital library community, the
+Digital Library Federation produced guidelines for best practice in applying the
+TEI metadata recommendations for interoperability with other standards.</p>
+<p>The success of the TEI has also gone a long way to ensuring that our cultural
+heritage will be brought forward into the emerging new networked world, and made
+broadly available to the students, scholars, and the wider public.</p>
+<p></p>
+
+      </div>
+    </main>
+    <div class="container">
+  <footer class="py-3 my-4">
+    <ul class="nav justify-content-center border-top pb-3 mb-3">
+      <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary">Home</a></li>
+      <li class="nav-item"><a href="/about/code-of-conduct/" class="nav-link px-2 text-body-secondary">Code of Conduct</a></li>
+      <li class="nav-item"><a href="/about/contact/" class="nav-link px-2 text-body-secondary">Contact Us</a></li>
+    </ul>
+    <p class="text-center text-body-secondary">
+      <img src="/img/emblem_color_dark.png" alt="TEI Emblem" width="40"> © 2023 TEI Consortium — Hosted by <a href="https://www.huma-num.fr/" class="text-body-secondary">
+        <img src="/img/logo-petit-hn-rvb-1.png" alt="Hosted by Huma-Num" width="50">
+      </a>
+    </p>
+  </footer>
+</div>
+    <script src="/js/bootstrap.bundle.min.js"></script>
+  </body>
+</html>

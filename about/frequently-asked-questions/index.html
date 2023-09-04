@@ -1,0 +1,321 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/teic.css">
+    <title>Frequently Asked Questions</title>
+  </head>
+  <body>
+    <nav class="navbar navbar-expand-lg navbar-dark" style="background-color: #0059A8;">
+  <div class="container-fluid">
+    <a class="navbar-brand p-0 m-0" href="/">
+      <img src="/img/emblem_color_dark.png" alt="TEI Emblem" width="40">
+    </a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#TEIMenu" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="TEIMenu">
+      <ul class="navbar-nav ms-1 me-auto mb-2 mb-lg-0">
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="guidelinesMenu" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Guidelines
+          </a>
+          <div class="dropdown-menu" aria-labelledby="guidelinesMenu">
+            <a class="dropdown-item" href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/index.html">Current Guidelines</a>
+            <a class="dropdown-item" href="/guidelines/p5/">Older Versions</a>
+            <a class="dropdown-item" href="/guidelines/customization/">Customization</a>
+            <a class="dropdown-item" href="/guidelines/licensing-and-citation/">Licensing & Citation</a>
+            <a class="dropdown-item" href="https://github.com/TEIC/TEI">TEI @ GitHub</a>
+            <a class="dropdown-item" href="/support/learn/">Learn the TEI</a>
+            <a class="dropdown-item" href="/guidelines/">About the Guidelines</a>
+          </div>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="activitiesMenu" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Activities
+          </a>
+          <div class="dropdown-menu" aria-labelledby="activitiesMenu">
+            <a class="dropdown-item" href="https://members.tei-c.org/Events/meetings">Annual Meetings</a>
+            <a class="dropdown-item" href="/activities/council/">Technical Council</a>
+            <a class="dropdown-item" href="/activities/board/">Board</a>
+            <a class="dropdown-item" href="/activities/workgroups/">Workgroups</a>
+            <a class="dropdown-item" href="/activities/sig/">SIGs</a>
+            <a class="dropdown-item" href="/activities/infrastructure-group/">Infrastructure Group</a>
+            <a class="dropdown-item" href="/activities/projects/">Projects Using the TEI</a>
+            <a class="dropdown-item" href="https://journals.openedition.org/jtei">jTEI: Journal of the TEI</a>
+            <a class="dropdown-item" href="https://journal.tei-c.org/index.php/journal/about/submissions">jTEI: article submission system (for authors)</a>
+          </div>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="toolsMenu" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Tools
+          </a>
+          <div class="dropdown-menu" aria-labelledby="toolsMenu">
+            <a class="dropdown-item" href="https://oxgarage.tei-c.org/">OxGarage</a>
+            <a class="dropdown-item" href="https://roma.tei-c.org">Roma</a>
+            <a class="dropdown-item" href="https://romaantiqua.tei-c.org">Roma Antiqua</a>
+            <a class="dropdown-item" href="/tools/stylesheets/">Stylesheets</a>
+            <a class="dropdown-item" href="/tools/">About TEI Tools</a>
+          </div>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="membersMenu" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Membership
+          </a>
+          <div class="dropdown-menu" aria-labelledby="membersMenu">
+            <a class="dropdown-item" href="https://members.tei-c.org/">Members Page</a>
+            <a class="dropdown-item" href="http://members.tei-c.org/Join">How to Join</a>
+            <a class="dropdown-item" href="http://members.tei-c.org/Events/meetings">Meetings</a>
+            <a class="dropdown-item" href="http://members.tei-c.org/Directory">List of members</a>
+          </div>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="supportMenu" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Support
+          </a>
+          <div class="dropdown-menu" aria-labelledby="supportMenu">
+            <a class="dropdown-item" href="/support/learn/">Learn the TEI</a>
+            <a class="dropdown-item" href="/support/#tei-l">TEI-L Mailing List</a>
+            <a class="dropdown-item" href="https://github.com/TEIC/TEI/issues">Bug Reports and Feature Requests</a>
+          </div>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="aboutMenu" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            About
+          </a>
+          <div class="dropdown-menu" aria-labelledby="aboutMenu">
+            <a class="dropdown-item" href="/about/mission/">Goals and Mission</a>
+            <a class="dropdown-item" href="/about/board-of-directors/">Board of Directors</a>
+            <a class="dropdown-item" href="/activities/council/">Technical Council</a>
+            <a class="dropdown-item" href="/about/frequently-asked-questions/">Frequently Asked Questions</a>
+            <a class="dropdown-item" href="/about/history/">History</a>
+            <a class="dropdown-item" href="http://www.tei-c.org/Vault/">Archive</a>
+            <a class="dropdown-item" href="/about/contact/">Contact Us</a>
+          </div>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/news/">News</a>
+        </li>
+      </ul>
+      <form class="d-flex">
+        <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+        <button class="btn btn-outline-light" type="submit">Search</button>
+      </form>
+    </div>
+  </div>
+</nav>
+    <main>
+      <div class="container col-xxl-8 mt-4">
+        <h1>Frequently Asked Questions</h1>
+<h2>About the TEI</h2>
+<h3>What is the TEI?</h3>
+<p>TEI is short for Text Encoding Initiative. The TEI is an
+international organization founded in 1987 to develop guidelines for
+encoding machine-readable texts in the humanities and social sciences.
+TEI is also used to refer to the TEI Guidelines themselves, and
+to the set of schemas they describe. The term is sometimes also used to
+refer to the TEI Consortium (TEI-C), which was established in 2001 to
+provide ongoing support for further development of the guidelines.</p>
+<h3>How is the TEI funded?</h3>
+<p>Since 2001, the TEI is organized as a member-funded consortium. Its funding
+comes primarily from membership fees, with additional support from its
+institutional hosts and from occasional grants. The TEI Guidelines are made
+available online free of charge.</p>
+<h3>Who is involved in the TEI?</h3>
+<p>The TEI community is broad-ranging and international in scope. Many
+participants are located at academic institutions such as universities and
+research libraries. They may be involved in digital library programs,
+scholarly text encoding projects, computing support units, academic
+departments, independent research projects, and many other kinds of groups.
+Some participants are affiliated with standards bodies, funding agencies,
+governmental organizations, or companies, and some are simply interested in
+text encoding.</p>
+<h3>How can I support the TEI?</h3>
+<p>You can support the TEI in a number of ways. The TEI depends on financial
+support from membership and subscription dues, so by joining the TEI as an
+institutional member or an individual subscriber you will be making it
+possible for the TEI to continue developing and supporting the TEI
+Guidelines. You can also support the TEI by participating in its work: by
+contributing to a TEI <a href="/activities/SIG/">special interest group</a>, by using the
+<a href="../Guidelines/">Guidelines</a>, by participating in discussions on the <a href="/Support/index.xml#tei-l">TEI-L discussion list</a>,
+and by contributing stylesheets, tools, and sample texts to the <a href="../wiki/">TEI
+wiki</a>.</p>
+<h2>About TEI membership</h2>
+<h3>How can I join the TEI?</h3>
+<p>Please see our page <a href="http://members.tei-c.org/Join">&quot;Join Us&quot;</a>
+for information about joining.</p>
+<h3>How can I get grant funding for TEI membership?</h3>
+<p>Some granting agencies, particularly in the USA, allow applicants to include
+the cost of TEI membership in the budget proposal for a digital project that
+will use the TEI Guidelines. The TEI encourages projects to do this, and
+provides advice and assistance in drafting the portion of the proposal that
+describes the project's use of the TEI. For more information and to get help
+preparing the proposal, please contact the TEI at info@tei-c.org.</p>
+<h3>Can the TEI help me encourage my institution to join the TEI?</h3>
+<p>Yes, the TEI actively seeks to recruit new institutional members and is very
+happy to work with individuals and projects to build support for TEI
+membership at their institutions. If you think your institution should join
+the TEI and would like more information on membership benefits, the
+application process, or any other aspect of membership, please contact the
+TEI at info@tei-c.org.</p>
+<h3>My project joined the TEI at one membership level, but we would now like</h3>
+<p>to increase (or decrease) our membership level. How can we do this?</p>
+<p>This happens quite often: TEI projects may initially become members with
+funding from a grant but cannot sustain the membership level once the grant
+is finished. Similarly, an institution may join at a lower level when it
+first begins using the TEI, but may find after a time that its level of TEI
+participation has increased. In either case, to change your membership
+level, please contact the TEI at membership@tei-c.org and we can make the
+necessary adjustment. We encourage projects and institutions to increase
+their membership level when they have the resources to do so, and we
+understand that it may be necessary to reduce the membership level when
+funding is short. We would much rather have members continue at a lower
+level than discontinue their membership altogether.</p>
+<h3>Can I attend the annual conference and members' meeting even if my</h3>
+<p>institution is not a member?</p>
+<p>Yes, the TEI annual conference and members' meeting is open to all.</p>
+<h2>About the TEI Guidelines</h2>
+<h3>When will the TEI Guidelines be finished?</h3>
+<p>The TEI Guidelines define an encoding language that is intended for use in
+encoding scholarly resources. Because our understanding of text encoding is
+evolving and progressing, and also because scholars' use of digital
+resources is constantly changing, the TEI Guidelines require ongoing
+revision to remain current and to serve their intended purpose. Specific
+versions of the Guidelines are published and remain stable (with changes
+only as needed to fix errors). The current version is P5, released in
+November 2007; it makes significant changes and improvements over the
+previous version, P4, which was released in 2000. Support for P4 continues,
+but it is no longer being developed.</p>
+<h3>How can I create a customized TEI schema?</h3>
+<p>The TEI is intended to be customized by its users. To simplify the
+customization process, the TEI supports a tool called <a href="/Tools/index.xml#roma">Roma</a>, which provides a web
+interface through which you can make and preserve your customization choices
+and generate customized schemas and documentation. The chapter of the
+Guidelines on <a href="/release/doc/tei-p5-doc/en/html/USE.html">Using
+the TEI</a> describes the customization process in more detail. You
+may also find it helpful to consult the materials provided at this site on
+how to <a href="..Guidelines/P5/#body.1_div.1">get the Guidelines</a>
+and on <a href="../Guidelines/Customization/">customization</a>.</p>
+<h3>What is TEI Lite?</h3>
+<p>TEI Lite is a specific customization of the TEI tagset, designed to meet &quot;90%
+of the needs of 90% of the TEI user community&quot;. Due to its simplicity and
+the fact that it can be learned with relative ease, TEI Lite has been widely
+adopted, particularly by beginners and by big institutional projects that
+rely on large teams of encoders to markup their documents.</p>
+<h3>What is TEI Tite?</h3>
+<p>TEI Tite is a constrained customization of TEI designed for use when
+outsourcing production of TEI documents to vendors (who use some combination
+of OCR and keyboarding). While the canonical version is maintained by the
+Council, a derived version is used in the AccessTEI program.</p>
+<h3>What is AccessTEI?</h3>
+<p><a href="../AccessTEI/">AccessTEI</a> is a partnership between the TEI
+Consortium and Apex CoVantage, LLC. TEI member institutions receive a
+special rate on scanning of print or microfilm items (if desired) and on
+encoding according to a derived version of TEI Tite.</p>
+<h3>TEI Lite doesn't have the tag I want: how do I add it?</h3>
+<p>(or TEI Lite has too many tags I don't want: how do I get rid of
+them?). In either case, the answer is the same: to create a new TEI
+customization based on TEI Lite, you need to take the customization file
+that produced the TEI Lite DTD or schema, and modify that file, then
+generate a new DTD or schema. You should not modify the TEI Lite DTD or
+schema itself directly. The <a href="/release/xml/tei/custom/odd/tei_lite.odd">specification file for the P5 version of TEI Lite is available</a>.
+Information on <a href="/Guidelines/Customization/use_roma.xml">how to customize a TEI P5 schema with Roma is also available</a>; see also
+<a href="/Guidelines/Customization/odds.xml">Getting Started with P5 ODDs</a>. The <a href="../Guidelines/Customization/Lite/">customization files for the TEI Lite are also
+available</a>.</p>
+<h3>How can I find out whether the TEI includes tags for the concept I want to</h3>
+<p>encode?</p>
+<p>The TEI Guidelines include <a href="/release/doc/tei-p5-doc/en/html/REF-ELEMENTS.html">an alphabetical list of all elements defined in
+the Guidelines</a>.
+You can also <a href="/Guidelines/">browse the full text</a>. If you
+need further guidance, try sending a query to <a href="/Support/index.xml#tei-l">the TEI-L mailing list</a> or
+contact a nearby TEI project.</p>
+<h3>How can I propose a new topic to be covered by the Guidelines?</h3>
+<p>The chief mechanism for extending the TEI's coverage is by means of chartered
+TEI workgroups. Proposals from workgroups are made available for public
+discussion, and reviewed by the TEI Technical Council, before they become
+part of the standard.</p>
+<p>For an overview of the currently chartered workgroups and links to the work
+in progress, visit the <a href="/activities/">TEI Activities</a>
+pages.</p>
+<h2>About using the TEI</h2>
+<h3>What are some projects that use TEI tagging?</h3>
+<p>There are too many to list here, and we continually hear about more. A few
+high-profile examples include the British National Corpus, the Wittgenstein
+Archive, the Women Writers' Project, Perseus, many commercial systems and
+publications, and nearly every electronic text project funded by NEH. The
+TEI maintains a list of <a href="/activities/Projects/">TEI
+projects</a>; if you would like to add or update information about
+your project, please send email to <a href="mailto:web@tei-c.org">web@tei-c.org</a>.</p>
+<h3>Is the TEI difficult to learn?</h3>
+<p>The TEI is a very extensive encoding language and is intended to support very
+complex encoding of very complex documents. However, it is not
+difficult to learn. The basic concepts are straightforward and the encoding
+required for a simple document is no more difficult or complex than HTML. If
+your documents are simple and the encoding you want to do is basic, you can
+learn to use the TEI in the course of a short workshop (2-3 days), or you
+can teach yourself within a week or so. If you need to describe very complex
+structures, it will take longer to learn the necessary tags, and it may also
+take longer to decide how they should be used. In very complex text encoding
+projects, where the markup is used to express complex editorial constructs,
+encoders may be trained for a year or more before they feel fully competent,
+but this training includes not only the markup itself but also the editorial
+expertise necessary to apply it appropriately.</p>
+<h3>How can I learn to use the TEI?</h3>
+<p>For some people, the simplest way to learn the TEI is to read the <a href="https://www.tei-c.org/release/doc/tei-p5-doc/en/html/">TEI Guidelines</a>. However, the Guidelines are not primarily intended as
+a training document, and many find it easier to work with a tutorial or to
+attend a workshop. <a href="../Support/Learn/">Workshops</a> are
+taught at intervals in various places and also through the <a href="/activities/SIG/Education/">Education SIG</a>. The TEI also
+maintains a <a href="/Support/Learn/tutorials.xml">list of online tutorials and other training materials</a>. However you choose to
+begin, the best way to learn is to do some actual encoding: choose a text
+that interests you, get an XML-aware text editor, and try your hand at
+encoding it. (For information on tools to support text encoding, see
+below.)</p>
+<h3>Where can I see samples of TEI encoding?</h3>
+<p>The TEI maintains a small set of <a href="https://wiki.tei-c.org/index.php/Samples_of_TEI_texts">sample
+texts</a> that may be used for experimentation or as models to learn
+from. Sample texts are also being collected at <a href="http://www.teibyexample.org">TEI by Example</a> at the <a href="http://ctb.kantl.be/">Centrum voor Teksteditie en
+Bronnenstudie</a>. Many projects will also share sample texts
+informally upon request.</p>
+<h3>What can I do with my TEI-encoded text?</h3>
+<p>TEI markup supports a wide range of useful functions including online
+publication, searching, text analysis, and conversion into other formats.
+There are many tools for manipulating, presenting and querying XML documents
+available and <a href="https://wiki.tei-c.org/index.php/Category:Tools">listed in the TEI wiki</a>. The TEI does not directly endorse any of these, however, there is
+a <a href="/Activities/SIG/Tools/">TEI Tools Special Interest Group</a> where experiences
+with these tools are discussed.</p>
+<h3>What tools can I use to author my TEI documents?</h3>
+<p>Although you can use any text editor to edit TEI documents, there are more
+sophisticated tools available which allow you to validate your encoding
+against the TEI schema and perform other useful functions. The TEI does not
+directly endorse any of these. However, the TEI wiki contains a list of <a href="https://wiki.tei-c.org/index.php/Category:Editing_tools">software</a> that is commonly used.</p>
+<h3>Where can I archive my TEI texts for posterity?</h3>
+<p>If you have created a valuable academic resource that conforms to the TEI
+Guidelines and you want to ensure that a copy will be available in the
+future, you may wish to investigate the possibility of depositing your texts
+with an electronic text archive, quite independently of any plans you have
+for distribution of it yourself. <a href="http://www.ota.ox.ac.uk/">The
+Oxford Text Archive</a> is one of the oldest such archives and is
+always on the look-out for scholarly digital resources.</p>
+<p></p>
+
+      </div>
+    </main>
+    <div class="container">
+  <footer class="py-3 my-4">
+    <ul class="nav justify-content-center border-top pb-3 mb-3">
+      <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary">Home</a></li>
+      <li class="nav-item"><a href="/about/code-of-conduct/" class="nav-link px-2 text-body-secondary">Code of Conduct</a></li>
+      <li class="nav-item"><a href="/about/contact/" class="nav-link px-2 text-body-secondary">Contact Us</a></li>
+    </ul>
+    <p class="text-center text-body-secondary">
+      <img src="/img/emblem_color_dark.png" alt="TEI Emblem" width="40"> © 2023 TEI Consortium — Hosted by <a href="https://www.huma-num.fr/" class="text-body-secondary">
+        <img src="/img/logo-petit-hn-rvb-1.png" alt="Hosted by Huma-Num" width="50">
+      </a>
+    </p>
+  </footer>
+</div>
+    <script src="/js/bootstrap.bundle.min.js"></script>
+  </body>
+</html>

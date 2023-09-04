@@ -1,0 +1,348 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/teic.css">
+    <title>Board</title>
+  </head>
+  <body>
+    <nav class="navbar navbar-expand-lg navbar-dark" style="background-color: #0059A8;">
+  <div class="container-fluid">
+    <a class="navbar-brand p-0 m-0" href="/">
+      <img src="/img/emblem_color_dark.png" alt="TEI Emblem" width="40">
+    </a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#TEIMenu" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="TEIMenu">
+      <ul class="navbar-nav ms-1 me-auto mb-2 mb-lg-0">
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="guidelinesMenu" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Guidelines
+          </a>
+          <div class="dropdown-menu" aria-labelledby="guidelinesMenu">
+            <a class="dropdown-item" href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/index.html">Current Guidelines</a>
+            <a class="dropdown-item" href="/guidelines/p5/">Older Versions</a>
+            <a class="dropdown-item" href="/guidelines/customization/">Customization</a>
+            <a class="dropdown-item" href="/guidelines/licensing-and-citation/">Licensing & Citation</a>
+            <a class="dropdown-item" href="https://github.com/TEIC/TEI">TEI @ GitHub</a>
+            <a class="dropdown-item" href="/support/learn/">Learn the TEI</a>
+            <a class="dropdown-item" href="/guidelines/">About the Guidelines</a>
+          </div>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="activitiesMenu" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Activities
+          </a>
+          <div class="dropdown-menu" aria-labelledby="activitiesMenu">
+            <a class="dropdown-item" href="https://members.tei-c.org/Events/meetings">Annual Meetings</a>
+            <a class="dropdown-item" href="/activities/council/">Technical Council</a>
+            <a class="dropdown-item" href="/activities/board/">Board</a>
+            <a class="dropdown-item" href="/activities/workgroups/">Workgroups</a>
+            <a class="dropdown-item" href="/activities/sig/">SIGs</a>
+            <a class="dropdown-item" href="/activities/infrastructure-group/">Infrastructure Group</a>
+            <a class="dropdown-item" href="/activities/projects/">Projects Using the TEI</a>
+            <a class="dropdown-item" href="https://journals.openedition.org/jtei">jTEI: Journal of the TEI</a>
+            <a class="dropdown-item" href="https://journal.tei-c.org/index.php/journal/about/submissions">jTEI: article submission system (for authors)</a>
+          </div>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="toolsMenu" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Tools
+          </a>
+          <div class="dropdown-menu" aria-labelledby="toolsMenu">
+            <a class="dropdown-item" href="https://oxgarage.tei-c.org/">OxGarage</a>
+            <a class="dropdown-item" href="https://roma.tei-c.org">Roma</a>
+            <a class="dropdown-item" href="https://romaantiqua.tei-c.org">Roma Antiqua</a>
+            <a class="dropdown-item" href="/tools/stylesheets/">Stylesheets</a>
+            <a class="dropdown-item" href="/tools/">About TEI Tools</a>
+          </div>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="membersMenu" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Membership
+          </a>
+          <div class="dropdown-menu" aria-labelledby="membersMenu">
+            <a class="dropdown-item" href="https://members.tei-c.org/">Members Page</a>
+            <a class="dropdown-item" href="http://members.tei-c.org/Join">How to Join</a>
+            <a class="dropdown-item" href="http://members.tei-c.org/Events/meetings">Meetings</a>
+            <a class="dropdown-item" href="http://members.tei-c.org/Directory">List of members</a>
+          </div>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="supportMenu" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Support
+          </a>
+          <div class="dropdown-menu" aria-labelledby="supportMenu">
+            <a class="dropdown-item" href="/support/learn/">Learn the TEI</a>
+            <a class="dropdown-item" href="/support/#tei-l">TEI-L Mailing List</a>
+            <a class="dropdown-item" href="https://github.com/TEIC/TEI/issues">Bug Reports and Feature Requests</a>
+          </div>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="aboutMenu" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            About
+          </a>
+          <div class="dropdown-menu" aria-labelledby="aboutMenu">
+            <a class="dropdown-item" href="/about/mission/">Goals and Mission</a>
+            <a class="dropdown-item" href="/about/board-of-directors/">Board of Directors</a>
+            <a class="dropdown-item" href="/activities/council/">Technical Council</a>
+            <a class="dropdown-item" href="/about/frequently-asked-questions/">Frequently Asked Questions</a>
+            <a class="dropdown-item" href="/about/history/">History</a>
+            <a class="dropdown-item" href="http://www.tei-c.org/Vault/">Archive</a>
+            <a class="dropdown-item" href="/about/contact/">Contact Us</a>
+          </div>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/news/">News</a>
+        </li>
+      </ul>
+      <form class="d-flex">
+        <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+        <button class="btn btn-outline-light" type="submit">Search</button>
+      </form>
+    </div>
+  </div>
+</nav>
+    <main>
+      <div class="container col-xxl-8 mt-4">
+        <p>The TEI <a href="https://tei-c.org/about/board-of-directors/">Board of Directors</a> is the governing body for the TEI Consortium, and is responsible for its strategic and financial oversight. The Board consists of five voting members who are elected to staggered two-year terms by the TEI membership at the Annual Meeting, and several nonvoting members potentially drawn from outside the elected membership: the Membership Secretary, the Treasurer, the TEI webmaster, and the chair of the TEI Technical Council. The Board meets once a year in person, immediately following the Annual Meeting, and holds telephone conferences on a regular basis. In addition to <a href="https://www.tei-c.org/Board/" title="meeting minutes">meeting minutes</a>, the Board also uses the <a href="https://wiki.tei-c.org/index.php/TEI-C_Board_of_Directors" title="TEI Board Wiki Page">TEI Board Wiki Page</a> to document their work.</p>
+<h2>Meetings of the Board</h2>
+<ul>
+<li>18 April 2023: Zoom (<a href="https://tei-c.org/?page_id=31594&amp;preview=true">minutes</a>)</li>
+</ul>
+<hr>
+<ul>
+<li>15 October 2020: Zoom (<a href="https://tei-c.org/board/tei-c-board-meeting-2020-10-15/">minutes</a>)</li>
+<li>17 September 2020: Zoom (<a href="https://www.tei-c.org/board/tei-c-board-meeting-2020-09-17">minutes</a>)</li>
+<li>20 August 2020: Zoom (<a href="https://www.tei-c.org/board/tei-c-board-meeting-2020-08-20">minutes</a>)</li>
+<li>16 July 2020: Zoom (<a href="https://www.tei-c.org/board/tei-c-board-meeting-2020-07-16">minutes</a>)</li>
+<li>18 June 2020: Zoom (<a href="https://www.tei-c.org/board/tei-c-board-meeting-2020-06-18">minutes</a>)</li>
+<li>21 May 2020: Zoom (<a href="https://www.tei-c.org/board/board-tei-c-board-meeting-2020-05-21">minutes</a>)</li>
+<li>16 April 2020: Zoom (<a href="https://www.tei-c.org/board/board-tei-c-board-meeting-2020-04-16/">minutes</a>)</li>
+<li>19 March 2020: Zoom (<a href="https://www.tei-c.org/board/tei-c-board-meeting-2020-03-19/">minutes</a>)</li>
+<li>20 February 2020: Zoom (<a href="https://www.tei-c.org/board/tei-c-board-meeting-2020-02-20/">minutes</a>)</li>
+<li>16 January 2020: Zoom (<a href="https://www.tei-c.org/board/tei-c-board-meeting-2020-01-16/">minutes</a>)</li>
+</ul>
+<hr>
+<ul>
+<li>12 December 2019: Zoom (<a href="https://www.tei-c.org/board/board-tei-c-board-meeting-2019-12-12/">minutes</a>)</li>
+<li>10 October 2019: Zoom (<a href="https://www.tei-c.org/board/board-tei-c-board-meeting-2019-10-10/">minutes</a>)</li>
+<li>20 September 2019 face-to-face meeting, Graz (<a href="https://www.tei-c.org/board/board-tei-c-face-to-face-board-meeting-2019-09-20/">minutes</a>)</li>
+<li>8 August 2019: Zoom (<a href="https://www.tei-c.org/board/board-tei-c-board-meeting-2019-08-08/">minutes</a>)</li>
+<li>4 July 2019: Zoom (<a href="https://www.tei-c.org/board/tei-c-board-meeting-2019-07-04/">minutes</a>)</li>
+<li>13 June 2019: Zoom (<a href="https://www.tei-c.org/board/board-tei-c-board-meeting-2019-06-13/">minutes</a>)</li>
+<li>9 May 2019: Zoom (<a href="https://www.tei-c.org/board/board-tei-c-board-meeting-2019-05-09/">minutes</a>)</li>
+<li>11 April 2019 Zoom (<a href="https://www.tei-c.org/board/board-tei-c-board-meeting-2019-04-11/">minutes</a>)</li>
+<li>14 March 2019: Zoom (<a href="https://www.tei-c.org/board/board-tei-c-board-meeting-2019-03-14/">minutes</a>)</li>
+<li>14 February 2019: Zoom (<a href="https://www.tei-c.org/board/board-tei-c-board-meeting-2019-02-14/">minutes</a>)</li>
+<li>17 January 2019: Zoom (<a href="https://www.tei-c.org/board/board-tei-c-board-meeting-2019-01-17/">minutes</a>)</li>
+</ul>
+<hr>
+<ul>
+<li>13 December 2018: Zoom (<a href="https://www.tei-c.org/board/tei-c-board-meeting-2018-12-18/">minutes</a>)</li>
+<li>8 November 2018: Zoom (<a href="https://www.tei-c.org/board/tei-c-board-meeting-2018-11-8/">minutes</a>)</li>
+<li>18 October 2018: Zoom (<a href="https://www.tei-c.org/board/tei-c-board-meeting-2018-10-18">minutes</a>)</li>
+<li>11 September 2018: Tokyo in Person (<a href="https://www.tei-c.org/board/tei-c-board-meeting-2018-09-11/">minutes</a>)</li>
+<li>16 August 2018: Zoom (<a href="https://www.tei-c.org/board/tei-c-board-meeting-2018-08-16/">minutes</a>)</li>
+<li>12 July 2018: Zoom (<a href="https://www.tei-c.org/board/tei-c-board-meeting-2018-07-12/">minutes</a>)</li>
+<li>14 June 2018: Zoom (<a href="https://www.tei-c.org/board/tei-c-board-meeting-2018-06-14/">minutes</a>)</li>
+<li>10 May 2017: Zoom (<a href="https://www.tei-c.org/board/tei-c-board-minutes-2018-05-10/">minutes</a>)</li>
+<li>12 April 2018: Zoom (<a href="https://www.tei-c.org/board/tei-c-board-meeting-2018-04-12/">minutes</a>)</li>
+<li>8 March 2018: Zoom (<a href="https://www.tei-c.org/board/tei-c-board-meeting-2018-03-08/">minutes</a>)</li>
+<li>8 February 2018: Zoom (<a href="https://www.tei-c.org/board/tei-c-board-meeting-2018-02-08/">minutes</a>)</li>
+<li>11 January 2018: Zoom (<a href="https://www.tei-c.org/board/tei-c-board-meeting-minutes-2018-01-11/">minutes</a>)</li>
+</ul>
+<hr>
+<ul>
+<li>14 September 2017: Zoom (<a href="https://www.tei-c.org/board/tei-c-board-meeting-minutes-2017-09-14/">minutes</a>)</li>
+<li>17 August 2017: Zoom (<a href="https://www.tei-c.org/board/tei-c-board-meeting-minutes-2017-08-17/">minutes</a>)</li>
+<li>13 July 2017: Zoom (<a href="https://www.tei-c.org/board/tei-c-board-meeting-minutes-2017-07-13/">minutes</a>)</li>
+<li>11 May 2017: Zoom (<a href="https://www.tei-c.org/board/tei-c-board-minutes-2017-05-11/">minutes</a>)</li>
+<li>3 March 2017: Zoom (<a href="https://www.tei-c.org/board/tei-board-minutes-google-hangout-3-march-2017/">minutes</a>)</li>
+<li>12 January 2017: Google Hangout (<a href="https://www.tei-c.org/board/tei-board-minutes-google-hangout-12-january-2017/">minutes</a>)</li>
+</ul>
+<hr>
+<ul>
+<li>27 September 2016: face-to-face meeting, Vienna (<a href="https://www.tei-c.org/board/tei-board-meeting-in-person-meeting-2016-09-27/">minutes</a>)</li>
+<li>21 July 2016: Google Hangout (<a href="https://www.tei-c.org/board/tei-board-minutes-google-hangout-21-july-2016/">minutes</a>)</li>
+<li>7 June 2016: Google Hangout (<a href="https://www.tei-c.org/board/tei-board-minutes-google-hangout-07-june-2016/">agenda and minutes</a>)</li>
+<li>12 April 2016: Google Hangout (<a href="/board/bm64.xml">agenda and minutes</a>)</li>
+<li>8 March 2016: Google Hangout (<a href="/board/bm63.xml">agenda and minutes</a>)</li>
+<li>9 February 2016: Google Hangout (<a href="/board/bm62.xml">agenda and minutes</a>)</li>
+<li>12 January 2016: conference call (<a href="/board/bm61.xml">agenda and minutes</a>)</li>
+</ul>
+<hr>
+<ul>
+<li>1 November 2015: face-to-face meeting, Lyon (<a href="/board/bm60.xml">agenda and minutes</a>)</li>
+<li>25 June 2015: conference call (<a href="/board/bm59.xml">agenda and minutes</a>)</li>
+<li>15 April 2015: conference call (<a href="/board/bm58.xml">agenda and minutes</a>)</li>
+<li>24 February 2015: conference call (<a href="/board/bm57.xml">agenda and minutes</a>)</li>
+<li>13 January 2015: conference call (<a href="/board/bm56.xml">agenda and minutes</a>)</li>
+</ul>
+<hr>
+<ul>
+<li>14 November 2014: conference call (<a href="/board/bm55.xml">agenda and minutes</a>)</li>
+<li>24 October 2014: face-to-face meeting, Evanston (<a href="/Membership/Meetings/2014/mm72.xml">agenda</a> and <a href="/board/bm54.xml">minutes</a>)</li>
+<li>Some summary minutes of teleconferences distributed on board list during 2014</li>
+</ul>
+<hr>
+<ul>
+<li>6 October 2013: face-to-face meeting, Rome (<a href="/board/bm48.xml">agenda and minutes</a>)</li>
+<li>13 February 2013: conference call (<a href="/board/bm47.xml">agenda and minutes</a>)</li>
+</ul>
+<hr>
+<ul>
+<li>10 and 11 November 2012: face to face meeting, Texas A &amp; M University (<a href="/board/bm46.xml">agenda and minutes</a>)</li>
+<li>26 April 2012: conference call (<a href="/board/bm45.xml">agenda and minutes</a>)</li>
+<li>10 January 2012: conference call (<a href="/board/bm44a.xml">agenda</a> and <a href="/board/bm44.xml">minutes</a>)</li>
+</ul>
+<hr>
+<ul>
+<li>16 October 2011: face to face meeting, University of Würzburg (<a href="/board/bm43a.xml">agenda</a> and <a href="/board/bm43.xml">minutes</a>)</li>
+<li>11 August 2011: conference call (<a href="/board/bm42a.xml">agenda</a> and <a href="/board/bm42.xml">minutes</a>)</li>
+<li>06 June 2011: conference call (<a href="/board/bm41a.xml">agenda</a> and <a href="/board/bm41.xml">minutes</a>)</li>
+</ul>
+<hr>
+<ul>
+<li>13-14 Nov 2010: face to face meeting, Zadar (<a href="/board/bm40a.xml">agenda</a> and <a href="/board/bm40.xml">minutes</a>)</li>
+<li>07 May 2010: conference call (<a href="/board/bm39a.xml">agenda</a> and <a href="/board/bm39.xml">minutes</a>)</li>
+<li>08 February 2010: conference call (<a href="/board/bm38a.xml">agenda</a> and <a href="/board/bm38.xml">minutes</a>)</li>
+<li>01 February 2010: conference call (<a href="/board/bm37a.xml">agenda</a> and <a href="/board/bm37.xml">minutes</a>)</li>
+</ul>
+<hr>
+<ul>
+<li>14-15 November 2009: face to face meeting, University of Michigan (<a href="/board/bm36a.xml">agenda</a> and <a href="/board/bm36.xml">minutes</a>)</li>
+<li>08 October 2009: conference call (<a href="/board/bm35a.xml">agenda</a> and <a href="/board/bm35.xml">minutes</a>)</li>
+<li>14 July 2009: conference call (<a href="/board/bm34a.xml">agenda [amended]</a> and <a href="/board/bm34.xml">minutes</a>)</li>
+<li>18 May 2009: conference call (<a href="/board/bm33a.xml">agenda</a> and <a href="/board/bm33.xml">minutes</a>)</li>
+<li>10 February 2009: conference call (<a href="/board/bm32a.xml">agenda</a> and <a href="/board/bm32.xml">minutes</a>)</li>
+</ul>
+<hr>
+<ul>
+<li>17 December 2008: conference call (<a href="/board/bm31a.xml">agenda</a> and <a href="/board/bm31.xml">minutes</a>)</li>
+<li>9 November 2008: meeting at King's College London (<a href="/board/bm30a.xml">agenda</a> and <a href="/board/bm30.xml">minutes</a>)</li>
+<li>9 July 2008: conference call (<a href="/board/bm29a.xml">agenda</a> and <a href="/board/bm29.xml">minutes</a>)</li>
+<li>13 May 2008: conference call (<a href="/board/bm28a.xml">agenda</a> and <a href="/board/bm28.xml">minutes</a>)</li>
+<li>26 March 2008: conference call (<a href="/board/bm27.xml">minutes</a>)</li>
+<li>20 February 2008: conference call (<a href="/board/bm26a.xml">agenda</a> and <a href="/board/bm26.xml">minutes</a>)</li>
+<li>16 January 2008: conference call (<a href="/board/bm25.xml">minutes</a>)</li>
+</ul>
+<hr>
+<ul>
+<li>
+<p>19 December 2007: conference call (<a href="/board/bm24a.xml">agenda</a> and <a href="/board/bm24.xml">minutes</a>)</p>
+</li>
+<li>
+<p>4 November 2007: meeting in College Park, Maryland (<a href="/board/bm23a.xml">agenda</a> and <a href="/board/bm23.xml">minutes</a>)</p>
+</li>
+<li>
+<p>5 October 2007: conference call (<a href="/board/bm22a.xml">agenda</a> and <a href="/board/bm22.xml">minutes</a>)</p>
+</li>
+<li>
+<p>4 May 2007: conference call (<a href="/board/bm21a.xml">agenda</a> and <a href="/board/bm21.xml">minutes</a>)</p>
+</li>
+<li>
+<p>29 January 2007: conference call (<a href="/board/bm20a.xml">agenda</a> and <a href="/board/bm20.xml">minutes</a>)</p>
+</li>
+<li></li>
+<li></li>
+<li></li>
+<li>
+<p>13 December 2006: conference call (<a href="/board/bm19.xml">minutes</a>)</p>
+</li>
+<li>
+<p>29 October 2006: meeting in Victoria (<a href="/board/bm18a.xml">agenda</a> and <a href="/board/bm18.xml">minutes</a>)</p>
+</li>
+<li>
+<p>12 October 2006: conference call (<a href="/board/bm17a.xml">agenda</a> and <a href="/board/bm17.xml">minutes</a>)</p>
+</li>
+<li>
+<p>9 May 2006: conference call (<a href="/board/bm16a.xml">agenda</a> and <a href="/board/bm16.xml">minutes</a>)</p>
+</li>
+<li>
+<p>24 January 2006: conference call (<a href="/board/bm15a.xml">agenda</a> and <a href="/board/bm15.xml">minutes</a>)</p>
+</li>
+<li>
+<p>24 January 2006: conference call (<a href="/board/bm15a.xml">agenda</a> and <a href="/board/bm15.xml">minutes</a>)</p>
+</li>
+<li></li>
+<li></li>
+<li></li>
+<li>
+<p>30 October 2005: meeting in Sofia (<a href="/board/bm14a.xml">agenda</a> and <a href="/board/bm14.xml">minutes</a>)</p>
+</li>
+<li>
+<p>21 July 2005: conference call (<a href="/board/bm13.xml">minutes</a>)</p>
+</li>
+<li></li>
+<li></li>
+<li></li>
+<li>
+<p>24 October 2004: meeting in Baltimore (<a href="/board/bm12.xml">minutes</a>)</p>
+</li>
+<li></li>
+<li></li>
+<li></li>
+<li>
+<p>8 November 2003: meeting in Nancy (<a href="/board/bm11a.xml">agenda</a> and <a href="/board/bm11.xml">minutes</a>)</p>
+</li>
+<li>
+<p>19 June 2003: conference call (<a href="/board/bm09.xml">agenda</a> and <a href="/board/bm10.xml">minutes</a>)</p>
+</li>
+<li></li>
+<li></li>
+<li></li>
+<li>
+<p>12 October 2002: meeting in Chicago (<a href="/board/bm07.xml">agenda</a> and (<a href="/board/bm08.xml">minutes</a>)</p>
+</li>
+<li>
+<p>9-10 May 2002: meeting in Prague (<a href="/board/bm03a.xml">agenda</a> and (<a href="/board/bm06.xml">minutes</a>)</p>
+</li>
+<li>
+<p>16-17 November 2001: meeting in Pisa (<a href="https://www.tei-c.org/board/text-encoding-intiative-consortium-minutes-of-the-board-of-directors-meeting-saturday-november-17-2001-grand-hotel-duomo-pisa-italy/">minutes</a>)</p>
+</li>
+<li>
+<p>11-12 May 2001: meeting in Tingveken, Norway (<a href="/board/bm01.xml">minutes</a>)</p>
+</li>
+</ul>
+<h2>Budget Documents</h2>
+<ul>
+<li><a href="https://www.tei-c.org/wp-content/uploads/2018/12/Finance-Report-2017_18.pdf">2017/2018 finance report</a></li>
+<li><a href="https://www.tei-c.org/wp-content/uploads/2017/01/2006budgetproj.pdf">2006 budget projection</a></li>
+<li><a href="https://www.tei-c.org/wp-content/uploads/2017/01/2005budgetnarr.pdf">2005 budget narrative</a></li>
+<li><a href="https://www.tei-c.org/wp-content/uploads/2017/01/2005budget.pdf">2005 budget report</a></li>
+<li><a href="https://www.tei-c.org/wp-content/uploads/2017/01/budget_2004.pdf">2004 budget report</a></li>
+<li><a href="https://www.tei-c.org/wp-content/uploads/2017/01/budget_2003.pdf">2003 budget report</a></li>
+</ul>
+<h2>Other Documents</h2>
+<ul>
+<li><a href="https://tei-c.org/board/tei-consortium-procedures-customs-and-practices/">Procedural Documentation for the TEI-C Board of Directors</a></li>
+<li><a href="/board/bw08.xml">BW08</a>: TEI Host Bids for 2005-2009</li>
+<li><a href="/board/bw09.xml">BW09</a>: Members Meeting Procedures (14 July 2006)</li>
+<li><a href="/board/bw10.xml">BW10</a>: Should the email discussions of the be publicly accessible? (30 July 2012)</li>
+<li><a href="/board/bw11.xml">BW11</a>: TEI Consortium Communications Policy (16 October 2012)</li>
+<li><a href="/board/bw12.xml">BW12</a>: Changes to Bylaws 2013 (Summary) (1 July 2013)</li>
+</ul>
+
+      </div>
+    </main>
+    <div class="container">
+  <footer class="py-3 my-4">
+    <ul class="nav justify-content-center border-top pb-3 mb-3">
+      <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary">Home</a></li>
+      <li class="nav-item"><a href="/about/code-of-conduct/" class="nav-link px-2 text-body-secondary">Code of Conduct</a></li>
+      <li class="nav-item"><a href="/about/contact/" class="nav-link px-2 text-body-secondary">Contact Us</a></li>
+    </ul>
+    <p class="text-center text-body-secondary">
+      <img src="/img/emblem_color_dark.png" alt="TEI Emblem" width="40"> © 2023 TEI Consortium — Hosted by <a href="https://www.huma-num.fr/" class="text-body-secondary">
+        <img src="/img/logo-petit-hn-rvb-1.png" alt="Hosted by Huma-Num" width="50">
+      </a>
+    </p>
+  </footer>
+</div>
+    <script src="/js/bootstrap.bundle.min.js"></script>
+  </body>
+</html>

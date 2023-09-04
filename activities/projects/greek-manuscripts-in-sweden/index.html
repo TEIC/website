@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/teic.css">
+    <title>Greek Manuscripts in Sweden</title>
+  </head>
+  <body>
+    <nav class="navbar navbar-expand-lg navbar-dark" style="background-color: #0059A8;">
+  <div class="container-fluid">
+    <a class="navbar-brand p-0 m-0" href="/">
+      <img src="/img/emblem_color_dark.png" alt="TEI Emblem" width="40">
+    </a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#TEIMenu" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="TEIMenu">
+      <ul class="navbar-nav ms-1 me-auto mb-2 mb-lg-0">
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="guidelinesMenu" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Guidelines
+          </a>
+          <div class="dropdown-menu" aria-labelledby="guidelinesMenu">
+            <a class="dropdown-item" href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/index.html">Current Guidelines</a>
+            <a class="dropdown-item" href="/guidelines/p5/">Older Versions</a>
+            <a class="dropdown-item" href="/guidelines/customization/">Customization</a>
+            <a class="dropdown-item" href="/guidelines/licensing-and-citation/">Licensing & Citation</a>
+            <a class="dropdown-item" href="https://github.com/TEIC/TEI">TEI @ GitHub</a>
+            <a class="dropdown-item" href="/support/learn/">Learn the TEI</a>
+            <a class="dropdown-item" href="/guidelines/">About the Guidelines</a>
+          </div>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="activitiesMenu" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Activities
+          </a>
+          <div class="dropdown-menu" aria-labelledby="activitiesMenu">
+            <a class="dropdown-item" href="https://members.tei-c.org/Events/meetings">Annual Meetings</a>
+            <a class="dropdown-item" href="/activities/council/">Technical Council</a>
+            <a class="dropdown-item" href="/activities/board/">Board</a>
+            <a class="dropdown-item" href="/activities/workgroups/">Workgroups</a>
+            <a class="dropdown-item" href="/activities/sig/">SIGs</a>
+            <a class="dropdown-item" href="/activities/infrastructure-group/">Infrastructure Group</a>
+            <a class="dropdown-item" href="/activities/projects/">Projects Using the TEI</a>
+            <a class="dropdown-item" href="https://journals.openedition.org/jtei">jTEI: Journal of the TEI</a>
+            <a class="dropdown-item" href="https://journal.tei-c.org/index.php/journal/about/submissions">jTEI: article submission system (for authors)</a>
+          </div>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="toolsMenu" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Tools
+          </a>
+          <div class="dropdown-menu" aria-labelledby="toolsMenu">
+            <a class="dropdown-item" href="https://oxgarage.tei-c.org/">OxGarage</a>
+            <a class="dropdown-item" href="https://roma.tei-c.org">Roma</a>
+            <a class="dropdown-item" href="https://romaantiqua.tei-c.org">Roma Antiqua</a>
+            <a class="dropdown-item" href="/tools/stylesheets/">Stylesheets</a>
+            <a class="dropdown-item" href="/tools/">About TEI Tools</a>
+          </div>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="membersMenu" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Membership
+          </a>
+          <div class="dropdown-menu" aria-labelledby="membersMenu">
+            <a class="dropdown-item" href="https://members.tei-c.org/">Members Page</a>
+            <a class="dropdown-item" href="http://members.tei-c.org/Join">How to Join</a>
+            <a class="dropdown-item" href="http://members.tei-c.org/Events/meetings">Meetings</a>
+            <a class="dropdown-item" href="http://members.tei-c.org/Directory">List of members</a>
+          </div>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="supportMenu" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Support
+          </a>
+          <div class="dropdown-menu" aria-labelledby="supportMenu">
+            <a class="dropdown-item" href="/support/learn/">Learn the TEI</a>
+            <a class="dropdown-item" href="/support/#tei-l">TEI-L Mailing List</a>
+            <a class="dropdown-item" href="https://github.com/TEIC/TEI/issues">Bug Reports and Feature Requests</a>
+          </div>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="aboutMenu" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            About
+          </a>
+          <div class="dropdown-menu" aria-labelledby="aboutMenu">
+            <a class="dropdown-item" href="/about/mission/">Goals and Mission</a>
+            <a class="dropdown-item" href="/about/board-of-directors/">Board of Directors</a>
+            <a class="dropdown-item" href="/activities/council/">Technical Council</a>
+            <a class="dropdown-item" href="/about/frequently-asked-questions/">Frequently Asked Questions</a>
+            <a class="dropdown-item" href="/about/history/">History</a>
+            <a class="dropdown-item" href="http://www.tei-c.org/Vault/">Archive</a>
+            <a class="dropdown-item" href="/about/contact/">Contact Us</a>
+          </div>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/news/">News</a>
+        </li>
+      </ul>
+      <form class="d-flex">
+        <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+        <button class="btn btn-outline-light" type="submit">Search</button>
+      </form>
+    </div>
+  </div>
+</nav>
+    <main>
+      <div class="container col-xxl-8 mt-4">
+        <h1>Greek Manuscripts in Sweden</h1>
+<ul>
+<li>Host: Uppsala University Library</li>
+<li>Other institutions involved:
+Funded by the Central Bank of Sweden
+Tercentenary Foundation (Riksbankens Jubileumsfond).</li>
+<li>URL: <a href="http://www.manuscripta.se">http://www.manuscripta.se</a></li>
+<li>Main language: Multilingual</li>
+</ul>
+<p>General description: The aim of the project is to publish
+an online catalogue of all the Greek manuscripts in Swedish
+libraries and archives. This will also entail a full
+digitization of the manuscripts, some 36 000 pages in total.
+Libraries that will contribute material to the database
+include Gothenburg University Library (4 MSS), Linköping
+Diocesan Library (28), Lund University Library (5), The
+National Gallery, Stockholm (1), The Royal Library, Stockholm
+(5), The Skokloster Castle Library (3), and Uppsala
+University Library (74), in all 120 manuscripts.</p>
+<p>The Greek manuscripts, in the form of bound parchment and
+paper volumes, include a rich and diverse collection of texts
+from antiquity and the Byzantine period. They originate
+mainly from the Byzantine cultural area from the tenth
+century onwards, but some are Renaissance or early modern
+manuscripts from Western Europe. The existing
+nineteenth-century catalogue is outdated and in many cases
+incorrect. Furthermore it does not cover all manuscripts. It
+is therefore essential to create a new catalogue according to
+modern principles, including detailed codicological
+descriptions. Combined with a comprehensive digitization of
+the manuscripts this will facilitate and encourage new
+research on the material among Swedish and international
+scholars.</p>
+<p>Implementation description:
+The manuscript descriptions are
+encoded in TEI P5 using a customised ODD schema which, to a
+certain extent, was influenced by the ENRICH schema
+(http://projects.oucs.ox.ac.uk/ENRICH). However, some
+modifications have been necessary, which means that our
+schema and the ENRICH schema are not completely compatible.
+Our schema also provides cataloguing guidelines with
+examples, and documentation of the elements and attributes
+used. In order to eliminate inconsistencies in the encoding,
+we enforce strict limits regarding the attributes and their
+values. We also make use of Schematron rules to check that
+the content is valid in certain elements. The manuscript
+descriptions are structured around the notion of
+codicological units: the intellectual content, physical
+description, and history, where applicable, of each unit is
+described in separate <msPart> elements, whereas
+information common to all units, e.g. the binding,
+provenance, and bibliography, is described outside the
+<msPart> elements, directly under the <msDesc>
+element. In each manuscript description the items will be
+linked to specific folios of the digitized manuscripts using
+the @facs attribute in the <locus> element. This will
+enable image retrieval from the image server.</p>
+<p>The Uppsala University Library digital repository, ALVIN,
+will host the TEI-files, schema, style sheets, and images of
+the digitized manuscripts. The images will be stored both in
+the original TIFF-format, and in the JPEG2000-format for
+display on the web. The JPEG2000 images will be saved in a
+multi-resolution tiled pyramidal format to enable fast
+zooming and panning capabilities in the image viewer.</p>
+<p>The manuscript descriptions are published continuously on the
+project web site as the project advances
+(http://www.manuscripta.se). The web interface for the
+catalogue is built with the eXist-db open source software
+(http://exist-db.org) which provides powerful search and
+browsing capabilities for the catalogue. To facilitate
+user-friendly orientation, the images are displayed adjacent
+to the manuscript description in the interface.</p>
+<p>Related resources: The TEI-files, schema, style sheets,
+and source code for the eXist-db interface are also stored in
+the project GitHub repository
+(https://github.com/manuscripta).</p>
+<p>Contact:</p>
+<p>Eva Nyström &amp; Patrik
+Granholm</p>
+<p>Section for Manuscripts and
+Music</p>
+<p>Carolina Rediviva</p>
+<p>Box 510</p>
+<p>751 20 Uppsala</p>
+<p>Sweden</p>
+<p>Telephone: +46 18 471 3995</p>
+<p>Email: <a href="mailto:info@manuscripta.se">info@manuscripta.se</a></p>
+
+      </div>
+    </main>
+    <div class="container">
+  <footer class="py-3 my-4">
+    <ul class="nav justify-content-center border-top pb-3 mb-3">
+      <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary">Home</a></li>
+      <li class="nav-item"><a href="/about/code-of-conduct/" class="nav-link px-2 text-body-secondary">Code of Conduct</a></li>
+      <li class="nav-item"><a href="/about/contact/" class="nav-link px-2 text-body-secondary">Contact Us</a></li>
+    </ul>
+    <p class="text-center text-body-secondary">
+      <img src="/img/emblem_color_dark.png" alt="TEI Emblem" width="40"> © 2023 TEI Consortium — Hosted by <a href="https://www.huma-num.fr/" class="text-body-secondary">
+        <img src="/img/logo-petit-hn-rvb-1.png" alt="Hosted by Huma-Num" width="50">
+      </a>
+    </p>
+  </footer>
+</div>
+    <script src="/js/bootstrap.bundle.min.js"></script>
+  </body>
+</html>

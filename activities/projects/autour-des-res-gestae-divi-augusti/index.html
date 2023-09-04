@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/teic.css">
+    <title>Autour des Res Gestae Divi Augusti</title>
+  </head>
+  <body>
+    <nav class="navbar navbar-expand-lg navbar-dark" style="background-color: #0059A8;">
+  <div class="container-fluid">
+    <a class="navbar-brand p-0 m-0" href="/">
+      <img src="/img/emblem_color_dark.png" alt="TEI Emblem" width="40">
+    </a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#TEIMenu" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="TEIMenu">
+      <ul class="navbar-nav ms-1 me-auto mb-2 mb-lg-0">
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="guidelinesMenu" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Guidelines
+          </a>
+          <div class="dropdown-menu" aria-labelledby="guidelinesMenu">
+            <a class="dropdown-item" href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/index.html">Current Guidelines</a>
+            <a class="dropdown-item" href="/guidelines/p5/">Older Versions</a>
+            <a class="dropdown-item" href="/guidelines/customization/">Customization</a>
+            <a class="dropdown-item" href="/guidelines/licensing-and-citation/">Licensing & Citation</a>
+            <a class="dropdown-item" href="https://github.com/TEIC/TEI">TEI @ GitHub</a>
+            <a class="dropdown-item" href="/support/learn/">Learn the TEI</a>
+            <a class="dropdown-item" href="/guidelines/">About the Guidelines</a>
+          </div>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="activitiesMenu" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Activities
+          </a>
+          <div class="dropdown-menu" aria-labelledby="activitiesMenu">
+            <a class="dropdown-item" href="https://members.tei-c.org/Events/meetings">Annual Meetings</a>
+            <a class="dropdown-item" href="/activities/council/">Technical Council</a>
+            <a class="dropdown-item" href="/activities/board/">Board</a>
+            <a class="dropdown-item" href="/activities/workgroups/">Workgroups</a>
+            <a class="dropdown-item" href="/activities/sig/">SIGs</a>
+            <a class="dropdown-item" href="/activities/infrastructure-group/">Infrastructure Group</a>
+            <a class="dropdown-item" href="/activities/projects/">Projects Using the TEI</a>
+            <a class="dropdown-item" href="https://journals.openedition.org/jtei">jTEI: Journal of the TEI</a>
+            <a class="dropdown-item" href="https://journal.tei-c.org/index.php/journal/about/submissions">jTEI: article submission system (for authors)</a>
+          </div>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="toolsMenu" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Tools
+          </a>
+          <div class="dropdown-menu" aria-labelledby="toolsMenu">
+            <a class="dropdown-item" href="https://oxgarage.tei-c.org/">OxGarage</a>
+            <a class="dropdown-item" href="https://roma.tei-c.org">Roma</a>
+            <a class="dropdown-item" href="https://romaantiqua.tei-c.org">Roma Antiqua</a>
+            <a class="dropdown-item" href="/tools/stylesheets/">Stylesheets</a>
+            <a class="dropdown-item" href="/tools/">About TEI Tools</a>
+          </div>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="membersMenu" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Membership
+          </a>
+          <div class="dropdown-menu" aria-labelledby="membersMenu">
+            <a class="dropdown-item" href="https://members.tei-c.org/">Members Page</a>
+            <a class="dropdown-item" href="http://members.tei-c.org/Join">How to Join</a>
+            <a class="dropdown-item" href="http://members.tei-c.org/Events/meetings">Meetings</a>
+            <a class="dropdown-item" href="http://members.tei-c.org/Directory">List of members</a>
+          </div>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="supportMenu" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Support
+          </a>
+          <div class="dropdown-menu" aria-labelledby="supportMenu">
+            <a class="dropdown-item" href="/support/learn/">Learn the TEI</a>
+            <a class="dropdown-item" href="/support/#tei-l">TEI-L Mailing List</a>
+            <a class="dropdown-item" href="https://github.com/TEIC/TEI/issues">Bug Reports and Feature Requests</a>
+          </div>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="aboutMenu" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            About
+          </a>
+          <div class="dropdown-menu" aria-labelledby="aboutMenu">
+            <a class="dropdown-item" href="/about/mission/">Goals and Mission</a>
+            <a class="dropdown-item" href="/about/board-of-directors/">Board of Directors</a>
+            <a class="dropdown-item" href="/activities/council/">Technical Council</a>
+            <a class="dropdown-item" href="/about/frequently-asked-questions/">Frequently Asked Questions</a>
+            <a class="dropdown-item" href="/about/history/">History</a>
+            <a class="dropdown-item" href="http://www.tei-c.org/Vault/">Archive</a>
+            <a class="dropdown-item" href="/about/contact/">Contact Us</a>
+          </div>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/news/">News</a>
+        </li>
+      </ul>
+      <form class="d-flex">
+        <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+        <button class="btn btn-outline-light" type="submit">Search</button>
+      </form>
+    </div>
+  </div>
+</nav>
+    <main>
+      <div class="container col-xxl-8 mt-4">
+        <h1>Autour des Res Gestae Divi Augusti</h1>
+<p></p>
+<p></p>
+<ul>
+<li><strong>Host:</strong> Université de Provence (France) Università di Bologna (Italy)</li>
+<li><strong>URL:</strong> <a href="http://eer.hypotheses.org/">http://eer.hypotheses.org/</a></li>
+</ul>
+<p><strong>Description:</strong> Core of the Ph. D. dissertation: «Épigraphie en réseau: réflexions sur les potentialités
+d’innovations dans les publications épigraphiques numériques par l’usage des langages
+de codifications pour la representation d’épigraphies complexes.»</p>
+<p>Through the four inscriptions of the fundamental Res Gestae Divi Augusti, and the
+complexity of this historical text at several levels (epigraphical, philological,
+archaeological, historiographical, historical...), we're trying to represent *historical
+information* inside a computer system in order to create *historical encoding* and
+*historical links* between inscriptions that a computer could process («métasource»
+as defined by J. Ph. Genet). The goal is to link, through a *network of primary sources*
+represented thanks to information technologies and networks, inscriptions that are
+historically correlated to the RGDA.</p>
+<p></p>
+<p><strong>Implementation description:</strong> The first step is to encode several layers of information: from the stone (epigraphical
+layers) to the historical features of these ancient material:</p>
+<ul>
+<li>Res Gestae Divi Augusti;</li>
+<li>inscriptions and other primary sources that that are historically correlated to
+the RGDA.</li>
+</ul>
+<p></p>
+<p><strong>Other Related Resources:</strong>
+Epidoc guidelines for the first layers (epigraphical features and philological features)
+for the diplomatic editions of the four inscriptions. TEI would be use for the critical
+edition of the text (tags of the P4 used: pb, div0, div1, p, lb, rs, supplied, abbr,
+milestone, date, note, gap, unclear).</p>
+<p></p>
+<p><strong>Access:</strong></p>
+<ul>
+<li>Epidoc guidelines: <a href="http://epidoc.sourceforge.net/">http://epidoc.sourceforge.net/</a></li>
+<li>TEI guidelines: <a href="http://www.tei-c.org/index.xml">http://www.tei-c.org/index.xml</a></li>
+<li>Res Gestae Divi Augusti: Mommsen, T. 1883. Res gestae Divi Augusti ex monumentis Ancyrano
+et Apolloniensi. Berolini: Weidmannos. Citations from: Scheid, J. 2007. Res Gestae
+Divi Augusti: hauts faits du divin Auguste. Paris: Belles Lettres, and eventualy other
+editions.</li>
+<li>Marion Lamé, institutional web pages: <a href="http://sites.univ-provence.fr/ccj/spip.php?article65">http://sites.univ-provence.fr/ccj/spip.php?article65</a>
+and <a href="http://wiki.digitalclassicist.org/Epigraphie_en_reseau">http://wiki.digitalclassicist.org/Epigraphie_en_reseau</a>.</li>
+</ul>
+<p></p>
+<p><strong>Contact:</strong> LAMÉ Marion</p>
+<p><strong>Address:</strong> Les Cherriers 18700 OIZON France</p>
+<p><strong>Tel:</strong> 00 33 6 27 57 78 83 / 00 33 2 48 58 08 39</p>
+<p><strong>Fax/Email:</strong> <a href="mailto:mlame@mmsh.univ-aix.fr">mlame@mmsh.univ-aix.fr</a> or <a href="mailto:marionlame@yahoo.fr">marionlame@yahoo.fr</a></p>
+<p></p>
+
+      </div>
+    </main>
+    <div class="container">
+  <footer class="py-3 my-4">
+    <ul class="nav justify-content-center border-top pb-3 mb-3">
+      <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary">Home</a></li>
+      <li class="nav-item"><a href="/about/code-of-conduct/" class="nav-link px-2 text-body-secondary">Code of Conduct</a></li>
+      <li class="nav-item"><a href="/about/contact/" class="nav-link px-2 text-body-secondary">Contact Us</a></li>
+    </ul>
+    <p class="text-center text-body-secondary">
+      <img src="/img/emblem_color_dark.png" alt="TEI Emblem" width="40"> © 2023 TEI Consortium — Hosted by <a href="https://www.huma-num.fr/" class="text-body-secondary">
+        <img src="/img/logo-petit-hn-rvb-1.png" alt="Hosted by Huma-Num" width="50">
+      </a>
+    </p>
+  </footer>
+</div>
+    <script src="/js/bootstrap.bundle.min.js"></script>
+  </body>
+</html>

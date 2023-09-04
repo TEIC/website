@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/teic.css">
+    <title>Brevier Legislative Reports</title>
+  </head>
+  <body>
+    <nav class="navbar navbar-expand-lg navbar-dark" style="background-color: #0059A8;">
+  <div class="container-fluid">
+    <a class="navbar-brand p-0 m-0" href="/">
+      <img src="/img/emblem_color_dark.png" alt="TEI Emblem" width="40">
+    </a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#TEIMenu" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="TEIMenu">
+      <ul class="navbar-nav ms-1 me-auto mb-2 mb-lg-0">
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="guidelinesMenu" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Guidelines
+          </a>
+          <div class="dropdown-menu" aria-labelledby="guidelinesMenu">
+            <a class="dropdown-item" href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/index.html">Current Guidelines</a>
+            <a class="dropdown-item" href="/guidelines/p5/">Older Versions</a>
+            <a class="dropdown-item" href="/guidelines/customization/">Customization</a>
+            <a class="dropdown-item" href="/guidelines/licensing-and-citation/">Licensing & Citation</a>
+            <a class="dropdown-item" href="https://github.com/TEIC/TEI">TEI @ GitHub</a>
+            <a class="dropdown-item" href="/support/learn/">Learn the TEI</a>
+            <a class="dropdown-item" href="/guidelines/">About the Guidelines</a>
+          </div>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="activitiesMenu" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Activities
+          </a>
+          <div class="dropdown-menu" aria-labelledby="activitiesMenu">
+            <a class="dropdown-item" href="https://members.tei-c.org/Events/meetings">Annual Meetings</a>
+            <a class="dropdown-item" href="/activities/council/">Technical Council</a>
+            <a class="dropdown-item" href="/activities/board/">Board</a>
+            <a class="dropdown-item" href="/activities/workgroups/">Workgroups</a>
+            <a class="dropdown-item" href="/activities/sig/">SIGs</a>
+            <a class="dropdown-item" href="/activities/infrastructure-group/">Infrastructure Group</a>
+            <a class="dropdown-item" href="/activities/projects/">Projects Using the TEI</a>
+            <a class="dropdown-item" href="https://journals.openedition.org/jtei">jTEI: Journal of the TEI</a>
+            <a class="dropdown-item" href="https://journal.tei-c.org/index.php/journal/about/submissions">jTEI: article submission system (for authors)</a>
+          </div>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="toolsMenu" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Tools
+          </a>
+          <div class="dropdown-menu" aria-labelledby="toolsMenu">
+            <a class="dropdown-item" href="https://oxgarage.tei-c.org/">OxGarage</a>
+            <a class="dropdown-item" href="https://roma.tei-c.org">Roma</a>
+            <a class="dropdown-item" href="https://romaantiqua.tei-c.org">Roma Antiqua</a>
+            <a class="dropdown-item" href="/tools/stylesheets/">Stylesheets</a>
+            <a class="dropdown-item" href="/tools/">About TEI Tools</a>
+          </div>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="membersMenu" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Membership
+          </a>
+          <div class="dropdown-menu" aria-labelledby="membersMenu">
+            <a class="dropdown-item" href="https://members.tei-c.org/">Members Page</a>
+            <a class="dropdown-item" href="http://members.tei-c.org/Join">How to Join</a>
+            <a class="dropdown-item" href="http://members.tei-c.org/Events/meetings">Meetings</a>
+            <a class="dropdown-item" href="http://members.tei-c.org/Directory">List of members</a>
+          </div>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="supportMenu" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Support
+          </a>
+          <div class="dropdown-menu" aria-labelledby="supportMenu">
+            <a class="dropdown-item" href="/support/learn/">Learn the TEI</a>
+            <a class="dropdown-item" href="/support/#tei-l">TEI-L Mailing List</a>
+            <a class="dropdown-item" href="https://github.com/TEIC/TEI/issues">Bug Reports and Feature Requests</a>
+          </div>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="aboutMenu" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            About
+          </a>
+          <div class="dropdown-menu" aria-labelledby="aboutMenu">
+            <a class="dropdown-item" href="/about/mission/">Goals and Mission</a>
+            <a class="dropdown-item" href="/about/board-of-directors/">Board of Directors</a>
+            <a class="dropdown-item" href="/activities/council/">Technical Council</a>
+            <a class="dropdown-item" href="/about/frequently-asked-questions/">Frequently Asked Questions</a>
+            <a class="dropdown-item" href="/about/history/">History</a>
+            <a class="dropdown-item" href="http://www.tei-c.org/Vault/">Archive</a>
+            <a class="dropdown-item" href="/about/contact/">Contact Us</a>
+          </div>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/news/">News</a>
+        </li>
+      </ul>
+      <form class="d-flex">
+        <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+        <button class="btn btn-outline-light" type="submit">Search</button>
+      </form>
+    </div>
+  </div>
+</nav>
+    <main>
+      <div class="container col-xxl-8 mt-4">
+        <h1>Brevier Legislative Reports</h1>
+<p></p>
+<ul>
+<li><strong>Host:</strong> Indiana University</li>
+<li><strong>URL:</strong><a href="http://www.dlib.indiana.edu/collections/law/brevier">http://www.dlib.indiana.edu/collections/law/brevier</a></li>
+<li><strong>Main language:</strong> English</li>
+</ul>
+<p><strong>General description:</strong> The (Brevier Reports), published biennially from 1858 to 1887, are verbatim reports
+of the legislative history of the Indiana General Assembly that also include messages
+from the
+Governor, biographical sketches of legislative members, lists of enacted legislation
+and more. The Brevier Reports capture the impact of significant historical events
+surrounding the Civil War along with other issues before the Indiana General Assembly.
+This is a unique set of documents — there exists no other such detailed and comprehensive
+record of the debate and speeches delivered from the floor of the Indiana Senate chamber
+and the Hall of the House of Representatives for this time period.</p>
+<p><strong>Implementation description:</strong> Twenty two bibliographic volumes some 200–700 pages in length were converted to full
+text using Optical Character Recognition (OCR) software, Abbyy Reader, and encoded
+at the volume-level following the Text Encoding Initiative (TEI) Guidelines, version
+P5, adhering as much as possible to Level 3 of the Best Practices for TEI in Libraries
+(<a href="http://purl.org/TEI/teiinlibraries">http://purl.org/TEI/teiinlibraries</a>) [1]. The TEI/XML files for each volume are available for downloading. To learn more
+about general encoding strategies and
+challenges visit the Encoding Overview: <a href="http://webapp1.dlib.indiana.edu/brevier/projectinfo/encoding.do">http://webapp1.dlib.indiana.edu/brevier/projectinfo/encoding.do</a>. The delivery and discovery capabilities of this site are implemented using a customized
+version of the open source
+eXtensible Text Framework (XTF) developed by the California Digital Library. It is
+served using the Tomcat application server and Apache HTTP Server software. Local
+customizations to XTF at Indiana University include a unique native page image viewer
+and a page turner that are both driven exclusively by the information encoded in the
+source TEI files and require no additional software beyond what can be accomplished
+by customizing XTF's XSLT templates. This feature enables switching between text and
+page images at any time while navigating a document's structure, and allows viewing
+of one or more page images as moveable overlays simultaneously with the text in the
+paged text mode. The actual page images are stored and delivered via the IU Digital
+Library Program's Fedora repository. The site also
+uses a newer XTF feature called sub-document indexing. This allows encoding entire
+volumes of the Brevier Legislative Reports as the source TEI documents yet enables
+access at more granular levels. In this case, search and browse results are not the
+full volumes as they exist in the XTF library but are instead TEI divisions within
+the volumes representing such things as legislative days, indices, or supplementary
+materials. Following an item link in a search result retrieves the sub-document in
+context to the volume in its entirety.</p>
+<p><strong>Copyright information:</strong> Indiana University makes no claim of copyright to the original texts, which have
+been published before 1923 and are, therefore, in the public domain. Permission is
+granted to download, transmit or otherwise reproduce, distribute or display the original
+texts so long as the
+header is included in its entirety. Indiana University makes a claim of copyright
+only to original contributions made by the Brevier Legislative Reports project team.
+All other use, including but not
+limited to commercial or scholarly reproductions, redistribution, publication or transmission,
+whether by electronic means or otherwise, is strictly prohibited without the prior
+permission of the copyright holder. Determination of the status of an online document
+ultimately rests with the person desiring to reproduce or use the item. If you have
+any questions or for general inquiries, contact
+the Indiana University Digital Library Program, diglib@indiana.edu.</p>
+<p><strong>Contact:</strong> Michelle Dalmau, Indiana University Digital Library Program, Herman B Wells Library,
+1320 East 10th Street, Bloomington, IN 47401, USA.</p>
+<p><strong>Telephone:</strong> 18128551261</p>
+<p><strong>Email:</strong> <a href="mailto:mdalmau@indiana.edu">mdalmau@indiana.edu</a></p>
+
+      </div>
+    </main>
+    <div class="container">
+  <footer class="py-3 my-4">
+    <ul class="nav justify-content-center border-top pb-3 mb-3">
+      <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary">Home</a></li>
+      <li class="nav-item"><a href="/about/code-of-conduct/" class="nav-link px-2 text-body-secondary">Code of Conduct</a></li>
+      <li class="nav-item"><a href="/about/contact/" class="nav-link px-2 text-body-secondary">Contact Us</a></li>
+    </ul>
+    <p class="text-center text-body-secondary">
+      <img src="/img/emblem_color_dark.png" alt="TEI Emblem" width="40"> © 2023 TEI Consortium — Hosted by <a href="https://www.huma-num.fr/" class="text-body-secondary">
+        <img src="/img/logo-petit-hn-rvb-1.png" alt="Hosted by Huma-Num" width="50">
+      </a>
+    </p>
+  </footer>
+</div>
+    <script src="/js/bootstrap.bundle.min.js"></script>
+  </body>
+</html>

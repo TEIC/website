@@ -1,0 +1,423 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/teic.css">
+    <title>Customization</title>
+  </head>
+  <body>
+    <nav class="navbar navbar-expand-lg navbar-dark" style="background-color: #0059A8;">
+  <div class="container-fluid">
+    <a class="navbar-brand p-0 m-0" href="/">
+      <img src="/img/emblem_color_dark.png" alt="TEI Emblem" width="40">
+    </a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#TEIMenu" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="TEIMenu">
+      <ul class="navbar-nav ms-1 me-auto mb-2 mb-lg-0">
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="guidelinesMenu" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Guidelines
+          </a>
+          <div class="dropdown-menu" aria-labelledby="guidelinesMenu">
+            <a class="dropdown-item" href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/index.html">Current Guidelines</a>
+            <a class="dropdown-item" href="/guidelines/p5/">Older Versions</a>
+            <a class="dropdown-item" href="/guidelines/customization/">Customization</a>
+            <a class="dropdown-item" href="/guidelines/licensing-and-citation/">Licensing & Citation</a>
+            <a class="dropdown-item" href="https://github.com/TEIC/TEI">TEI @ GitHub</a>
+            <a class="dropdown-item" href="/support/learn/">Learn the TEI</a>
+            <a class="dropdown-item" href="/guidelines/">About the Guidelines</a>
+          </div>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="activitiesMenu" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Activities
+          </a>
+          <div class="dropdown-menu" aria-labelledby="activitiesMenu">
+            <a class="dropdown-item" href="https://members.tei-c.org/Events/meetings">Annual Meetings</a>
+            <a class="dropdown-item" href="/activities/council/">Technical Council</a>
+            <a class="dropdown-item" href="/activities/board/">Board</a>
+            <a class="dropdown-item" href="/activities/workgroups/">Workgroups</a>
+            <a class="dropdown-item" href="/activities/sig/">SIGs</a>
+            <a class="dropdown-item" href="/activities/infrastructure-group/">Infrastructure Group</a>
+            <a class="dropdown-item" href="/activities/projects/">Projects Using the TEI</a>
+            <a class="dropdown-item" href="https://journals.openedition.org/jtei">jTEI: Journal of the TEI</a>
+            <a class="dropdown-item" href="https://journal.tei-c.org/index.php/journal/about/submissions">jTEI: article submission system (for authors)</a>
+          </div>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="toolsMenu" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Tools
+          </a>
+          <div class="dropdown-menu" aria-labelledby="toolsMenu">
+            <a class="dropdown-item" href="https://oxgarage.tei-c.org/">OxGarage</a>
+            <a class="dropdown-item" href="https://roma.tei-c.org">Roma</a>
+            <a class="dropdown-item" href="https://romaantiqua.tei-c.org">Roma Antiqua</a>
+            <a class="dropdown-item" href="/tools/stylesheets/">Stylesheets</a>
+            <a class="dropdown-item" href="/tools/">About TEI Tools</a>
+          </div>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="membersMenu" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Membership
+          </a>
+          <div class="dropdown-menu" aria-labelledby="membersMenu">
+            <a class="dropdown-item" href="https://members.tei-c.org/">Members Page</a>
+            <a class="dropdown-item" href="http://members.tei-c.org/Join">How to Join</a>
+            <a class="dropdown-item" href="http://members.tei-c.org/Events/meetings">Meetings</a>
+            <a class="dropdown-item" href="http://members.tei-c.org/Directory">List of members</a>
+          </div>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="supportMenu" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Support
+          </a>
+          <div class="dropdown-menu" aria-labelledby="supportMenu">
+            <a class="dropdown-item" href="/support/learn/">Learn the TEI</a>
+            <a class="dropdown-item" href="/support/#tei-l">TEI-L Mailing List</a>
+            <a class="dropdown-item" href="https://github.com/TEIC/TEI/issues">Bug Reports and Feature Requests</a>
+          </div>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="aboutMenu" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            About
+          </a>
+          <div class="dropdown-menu" aria-labelledby="aboutMenu">
+            <a class="dropdown-item" href="/about/mission/">Goals and Mission</a>
+            <a class="dropdown-item" href="/about/board-of-directors/">Board of Directors</a>
+            <a class="dropdown-item" href="/activities/council/">Technical Council</a>
+            <a class="dropdown-item" href="/about/frequently-asked-questions/">Frequently Asked Questions</a>
+            <a class="dropdown-item" href="/about/history/">History</a>
+            <a class="dropdown-item" href="http://www.tei-c.org/Vault/">Archive</a>
+            <a class="dropdown-item" href="/about/contact/">Contact Us</a>
+          </div>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/news/">News</a>
+        </li>
+      </ul>
+      <form class="d-flex">
+        <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+        <button class="btn btn-outline-light" type="submit">Search</button>
+      </form>
+    </div>
+  </div>
+</nav>
+    <main>
+      <div class="container col-xxl-8 mt-4">
+        <h1>Customization</h1>
+<p>Because the TEI Guidelines must cover such a broad domain and user community, it is essential that they be customizable: both to permit the creation of manageable subsets that serve particular purposes, and also to permit usage in areas that the TEI has not yet envisioned. Customization is a central aspect of TEI usage and the Guidelines are designed with customization in mind.</p>
+<p>The TEI provides a number of basic, general-purpose customizations. One of the best-known of these is <a href="Lite/">TEI Lite</a>, which was originally designed as a demonstration of the customization mechanism, but has become popular as a simple TEI schema for basic encoding. Other basic customizations are listed below. To create your own customization, you can do one of the following:</p>
+<ul>
+<li>Use the <a href="https://roma.tei-c.org">Roma</a> web tool to select TEI modules, add and delete elements, and make other choices; see <a href="https://tei-c.org/guidelines/customization/customizing-the-tei-with-roma/">Creating TEI Customizations with Roma</a> for more detailed information on using Roma.</li>
+<li>Write your own customization by hand using the TEI ODD language; see <a href="https://tei-c.org/guidelines/customization/getting-started-with-p5-odds/">Getting Started with P5 ODDs</a> and <a href="/release/doc/tei-p5-doc/en/html/USE.html">Using the TEI (Chapter 23 of the Guidelines)</a> for more detailed information on how to do this.</li>
+</ul>
+<h2>Customizations provided by the TEI Consortium</h2>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="Lite/">Lite</a></td>
+<td>TEI Lite, the most widely used TEI customization; includes</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>basic elements for simple documents</td>
+<td><a href="../../release/xml/tei/custom/odd/tei_lite.odd">ODD</a></td>
+<td><a href="../../release/xml/tei/custom/schema/dtd/tei_lite.dtd">DTD</a></td>
+<td><a href="../../release/xml/tei/custom/schema/relaxng/tei_lite.rng">RNG</a></td>
+<td><a href="../../release/xml/tei/custom/schema/xsd/tei_lite.xsd">XSD</a></td>
+<td><a href="../../release/doc/tei-p5-exemplars/html/tei_lite.doc.html">HTML</a></td>
+<td><a href="../../release/doc/tei-p5-exemplars/pdf/tei_lite.doc.pdf">PDF</a></td>
+<td></td>
+</tr>
+<tr>
+<td>TEI Tite</td>
+<td>A constrained customization designed for use by</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>keyboarding vendors</td>
+<td><a href="../../release/xml/tei/custom/odd/tei_tite.odd">ODD</a></td>
+<td><a href="../../release/xml/tei/custom/schema/dtd/tei_tite.dtd">DTD</a></td>
+<td><a href="../../release/xml/tei/custom/schema/relaxng/tei_tite.rng">RNG</a></td>
+<td><a href="../../release/xml/tei/custom/schema/xsd/tei_tite.xsd">XSD</a></td>
+<td><a href="../../release/doc/tei-p5-exemplars/html/tei_tite.doc.html">HTML</a></td>
+<td><a href="../../release/doc/tei-p5-exemplars/pdf/tei_tite.doc.pdf">PDF</a></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="../../release/doc/tei-p5-exemplars/html/tei_simplePrint.doc.html">TEI simplePrint</a></td>
+<td>An entry-level customization, focused primarily on the needs of those encoding Western European early modern printed material</td>
+<td><a href="../../release/xml/tei/custom/odd/tei_simplePrint.odd">ODD</a></td>
+<td><a href="../../release/xml/tei/custom/schema/dtd/tei_simplePrint.dtd">DTD</a></td>
+<td><a href="../../release/xml/tei/custom/schema/relaxng/tei_simplePrint.rng">RNG</a></td>
+<td><a href="../../release/xml/tei/custom/schema/xsd/tei_simplePrint.xsd">XSD</a></td>
+<td><a href="../../release/doc/tei-p5-exemplars/html/tei_simplePrint.doc.html">HTML</a></td>
+<td><a href="../../release/doc/tei-p5-exemplars/pdf/tei_simplePrint.doc.pdf">PDF</a></td>
+</tr>
+<tr>
+<td><a href="jTEI/">jTEI Article</a></td>
+<td>A highly-constrained customization intended for creating journal articles, in particular</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>for submission to the Journal of the Text Encoding Initiative</td>
+<td><a href="../../release/xml/tei/custom/odd/tei_jtei.odd">ODD</a></td>
+<td></td>
+<td><a href="../../release/xml/tei/custom/schema/relaxng/tei_jtei.rng">RNG</a></td>
+<td><a href="../../release/xml/tei/custom/schema/xsd/tei_jtei.xsd">XSD</a></td>
+<td><a href="../../release/doc/tei-p5-exemplars/html/tei_jtei.doc.html">HTML</a></td>
+<td><a href="../../release/doc/tei-p5-exemplars/pdf/tei_jtei.doc.pdf">PDF</a></td>
+<td></td>
+</tr>
+<tr>
+<td>Bare</td>
+<td>TEI Absolutely Bare, a very barebones schema with the</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>absolute minimum of elements</td>
+<td><a href="../../release/xml/tei/custom/odd/tei_bare.odd">ODD</a></td>
+<td><a href="../../release/xml/tei/custom/schema/dtd/tei_bare.dtd">DTD</a></td>
+<td><a href="../../release/xml/tei/custom/schema/relaxng/tei_bare.rng">RNG</a></td>
+<td><a href="../../release/xml/tei/custom/schema/xsd/tei_bare.xsd">XSD</a></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>All</td>
+<td>TEI with</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>all modules included</td>
+<td><a href="../../release/xml/tei/custom/odd/tei_all.odd">ODD</a></td>
+<td><a href="../../release/xml/tei/custom/schema/dtd/tei_all.dtd">DTD</a></td>
+<td><a href="../../release/xml/tei/custom/schema/relaxng/tei_all.rng">RNG</a></td>
+<td><a href="../../release/xml/tei/custom/schema/xsd/tei_all.xsd">XSD</a></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Corpus</td>
+<td>TEI for Linguistic Corpora, includes the modules for</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>encoding linguistic corpora</td>
+<td><a href="../../release/xml/tei/custom/odd/tei_corpus.odd">ODD</a></td>
+<td><a href="../../release/xml/tei/custom/schema/dtd/tei_corpus.dtd">DTD</a></td>
+<td><a href="../../release/xml/tei/custom/schema/relaxng/tei_corpus.rng">RNG</a></td>
+<td><a href="../../release/xml/tei/custom/schema/xsd/tei_corpus.xsd">XSD</a></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>MS</td>
+<td>TEI for Manuscript Description, includes the elements for</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>describing manuscripts and complex physical aspects of</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>documents</td>
+<td><a href="../../release/xml/tei/custom/odd/tei_ms.odd">ODD</a></td>
+<td><a href="../../release/xml/tei/custom/schema/dtd/tei_ms.dtd">DTD</a></td>
+<td><a href="../../release/xml/tei/custom/schema/relaxng/tei_ms.rng">RNG</a></td>
+<td><a href="../../release/xml/tei/custom/schema/xsd/tei_ms.xsd">XSD</a></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Drama</td>
+<td>TEI with Drama, includes the TEI drama module</td>
+<td><a href="../../release/xml/tei/custom/odd/tei_drama.odd">ODD</a></td>
+<td><a href="../../release/xml/tei/custom/schema/dtd/tei_drama.dtd">DTD</a></td>
+<td><a href="../../release/xml/tei/custom/schema/relaxng/tei_drama.rng">RNG</a></td>
+<td><a href="../../release/xml/tei/custom/schema/xsd/tei_drama.xsd">XSD</a></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Speech</td>
+<td>TEI for Speech Representation, includes the TEI module for</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>spoken language</td>
+<td><a href="../../release/xml/tei/custom/odd/tei_speech.odd">ODD</a></td>
+<td><a href="../../release/xml/tei/custom/schema/dtd/tei_speech.dtd">DTD</a></td>
+<td><a href="../../release/xml/tei/custom/schema/relaxng/tei_speech.rng">RNG</a></td>
+<td><a href="../../release/xml/tei/custom/schema/xsd/tei_speech.xsd">XSD</a></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p>The following customizations use features which are not available in the DTD and XSD schema formats.</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Odds</td>
+<td>TEI for authoring ODD, includes the TEI module for</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>creating ODD files and customizations</td>
+<td><a href="../../release/xml/tei/custom/odd/tei_odds.odd">ODD</a></td>
+<td><a href="../../release/xml/tei/custom/schema/relaxng/tei_odds.rng">RNG</a></td>
+<td></td>
+</tr>
+<tr>
+<td>allPlus</td>
+<td>TEI with with</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>all modules included, plus all external additions</td>
+<td><a href="../../release/xml/tei/custom/odd/tei_allPlus.odd">ODD</a></td>
+<td><a href="../../release/xml/tei/custom/schema/relaxng/tei_allPlus.rng">RNG</a></td>
+<td></td>
+</tr>
+<tr>
+<td>TEI + SVG</td>
+<td>TEI with SVG</td>
+<td><a href="../../release/xml/tei/custom/odd/tei_svg.odd">ODD</a></td>
+<td><a href="../../release/xml/tei/custom/schema/relaxng/tei_svg.rng">RNG</a></td>
+</tr>
+<tr>
+<td>TEI + Math</td>
+<td>TEI with MathML</td>
+<td><a href="../../release/xml/tei/custom/odd/tei_math.odd">ODD</a></td>
+<td><a href="../../release/xml/tei/custom/schema/relaxng/tei_math.rng">RNG</a></td>
+</tr>
+<tr>
+<td>TEI + XInclude</td>
+<td>TEI with XInclude</td>
+<td><a href="../../release/xml/tei/custom/odd/tei_xinclude.odd">ODD</a></td>
+<td><a href="../../release/xml/tei/custom/schema/relaxng/tei_xinclude.rng">RNG</a></td>
+</tr>
+</tbody>
+</table>
+<h2>Customizations provided by the TEI community</h2>
+<p>Below are customizations that have been created by members of the TEI community.
+To have your customization listed, please contact <a href="mailto:web@tei-c.org">web@tei-c.org</a>.</p>
+<p>Best Practices for TEI in Libraries</p>
+<ul>
+<li>
+<ul>
+<li>A guide for mass digitization, automated workflows, and promotion of interoperability with XML using the TEI (<a href="http://purl.oclc.org/NET/teiinlibraries">website</a>, <a href="/extra/teiinlibraries/4.0.0/bptl-driver.html">prose documentation</a>, <a href="https://github.com/sydb/TEI-in-Libraries">ODD files</a>)</li>
+</ul>
+</li>
+</ul>
+<p>EpiDoc: Epigraphic Documents in XML</p>
+<ul>
+<li>
+<ul>
+<li>A customization for encoding epigraphic materials (<a href="http://www.stoa.org/epidoc/gl/latest/">Guidelines</a>, <a href="http://epidoc.sourceforge.net/">SourceForge site</a>, <a href="https://sourceforge.net/p/epidoc/wiki/Schema/">ODD</a>)</li>
+</ul>
+</li>
+</ul>
+<p>TEI with Music Notation</p>
+<ul>
+<li>A <a href="https://github.com/music-encoding/music-encoding/tree/develop/source/modules">customization</a> allowing use of elements from the <a href="http://music-encoding.org/">Music Encoding Initiative (MEI)</a>.</li>
+</ul>
+<p>Please see the <a href="https://wiki.tei-c.org/index.php/Category:Customization">customizations category of the TEI wiki</a> for more customizations and more about the customization process.</p>
+
+      </div>
+    </main>
+    <div class="container">
+  <footer class="py-3 my-4">
+    <ul class="nav justify-content-center border-top pb-3 mb-3">
+      <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary">Home</a></li>
+      <li class="nav-item"><a href="/about/code-of-conduct/" class="nav-link px-2 text-body-secondary">Code of Conduct</a></li>
+      <li class="nav-item"><a href="/about/contact/" class="nav-link px-2 text-body-secondary">Contact Us</a></li>
+    </ul>
+    <p class="text-center text-body-secondary">
+      <img src="/img/emblem_color_dark.png" alt="TEI Emblem" width="40"> © 2023 TEI Consortium — Hosted by <a href="https://www.huma-num.fr/" class="text-body-secondary">
+        <img src="/img/logo-petit-hn-rvb-1.png" alt="Hosted by Huma-Num" width="50">
+      </a>
+    </p>
+  </footer>
+</div>
+    <script src="/js/bootstrap.bundle.min.js"></script>
+  </body>
+</html>

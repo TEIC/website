@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/teic.css">
+    <title>Miguel de Cervantes Digital Library</title>
+  </head>
+  <body>
+    <nav class="navbar navbar-expand-lg navbar-dark" style="background-color: #0059A8;">
+  <div class="container-fluid">
+    <a class="navbar-brand p-0 m-0" href="/">
+      <img src="/img/emblem_color_dark.png" alt="TEI Emblem" width="40">
+    </a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#TEIMenu" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="TEIMenu">
+      <ul class="navbar-nav ms-1 me-auto mb-2 mb-lg-0">
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="guidelinesMenu" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Guidelines
+          </a>
+          <div class="dropdown-menu" aria-labelledby="guidelinesMenu">
+            <a class="dropdown-item" href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/index.html">Current Guidelines</a>
+            <a class="dropdown-item" href="/guidelines/p5/">Older Versions</a>
+            <a class="dropdown-item" href="/guidelines/customization/">Customization</a>
+            <a class="dropdown-item" href="/guidelines/licensing-and-citation/">Licensing & Citation</a>
+            <a class="dropdown-item" href="https://github.com/TEIC/TEI">TEI @ GitHub</a>
+            <a class="dropdown-item" href="/support/learn/">Learn the TEI</a>
+            <a class="dropdown-item" href="/guidelines/">About the Guidelines</a>
+          </div>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="activitiesMenu" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Activities
+          </a>
+          <div class="dropdown-menu" aria-labelledby="activitiesMenu">
+            <a class="dropdown-item" href="https://members.tei-c.org/Events/meetings">Annual Meetings</a>
+            <a class="dropdown-item" href="/activities/council/">Technical Council</a>
+            <a class="dropdown-item" href="/activities/board/">Board</a>
+            <a class="dropdown-item" href="/activities/workgroups/">Workgroups</a>
+            <a class="dropdown-item" href="/activities/sig/">SIGs</a>
+            <a class="dropdown-item" href="/activities/infrastructure-group/">Infrastructure Group</a>
+            <a class="dropdown-item" href="/activities/projects/">Projects Using the TEI</a>
+            <a class="dropdown-item" href="https://journals.openedition.org/jtei">jTEI: Journal of the TEI</a>
+            <a class="dropdown-item" href="https://journal.tei-c.org/index.php/journal/about/submissions">jTEI: article submission system (for authors)</a>
+          </div>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="toolsMenu" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Tools
+          </a>
+          <div class="dropdown-menu" aria-labelledby="toolsMenu">
+            <a class="dropdown-item" href="https://oxgarage.tei-c.org/">OxGarage</a>
+            <a class="dropdown-item" href="https://roma.tei-c.org">Roma</a>
+            <a class="dropdown-item" href="https://romaantiqua.tei-c.org">Roma Antiqua</a>
+            <a class="dropdown-item" href="/tools/stylesheets/">Stylesheets</a>
+            <a class="dropdown-item" href="/tools/">About TEI Tools</a>
+          </div>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="membersMenu" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Membership
+          </a>
+          <div class="dropdown-menu" aria-labelledby="membersMenu">
+            <a class="dropdown-item" href="https://members.tei-c.org/">Members Page</a>
+            <a class="dropdown-item" href="http://members.tei-c.org/Join">How to Join</a>
+            <a class="dropdown-item" href="http://members.tei-c.org/Events/meetings">Meetings</a>
+            <a class="dropdown-item" href="http://members.tei-c.org/Directory">List of members</a>
+          </div>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="supportMenu" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Support
+          </a>
+          <div class="dropdown-menu" aria-labelledby="supportMenu">
+            <a class="dropdown-item" href="/support/learn/">Learn the TEI</a>
+            <a class="dropdown-item" href="/support/#tei-l">TEI-L Mailing List</a>
+            <a class="dropdown-item" href="https://github.com/TEIC/TEI/issues">Bug Reports and Feature Requests</a>
+          </div>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="aboutMenu" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            About
+          </a>
+          <div class="dropdown-menu" aria-labelledby="aboutMenu">
+            <a class="dropdown-item" href="/about/mission/">Goals and Mission</a>
+            <a class="dropdown-item" href="/about/board-of-directors/">Board of Directors</a>
+            <a class="dropdown-item" href="/activities/council/">Technical Council</a>
+            <a class="dropdown-item" href="/about/frequently-asked-questions/">Frequently Asked Questions</a>
+            <a class="dropdown-item" href="/about/history/">History</a>
+            <a class="dropdown-item" href="http://www.tei-c.org/Vault/">Archive</a>
+            <a class="dropdown-item" href="/about/contact/">Contact Us</a>
+          </div>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/news/">News</a>
+        </li>
+      </ul>
+      <form class="d-flex">
+        <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+        <button class="btn btn-outline-light" type="submit">Search</button>
+      </form>
+    </div>
+  </div>
+</nav>
+    <main>
+      <div class="container col-xxl-8 mt-4">
+        <h1>Miguel de Cervantes Digital Library</h1>
+<ul>
+<li>URL: <a href="http://cervantesvirtual.com/">http://cervantesvirtual.com/</a></li>
+<li>Host: University of Alicante. Spain.</li>
+</ul>
+<p>Description:</p>
+<p>The of the University of
+Alicante in Spain (&quot;
+Biblioteca Virtual Miguel de
+Cervantes&quot;) covers many different cultural and academic
+subjects.</p>
+<p>Our books are basically public domain Hispanic
+classics written or published between the twelfth century and the
+nineteenth century, but some contemporary works are also included.
+Genres of these books include prose, drama, verse, dictionaries,
+history, and others. The books were encoded in digital form
+using the TEI markup scheme and the XML markup language. The
+digital texts, which are the vast majority of the library works,
+are easily accessible in HTML format through the Internet. HTML
+files are produced automatically from our TEI-XML source files by
+means of XSL transformations.</p>
+<p>The library is meant for a wide audience covering different
+ages, interests and cultures. Apart from the Hispanic classics,
+the library includes such diverse resources as digitised cultural
+magazines&gt;,
+a library
+for children, and academic research resources such as <a href="http://www.cervantesvirtual.com/tesis/tesis_catalogo.shtml">PhD theses</a>.
+In addition, the digital library has whole sections devoted to many renowned
+academic institutions and national libraries of Latin America, who
+have contributed their valuable funds to our library for digitisation.
+These sections are meant to preserve and promote minority
+Hispanic-related languages, and to affirm different Hispanic
+cultures. The design of these sections does not only entail the
+use of new techniques, but also involves collaboration agreements
+whereby staff from the travel
+to other centres, universities, and institutions all around
+different areas of Spain and Latin America in order to digitise
+the documents, objects, and works of art that will be finally
+published on the library main server. After some training, staff
+from the contributing institutions begin to digitise and correct
+the texts which are finally marked-up, supervised, processed, and
+published in Spain.</p>
+<p>History:</p>
+<p>The project began in late 1998 with a small team of 5 people
+performing preliminary trial and error tests to determine the
+viability of the project and to find the most adequate production
+methods and tools. After this initial phase, massive digital book
+production started in March 1999, with about 80 persons working on
+digitisation and correction of texts and a small team of computer
+technicians mounting the computer infrastructure, developing
+automatic tools for efficient production and designing the
+publication processes and the web site. The library was opened to
+the Internet public in July 1999 with approximately 800 books. By
+July 2001, we had reached 5000 entries in the catalogue.</p>
+<p>Between 100 to 120 university graduates and technicians
+permanently work in this project as librarians, scanner operators,
+correctors, mark-up specialists, and computer technicians.</p>
+<p>Since the opening of this digital library in 1999, about
+70,000,000 accesses have been received in the first two years.
+Currently, the average number of pages served is
+21,000 daily. 71% of our users are from Spanish speaking countries (Spain
+and Latin America), 6% from the rest of Europe, and 23% from the rest of the
+world.</p>
+<p>Financial support:</p>
+<p>The is the result of a
+unique collaboration between the <a href="http://www.ua.es/">University of
+Alicante</a> and Spain's biggest bank, the Banco
+Santander Central Hispano, who have joined forces to create the world's biggest
+digital library containing Spanish works.</p>
+<p>It represents an
+example of a successful partnership between university and
+business, with the Santander Central Hispano bank providing
+complete sponsorship for the full development of the project.</p>
+<p>The University, on the other hand, provides the academic
+expertise, technological know-how, and qualified workforce
+necessary to fulfill the objectives and ensures the international
+use of the Library's resources by means of collaboration
+agreements with universities and institutions all over the
+world.</p>
+<p>Multilinguality:</p>
+<p>The library collection focuses on Hispanic literature, history
+and culture, in various Hispanic languages such as Catalan, Basque,
+and Galician, or Latin-American native languages as Quechua,
+Mapuche, or Guaraní in addition to Spanish.</p>
+<p>Some of our present multicultural sections include: the <a href="http://www.cervantesvirtual.com/portal/BC/">Library of
+Catalunya</a> and the <a href="http://lluisvives.com/">Joan Luis
+Vives</a> Institute, both with works in Catalan language, country-specific
+collections as the <a href="http://www.cervantesvirtual.com/portal/BNC/">National
+Library of Chile</a>, the <a href="http://www.cervantesvirtual.com/portal/BNA/">National
+Library of Argentina</a> , the College
+of Mexico, the <a href="http://www.cervantesvirtual.com/portal/ILL/">José A.
+Portuondo Valdor Institute of Literature and Linguistics</a> of
+Cuba, and the section about <a href="http://www.cervantesvirtual.com/portal/paraguay/">Paraguayan
+Literature</a>.</p>
+<p>The library also features thematic portals such as <a href="http://www.cervantesvirtual.com/portal/DOXA/">DOXA</a>,
+about the philosophy of law, <a href="http://www.cervantesvirtual.com/portal/BVJ/">Hispano-American
+Novel of the XIXth Century</a> (Benito Varela Jàcome fund),
+<a href="http://www.cervantesvirtual.com/portal/SLESXIX/">XIXth
+Century Spanish Literary Society</a>, <a href="http://www.cervantesvirtual.com/portal/aat/">Association of
+Spanish Theatre Authors</a>, <a href="http://www.cervantesvirtual.com/portal/LGB/">History and
+Critic on Spanish Movies</a>,
+Literatura
+Gauchesca, and also our <a href="http://www.cervantesvirtual.com/historia/">Library of
+History</a>, and a section on <a href="http://www.cervantesvirtual.com/portal/IIGG/">Geographic
+Research</a>.</p>
+<p>Other important sections of this digital library, under the
+title of Authors'
+Libraries, are special collections dedicated to selected
+world-renowned Hispanic authors . They consist of personalized web
+pages describing their life and works with links to their digital
+books within the library as well as to external resources.
+Manuscripts and special valuable documents of the authors (like
+drawings, photographs, book covers, and personal letters) are
+usually provided. In the case of contemporary authors, videos and
+audio recordings give a closer appreciation of their
+personality.</p>
+<p>Aims:</p>
+<p>The hopes to act as a
+vehicle for the Hispanic academy to promote their works, as a
+window to Hispanic literature and culture for scholars of Hispanic
+languages, and as a voice for the Hispanic community worldwide
+meant to reach an international multiracial and multilingual
+student and academic community of Internet users.</p>
+<p>The aims to become the most
+ambitious project of digitisation of Spanish works through the
+application of new methods of electronic publication for mass
+documental information.</p>
+<p>Contact:</p>
+<p>Alejandro Bia</p>
+<p>University of Alicante</p>
+<p>Apdo. de correos 99</p>
+<p>E-03080, Alicante</p>
+<p>Spain</p>
+<p>Tel:+34 600 948 601, +34 965 909 567</p>
+<p>Fax: +34 96 590 9477</p>
+<p>Email: <a href="mailto:alexbia@cervantesvirtual.com">alexbia@cervantesvirtual.com</a></p>
+
+      </div>
+    </main>
+    <div class="container">
+  <footer class="py-3 my-4">
+    <ul class="nav justify-content-center border-top pb-3 mb-3">
+      <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary">Home</a></li>
+      <li class="nav-item"><a href="/about/code-of-conduct/" class="nav-link px-2 text-body-secondary">Code of Conduct</a></li>
+      <li class="nav-item"><a href="/about/contact/" class="nav-link px-2 text-body-secondary">Contact Us</a></li>
+    </ul>
+    <p class="text-center text-body-secondary">
+      <img src="/img/emblem_color_dark.png" alt="TEI Emblem" width="40"> © 2023 TEI Consortium — Hosted by <a href="https://www.huma-num.fr/" class="text-body-secondary">
+        <img src="/img/logo-petit-hn-rvb-1.png" alt="Hosted by Huma-Num" width="50">
+      </a>
+    </p>
+  </footer>
+</div>
+    <script src="/js/bootstrap.bundle.min.js"></script>
+  </body>
+</html>

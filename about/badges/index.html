@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/teic.css">
+    <title>Badges</title>
+  </head>
+  <body>
+    <nav class="navbar navbar-expand-lg navbar-dark" style="background-color: #0059A8;">
+  <div class="container-fluid">
+    <a class="navbar-brand p-0 m-0" href="/">
+      <img src="/img/emblem_color_dark.png" alt="TEI Emblem" width="40">
+    </a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#TEIMenu" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="TEIMenu">
+      <ul class="navbar-nav ms-1 me-auto mb-2 mb-lg-0">
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="guidelinesMenu" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Guidelines
+          </a>
+          <div class="dropdown-menu" aria-labelledby="guidelinesMenu">
+            <a class="dropdown-item" href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/index.html">Current Guidelines</a>
+            <a class="dropdown-item" href="/guidelines/p5/">Older Versions</a>
+            <a class="dropdown-item" href="/guidelines/customization/">Customization</a>
+            <a class="dropdown-item" href="/guidelines/licensing-and-citation/">Licensing & Citation</a>
+            <a class="dropdown-item" href="https://github.com/TEIC/TEI">TEI @ GitHub</a>
+            <a class="dropdown-item" href="/support/learn/">Learn the TEI</a>
+            <a class="dropdown-item" href="/guidelines/">About the Guidelines</a>
+          </div>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="activitiesMenu" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Activities
+          </a>
+          <div class="dropdown-menu" aria-labelledby="activitiesMenu">
+            <a class="dropdown-item" href="https://members.tei-c.org/Events/meetings">Annual Meetings</a>
+            <a class="dropdown-item" href="/activities/council/">Technical Council</a>
+            <a class="dropdown-item" href="/activities/board/">Board</a>
+            <a class="dropdown-item" href="/activities/workgroups/">Workgroups</a>
+            <a class="dropdown-item" href="/activities/sig/">SIGs</a>
+            <a class="dropdown-item" href="/activities/infrastructure-group/">Infrastructure Group</a>
+            <a class="dropdown-item" href="/activities/projects/">Projects Using the TEI</a>
+            <a class="dropdown-item" href="https://journals.openedition.org/jtei">jTEI: Journal of the TEI</a>
+            <a class="dropdown-item" href="https://journal.tei-c.org/index.php/journal/about/submissions">jTEI: article submission system (for authors)</a>
+          </div>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="toolsMenu" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Tools
+          </a>
+          <div class="dropdown-menu" aria-labelledby="toolsMenu">
+            <a class="dropdown-item" href="https://oxgarage.tei-c.org/">OxGarage</a>
+            <a class="dropdown-item" href="https://roma.tei-c.org">Roma</a>
+            <a class="dropdown-item" href="https://romaantiqua.tei-c.org">Roma Antiqua</a>
+            <a class="dropdown-item" href="/tools/stylesheets/">Stylesheets</a>
+            <a class="dropdown-item" href="/tools/">About TEI Tools</a>
+          </div>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="membersMenu" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Membership
+          </a>
+          <div class="dropdown-menu" aria-labelledby="membersMenu">
+            <a class="dropdown-item" href="https://members.tei-c.org/">Members Page</a>
+            <a class="dropdown-item" href="http://members.tei-c.org/Join">How to Join</a>
+            <a class="dropdown-item" href="http://members.tei-c.org/Events/meetings">Meetings</a>
+            <a class="dropdown-item" href="http://members.tei-c.org/Directory">List of members</a>
+          </div>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="supportMenu" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Support
+          </a>
+          <div class="dropdown-menu" aria-labelledby="supportMenu">
+            <a class="dropdown-item" href="/support/learn/">Learn the TEI</a>
+            <a class="dropdown-item" href="/support/#tei-l">TEI-L Mailing List</a>
+            <a class="dropdown-item" href="https://github.com/TEIC/TEI/issues">Bug Reports and Feature Requests</a>
+          </div>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="aboutMenu" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            About
+          </a>
+          <div class="dropdown-menu" aria-labelledby="aboutMenu">
+            <a class="dropdown-item" href="/about/mission/">Goals and Mission</a>
+            <a class="dropdown-item" href="/about/board-of-directors/">Board of Directors</a>
+            <a class="dropdown-item" href="/activities/council/">Technical Council</a>
+            <a class="dropdown-item" href="/about/frequently-asked-questions/">Frequently Asked Questions</a>
+            <a class="dropdown-item" href="/about/history/">History</a>
+            <a class="dropdown-item" href="http://www.tei-c.org/Vault/">Archive</a>
+            <a class="dropdown-item" href="/about/contact/">Contact Us</a>
+          </div>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/news/">News</a>
+        </li>
+      </ul>
+      <form class="d-flex">
+        <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+        <button class="btn btn-outline-light" type="submit">Search</button>
+      </form>
+    </div>
+  </div>
+</nav>
+    <main>
+      <div class="container col-xxl-8 mt-4">
+        <h1>Badges</h1>
+<h2><img src="https://www.tei-c.org/wp-content/uploads/2016/11/I-use-TEI.gif" alt="">
+Let others know you use the TEI</h2>
+<p>(See also the <a href="/About/Logos/">TEI Logos page</a>)</p>
+<p>The <a href="/Guidelines/">Guidelines of the Text Encoding Initiative</a> are now in their fifth version. With more than 20 years of work behind
+them, they are a de facto standard in many areas of textual markup. The Guidelines are used by <a href="/Activities/Projects/">hundreds of projects</a> around the world. Their use is required by many public funding agencies.</p>
+<p>Many projects use the TEI Guidelines 'behind the scenes' while delivering their content to the public using HTML. The
+following buttons provide an easy way of letting others know that an individual, group,
+or project makes use of the Guidelines in its work. Publicising your use of the TEI is an important part of ensuring the
+continuing viability of the TEI community and the TEI's profile within your discipline.
+The code snippets associated with each button direct users to the TEI website, encouraging
+your visitors and colleagues to investigate the use of the TEI for their own digital
+work.</p>
+<p>In contrast to buttons published by organisations like the W3C World Wide Web Consortium, these TEI buttons do not make any specific claims about
+how the TEI is being used by a project. The TEI is used in so many different ways
+by so many different organisations that it would be next-to-impossible to establish
+a series of buttons associated with a specific validation programme or to describe
+specific types of usage. For us, it is enough that you use the TEI in your project.</p>
+<p>Thank you very much for helping us publicise your participation in the TEI community!</p>
+<h2>The badges</h2>
+<p>There are two sets of badges, I/We use <TEI> and Powered by <TEI>. How you use these is up to you.</p>
+<p>Each set is rendered in two formats: <a href="http://en.wikipedia.org/wiki/PNG">PNG</a> and <a href="http://en.wikipedia.org/wiki/GIF">GIF</a>. The PNG versions are preferable if you don’t need to accommodate older Web browser
+versions, as the their transparency effects are superior. They will not display properly
+in Microsoft Internet Explorer prior to version 7, however. The GIF versions are provided
+for compatibility with such browser versions.</p>
+<p>For the PNG version of the badges, we have supplied code that allows you to insert
+the image, with a link to our site, in either HTML or TEI XML. For the GIF format
+badges, we have provided code for use with HTML. The images use the main TEI website
+for their URL: <a href="/About/Badges/">http://www.tei-c.org/About/Badges/</a>. You may download these images to your local server if you wish. Using the TEI URL
+allows us to track dissemination throughout the community, however.</p>
+<h3>PNG versions</h3>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Graphic</td>
+<td>Suggested HTML code</td>
+<td>Suggested TEI XML code</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<pre><code>&lt;a href=&quot;http://www.tei-c.org/&quot;&gt;
+  &lt;img src=&quot;http://www.tei-c.org/About/Badges/I-use-TEI.png&quot; alt=&quot;I use TEI&quot;/&gt;
+&lt;/a&gt;
+</code></pre>
+<p>|</p>
+<pre><code>&lt;ref target=&quot;http://www.tei-c.org/&quot;&gt;
+  &lt;figure&gt;
+    &lt;head&gt;I use TEI&lt;/head&gt;
+    &lt;figDesc&gt;A button indicating that I am a user of the TEI Guidelines.&lt;/figDesc&gt;
+    &lt;graphic url=&quot;http://www.tei-c.org/About/Badges/I-use-TEI.png&quot;/&gt;
+  &lt;/figure&gt;
+&lt;/ref&gt;
+</code></pre>
+<p>|
+|  |</p>
+<pre><code>&lt;a href=&quot;http://www.tei-c.org/&quot;&gt;
+  &lt;img src=&quot;http://www.tei-c.org/About/Badges/We-use-TEI.png&quot; alt=&quot;We use TEI&quot;/&gt;
+&lt;/a&gt;
+</code></pre>
+<p>|</p>
+<pre><code>&lt;ref target=&quot;http://www.tei-c.org/&quot;&gt;
+  &lt;figure&gt;
+    &lt;head&gt;We use TEI&lt;/head&gt;
+    &lt;figDesc&gt;A button indicating that we are users of the TEI Guidelines.&lt;/figDesc&gt;
+    &lt;graphic url=&quot;http://www.tei-c.org/About/Badges/We-use-TEI.png&quot; /&gt;
+  &lt;/figure&gt;
+&lt;/ref&gt;
+</code></pre>
+<p>|
+|  |</p>
+<pre><code>&lt;a href=&quot;http://www.tei-c.org/&quot;&gt;
+  &lt;img src=&quot;http://www.tei-c.org/About/Badges/powered-by-TEI.png&quot; alt=&quot;Powered by TEI&quot;/&gt;
+&lt;/a&gt;
+</code></pre>
+<p>|</p>
+<pre><code>&lt;ref target=&quot;http://www.tei-c.org/&quot;&gt;
+  &lt;figure&gt;
+    &lt;head&gt;Powered by TEI&lt;/head&gt;
+    &lt;figDesc&gt;A button indicating that this project is powered by the TEI Guidelines.&lt;/figDesc&gt;
+    &lt;graphic url=&quot;http://www.tei-c.org/About/Badges/powered-by-TEI.png&quot; /&gt;
+  &lt;/figure&gt;
+&lt;/ref&gt;
+</code></pre>
+<p>|</p>
+<h3>GIF versions</h3>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Graphic</td>
+<td>Suggested HTML code</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<pre><code>&lt;a href=&quot;http://www.tei-c.org/&quot;&gt;
+  &lt;img src=&quot;http://www.tei-c.org/About/Badges/I-use-TEI.gif&quot; alt=&quot;I use TEI&quot;/&gt;
+&lt;/a&gt;
+</code></pre>
+<p>|
+|  |</p>
+<pre><code>&lt;a href=&quot;http://www.tei-c.org/&quot;&gt;
+  &lt;img src=&quot;http://www.tei-c.org/About/Badges/We-use-TEI.gif&quot; alt=&quot;We use TEI&quot;/&gt;
+&lt;/a&gt;
+</code></pre>
+<p>|
+|  |</p>
+<pre><code>&lt;a href=&quot;http://www.tei-c.org/&quot;&gt;
+  &lt;img src=&quot;http://www.tei-c.org/About/Badges/powered-by-TEI.gif&quot; alt=&quot;Powered by TEI&quot;/&gt;
+&lt;/a&gt;
+</code></pre>
+<p>|</p>
+
+      </div>
+    </main>
+    <div class="container">
+  <footer class="py-3 my-4">
+    <ul class="nav justify-content-center border-top pb-3 mb-3">
+      <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary">Home</a></li>
+      <li class="nav-item"><a href="/about/code-of-conduct/" class="nav-link px-2 text-body-secondary">Code of Conduct</a></li>
+      <li class="nav-item"><a href="/about/contact/" class="nav-link px-2 text-body-secondary">Contact Us</a></li>
+    </ul>
+    <p class="text-center text-body-secondary">
+      <img src="/img/emblem_color_dark.png" alt="TEI Emblem" width="40"> © 2023 TEI Consortium — Hosted by <a href="https://www.huma-num.fr/" class="text-body-secondary">
+        <img src="/img/logo-petit-hn-rvb-1.png" alt="Hosted by Huma-Num" width="50">
+      </a>
+    </p>
+  </footer>
+</div>
+    <script src="/js/bootstrap.bundle.min.js"></script>
+  </body>
+</html>

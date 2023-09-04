@@ -1,0 +1,27 @@
+a {
+  color: midnightblue;
+}
+.hero-div h1 {
+  font-size: 4rem;
+  word-wrap: unset;
+}
+.nav-link {
+  color: white;
+}
+img.hero-emblem {
+  margin: auto;
+}
+table {
+  border-top: thin solid silver;
+  border-left: thin solid silver;
+}
+td {
+  border-right: thin solid silver;
+  border-bottom: thin solid silver;
+  padding: 2px;
+}
+th {
+  border-right: thin solid silver;
+  border-bottom: thin solid silver;
+  padding: 2px;
+}

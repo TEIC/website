@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/teic.css">
+    <title>Medieval Nordic Text Archive - Menota</title>
+  </head>
+  <body>
+    <nav class="navbar navbar-expand-lg navbar-dark" style="background-color: #0059A8;">
+  <div class="container-fluid">
+    <a class="navbar-brand p-0 m-0" href="/">
+      <img src="/img/emblem_color_dark.png" alt="TEI Emblem" width="40">
+    </a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#TEIMenu" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="TEIMenu">
+      <ul class="navbar-nav ms-1 me-auto mb-2 mb-lg-0">
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="guidelinesMenu" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Guidelines
+          </a>
+          <div class="dropdown-menu" aria-labelledby="guidelinesMenu">
+            <a class="dropdown-item" href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/index.html">Current Guidelines</a>
+            <a class="dropdown-item" href="/guidelines/p5/">Older Versions</a>
+            <a class="dropdown-item" href="/guidelines/customization/">Customization</a>
+            <a class="dropdown-item" href="/guidelines/licensing-and-citation/">Licensing & Citation</a>
+            <a class="dropdown-item" href="https://github.com/TEIC/TEI">TEI @ GitHub</a>
+            <a class="dropdown-item" href="/support/learn/">Learn the TEI</a>
+            <a class="dropdown-item" href="/guidelines/">About the Guidelines</a>
+          </div>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="activitiesMenu" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Activities
+          </a>
+          <div class="dropdown-menu" aria-labelledby="activitiesMenu">
+            <a class="dropdown-item" href="https://members.tei-c.org/Events/meetings">Annual Meetings</a>
+            <a class="dropdown-item" href="/activities/council/">Technical Council</a>
+            <a class="dropdown-item" href="/activities/board/">Board</a>
+            <a class="dropdown-item" href="/activities/workgroups/">Workgroups</a>
+            <a class="dropdown-item" href="/activities/sig/">SIGs</a>
+            <a class="dropdown-item" href="/activities/infrastructure-group/">Infrastructure Group</a>
+            <a class="dropdown-item" href="/activities/projects/">Projects Using the TEI</a>
+            <a class="dropdown-item" href="https://journals.openedition.org/jtei">jTEI: Journal of the TEI</a>
+            <a class="dropdown-item" href="https://journal.tei-c.org/index.php/journal/about/submissions">jTEI: article submission system (for authors)</a>
+          </div>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="toolsMenu" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Tools
+          </a>
+          <div class="dropdown-menu" aria-labelledby="toolsMenu">
+            <a class="dropdown-item" href="https://oxgarage.tei-c.org/">OxGarage</a>
+            <a class="dropdown-item" href="https://roma.tei-c.org">Roma</a>
+            <a class="dropdown-item" href="https://romaantiqua.tei-c.org">Roma Antiqua</a>
+            <a class="dropdown-item" href="/tools/stylesheets/">Stylesheets</a>
+            <a class="dropdown-item" href="/tools/">About TEI Tools</a>
+          </div>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="membersMenu" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Membership
+          </a>
+          <div class="dropdown-menu" aria-labelledby="membersMenu">
+            <a class="dropdown-item" href="https://members.tei-c.org/">Members Page</a>
+            <a class="dropdown-item" href="http://members.tei-c.org/Join">How to Join</a>
+            <a class="dropdown-item" href="http://members.tei-c.org/Events/meetings">Meetings</a>
+            <a class="dropdown-item" href="http://members.tei-c.org/Directory">List of members</a>
+          </div>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="supportMenu" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Support
+          </a>
+          <div class="dropdown-menu" aria-labelledby="supportMenu">
+            <a class="dropdown-item" href="/support/learn/">Learn the TEI</a>
+            <a class="dropdown-item" href="/support/#tei-l">TEI-L Mailing List</a>
+            <a class="dropdown-item" href="https://github.com/TEIC/TEI/issues">Bug Reports and Feature Requests</a>
+          </div>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="aboutMenu" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            About
+          </a>
+          <div class="dropdown-menu" aria-labelledby="aboutMenu">
+            <a class="dropdown-item" href="/about/mission/">Goals and Mission</a>
+            <a class="dropdown-item" href="/about/board-of-directors/">Board of Directors</a>
+            <a class="dropdown-item" href="/activities/council/">Technical Council</a>
+            <a class="dropdown-item" href="/about/frequently-asked-questions/">Frequently Asked Questions</a>
+            <a class="dropdown-item" href="/about/history/">History</a>
+            <a class="dropdown-item" href="http://www.tei-c.org/Vault/">Archive</a>
+            <a class="dropdown-item" href="/about/contact/">Contact Us</a>
+          </div>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/news/">News</a>
+        </li>
+      </ul>
+      <form class="d-flex">
+        <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+        <button class="btn btn-outline-light" type="submit">Search</button>
+      </form>
+    </div>
+  </div>
+</nav>
+    <main>
+      <div class="container col-xxl-8 mt-4">
+        <h1>Medieval Nordic Text Archive - Menota</h1>
+<ul>
+<li><strong>Hosts</strong>:
+<ul>
+<li><a href="http://www.uib.no/ub" title="University library, University of Bergen">University library, University of Bergen</a></li>
+</ul>
+</li>
+<li><strong>URL</strong>: <a href="http://www.menota.org/">http://www.menota.org</a></li>
+<li><strong>Co-operating institutions</strong>:
+<ol>
+<li>Denmark
+<ul>
+<li>Det Danske Sprog- og Litteraturselskab, København (The Danish Language and Literature
+Society, Copenhagen)</li>
+<li>Det Kongelige Bibliotek, København (The Royal Library, Copenhagen)</li>
+<li>Institut for Nordiske Studier og Sprogvidenskab (NorS), Københavns Universitet; herunder
+Den Arnamagnæanske håndskriftsamling og Ordbog over det norrøne prosasprog (Department
+of Nordic Studies and Linguistics (NorS), University of Copenhagen; including The
+Arnamagnæan Manuscript Collection and The Dictionary of Old Norse Prose)</li>
+</ul>
+</li>
+<li>Iceland
+<ul>
+<li>Stofnun Árna Magnússonar í íslenskum fræðum, Reykjavík (The Árni Magnússon Institute
+for Icelandic studies, Reykjavik)</li>
+</ul>
+</li>
+<li>Norway
+<ul>
+<li>Institutt for lingvistiske, litterære og estetiske studier, Universitetet i Bergen
+(Department of Linguistic, Literary and Aesthetic Studies, University of Bergen)</li>
+<li>Institutt for nordiske og lingvistiske studier, Universitetet i Oslo (Department of
+Linguistics and Scandinavian Studies, University of Oslo)</li>
+<li>Nasjonalbiblioteket, Oslo (The National Library, Oslo)</li>
+<li>Riksarkivet, Oslo (The National Archives, Oslo)</li>
+<li>Universitetsbiblioteket, Universitetet i Bergen (University Library, University of
+Bergen)</li>
+</ul>
+</li>
+<li>Sweden
+<ul>
+<li>Institutionen för nordiska språk, Uppsala universitet (Department of Scandinavian
+languages, Uppsala University)</li>
+<li>Institutionen för svenska språket, Linnéuniversitetet (Department of Swedish language,
+Linnæus University)</li>
+<li>Kungliga Biblioteket, Stockholm (The Royal Library, Stockholm)</li>
+<li>Språkbanken, Göteborgs universitet (The Swedish Language Bank, University of Gothenburg)</li>
+<li>Svenska fornskriftsällskapet</li>
+<li>Svenskt Diplomatarium, Riksarkivet, Stockholm (Svenskt Diplomatarium, The National
+Archives of Sweden, Stockholm)</li>
+</ul>
+</li>
+</ol>
+</li>
+</ul>
+<p><strong>Description</strong>:
+Menota is a network of leading Nordic archives, libraries and research departments
+working with medieval texts and manuscript facsimiles. The aim of Menota is to preserve
+and publish medieval texts in digital form and to adapt and develop encoding standards
+necessary for this work. The archive accepts texts in the Nordic languages as well
+as in Latin. By the end of 2017, 40 texts of approx. 1,7 million words were available
+in the archive. Several texts have been annotated for morphology (lemma and grammatical
+form), and many also offer corresponding digital facsimiles. Since 2016, Menota has
+been part of the <a href="https://www.clarin.eu/" title="CLARIN">CLARIN</a> infrastructure.
+<strong>Archive</strong>:
+Catalogue of texts: <a href="http://clarino.uib.no/menota" title="http://clarino.uib.no/menota">http://clarino.uib.no/menota</a>.
+<strong>Related resources</strong>:
+The Menota Handbook, currently in v. 3.0 beta. List of versions: <a href="http://www.menota.org/handbook.xml" title="http://www.menota.org/handbook.xml">http://www.menota.org/handbook.xml</a>.
+<strong>Contact</strong>:
+Odd Einar Haugen
+LLE - Institutt for lingvistiske, litterære og estetiske studier
+University of Bergen
+Sydnesplassen 7
+5007 Bergen
+Norway
+Email: <a href="mailto:odd.haugen@uib.no" title="odd.haugen@uib.no">odd.haugen@uib.no</a></p>
+
+      </div>
+    </main>
+    <div class="container">
+  <footer class="py-3 my-4">
+    <ul class="nav justify-content-center border-top pb-3 mb-3">
+      <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary">Home</a></li>
+      <li class="nav-item"><a href="/about/code-of-conduct/" class="nav-link px-2 text-body-secondary">Code of Conduct</a></li>
+      <li class="nav-item"><a href="/about/contact/" class="nav-link px-2 text-body-secondary">Contact Us</a></li>
+    </ul>
+    <p class="text-center text-body-secondary">
+      <img src="/img/emblem_color_dark.png" alt="TEI Emblem" width="40"> © 2023 TEI Consortium — Hosted by <a href="https://www.huma-num.fr/" class="text-body-secondary">
+        <img src="/img/logo-petit-hn-rvb-1.png" alt="Hosted by Huma-Num" width="50">
+      </a>
+    </p>
+  </footer>
+</div>
+    <script src="/js/bootstrap.bundle.min.js"></script>
+  </body>
+</html>
