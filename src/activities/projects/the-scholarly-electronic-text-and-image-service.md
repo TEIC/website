@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "The Scholarly Electronic Text and Image Service"
 ---
+# The Scholarly Electronic Text and Image Service
 
 
 

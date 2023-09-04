@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "Licensing and Citation"
 ---
+# Licensing and Citation
 
 
 

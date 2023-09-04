@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "The Charles Brockden Brown Electronic Archive and Scholarly Edition"
 ---
+# The Charles Brockden Brown Electronic Archive and Scholarly Edition
 
 
 

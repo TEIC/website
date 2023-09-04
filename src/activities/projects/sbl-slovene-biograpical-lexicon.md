@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "SBL Slovene Biograpical Lexicon"
 ---
+# SBL Slovene Biograpical Lexicon
 
 
 

@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "Goals and Mission"
 ---
+# Goals and Mission
 
 
 

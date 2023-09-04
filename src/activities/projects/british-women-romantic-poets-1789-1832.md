@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "British Women Romantic Poets, 1789–1832"
 ---
+# British Women Romantic Poets, 1789–1832
 
 
 

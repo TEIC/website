@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "Corpus Toneelkritiek                 Interbellum"
 ---
+# Corpus Toneelkritiek                 Interbellum
 
 
 

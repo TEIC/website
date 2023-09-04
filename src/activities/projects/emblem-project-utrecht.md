@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "Emblem Project Utrecht"
 ---
+# Emblem Project Utrecht
 
 
 

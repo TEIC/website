@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "Corpus Encoding Standard (CES)"
 ---
+# Corpus Encoding Standard (CES)
 
 
 

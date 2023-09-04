@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "Newton Manuscript Project"
 ---
+# Newton Manuscript Project
 
 
 

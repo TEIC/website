@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "Digital Dictionary of Buddhism and CJKV-E Dictionary"
 ---
+# Digital Dictionary of Buddhism and CJKV-E Dictionary
 
 
 

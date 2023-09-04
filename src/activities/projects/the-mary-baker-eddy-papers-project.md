@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "The Mary Baker Eddy Papers Project"
 ---
+# The Mary Baker Eddy Papers Project
 
 
 

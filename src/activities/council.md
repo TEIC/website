@@ -9,12 +9,10 @@ features, and supervises the overall development of each new version of the *Gui
 the [meetings](Meetings/) of the Council as well. The [archives
 of the mailing list](http://lists.tei-c.org/pipermail/tei-council/) are publicly accessible and ongoing and past work can be seen in [the TEI's GitHub site](https://github.com/TEIC).
 
-
 The TEI Technical Council consists of eleven members elected to
 staggered three-year terms by the TEI membership at the Annual Meeting. The
 Council meets twice a year in person, and holds a Zoom conference call
 every month.
-
 ### Current Technical Council Members
 
 * __Syd Bauman (Jan 2021 - Dec 2023)__

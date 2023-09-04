@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "Digital Averroes Research         Environment (DARE)"
 ---
+# Digital Averroes Research         Environment (DARE)
 
 
 

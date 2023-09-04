@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "Colonial Despatches: The colonial                 despatches of Vancouver Island and British Columbia                 1846-1871"
 ---
+# Colonial Despatches: The colonial                 despatches of Vancouver Island and British Columbia                 1846-1871
 
 
 

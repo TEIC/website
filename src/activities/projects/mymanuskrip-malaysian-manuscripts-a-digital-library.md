@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "MyManuskrip (Malaysian Manuscripts):                 a Digital Library"
 ---
+# MyManuskrip (Malaysian Manuscripts):                 a Digital Library
 
 
 

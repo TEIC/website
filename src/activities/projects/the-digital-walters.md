@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "The Digital Walters"
 ---
+# The Digital Walters
 
 
 

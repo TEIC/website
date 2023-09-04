@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "Berlin Intellectuals 1800-1830"
 ---
+# Berlin Intellectuals 1800-1830
 
 
 

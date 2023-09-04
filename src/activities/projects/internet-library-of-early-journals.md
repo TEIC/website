@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "Internet Library of Early Journals"
 ---
+# Internet Library of Early Journals
 
 
 

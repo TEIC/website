@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "The Digital Latin Library's Library of Digital Latin Texts"
 ---
+# The Digital Latin Library's Library of Digital Latin Texts
 **Host:** University of Oklahoma
 
 

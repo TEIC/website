@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "#dariahTeach"
 ---
+# #dariahTeach
 * **Host**: Austrian Academy of Sciences
 * **Other institutions involved**:
 	+ Maynooth University (Ireland)

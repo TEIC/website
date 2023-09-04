@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "University of Michigan Humanities Text Initiative (HTI)"
 ---
+# University of Michigan Humanities Text Initiative (HTI)
 
 
 

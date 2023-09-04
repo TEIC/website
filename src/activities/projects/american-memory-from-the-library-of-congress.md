@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "American Memory from the Library of Congress"
 ---
+# American Memory from the Library of Congress
 
 
 

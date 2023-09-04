@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "Project Lorelei"
 ---
+# Project Lorelei
 
 
 

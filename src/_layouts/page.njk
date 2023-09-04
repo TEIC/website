@@ -5,13 +5,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="/css/bootstrap.min.css">
     <link rel="stylesheet" href="/css/teic.css">
-    
     <title>{{ title }}</title>
   </head>
   <body>
     {% include 'navbar.html' %}
     <main>
-      <div class="container mt-4">
+      <div class="container col-xxl-8 mt-4">
         {{ content | safe }}
       </div>
     </main>

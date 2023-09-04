@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "Patristic Text Archive"
 ---
+# Patristic Text Archive
 **Host:** Berlin-Brandenburgische Akademie der Wissenschaften, Germany
 
 

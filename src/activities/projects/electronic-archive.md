@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "Electronic Archive"
 ---
+# Electronic Archive
 
 
 

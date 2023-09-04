@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "The Anglo-Saxon Poetry Project"
 ---
+# The Anglo-Saxon Poetry Project
 
 
 

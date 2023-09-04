@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "Freiburger Anthologie - Lyrik und Lied"
 ---
+# Freiburger Anthologie - Lyrik und Lied
 
 
 

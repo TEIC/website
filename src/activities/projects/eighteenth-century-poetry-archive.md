@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "Eighteenth-Century Poetry Archive"
 ---
+# Eighteenth-Century Poetry Archive
 
 
 

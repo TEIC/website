@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "Croatian Language Corpus (Hrvatski jezini korpus)"
 ---
+# Croatian Language Corpus (Hrvatski jezini korpus)
 
 
 

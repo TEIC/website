@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "Archimedes Palimpsest Project"
 ---
+# Archimedes Palimpsest Project
 
 
 

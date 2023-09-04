@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "Morris On-Line Edition"
 ---
+# Morris On-Line Edition
 
 
 

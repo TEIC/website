@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "New Zealand Electronic Text Centre"
 ---
+# New Zealand Electronic Text Centre
 
 
 

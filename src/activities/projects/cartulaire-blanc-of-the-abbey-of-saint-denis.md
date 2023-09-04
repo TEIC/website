@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "Cartulaire blanc of the Abbey of Saint-Denis"
 ---
+# Cartulaire blanc of the Abbey of Saint-Denis
 
 
 

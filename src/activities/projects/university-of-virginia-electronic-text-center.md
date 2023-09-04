@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "University of Virginia Electronic Text Center"
 ---
+# University of Virginia Electronic Text Center
 
 
 

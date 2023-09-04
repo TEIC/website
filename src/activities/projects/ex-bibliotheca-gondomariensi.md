@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "Ex Bibliotheca Gondomariensi"
 ---
+# Ex Bibliotheca Gondomariensi
 
 
 

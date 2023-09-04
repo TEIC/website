@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "ATLAS : ATLA Series"
 ---
+# ATLAS : ATLA Series
 
 
 

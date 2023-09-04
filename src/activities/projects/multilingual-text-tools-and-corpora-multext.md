@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "Multilingual Text Tools and Corpora (MULTEXT)"
 ---
+# Multilingual Text Tools and Corpora (MULTEXT)
 
 
 

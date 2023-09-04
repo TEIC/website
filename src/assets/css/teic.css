@@ -11,6 +11,17 @@ a {
 img.hero-emblem {
   margin: auto;
 }
-li {
-  list-style: none;
+table {
+  border-top: thin solid silver;
+  border-left: thin solid silver;
+}
+td {
+  border-right: thin solid silver;
+  border-bottom: thin solid silver;
+  padding: 2px;
+}
+th {
+  border-right: thin solid silver;
+  border-bottom: thin solid silver;
+  padding: 2px;
 }

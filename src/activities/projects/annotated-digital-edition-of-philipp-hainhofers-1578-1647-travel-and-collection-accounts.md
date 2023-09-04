@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "Annotated Digital Edition of Philipp Hainhofer’s (1578-1647) Travel and Collection Accounts"
 ---
+# Annotated Digital Edition of Philipp Hainhofer’s (1578-1647) Travel and Collection Accounts
 
 
 

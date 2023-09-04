@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "The Chymistry of Isaac Newton"
 ---
+# The Chymistry of Isaac Newton
 
 
 

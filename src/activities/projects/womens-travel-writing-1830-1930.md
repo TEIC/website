@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "Women's Travel Writing, 1830–1930"
 ---
+# Women's Travel Writing, 1830–1930
 
 
 

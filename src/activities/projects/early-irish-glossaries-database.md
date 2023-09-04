@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "Early Irish Glossaries Database"
 ---
+# Early Irish Glossaries Database
 
 
 

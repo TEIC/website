@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "Bulgarian National Corpus"
 ---
+# Bulgarian National Corpus
 
 
 

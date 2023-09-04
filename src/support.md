@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "Support"
 ---
+# Support
 Tools and documentation
 -----------------------
 

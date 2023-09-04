@@ -345,14 +345,12 @@ tei-head {
 }
 tei-body > tei-head {
   font-size: 180%;
-  text-indent: -0.5em;
 }
 tei-div.textpart {
   display: none;
 }
 tei-div > tei-head {
   font-size: 170%;
-  text-indent: -0.5em;
 }
 tei-div > tei-div > tei-head {
   font-size: 155%;
@@ -389,6 +387,12 @@ tei-figure > tei-head {
   width: 85%;
   font-family: Georgia, Serif;
   font-size: 13pt;
+}
+tei-list > tei-head {
+  font-size: 120%;
+}
+tei-hi[rend~="bold"] {
+  font-weight: bold;
 }
 tei-hi[rend~="caps"] {
   font-weight:bold;
@@ -472,7 +476,7 @@ tei-text tei-list[type=ordered] > tei-item {
 tei-item > tei-list[type=ordered] {
   margin-left: 1em;
 }
-tei-text tei-list[type=ordered] > item:before {
+tei-text tei-list[type=ordered] > tei-item:before {
   counter-increment: items 1;
   content: counter(items, decimal) ". ";
 }
@@ -903,19 +907,3 @@ tei-witdetail {
   display:none;
 }
 
-/* styles for HTML shell and HTML elements in TEI (e.g.,<a> and <img>) */
-html > body {
-  margin: 0;
-  padding: 0;
-}
-html {
-  margin: 0;
-  padding: 0;
-  margin-left: 2em;
-  margin-right: 4em;
-  padding: 2.5em;
-  font-family: "Lucida Grande", "Cardo", "Arial Unicode MS","Galilee Unicode Gk", "New Athena Unicode", "Athena Unicode", "Palatino Linotype", "Titus Cyberbit Basic", "Vusillus Old Face", "Alphabetum", "Galatia SIL", "Code 2000", "GentiumAlt", "Gentium", "Minion Pro", "GeorgiaGreek", "Vusillus Old Face Italic", "Everson Mono", "Aristarcoj", "Porson", "Legendum", "Aisa Unicode", "Hindsight Unicode", "Caslon", "Verdana", "Tahoma";
-  font-size: 12pt;
-  background-color: white;
-  color: #292929;
-}

@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "Image to Text: Mary Hamilton papers"
 ---
+# Image to Text: Mary Hamilton papers
 
 
 

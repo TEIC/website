@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "Polish language of the XX century sixties"
 ---
+# Polish language of the XX century sixties
 
 
 

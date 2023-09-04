@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "Fortunoff Video Archive for Holocaust Testimonies"
 ---
+# Fortunoff Video Archive for Holocaust Testimonies
 
 
 

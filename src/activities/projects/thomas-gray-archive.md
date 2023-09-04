@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "Thomas Gray Archive"
 ---
+# Thomas Gray Archive
 
 
 

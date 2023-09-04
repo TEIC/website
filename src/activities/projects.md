@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "Projects Using the TEI"
 ---
+# Projects Using the TEI
 
 
 

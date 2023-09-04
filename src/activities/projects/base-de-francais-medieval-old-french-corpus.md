@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "Base de Français Médiéval – Old French Corpus"
 ---
+# Base de Français Médiéval – Old French Corpus
 **Host:** Ecole Normale Supérieure de Lyon, France
 
 

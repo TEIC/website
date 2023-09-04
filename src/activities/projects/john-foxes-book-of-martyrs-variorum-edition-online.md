@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "John Foxe's Book of Martyrs Variorum Edition Online"
 ---
+# John Foxe's Book of Martyrs Variorum Edition Online
 
 
 

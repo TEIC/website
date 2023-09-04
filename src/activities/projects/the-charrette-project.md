@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "The Charrette Project"
 ---
+# The Charrette Project
 
 
 

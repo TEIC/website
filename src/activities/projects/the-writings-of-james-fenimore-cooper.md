@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "The Writings of James Fenimore Cooper"
 ---
+# The Writings of James Fenimore Cooper
 
 
 

@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "Diccionario electrónico multilingüe       de verbos amplios de movimiento (andar, ir, venir, volver)       [Multilingual electronic dictionary of \"broad meaning\" motion       verbs (andar 'walk', ir 'go', venir 'come', volver 'come/go       back’)"
 ---
+# Diccionario electrónico multilingüe       de verbos amplios de movimiento (andar, ir, venir, volver)       [Multilingual electronic dictionary of \"broad meaning\" motion       verbs (andar 'walk', ir 'go', venir 'come', volver 'come/go       back’)
 
 
 

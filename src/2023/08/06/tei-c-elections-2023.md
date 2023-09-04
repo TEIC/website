@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "TEI-C Elections 2023"
 ---
+# TEI-C Elections 2023
 * [Introduction](#intro)
 * [A Note on Voting](#note)
 * [Candidate Statements: TEI Technical Council](#council)

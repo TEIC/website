@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "Cursus Project"
 ---
+# Cursus Project
  
 
 

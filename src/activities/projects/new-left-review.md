@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "New Left Review"
 ---
+# New Left Review
 
 
 

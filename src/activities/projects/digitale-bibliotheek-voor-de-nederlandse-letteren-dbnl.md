@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "Digitale Bibliotheek voor de Nederlandse Letteren (dbnl)"
 ---
+# Digitale Bibliotheek voor de Nederlandse Letteren (dbnl)
 
 
 

@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "Repertorium of Old Bulgarian Literature and Letters"
 ---
+# Repertorium of Old Bulgarian Literature and Letters
 
 
 

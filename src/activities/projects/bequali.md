@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "beQuali"
 ---
+# beQuali
 * **Host**: CDSP (Sciences Po - CNRS)
 * **URL**: <http://bequali.fr/>
 * **Main language**: French

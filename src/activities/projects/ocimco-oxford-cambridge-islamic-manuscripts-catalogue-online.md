@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "FIHRIST: Union catalogue for Islamic and other Middle Eastern Manuscripts"
 ---
+# FIHRIST: Union catalogue for Islamic and other Middle Eastern Manuscripts
 * **Host**: Bodleian Library, University of Oxford
 * **Other institutions involved**: Cambridge University library. Representatives of both institutions chair the FIHRIST board of directors, with an increasing number of contributing [libraries](http://www.fihrist.org.uk/browse/libraries "libraries") .
 * **URL**: <http://www.fihrist.org.uk/>

@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "Rôles et pouvoirs des femmes au XVIe siècle dans la France de l'ouest"
 ---
+# Rôles et pouvoirs des femmes au XVIe siècle dans la France de l'ouest
 
 
 

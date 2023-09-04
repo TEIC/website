@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "Henrik Ibsen's Writings"
 ---
+# Henrik Ibsen's Writings
 
 
 

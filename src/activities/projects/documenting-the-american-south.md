@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "Documenting the American South"
 ---
+# Documenting the American South
 
 
 

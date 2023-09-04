@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "BVH-Virtual Humanistic Libraries (Bibliotheques Virtuelles Humanistes)"
 ---
+# BVH-Virtual Humanistic Libraries (Bibliotheques Virtuelles Humanistes)
 
 
 

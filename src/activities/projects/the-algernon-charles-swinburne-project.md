@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "The Algernon Charles Swinburne             Project"
 ---
+# The Algernon Charles Swinburne             Project
 
 
 

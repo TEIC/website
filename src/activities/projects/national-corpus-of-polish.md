@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "National Corpus of Polish"
 ---
+# National Corpus of Polish
 
 
 

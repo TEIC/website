@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "British National Corpus"
 ---
+# British National Corpus
 
 
 

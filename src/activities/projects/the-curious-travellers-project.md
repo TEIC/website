@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "The Curious Travellers project"
 ---
+# The Curious Travellers project
 **Host:** University of Glasgow
 
 

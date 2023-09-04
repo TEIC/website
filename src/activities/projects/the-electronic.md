@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "The Electronic"
 ---
+# The Electronic
 
 
 

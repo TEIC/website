@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "Digital Mitford: The Mary Russell       Mitford Archive"
 ---
+# Digital Mitford: The Mary Russell       Mitford Archive
 
 
 

@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "Kolb-Proust Archive for Research"
 ---
+# Kolb-Proust Archive for Research
 
 
 

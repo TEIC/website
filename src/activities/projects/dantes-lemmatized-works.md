@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "Dante's Lemmatized Works"
 ---
+# Dante's Lemmatized Works
 
 
 

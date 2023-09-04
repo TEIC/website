@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "Oxford Text Archive"
 ---
+# Oxford Text Archive
 
 
 

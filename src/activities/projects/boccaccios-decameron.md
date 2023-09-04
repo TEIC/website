@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "Boccaccio's Decameron"
 ---
+# Boccaccio's Decameron
 
 
 

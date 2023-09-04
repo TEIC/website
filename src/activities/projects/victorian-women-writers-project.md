@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "Victorian Women Writers' Project"
 ---
+# Victorian Women Writers' Project
 
 
 

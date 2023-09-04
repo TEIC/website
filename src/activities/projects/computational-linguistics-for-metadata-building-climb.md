@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "Computational Linguistics for Metadata Building (CLiMB)"
 ---
+# Computational Linguistics for Metadata Building (CLiMB)
 
 
 

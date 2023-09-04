@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "Ancient Inscriptions of the Northern Black Sea"
 ---
+# Ancient Inscriptions of the Northern Black Sea
 
 
 

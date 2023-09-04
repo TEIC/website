@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "The Digital Temple"
 ---
+# The Digital Temple
 
 
 

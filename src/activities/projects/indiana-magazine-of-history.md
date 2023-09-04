@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "Indiana Magazine of History"
 ---
+# Indiana Magazine of History
 
 
 

@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "Szeged Corpus: a natural language processed Hungarian corpus"
 ---
+# Szeged Corpus: a natural language processed Hungarian corpus
 
 
 

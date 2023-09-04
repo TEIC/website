@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "Manuscript Pamphleteering in Early Stuart England"
 ---
+# Manuscript Pamphleteering in Early Stuart England
 
 
 

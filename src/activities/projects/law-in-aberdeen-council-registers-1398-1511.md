@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "Law in Aberdeen Council Registers 1398-1511"
 ---
+# Law in Aberdeen Council Registers 1398-1511
 * **Host**: University of Aberdeen
 * **Other institutions involved**: Aberdeen City and Aberdeenshire Archives
 * **URL**: <https://aberdeenregisters.org/>

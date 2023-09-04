@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "Frequently Asked Questions"
 ---
+# Frequently Asked Questions
 About the TEI
 -------------
 

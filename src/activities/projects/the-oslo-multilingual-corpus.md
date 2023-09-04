@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "The Oslo Multilingual Corpus"
 ---
+# The Oslo Multilingual Corpus
 
 
 

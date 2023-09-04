@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "Peter Plaoul: The Electronic Critical Edition of Plaoul's Commentary on the Sentences"
 ---
+# Peter Plaoul: The Electronic Critical Edition of Plaoul's Commentary on the Sentences
 
 
 

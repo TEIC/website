@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "Bibliotheca legum. A Database on Carolingian Secular Law Texts"
 ---
+# Bibliotheca legum. A Database on Carolingian Secular Law Texts
 
 
 

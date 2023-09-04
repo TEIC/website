@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "The Scandinavian-Canadian Studies Journal"
 ---
+# The Scandinavian-Canadian Studies Journal
 
 
 

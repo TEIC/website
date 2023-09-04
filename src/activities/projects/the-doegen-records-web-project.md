@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "The Doegen Records Web Project"
 ---
+# The Doegen Records Web Project
 
 
 

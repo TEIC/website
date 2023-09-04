@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "Digital Quaker Collection"
 ---
+# Digital Quaker Collection
 
 
 

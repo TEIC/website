@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "Corpus of Patient Documents (CoPaDocs)"
 ---
+# Corpus of Patient Documents (CoPaDocs)
 * **Host**: University of Erlangen-Nuremberg
 * **URL**: [http://copadocs.de](http://copadocs.de/)
 * **Main language**: German

@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "Dingler-Online"
 ---
+# Dingler-Online
 
 
 

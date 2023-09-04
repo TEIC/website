@@ -2,7 +2,7 @@ module.exports = {
   posts: function (collectionApi) {
     return collectionApi.getFilteredByGlob('src/posts/**/*.md');
   },
-  projects: function (collectionApi) {
-    return collectionApi.getFilteredByGlob('src/projects/**/*.md');
+  activities: function (collectionApi) {
+    return collectionApi.getFilteredByGlob('src/activities/**/*.md');
   }
 }

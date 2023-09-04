@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "Cambridge Digital Library"
 ---
+# Cambridge Digital Library
 * **Host**: University of Cambridge
 * **URL**: <https://cudl.lib.cam.ac.uk/>
 * **Main language**: Multilingual

@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "Duxbury Online Historical         Archive"
 ---
+# Duxbury Online Historical         Archive
 
 
 

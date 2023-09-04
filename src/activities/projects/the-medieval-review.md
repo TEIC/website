@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "The Medieval Review"
 ---
+# The Medieval Review
 
 
 

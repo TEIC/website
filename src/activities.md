@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "Activities"
 ---
+# Activities
 The TEI Guidelines require constant maintenance, development, and promotion in order to remain useful. Improvements and additions to the standard are made continuously, in response to evolving technologies and the demands of the user community.
 
 

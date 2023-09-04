@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "The Shelley-Godwin Archive"
 ---
+# The Shelley-Godwin Archive
 
 
 

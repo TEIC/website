@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "Salisbury Square"
 ---
+# Salisbury Square
 * **Host**: The University of Wisconsin, Green Bay
 * **URL**: <http://www.salisburysquare.com/TSOP/>
 * **Main language**: English

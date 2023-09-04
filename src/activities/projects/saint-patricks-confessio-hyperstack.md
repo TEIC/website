@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "Saint Patrick's Confessio HyperStack"
 ---
+# Saint Patrick's Confessio HyperStack
 
 
 

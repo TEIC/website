@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "Partial Transcription of John Lydgate's \"Fall of Princes\""
 ---
+# Partial Transcription of John Lydgate's \"Fall of Princes\"
 
 
 

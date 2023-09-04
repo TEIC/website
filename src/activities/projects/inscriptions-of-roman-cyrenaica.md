@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "Inscriptions of Roman Cyrenaica"
 ---
+# Inscriptions of Roman Cyrenaica
 
 
 

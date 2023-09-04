@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "Théâtre classique (1550-1890)"
 ---
+# Théâtre classique (1550-1890)
 * **Host**: (personal)
 * **Other institutions involved**: Observatoire de la Vie Littéraire (Université Paris-Sorbonne IV)
 * **URL**: [www.theatre-classique.fr](http://www.theatre-classique.fr)

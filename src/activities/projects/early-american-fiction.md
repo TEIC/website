@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "Early American Fiction"
 ---
+# Early American Fiction
 
 
 

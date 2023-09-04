@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "History"
 ---
+# History
 The TEI was established in 1987 to develop, maintain, and promulgate hardware- and software-independent methods for encoding humanities data in electronic form. For over three decades the TEI has been extraordinarily successful at achieving its objective and it is now widely used by scholarly projects and libraries around the world.
 
 

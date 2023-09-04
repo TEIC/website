@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "Greek Manuscripts in Sweden"
 ---
+# Greek Manuscripts in Sweden
 
 
 

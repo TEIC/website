@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "Expérimentation de normes de balisage en langues partenaires"
 ---
+# Expérimentation de normes de balisage en langues partenaires
 
 
 

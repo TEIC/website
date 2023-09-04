@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "Call for Communications Officer"
 ---
+# Call for Communications Officer
 Are you looking for a way to become more involved in the Text Encoding Initiative Consortium’s (TEI-C) community? Do you have basic communications IT skills that you could share?
 
 

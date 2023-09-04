@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "Boissy Archive"
 ---
+# Boissy Archive
 
 
 

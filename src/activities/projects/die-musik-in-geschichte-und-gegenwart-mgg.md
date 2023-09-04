@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "Die Musik in Geschichte und       Gegenwart (MGG)"
 ---
+# Die Musik in Geschichte und       Gegenwart (MGG)
 
 
 

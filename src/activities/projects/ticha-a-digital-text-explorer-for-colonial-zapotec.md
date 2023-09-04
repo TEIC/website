@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "Ticha: a digital text explorer for Colonial Zapotec"
 ---
+# Ticha: a digital text explorer for Colonial Zapotec
 
 
 

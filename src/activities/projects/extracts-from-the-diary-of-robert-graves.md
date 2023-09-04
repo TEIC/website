@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "Extracts from the Diary of Robert Graves"
 ---
+# Extracts from the Diary of Robert Graves
 
 
 

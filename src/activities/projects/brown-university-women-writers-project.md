@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "Brown University Women Writers Project"
 ---
+# Brown University Women Writers Project
 
 
 

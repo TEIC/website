@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "Early Canada Online"
 ---
+# Early Canada Online
 
 
 

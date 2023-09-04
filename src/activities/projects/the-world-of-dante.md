@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "The World of Dante"
 ---
+# The World of Dante
 
 
 

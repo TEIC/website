@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "Learn the TEI"
 ---
+# Learn the TEI
 
 
 

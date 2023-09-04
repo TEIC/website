@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "United Farm Workers of America (California) Collective Bargaining Agreements Collection"
 ---
+# United Farm Workers of America (California) Collective Bargaining Agreements Collection
 
 
 

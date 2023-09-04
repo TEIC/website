@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "The Sternberg Project: Commented Edition of the Correspondence to and from Kaspar Maria von Sternberg (1761-1838)"
 ---
+# The Sternberg Project: Commented Edition of the Correspondence to and from Kaspar Maria von Sternberg (1761-1838)
 
 
 

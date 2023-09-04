@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "Anemoscala: Corpus of Modern Greek Poetry"
 ---
+# Anemoscala: Corpus of Modern Greek Poetry
 * **Host**: Centre for the Greek Language
 * **Other institutions involved**: Co-financed by Greece and the European Union (European Social Fund), through the Operational Programme "Educational and Lifelong Learning", NSRF 2007-2013.
 * **URL**: <http://www.greek-language.gr/digitalResources/literature/tools/concordance/index.html>

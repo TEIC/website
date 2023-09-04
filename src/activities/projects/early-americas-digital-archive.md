@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "Early Americas Digital Archive"
 ---
+# Early Americas Digital Archive
 
 
 

@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "The History of the Accademia di San                 Luca, c. 1590-1635: Documents from the Archivio di                 Stato di Roma"
 ---
+# The History of the Accademia di San                 Luca, c. 1590-1635: Documents from the Archivio di                 Stato di Roma
 
 
 

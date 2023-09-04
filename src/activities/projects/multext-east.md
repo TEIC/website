@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "MULTEXT-East"
 ---
+# MULTEXT-East
 
 
 

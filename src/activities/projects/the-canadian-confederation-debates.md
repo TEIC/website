@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "The Canadian Confederation Debates"
 ---
+# The Canadian Confederation Debates
 
 
 

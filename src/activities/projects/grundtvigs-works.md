@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "Grundtvig’s Works"
 ---
+# Grundtvig’s Works
 **Host:** Aarhus University, Denmark
 
 

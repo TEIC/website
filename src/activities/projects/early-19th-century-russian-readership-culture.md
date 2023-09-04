@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "Early 19th Century Russian Readership & Culture"
 ---
+# Early 19th Century Russian Readership & Culture
 
 
 

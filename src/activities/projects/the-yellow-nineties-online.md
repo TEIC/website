@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "The Yellow Nineties Online"
 ---
+# The Yellow Nineties Online
  
 
 

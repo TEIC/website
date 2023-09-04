@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "Tarsian - A Digital Edition of First Corinthians in Vaticanus Arabicus 13"
 ---
+# Tarsian - A Digital Edition of First Corinthians in Vaticanus Arabicus 13
 
 
 

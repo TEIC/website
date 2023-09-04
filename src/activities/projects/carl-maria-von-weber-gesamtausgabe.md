@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "Carl-Maria-von-Weber-Gesamtausgabe"
 ---
+# Carl-Maria-von-Weber-Gesamtausgabe
 
 
 

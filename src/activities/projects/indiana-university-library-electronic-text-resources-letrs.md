@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "Indiana University Library Electronic Text Resources (LETRS)"
 ---
+# Indiana University Library Electronic Text Resources (LETRS)
 
 
 

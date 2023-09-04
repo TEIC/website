@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "Inscriptions of Roman Tripolitania"
 ---
+# Inscriptions of Roman Tripolitania
 
 
 

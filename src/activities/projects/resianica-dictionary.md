@@ -1,7 +1,9 @@
 ---
+layout: page.njk
 title: "Resianica Dictionary"
 creator: Han Steenwijk
 ---
+# Resianica Dictionary
 
 
 

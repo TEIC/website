@@ -1,6 +1,8 @@
 ---
+layout: page.njk
 title: "Stories for all time: The Icelandic fornaldarsögur"
 ---
+# Stories for all time: The Icelandic fornaldarsögur
 * **Host**: Nordisk Forskningsinstitut, Københavns Universitet
 * **URL**: [http://fasnl.ku.dk](http://fasnl.ku.dk/)
 * **Main language**: English
