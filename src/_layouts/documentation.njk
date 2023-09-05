@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ title }}</title>
+  <link rel="stylesheet" href="/css/bootstrap.min.css">
+  <link rel="stylesheet" href="/css/teic.css">
+  <link rel="stylesheet" href="/css/cetei.css">
+</head>
+<body>
+  {% include 'navbar.html' %}
+    <main>
+      <div class="container col-xxl-8 mt-4">
+        {{ content | safe }}
+      </div>
+    </main>
+    {% include 'footer.html' %}
+    <script src="/js/bootstrap.bundle.min.js"></script>
+    <script src="/js/CETEI.js"></script>
+    <script>
+      const c = new CETEI();
+      c.processPage();
+    </script>
+</body>
+</html>
