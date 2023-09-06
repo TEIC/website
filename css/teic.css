@@ -5,11 +5,18 @@ a {
   font-size: 4rem;
   word-wrap: unset;
 }
+footer {
+  clear: both;
+}
 .nav-link {
   color: white;
 }
 img.hero-emblem {
   margin: auto;
+}
+#sidenav li {
+  list-style: none;
+  margin-top: .5em;
 }
 table {
   border-top: thin solid silver;
