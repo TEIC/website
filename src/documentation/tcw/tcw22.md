@@ -1,6 +1,7 @@
 ---
 layout: documentation.njk
-title: "Building a TEI Release"
+title: "TCW 22: Building a TEI Release"
+tags: 'Working Papers'
 ---
 <div id="tei"><h1>Building a TEI Release</h1><tei-tei data-xmlns="http://www.tei-c.org/ns/1.0" data-origname="TEI"> <tei-teiheader data-origname="teiHeader"> <tei-filedesc data-origname="fileDesc"> <tei-titlestmt data-origname="titleStmt"> <tei-title data-origname="title">Building a TEI Release</tei-title> <tei-author id="MDH" data-origname="author" data-origatts="xml:id">Martin Holmes</tei-author> <tei-author data-origname="author">James Cummings</tei-author> <tei-author data-origname="author">Lou Burnard</tei-author> <tei-author data-origname="author">Sebastian Rahtz</tei-author> <tei-author data-origname="author">David Sewell</tei-author> <tei-author id="KSH" data-origname="author" data-origatts="xml:id">Kevin Hawkins</tei-author> <tei-author id="HC" data-origname="author" data-origatts="xml:id">Hugh Cayless</tei-author> <tei-author id="PS" data-origname="author" data-origatts="xml:id">Peter Stadler</tei-author> <tei-author id="EM" data-origname="author" data-origatts="xml:id">Elli Mylonas</tei-author> <tei-author id="EBB" data-origname="author" data-origatts="xml:id">Elisa Beshero-Bondar</tei-author> <tei-author id="RV" data-origname="author" data-origatts="xml:id">Raffaele Viglianti</tei-author> <tei-author id="JL" data-origname="author" data-origatts="xml:id">Jessica H. Lu</tei-author> <!-- Note: I mean <editor> as per Guidelines: secondary
 	     intellectual responsibility, rather than as an actual

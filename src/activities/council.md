@@ -1,6 +1,8 @@
 ---
 layout: page.njk
 title: "Technical Council"
+tags: activities
+sidenav: 'Working Papers'
 ---
 # Technical Council
 
@@ -13,7 +15,7 @@ The TEI Technical Council consists of eleven members elected to
 staggered three-year terms by the TEI membership at the Annual Meeting. The
 Council meets twice a year in person, and holds a Zoom conference call
 every month.
-### Current Technical Council Members
+## Current Technical Council Members
 
 * __Syd Bauman (Jan 2021 - Dec 2023)__
   * Senior XML Programmer-Analyst, Northeastern University

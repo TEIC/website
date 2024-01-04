@@ -10,8 +10,33 @@
   <body>
     {% include 'navbar.html' %}
     <main>
-      <div class="container col-xxl-8 mt-4">
-        {{ content | safe }}
+      <div class="row">
+        <div class="container col-8 mt-4">
+          {{ content | safe }}
+        </div>
+        {% if sidenav %}
+          <div class="container col-2 ms-0 mt-5">
+            <nav class="navbar navbar-expand-lg">
+              <span></span>
+              <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#sidenav" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation" style="text-align:right">
+                <span class="navbar-toggler-icon"></span>
+              </button>
+              <div class="offcanvas offcanvas-end" id="sidenav">
+                <div class="offcanvas-header">
+                  <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+                </div>
+                <div class="offcanvas-body">
+                  <dl>
+                    <dt>{{ sidenav }}</dt>
+                    {% for page in collections[sidenav] %}
+                      <dd><a href="{{ page.url }}">{{ page.data.title }}</a></dd>
+                    {% endfor %}
+                  </dl>
+                </div>
+              </div>
+            </nav>
+          </div>
+        {% endif %}
       </div>
     </main>
     {% include 'footer.html' %}

@@ -1,6 +1,7 @@
 ---
 layout: documentation.njk
-title: "How to edit the TEI Guidelines"
+title: "TCW 20: How to edit the TEI Guidelines"
+tags: 'Working Papers'
 ---
 <div id="tei"><h1>How to edit the TEI Guidelines</h1><!--
 $LastChangedDate: 2011-12-06$.
