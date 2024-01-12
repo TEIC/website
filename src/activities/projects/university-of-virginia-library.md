@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "University of Virginia Library"
+tags: page
 ---
 # University of Virginia Library
 

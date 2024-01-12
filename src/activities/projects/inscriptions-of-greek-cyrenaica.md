@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "Inscriptions of Greek Cyrenaica"
+tags: page
 ---
 # Inscriptions of Greek Cyrenaica
 

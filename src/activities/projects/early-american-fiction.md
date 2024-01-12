@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "Early American Fiction"
+tags: page
 ---
 # Early American Fiction
 

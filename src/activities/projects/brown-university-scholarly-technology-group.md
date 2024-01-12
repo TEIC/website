@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "Brown University Scholarly Technology Group"
+tags: page
 ---
 # Brown University Scholarly Technology Group
 

@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "Alex Catalogue of Electronic Texts"
+tags: page
 ---
 # Alex Catalogue of Electronic Texts
 

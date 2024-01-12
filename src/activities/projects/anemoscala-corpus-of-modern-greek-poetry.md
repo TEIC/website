@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "Anemoscala: Corpus of Modern Greek Poetry"
+tags: page
 ---
 # Anemoscala: Corpus of Modern Greek Poetry
 * **Host**: Centre for the Greek Language

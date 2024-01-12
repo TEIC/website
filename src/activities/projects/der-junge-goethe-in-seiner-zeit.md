@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "Der Junge Goethe in Seiner Zeit"
+tags: page
 ---
 # Der Junge Goethe in Seiner Zeit
 

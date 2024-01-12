@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "The Thomas MacGreevy Archive"
+tags: page
 ---
 # The Thomas MacGreevy Archive
 

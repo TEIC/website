@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "Indiana Magazine of History"
+tags: page
 ---
 # Indiana Magazine of History
 

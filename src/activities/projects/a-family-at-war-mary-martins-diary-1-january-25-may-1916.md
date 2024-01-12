@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "A Family at War: Mary Martin’s Diary, 1 January – 25 May 1916"
+tags: page
 ---
 # A Family at War: Mary Martin’s Diary, 1 January – 25 May 1916
 

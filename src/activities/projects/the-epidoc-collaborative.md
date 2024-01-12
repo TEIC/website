@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "The EpiDoc Collaborative"
+tags: page
 ---
 # The EpiDoc Collaborative
 

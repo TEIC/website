@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "HyperGrammar"
+tags: page
 ---
 # HyperGrammar
 

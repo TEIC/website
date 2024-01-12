@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "The FIDA Corpus of Slovene Language"
+tags: page
 ---
 # The FIDA Corpus of Slovene Language
 

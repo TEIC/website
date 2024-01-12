@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "The Versioning Machine"
+tags: page
 ---
 # The Versioning Machine
 

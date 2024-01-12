@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "Icon Programming for Humanists, Second Edition"
+tags: page
 ---
 # Icon Programming for Humanists, Second Edition
 

@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "Code of Conduct"
+tags: page
 ---
 # Code of Conduct
 ### For all participants in TEI conversations including social media, mailing lists, meetings, and conferences

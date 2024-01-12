@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "Using XML to generate research tools for Wittgenstein scholars by collaborative groupwork"
+tags: page
 ---
 # Using XML to generate research tools for Wittgenstein scholars by collaborative groupwork
 

@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "Kolb-Proust Archive for Research"
+tags: page
 ---
 # Kolb-Proust Archive for Research
 

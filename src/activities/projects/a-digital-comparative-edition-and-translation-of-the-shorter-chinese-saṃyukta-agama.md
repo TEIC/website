@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "A Digital Comparative Edition and Translation of the Shorter Chinese Saṃyukta Āgama"
+tags: page
 ---
 # A Digital Comparative Edition and Translation of the Shorter Chinese Saṃyukta Āgama
 

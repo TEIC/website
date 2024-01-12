@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "The World of Dante"
+tags: page
 ---
 # The World of Dante
 

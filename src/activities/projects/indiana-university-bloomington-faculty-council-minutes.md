@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "Indiana University Bloomington Faculty             Council Minutes"
+tags: page
 ---
 # Indiana University Bloomington Faculty             Council Minutes
 

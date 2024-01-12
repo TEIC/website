@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "The Harry Watkins Diary: Digital Edition"
+tags: page
 ---
 # The Harry Watkins Diary: Digital Edition
 **Host:** U-M Library Digital Collections

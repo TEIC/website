@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "Workgroups"
+tags: page
 ---
 # Workgroups
 

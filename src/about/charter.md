@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "Charter"
+tags: page
 ---
 # Charter
 

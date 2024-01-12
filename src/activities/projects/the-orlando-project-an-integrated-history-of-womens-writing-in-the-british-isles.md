@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "The Orlando Project: An Integrated History of Women's Writing in the British Isles"
+tags: page
 ---
 # The Orlando Project: An Integrated History of Women's Writing in the British Isles
 

@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "The Electronic"
+tags: page
 ---
 # The Electronic
 

@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "New Left Review"
+tags: page
 ---
 # New Left Review
 

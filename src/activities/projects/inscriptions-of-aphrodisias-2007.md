@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "Inscriptions of Aphrodisias (2007)"
+tags: page
 ---
 # Inscriptions of Aphrodisias (2007)
 

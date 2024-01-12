@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "Call for Proposals: Encoding Cultures – joint MEC and TEI Conference 2023"
+tags: news
 ---
 # Call for Proposals: Encoding Cultures – joint MEC and TEI Conference 2023
 We are pleased to announce a call for papers, posters, panels, and workshops for “Encoding Cultures,” a joint conference of the annual Music Encoding Conference and Text Encoding Initiative Members’ Meeting.

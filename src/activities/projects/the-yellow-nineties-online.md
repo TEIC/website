@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "The Yellow Nineties Online"
+tags: page
 ---
 # The Yellow Nineties Online
  

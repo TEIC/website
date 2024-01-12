@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "Vincent van Gogh - The Letters"
+tags: page
 ---
 # Vincent van Gogh - The Letters
 

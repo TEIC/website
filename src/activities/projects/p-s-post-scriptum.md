@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "P.S. Post Scriptum"
+tags: page
 ---
 # P.S. Post Scriptum
 

@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "beQuali"
+tags: page
 ---
 # beQuali
 * **Host**: CDSP (Sciences Po - CNRS)

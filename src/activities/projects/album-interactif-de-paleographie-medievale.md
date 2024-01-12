@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "Album interactif de paléographie médiévale"
+tags: page
 ---
 # Album interactif de paléographie médiévale
 

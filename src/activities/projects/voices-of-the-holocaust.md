@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "Voices of the Holocaust"
+tags: page
 ---
 # Voices of the Holocaust
 

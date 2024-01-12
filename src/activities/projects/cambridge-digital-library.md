@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "Cambridge Digital Library"
+tags: page
 ---
 # Cambridge Digital Library
 * **Host**: University of Cambridge

@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "Digital Archives and Pacific       Cultures"
+tags: page
 ---
 # Digital Archives and Pacific       Cultures
 

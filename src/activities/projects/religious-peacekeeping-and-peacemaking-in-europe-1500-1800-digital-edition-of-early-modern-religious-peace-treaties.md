@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "Religious Peacekeeping and Peacemaking in Europe, 1500-1800: Digital Edition of Early Modern Religious Peace Treaties"
+tags: page
 ---
 # Religious Peacekeeping and Peacemaking in Europe, 1500-1800: Digital Edition of Early Modern Religious Peace Treaties
 

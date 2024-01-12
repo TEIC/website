@@ -1,0 +1,12 @@
+version: '3.8'
+
+services:
+  web:
+    image: httpd:2.4
+    ports: 
+      - "9000:80"
+    volumes:
+      - ../dist:/usr/local/apache2/htdocs
+      - ./conf/my-httpd.conf:/usr/local/apache2/conf/httpd.conf
+    restart: on-failure
+

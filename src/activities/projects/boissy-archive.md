@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "Boissy Archive"
+tags: page
 ---
 # Boissy Archive
 

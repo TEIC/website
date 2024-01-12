@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "Deutsches Textarchiv  (The German Text Archive)"
+tags: page
 ---
 # Deutsches Textarchiv  (The German Text Archive)
 

@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "CELT Project: The Corpus of Electronic Texts"
+tags: page
 ---
 # CELT Project: The Corpus of Electronic Texts
 

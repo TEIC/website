@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "American Verse Project"
+tags: page
 ---
 # American Verse Project
 

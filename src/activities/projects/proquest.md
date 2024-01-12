@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "ProQuest"
+tags: page
 ---
 # ProQuest
 

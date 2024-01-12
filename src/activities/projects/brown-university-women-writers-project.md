@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "Brown University Women Writers Project"
+tags: page
 ---
 # Brown University Women Writers Project
 

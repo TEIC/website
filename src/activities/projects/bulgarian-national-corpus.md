@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "Bulgarian National Corpus"
+tags: page
 ---
 # Bulgarian National Corpus
 

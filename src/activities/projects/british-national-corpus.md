@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "British National Corpus"
+tags: page
 ---
 # British National Corpus
 

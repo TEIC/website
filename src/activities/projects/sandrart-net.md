@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "Sandrart.net"
+tags: page
 ---
 # Sandrart.net
 

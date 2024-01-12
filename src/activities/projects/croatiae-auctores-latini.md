@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "Croatiae auctores Latini"
+tags: page
 ---
 # Croatiae auctores Latini
 

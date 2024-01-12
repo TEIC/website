@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "SARIT"
+tags: page
 ---
 # SARIT
 

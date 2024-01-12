@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "Die Musik in Geschichte und       Gegenwart (MGG)"
+tags: page
 ---
 # Die Musik in Geschichte und       Gegenwart (MGG)
 

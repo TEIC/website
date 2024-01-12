@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "LdoD Archive: Collaborative Digital Archive of the Book of Disquiet"
+tags: page
 ---
 # LdoD Archive: Collaborative Digital Archive of the Book of Disquiet
 

@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "Tell us about your project"
+tags: page
 ---
 # Tell us about your project
 

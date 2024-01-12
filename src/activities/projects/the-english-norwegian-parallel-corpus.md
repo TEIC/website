@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "The English-Norwegian Parallel Corpus"
+tags: page
 ---
 # The English-Norwegian Parallel Corpus
 

@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "Biblioteca Digital del Pensamiento      Novohispano"
+tags: page
 ---
 # Biblioteca Digital del Pensamiento      Novohispano
 

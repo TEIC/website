@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "Corpus of Patient Documents (CoPaDocs)"
+tags: page
 ---
 # Corpus of Patient Documents (CoPaDocs)
 * **Host**: University of Erlangen-Nuremberg

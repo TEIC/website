@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "travel!digital"
+tags: page
 ---
 # travel!digital
 **Host:** ACDH Austrian Centre for Digital Humanities

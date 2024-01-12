@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "correspSearch"
+tags: page
 ---
 # correspSearch
 **Host:** Berlin-Brandenburg Academy of Sciences and Humanities

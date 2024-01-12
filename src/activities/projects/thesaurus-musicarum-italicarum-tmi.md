@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "Thesaurus Musicarum Italicarum (TMI)"
+tags: page
 ---
 # Thesaurus Musicarum Italicarum (TMI)
 

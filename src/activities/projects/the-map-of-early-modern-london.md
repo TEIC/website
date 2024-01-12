@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "The Map of Early Modern London"
+tags: page
 ---
 # The Map of Early Modern London
 

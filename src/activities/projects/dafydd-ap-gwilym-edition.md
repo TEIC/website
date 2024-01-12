@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "Dafydd Ap Gwilym Edition"
+tags: page
 ---
 # Dafydd Ap Gwilym Edition
 

@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "​​ISTEX - Socle de la Bibliothèque Scientifique Numérique Nationale"
+tags: page
 ---
 # ​​ISTEX - Socle de la Bibliothèque Scientifique Numérique Nationale
 **Host:** Institute for scientific and technical information/ Institut de l'information scientifique et technique du CNRS (Inist-CNRS)

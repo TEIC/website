@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "New Zealand Electronic Text Centre"
+tags: page
 ---
 # New Zealand Electronic Text Centre
 

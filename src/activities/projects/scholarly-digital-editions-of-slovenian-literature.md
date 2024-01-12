@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "Scholarly Digital Editions of Slovenian Literature"
+tags: page
 ---
 # Scholarly Digital Editions of Slovenian Literature
 

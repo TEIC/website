@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "Beta maṣāḥǝft: Manuscripts of Ethiopia and Eritrea"
+tags: page
 ---
 # Beta maṣāḥǝft: Manuscripts of Ethiopia and Eritrea
 **Host:** Akademie der Wissenschaften in Hamburg

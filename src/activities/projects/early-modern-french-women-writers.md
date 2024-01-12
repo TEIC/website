@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "Early Modern French Women Writers"
+tags: page
 ---
 # Early Modern French Women Writers
 

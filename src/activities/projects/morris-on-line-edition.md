@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "Morris On-Line Edition"
+tags: page
 ---
 # Morris On-Line Edition
 

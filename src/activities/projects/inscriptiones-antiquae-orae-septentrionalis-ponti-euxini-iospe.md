@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "Inscriptiones antiquae Orae         Septentrionalis Ponti Euxini (IOSPE)"
+tags: page
 ---
 # Inscriptiones antiquae Orae         Septentrionalis Ponti Euxini (IOSPE)
 

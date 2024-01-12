@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "Europeana Regia"
+tags: page
 ---
 # Europeana Regia
 

@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "Henrik Ibsen's Writings"
+tags: page
 ---
 # Henrik Ibsen's Writings
 

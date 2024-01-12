@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "Ernst Barlach: Bibliographical                 Listing of Secondary Literature"
+tags: page
 ---
 # Ernst Barlach: Bibliographical                 Listing of Secondary Literature
 

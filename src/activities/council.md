@@ -2,7 +2,9 @@
 layout: page.njk
 title: "Technical Council"
 tags: activities
-sidenav: 'Working Papers'
+sidenav: "Council"
+eleventyNavigation:
+  key: Council
 ---
 # Technical Council
 

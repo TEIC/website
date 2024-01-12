@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "The Mary Baker Eddy Papers Project"
+tags: page
 ---
 # The Mary Baker Eddy Papers Project
 

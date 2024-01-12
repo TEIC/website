@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "Théâtre classique (1550-1890)"
+tags: page
 ---
 # Théâtre classique (1550-1890)
 * **Host**: (personal)

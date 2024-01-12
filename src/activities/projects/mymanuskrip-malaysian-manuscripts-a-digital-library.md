@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "MyManuskrip (Malaysian Manuscripts):                 a Digital Library"
+tags: page
 ---
 # MyManuskrip (Malaysian Manuscripts):                 a Digital Library
 

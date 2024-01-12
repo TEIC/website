@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "Voltaire Foundation"
+tags: page
 ---
 # Voltaire Foundation
 

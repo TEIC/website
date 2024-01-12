@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "Les dossiers de Bouvard et Pécuchet (Flaubert)"
+tags: page
 ---
 # Les dossiers de Bouvard et Pécuchet (Flaubert)
 

@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "Poetess Archive"
+tags: page
 ---
 # Poetess Archive
 

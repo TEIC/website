@@ -4,23 +4,36 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ title }}</title>
-  <link rel="stylesheet" href="/css/bootstrap.min.css">
   <link rel="stylesheet" href="/css/teic.css">
   <link rel="stylesheet" href="/css/cetei.css">
 </head>
 <body>
   {% include 'navbar.html' %}
-    <main>
-      <div class="container col-xxl-8 mt-4">
-        {{ content | safe }}
-      </div>
-    </main>
-    {% include 'footer.html' %}
-    <script src="/js/bootstrap.bundle.min.js"></script>
-    <script src="/js/CETEI.js"></script>
-    <script>
-      const c = new CETEI();
-      c.processPage();
-    </script>
+  <nav aria-label="breadcrumb">
+    {% set breadcrumbs = collections.all | eleventyNavigationBreadcrumb(navkey, {includeSelf: true}) %}
+    <ol class="breadcrumb">
+      {%- for breadcrumb in breadcrumbs -%}
+        <li class="breadcrumb-item">
+          {%- if breadcrumb.key != eleventyNavigation.key -%}
+          <a href="{{ breadcrumb.url }}">{{ breadcrumb.title }}</a>
+        {%- else -%}
+          {{ breadcrumb.title }}
+        {%- endif -%}
+        </li>
+      {%- endfor -%}
+    </ol>
+  </nav>
+  <main>
+    <div class="container col-xxl-8 mt-4">
+      {{ content | safe }}
+    </div>
+  </main>
+  {% include 'footer.html' %}
+  <script src="/js/bootstrap.bundle.min.js"></script>
+  <script src="/js/CETEI.js"></script>
+  <script>
+    const c = new CETEI();
+    c.processPage();
+  </script>
 </body>
 </html>

@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "Archimedes Palimpsest Project"
+tags: page
 ---
 # Archimedes Palimpsest Project
 

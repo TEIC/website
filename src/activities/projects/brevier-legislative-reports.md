@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "Brevier Legislative Reports"
+tags: page
 ---
 # Brevier Legislative Reports
 

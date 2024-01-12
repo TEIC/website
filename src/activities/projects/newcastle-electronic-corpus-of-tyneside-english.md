@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "Newcastle Electronic Corpus of                 Tyneside English"
+tags: page
 ---
 # Newcastle Electronic Corpus of                 Tyneside English
 

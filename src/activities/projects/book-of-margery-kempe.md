@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "Book of Margery Kempe"
+tags: page
 ---
 # Book of Margery Kempe
 

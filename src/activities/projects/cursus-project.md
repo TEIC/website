@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "Cursus Project"
+tags: page
 ---
 # Cursus Project
  

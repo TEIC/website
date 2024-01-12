@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "Indiana University Board of Trustees             Minutes"
+tags: page
 ---
 # Indiana University Board of Trustees             Minutes
 

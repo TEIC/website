@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "Capitularia. Edition of the Frankish Capitularies"
+tags: page
 ---
 # Capitularia. Edition of the Frankish Capitularies
 

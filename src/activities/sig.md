@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "Special Interest Groups (SIGs)"
+tags: page
 ---
 # Special Interest Groups (SIGs)
 TEI Special Interest Groups (SIGs) provide an opportunity for TEI enthusiasts with similar interests to meet and exchange ideas. The TEI provides each SIG with web space, wiki space, a mailing list, and opportunities to meet at the [annual conference and members' meeting](/Membership/Meetings/ "annual conference and members' meeting"). SIG activity might lead to any number of outputs, including training courses or documentation, proposals for extension or modification to the Guidelines, etc., no particular outcomes are required or expected. All SIGs are open to the public.

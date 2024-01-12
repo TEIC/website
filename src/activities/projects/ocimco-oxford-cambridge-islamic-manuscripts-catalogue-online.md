@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "FIHRIST: Union catalogue for Islamic and other Middle Eastern Manuscripts"
+tags: page
 ---
 # FIHRIST: Union catalogue for Islamic and other Middle Eastern Manuscripts
 * **Host**: Bodleian Library, University of Oxford

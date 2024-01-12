@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "Digitales Wörterbuch der deutschen Sprache (The Digital Dictionary of the German Language)"
+tags: page
 ---
 # Digitales Wörterbuch der deutschen Sprache (The Digital Dictionary of the German Language)
 

@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "Guidelines"
+tags: page
 ---
 # Guidelines
 

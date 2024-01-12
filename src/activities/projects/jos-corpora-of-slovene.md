@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "JOS corpora of Slovene"
+tags: page
 ---
 # JOS corpora of Slovene
 

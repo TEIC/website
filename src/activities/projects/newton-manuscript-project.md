@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "Newton Manuscript Project"
+tags: page
 ---
 # Newton Manuscript Project
 

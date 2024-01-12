@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "Cambridge University Press"
+tags: page
 ---
 # Cambridge University Press
 

@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "For Better for Verse"
+tags: page
 ---
 # For Better for Verse
 

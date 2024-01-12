@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "The Legacy Tobacco Documents Library"
+tags: page
 ---
 # The Legacy Tobacco Documents Library
 

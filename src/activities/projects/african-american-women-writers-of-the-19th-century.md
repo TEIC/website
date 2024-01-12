@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "African American Women Writers of the 19th Century"
+tags: page
 ---
 # African American Women Writers of the 19th Century
 **Host:** The New York Public Library

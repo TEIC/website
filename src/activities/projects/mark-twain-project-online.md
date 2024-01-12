@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "Mark Twain Project Online"
+tags: page
 ---
 # Mark Twain Project Online
 

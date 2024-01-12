@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "The Origin of Notaries Public in Asturias"
+tags: page
 ---
 # The Origin of Notaries Public in Asturias
 **Host:** University of Oviedo. Laboratorio de Documentación Histórica (DocuLab)

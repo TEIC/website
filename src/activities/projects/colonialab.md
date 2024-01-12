@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "coloniaLab"
+tags: page
 ---
 # coloniaLab
 

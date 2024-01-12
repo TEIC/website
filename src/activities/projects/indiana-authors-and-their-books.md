@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "Indiana Authors and Their Books"
+tags: page
 ---
 # Indiana Authors and Their Books
 

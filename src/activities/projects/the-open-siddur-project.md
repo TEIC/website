@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "The Open Siddur Project"
+tags: page
 ---
 # The Open Siddur Project
 

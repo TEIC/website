@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "Le mariage sous L'Ancien Régime"
+tags: page
 ---
 # Le mariage sous L'Ancien Régime
 

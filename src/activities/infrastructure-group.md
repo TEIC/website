@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "Infrastructure Group"
+tags: page
 ---
 # Infrastructure Group
 The TEI-C Infrastructure Group (IG) is responsible for the infrastructure behind the TEI-C's services and web presence. It was formed in 2019 in response to the substantial technical problems surfacing at that time.

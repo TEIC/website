@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "Organization"
+tags: page
 ---
 # Organization
 The TEI Consortium is organized as a non-profit membership consortium, whose members and subscribers are institutions such as universities, libraries, academic projects, research units, and individuals. The TEI's principles and governance are described in detail in its [charter](/about/charter) and [bylaws](/about/bylaws).

@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "Autour des Res Gestae Divi Augusti"
+tags: page
 ---
 # Autour des Res Gestae Divi Augusti
 

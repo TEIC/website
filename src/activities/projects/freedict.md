@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "FreeDict"
+tags: page
 ---
 # FreeDict
 

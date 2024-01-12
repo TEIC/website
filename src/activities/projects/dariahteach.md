@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "#dariahTeach"
+tags: page
 ---
 # #dariahTeach
 * **Host**: Austrian Academy of Sciences

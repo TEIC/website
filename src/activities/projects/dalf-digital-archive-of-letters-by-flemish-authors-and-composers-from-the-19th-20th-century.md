@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "DALF - Digital Archive of Letters by Flemish Authors and Composers from the 19th & 20th century"
+tags: page
 ---
 # DALF - Digital Archive of Letters by Flemish Authors and Composers from the 19th & 20th century
 

@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "A Consortium Proposal for TEI"
+tags: page
 ---
 # A Consortium Proposal for TEI
  

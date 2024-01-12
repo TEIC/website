@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "The Kapellmeisterbuch of the Abbey                 of Einsiedeln"
+tags: page
 ---
 # The Kapellmeisterbuch of the Abbey                 of Einsiedeln
 

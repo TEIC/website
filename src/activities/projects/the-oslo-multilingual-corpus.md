@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "The Oslo Multilingual Corpus"
+tags: page
 ---
 # The Oslo Multilingual Corpus
 

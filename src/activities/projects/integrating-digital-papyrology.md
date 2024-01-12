@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "Integrating Digital Papyrology"
+tags: page
 ---
 # Integrating Digital Papyrology
 

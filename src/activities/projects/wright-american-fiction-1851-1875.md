@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "Wright American Fiction 1851-1875"
+tags: page
 ---
 # Wright American Fiction 1851-1875
 

@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "Medieval Nordic Text Archive - Menota"
+tags: page
 ---
 # Medieval Nordic Text Archive - Menota
 

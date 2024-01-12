@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "The Future Fire"
+tags: page
 ---
 # The Future Fire
 

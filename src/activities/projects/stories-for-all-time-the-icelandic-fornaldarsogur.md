@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "Stories for all time: The Icelandic fornaldarsögur"
+tags: page
 ---
 # Stories for all time: The Icelandic fornaldarsögur
 * **Host**: Nordisk Forskningsinstitut, Københavns Universitet

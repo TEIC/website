@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "TEI-C Elections 2023"
+tags: news
 ---
 # TEI-C Elections 2023
 * [Introduction](#intro)

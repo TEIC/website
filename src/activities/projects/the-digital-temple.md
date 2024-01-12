@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "The Digital Temple"
+tags: page
 ---
 # The Digital Temple
 

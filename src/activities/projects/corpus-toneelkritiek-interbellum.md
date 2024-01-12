@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "Corpus Toneelkritiek                 Interbellum"
+tags: page
 ---
 # Corpus Toneelkritiek                 Interbellum
 

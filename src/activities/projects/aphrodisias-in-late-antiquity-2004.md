@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "Aphrodisias in Late Antiquity (2004)"
+tags: page
 ---
 # Aphrodisias in Late Antiquity (2004)
 

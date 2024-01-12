@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "Perseus Project"
+tags: page
 ---
 # Perseus Project
 

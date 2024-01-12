@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "Miguel de Cervantes Digital Library"
+tags: page
 ---
 # Miguel de Cervantes Digital Library
 

@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "Model Editions Partnership: Historical Editions in the Digital Age"
+tags: page
 ---
 # Model Editions Partnership: Historical Editions in the Digital Age
 

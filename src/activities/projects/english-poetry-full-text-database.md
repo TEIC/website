@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "English Poetry Full-Text Database"
+tags: page
 ---
 # English Poetry Full-Text Database
 

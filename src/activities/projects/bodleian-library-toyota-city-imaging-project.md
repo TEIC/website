@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "Bodleian Library: Toyota City Imaging Project"
+tags: page
 ---
 # Bodleian Library: Toyota City Imaging Project
 

@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "Icelandic Online Dictionary and Readings"
+tags: page
 ---
 # Icelandic Online Dictionary and Readings
 

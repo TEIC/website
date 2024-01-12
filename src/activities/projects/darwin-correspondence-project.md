@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "Darwin Correspondence Project"
+tags: page
 ---
 # Darwin Correspondence Project
 

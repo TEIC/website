@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "Chinese Buddhist Electronic Text Association"
+tags: page
 ---
 # Chinese Buddhist Electronic Text Association
 

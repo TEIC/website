@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "Tools"
+tags: page
 ---
 # Tools
 

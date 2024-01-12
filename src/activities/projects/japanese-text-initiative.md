@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "Japanese Text Initiative"
+tags: page
 ---
 # Japanese Text Initiative
 

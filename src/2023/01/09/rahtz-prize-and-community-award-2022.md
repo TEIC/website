@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "Rahtz Prize and Community Award 2022"
+tags: news
 ---
 # Rahtz Prize and Community Award 2022
 The TEI Consortium is pleased to announce the winners of the 2022 Rahtz Prize for TEI Ingenuity and the TEI Community Award.

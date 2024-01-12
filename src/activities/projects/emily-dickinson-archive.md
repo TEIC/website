@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "Emily Dickinson Archive"
+tags: page
 ---
 # Emily Dickinson Archive
 

@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "African Languages Lexicon Project (ALLEX)"
+tags: page
 ---
 # African Languages Lexicon Project (ALLEX)
 

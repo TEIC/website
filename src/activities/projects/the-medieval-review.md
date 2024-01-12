@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "The Medieval Review"
+tags: page
 ---
 # The Medieval Review
 

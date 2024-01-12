@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "Customization"
+tags: page
 ---
 # Customization
 Because the TEI Guidelines must cover such a broad domain and user community, it is essential that they be customizable: both to permit the creation of manageable subsets that serve particular purposes, and also to permit usage in areas that the TEI has not yet envisioned. Customization is a central aspect of TEI usage and the Guidelines are designed with customization in mind.

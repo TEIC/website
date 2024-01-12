@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "Norsk Ordbok 2014"
+tags: page
 ---
 # Norsk Ordbok 2014
 

@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "Salisbury Square"
+tags: page
 ---
 # Salisbury Square
 * **Host**: The University of Wisconsin, Green Bay

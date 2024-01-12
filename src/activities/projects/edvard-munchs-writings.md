@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "Edvard Munch's Writings"
+tags: page
 ---
 # Edvard Munch's Writings
 

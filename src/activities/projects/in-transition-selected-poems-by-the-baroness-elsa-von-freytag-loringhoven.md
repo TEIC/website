@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "In Transition: Selected Poems by the                 Baroness Elsa von Freytag-Loringhoven"
+tags: page
 ---
 # In Transition: Selected Poems by the                 Baroness Elsa von Freytag-Loringhoven
 

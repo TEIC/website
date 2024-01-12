@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "Contact the TEI"
+tags: page
 ---
 # Contact the TEI
 Please use the following email addresses to contact the TEI.

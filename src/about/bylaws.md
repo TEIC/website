@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "TEI Bylaws"
+tags: page
 ---
 # TEI Bylaws
 
@@ -29,11 +30,10 @@ Article I. Members
  membership. Any form of institution, consortium, organization,
  project or company may become an Institutional Member. Only
  private individuals may become Individual
- Members. Institutional Members shall have the right to vote in
- all TEI elections, in particular to elect members of the TEI
+ Members. Individual and Institutional Members shall have the right to vote in
+ all TEI elections to elect members of the TEI
  Board of Directors and to elect members of the TEI Technical
- Council. Individual Members shall have the right to elect
- members of the TEI Technical Council. Both classes of Member
+ Council. Both classes of Member
  shall be equally eligible for such other membership benefits
  as the TEI Board of Directors may determine from time to time,
  including but not limited to preferential rates for attendance
@@ -254,8 +254,7 @@ The TEI Board of Directors shall determine overall policy directions for the
  the case of election or appointment to fill a vacancy between regular elections, for
  the term remaining for the vacant position. Terms of office begin at
  the following January 1 and end on December 31.
-**3. Elections.** At each Annual Meeting the Institutional Members shall elect
- candidates to any of the elected positions on the Board of Directors
+**3. Elections.** At each Annual Meeting both Institutional and Individual members shall elect candidates to any of the elected positions on the Board of Directors
  due to be vacated. In the election of Directors each elected position
  shall be voted on as a separate matter with each member entitled to
  vote receiving one vote for each such position.
@@ -360,7 +359,7 @@ Article VII: Amendments
 
 These Bylaws may be repealed or amended or new Bylaws adopted by
  affirmative vote of at least one-half of the Members of Consortium
- voting in person or by proxy at a regular or Special Meeting, or, to
+ voting in person, online, or by proxy at a regular or Special Meeting, or, to
  the extent permitted by law and not in conflict with the Articles of
  Incorporation, by a true majority of the Board of Directors then in
  office acting at a regular or Special Meeting, or by unanimous written

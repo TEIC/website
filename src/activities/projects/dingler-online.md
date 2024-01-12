@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "Dingler-Online"
+tags: page
 ---
 # Dingler-Online
 

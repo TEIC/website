@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "The Digital Walters"
+tags: page
 ---
 # The Digital Walters
 
