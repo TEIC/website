@@ -1,0 +1,36 @@
+<nav class="navbar navbar-expand-lg navbar-dark" style="background-color: #0059A8;">
+  <div class="container-fluid">
+    <a class="navbar-brand p-0 m-0" href="/">
+      <img src="/img/emblem_color_dark.png" alt="TEI Emblem" width="40"/>
+    </a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#TEIMenu" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="TEIMenu">
+      <ul class="navbar-nav ms-1 me-auto mb-2 mb-lg-0">
+        {% for menu in menus %}
+          {% if menu.en.items %}
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="{{ menu.id }}Menu" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                {{ menu.en.name }}
+              </a>
+              <div class="dropdown-menu" aria-labelledby="{{ menu.id }}Name">
+                {% for item in menu.en.items %}
+                  <a class="dropdown-item" href="{{ item.url }}">{{ item.name }}</a>
+                {% endfor %}
+              </div>
+            </li>
+          {% else %}
+            <li class="nav-item">
+              <a class="nav-link" href="{{ menu.en.url }}">{{ menu.en.name }}</a>
+            </li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+      <form class="d-flex">
+        <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search"/>
+        <button class="btn btn-outline-light" type="submit">Search</button>
+      </form>
+    </div>
+  </div>
+</nav>

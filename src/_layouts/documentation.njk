@@ -8,7 +8,7 @@
   <link rel="stylesheet" href="/css/cetei.css">
 </head>
 <body>
-  {% include 'navbar.html' %}
+  {% include 'navbar.njk' %}
   <nav aria-label="breadcrumb">
     {% set breadcrumbs = collections.all | eleventyNavigationBreadcrumb(navkey, {includeSelf: true}) %}
     <ol class="breadcrumb">

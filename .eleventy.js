@@ -17,7 +17,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy({ "src/assets/css/*.css": "css" });
   eleventyConfig.addPassthroughCopy({ "src/assets/img": "img" });
   eleventyConfig.addPassthroughCopy("src/**/*.var");
-
+  eleventyConfig.addPassthroughCopy({ "src/_data/*.json": "data" });
   eleventyConfig.addPlugin(eleventyNavigationPlugin);
 
   eleventyConfig.addTemplateFormats("scss");
@@ -55,6 +55,9 @@ module.exports = function(eleventyConfig) {
     getData: async function(inputPath) {
       const file = fs.readFileSync(inputPath, 'utf8');
       const jdom = new JSDOM(file, { contentType: "text/xml" });
+      if (!jdom.window.document.querySelector("TEI")) {
+        return;
+      }
       return {
         "title": jdom.window.document.querySelector("titleStmt > title").textContent,
         "navkey": inputPath.replace(".*/", "").replace(".xml", ""),
@@ -67,6 +70,9 @@ module.exports = function(eleventyConfig) {
 
     compile: async function(contents, inputPath) {
       const jdom = new JSDOM(contents, { contentType: "text/xml" });
+      if (!jdom.window.document.querySelector("TEI")) {
+        return;
+      }
       let cetei = new CETEI({ documentObject: jdom.window.document });
       let doc = await cetei.domToHTML5(jdom.window.document);
       return async (data) => {

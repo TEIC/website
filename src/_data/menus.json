@@ -1,0 +1,186 @@
+[
+  {
+    "id": "guidelines",
+    "en": {
+      "name": "Guidelines",
+      "items": [
+        {
+          "name": "Current Guidelines",
+          "url": "/release/doc/tei-p5-doc/en/html/index.html"
+        },
+        {
+          "name": "Older Versions",
+          "url": "/guidelines/p5/"
+        },
+        {
+          "name": "Customization",
+          "url": "/guidelines/customization/"
+        },
+        {
+          "name": "Licensing & Citation",
+          "url": "/guidelines/licensing-and-citation/"
+        },
+        {
+          "name": "TEI @ GitHub",
+          "url": "https://github.com/TEIC/TEI"
+        },
+        {
+          "name": "Learn the TEI",
+          "url": "/support/learn/"},
+        {
+          "name": "About the Guidelines",
+          "url": "/guidelines/"}
+      ]
+    }
+  },
+  {
+    "id": "activities",
+    "en": {
+      "name": "Activities",
+      "items": [
+        {
+          "name": "Annual Meetings",
+          "url": "https://members.tei-c.org/Events/meetings"
+        },
+        {
+          "name": "Technical Council",
+          "url": "/activities/council/"
+        },
+        {
+          "name": "Board",
+          "url": "/activities/board/"
+        },
+        {
+          "name": "Workgroups",
+          "url": "/activities/workgroups/"
+        },
+        {
+          "name": "SIGs",
+          "url": "/activities/sig/"
+        },
+        {
+          "name": "Infrastructure Group",
+          "url": "/activities/infrastructure-group/"
+        },
+        {
+          "name": "Journal of the TEI",
+          "url": "activities/journal/"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tools",
+    "en": {
+      "name": "Tools",
+      "items": [
+        {
+          "name": "TEIGarage",
+          "url": "https://teigarage.tei-c.org/"
+        },
+        {
+          "name": "Roma",
+          "url": "https://roma.tei-c.org"
+        },
+        {
+          "name": "Roma Antiqua",
+          "url": "https://romaantiqua.tei-c.org"
+        },
+        {
+          "name": "Stylesheets",
+          "url": "/tools/stylesheets/"
+        },
+        {
+          "name": "About TEI Tools",
+          "url": "/tools/"}
+      ]
+    }
+  },
+  {
+    "id": "members",
+    "en": {
+      "name": "Membership",
+      "items": [
+        {
+          "name": "Members' Site",
+          "url": "https://members.tei-c.org/"
+        },
+        {
+          "name": "How to Join",
+          "url": "https://members.tei-c.org/Join"
+        },
+        {
+          "name": "Meetings",
+          "url": "https://members.tei-c.org/Events/meetings"
+        }
+      ]
+    }
+  },
+  {
+    "id": "support",
+    "en": {
+      "name": "Support",
+      "items": [
+        {
+          "name": "Support",
+          "url": "/support/"
+        },
+        {
+          "name": "Learn the TEI",
+          "url": "/support/learn/"
+        },
+        {
+          "name": "TEI-L Mailing List",
+          "url": "/support/#tei-l"
+        },
+        {
+          "name": "Issues and Feature Requests",
+          "url": "https://github.com/TEIC/TEI/issues"
+        }
+      ]
+    }
+  },
+  {
+    "id": "about",
+    "en": {
+      "name": "About",
+      "items": [
+        {
+          "name": "About the TEI",
+          "url": "/about/"
+        },
+        {
+          "name": "Goals and Mission",
+          "url": "/about/mission/"
+        },
+        {
+          "name": "Board of Directors",
+          "url": "/about/board-of-directors/"
+        },
+        {
+          "name": "Frequently Asked Questions",
+          "url": "/about/frequently-asked-questions/"
+        },
+        {
+          "name": "History",
+          "url": "/about/history/"
+        },
+        {
+          "name": "Vault",
+          "url": "/Vault/"
+        },
+        {
+          "name": "Contact",
+          "url": "/about/contact/"
+        }
+      ]
+    }
+  },
+  {
+    "id": "news",
+    "en": {
+      "name": "News", 
+      "url": "/news/"
+    }
+  }
+]
