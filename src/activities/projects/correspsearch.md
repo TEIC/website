@@ -17,7 +17,7 @@ With correspSearch you may search within the metadata of diverse digital
 or printed scholarly editions of letters. The web service assembles and
 analyses files in the "Correspondence Metadata Interchange format“
 (CMIF) that has been developed by the TEI Correspondence Special
-Interest Group ([http://www.tei-c.org/Activities/SIG/Correspondence/](https://www.tei-c.org/Activities/SIG/Correspondence/)).
+Interest Group ([http://www.tei-c.org/Activities/SIG/Correspondence/](/Activities/SIG/Correspondence/)).
 
 
 Apart from a website, correspSearch provides also an API which allows

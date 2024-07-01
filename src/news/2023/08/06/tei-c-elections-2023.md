@@ -1,9 +1,11 @@
 ---
 layout: page.njk
 title: "TEI-C Elections 2023"
+date: 2023-08-06
 tags: news
 ---
 # TEI-C Elections 2023
+
 * [Introduction](#intro)
 * [A Note on Voting](#note)
 * [Candidate Statements: TEI Technical Council](#council)

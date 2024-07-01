@@ -25,6 +25,12 @@ module.exports = function(eleventyConfig) {
 
   eleventyConfig.setUseGitIgnore(false);
 
+  eleventyConfig.addFilter("isoDateToPath", 
+    function(date) {
+      return date.replace(/-/g, "/");
+    }
+  );
+
   eleventyConfig.addExtension("scss", {
 
     compileOptions: {

@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "TEI Annual Members Meeting - Report"
+date: 2023-09-24
 tags: news
 ---
 # TEI Annual Members Meeting - Report
@@ -65,7 +66,7 @@ Reports
 (Elisa Beshero-Bondar):
 * Completed and closed 115 tickets and pull requests
 * Issued two releases:
-	+ [Version 4.5.0](https://www.tei-c.org/release/doc/tei-p5-doc/readme-4.5.0.html), "the Release of One's Own", October 26, 2022: (added a new <gender> element and revised <sex>, <person>, and <persona>, allowed for nested <ab> elements)
+	+ [Version 4.5.0](/release/doc/tei-p5-doc/readme-4.5.0.html), "the Release of One's Own", October 26, 2022: (added a new <gender> element and revised <sex>, <person>, and <persona>, allowed for nested <ab> elements)
 	+ [Version 4.6.0](https://tei-c.org/release/doc/tei-p5-doc/readme-4.6.0.html), "the Peace Release" of the TEI Guidelines, April 4, 2023  (<lg> may now include model.pPart.transcriptional, including supplied, redo, and damage )
 * Met face-to-face twice, during the LINCS conference in Guelph, Ontario in May 2023 and in Paderborn in September 2023
 	+ Hatched plans for a new "TEI Lite 2" customization

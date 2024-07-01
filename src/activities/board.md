@@ -3,7 +3,7 @@ layout: page.njk
 title: "Board"
 tags: page
 ---
-The TEI [Board of Directors](https://tei-c.org/about/board-of-directors/) is the governing body for the TEI Consortium, and is responsible for its strategic and financial oversight. The Board consists of five voting members who are elected to staggered two-year terms by the TEI membership at the Annual Meeting, and several nonvoting members potentially drawn from outside the elected membership: the Membership Secretary, the Treasurer, the TEI webmaster, and the chair of the TEI Technical Council. The Board meets once a year in person, immediately following the Annual Meeting, and holds telephone conferences on a regular basis. In addition to [meeting minutes](https://www.tei-c.org/Board/ "meeting minutes"), the Board also uses the [TEI Board Wiki Page](https://wiki.tei-c.org/index.php/TEI-C_Board_of_Directors "TEI Board Wiki Page") to document their work.
+The TEI [Board of Directors](https://tei-c.org/about/board-of-directors/) is the governing body for the TEI Consortium, and is responsible for its strategic and financial oversight. The Board consists of five voting members who are elected to staggered two-year terms by the TEI membership at the Annual Meeting, and several nonvoting members potentially drawn from outside the elected membership: the Membership Secretary, the Treasurer, the TEI webmaster, and the chair of the TEI Technical Council. The Board meets once a year in person, immediately following the Annual Meeting, and holds telephone conferences on a regular basis. In addition to [meeting minutes](/Board/ "meeting minutes"), the Board also uses the [TEI Board Wiki Page](https://wiki.tei-c.org/index.php/TEI-C_Board_of_Directors "TEI Board Wiki Page") to document their work.
 
 
 
@@ -15,59 +15,59 @@ Meetings of the Board
 ---
 
 * 15 October 2020: Zoom ([minutes](https://tei-c.org/board/tei-c-board-meeting-2020-10-15/))
-* 17 September 2020: Zoom ([minutes](https://www.tei-c.org/board/tei-c-board-meeting-2020-09-17))
-* 20 August 2020: Zoom ([minutes](https://www.tei-c.org/board/tei-c-board-meeting-2020-08-20))
-* 16 July 2020: Zoom ([minutes](https://www.tei-c.org/board/tei-c-board-meeting-2020-07-16))
-* 18 June 2020: Zoom ([minutes](https://www.tei-c.org/board/tei-c-board-meeting-2020-06-18))
-* 21 May 2020: Zoom ([minutes](https://www.tei-c.org/board/board-tei-c-board-meeting-2020-05-21))
-* 16 April 2020: Zoom ([minutes](https://www.tei-c.org/board/board-tei-c-board-meeting-2020-04-16/))
-* 19 March 2020: Zoom ([minutes](https://www.tei-c.org/board/tei-c-board-meeting-2020-03-19/))
-* 20 February 2020: Zoom ([minutes](https://www.tei-c.org/board/tei-c-board-meeting-2020-02-20/))
-* 16 January 2020: Zoom ([minutes](https://www.tei-c.org/board/tei-c-board-meeting-2020-01-16/))
+* 17 September 2020: Zoom ([minutes](/board/tei-c-board-meeting-2020-09-17))
+* 20 August 2020: Zoom ([minutes](/board/tei-c-board-meeting-2020-08-20))
+* 16 July 2020: Zoom ([minutes](/board/tei-c-board-meeting-2020-07-16))
+* 18 June 2020: Zoom ([minutes](/board/tei-c-board-meeting-2020-06-18))
+* 21 May 2020: Zoom ([minutes](/board/board-tei-c-board-meeting-2020-05-21))
+* 16 April 2020: Zoom ([minutes](/board/board-tei-c-board-meeting-2020-04-16/))
+* 19 March 2020: Zoom ([minutes](/board/tei-c-board-meeting-2020-03-19/))
+* 20 February 2020: Zoom ([minutes](/board/tei-c-board-meeting-2020-02-20/))
+* 16 January 2020: Zoom ([minutes](/board/tei-c-board-meeting-2020-01-16/))
 
 ---
 
-* 12 December 2019: Zoom ([minutes](https://www.tei-c.org/board/board-tei-c-board-meeting-2019-12-12/))
-* 10 October 2019: Zoom ([minutes](https://www.tei-c.org/board/board-tei-c-board-meeting-2019-10-10/))
-* 20 September 2019 face-to-face meeting, Graz ([minutes](https://www.tei-c.org/board/board-tei-c-face-to-face-board-meeting-2019-09-20/))
-* 8 August 2019: Zoom ([minutes](https://www.tei-c.org/board/board-tei-c-board-meeting-2019-08-08/))
-* 4 July 2019: Zoom ([minutes](https://www.tei-c.org/board/tei-c-board-meeting-2019-07-04/))
-* 13 June 2019: Zoom ([minutes](https://www.tei-c.org/board/board-tei-c-board-meeting-2019-06-13/))
-* 9 May 2019: Zoom ([minutes](https://www.tei-c.org/board/board-tei-c-board-meeting-2019-05-09/))
-* 11 April 2019 Zoom ([minutes](https://www.tei-c.org/board/board-tei-c-board-meeting-2019-04-11/))
-* 14 March 2019: Zoom ([minutes](https://www.tei-c.org/board/board-tei-c-board-meeting-2019-03-14/))
-* 14 February 2019: Zoom ([minutes](https://www.tei-c.org/board/board-tei-c-board-meeting-2019-02-14/))
-* 17 January 2019: Zoom ([minutes](https://www.tei-c.org/board/board-tei-c-board-meeting-2019-01-17/))
+* 12 December 2019: Zoom ([minutes](/board/board-tei-c-board-meeting-2019-12-12/))
+* 10 October 2019: Zoom ([minutes](/board/board-tei-c-board-meeting-2019-10-10/))
+* 20 September 2019 face-to-face meeting, Graz ([minutes](/board/board-tei-c-face-to-face-board-meeting-2019-09-20/))
+* 8 August 2019: Zoom ([minutes](/board/board-tei-c-board-meeting-2019-08-08/))
+* 4 July 2019: Zoom ([minutes](/board/tei-c-board-meeting-2019-07-04/))
+* 13 June 2019: Zoom ([minutes](/board/board-tei-c-board-meeting-2019-06-13/))
+* 9 May 2019: Zoom ([minutes](/board/board-tei-c-board-meeting-2019-05-09/))
+* 11 April 2019 Zoom ([minutes](/board/board-tei-c-board-meeting-2019-04-11/))
+* 14 March 2019: Zoom ([minutes](/board/board-tei-c-board-meeting-2019-03-14/))
+* 14 February 2019: Zoom ([minutes](/board/board-tei-c-board-meeting-2019-02-14/))
+* 17 January 2019: Zoom ([minutes](/board/board-tei-c-board-meeting-2019-01-17/))
 
 ---
 
-* 13 December 2018: Zoom ([minutes](https://www.tei-c.org/board/tei-c-board-meeting-2018-12-18/))
-* 8 November 2018: Zoom ([minutes](https://www.tei-c.org/board/tei-c-board-meeting-2018-11-8/))
-* 18 October 2018: Zoom ([minutes](https://www.tei-c.org/board/tei-c-board-meeting-2018-10-18))
-* 11 September 2018: Tokyo in Person ([minutes](https://www.tei-c.org/board/tei-c-board-meeting-2018-09-11/))
-* 16 August 2018: Zoom ([minutes](https://www.tei-c.org/board/tei-c-board-meeting-2018-08-16/))
-* 12 July 2018: Zoom ([minutes](https://www.tei-c.org/board/tei-c-board-meeting-2018-07-12/))
-* 14 June 2018: Zoom ([minutes](https://www.tei-c.org/board/tei-c-board-meeting-2018-06-14/))
-* 10 May 2017: Zoom ([minutes](https://www.tei-c.org/board/tei-c-board-minutes-2018-05-10/))
-* 12 April 2018: Zoom ([minutes](https://www.tei-c.org/board/tei-c-board-meeting-2018-04-12/))
-* 8 March 2018: Zoom ([minutes](https://www.tei-c.org/board/tei-c-board-meeting-2018-03-08/))
-* 8 February 2018: Zoom ([minutes](https://www.tei-c.org/board/tei-c-board-meeting-2018-02-08/))
-* 11 January 2018: Zoom ([minutes](https://www.tei-c.org/board/tei-c-board-meeting-minutes-2018-01-11/))
+* 13 December 2018: Zoom ([minutes](/board/tei-c-board-meeting-2018-12-18/))
+* 8 November 2018: Zoom ([minutes](/board/tei-c-board-meeting-2018-11-8/))
+* 18 October 2018: Zoom ([minutes](/board/tei-c-board-meeting-2018-10-18))
+* 11 September 2018: Tokyo in Person ([minutes](/board/tei-c-board-meeting-2018-09-11/))
+* 16 August 2018: Zoom ([minutes](/board/tei-c-board-meeting-2018-08-16/))
+* 12 July 2018: Zoom ([minutes](/board/tei-c-board-meeting-2018-07-12/))
+* 14 June 2018: Zoom ([minutes](/board/tei-c-board-meeting-2018-06-14/))
+* 10 May 2017: Zoom ([minutes](/board/tei-c-board-minutes-2018-05-10/))
+* 12 April 2018: Zoom ([minutes](/board/tei-c-board-meeting-2018-04-12/))
+* 8 March 2018: Zoom ([minutes](/board/tei-c-board-meeting-2018-03-08/))
+* 8 February 2018: Zoom ([minutes](/board/tei-c-board-meeting-2018-02-08/))
+* 11 January 2018: Zoom ([minutes](/board/tei-c-board-meeting-minutes-2018-01-11/))
 
 ---
 
-* 14 September 2017: Zoom ([minutes](https://www.tei-c.org/board/tei-c-board-meeting-minutes-2017-09-14/))
-* 17 August 2017: Zoom ([minutes](https://www.tei-c.org/board/tei-c-board-meeting-minutes-2017-08-17/))
-* 13 July 2017: Zoom ([minutes](https://www.tei-c.org/board/tei-c-board-meeting-minutes-2017-07-13/))
-* 11 May 2017: Zoom ([minutes](https://www.tei-c.org/board/tei-c-board-minutes-2017-05-11/))
-* 3 March 2017: Zoom ([minutes](https://www.tei-c.org/board/tei-board-minutes-google-hangout-3-march-2017/))
-* 12 January 2017: Google Hangout ([minutes](https://www.tei-c.org/board/tei-board-minutes-google-hangout-12-january-2017/))
+* 14 September 2017: Zoom ([minutes](/board/tei-c-board-meeting-minutes-2017-09-14/))
+* 17 August 2017: Zoom ([minutes](/board/tei-c-board-meeting-minutes-2017-08-17/))
+* 13 July 2017: Zoom ([minutes](/board/tei-c-board-meeting-minutes-2017-07-13/))
+* 11 May 2017: Zoom ([minutes](/board/tei-c-board-minutes-2017-05-11/))
+* 3 March 2017: Zoom ([minutes](/board/tei-board-minutes-google-hangout-3-march-2017/))
+* 12 January 2017: Google Hangout ([minutes](/board/tei-board-minutes-google-hangout-12-january-2017/))
 
 ---
 
-* 27 September 2016: face-to-face meeting, Vienna ([minutes](https://www.tei-c.org/board/tei-board-meeting-in-person-meeting-2016-09-27/))
-* 21 July 2016: Google Hangout ([minutes](https://www.tei-c.org/board/tei-board-minutes-google-hangout-21-july-2016/))
-* 7 June 2016: Google Hangout ([agenda and minutes](https://www.tei-c.org/board/tei-board-minutes-google-hangout-07-june-2016/))
+* 27 September 2016: face-to-face meeting, Vienna ([minutes](/board/tei-board-meeting-in-person-meeting-2016-09-27/))
+* 21 July 2016: Google Hangout ([minutes](/board/tei-board-minutes-google-hangout-21-july-2016/))
+* 7 June 2016: Google Hangout ([agenda and minutes](/board/tei-board-minutes-google-hangout-07-june-2016/))
 * 12 April 2016: Google Hangout ([agenda and minutes](/board/bm64.xml))
 * 8 March 2016: Google Hangout ([agenda and minutes](/board/bm63.xml))
 * 9 February 2016: Google Hangout ([agenda and minutes](/board/bm62.xml))
@@ -167,7 +167,7 @@ Meetings of the Board
 
 
 
-* 16-17 November 2001: meeting in Pisa ([minutes](https://www.tei-c.org/board/text-encoding-intiative-consortium-minutes-of-the-board-of-directors-meeting-saturday-november-17-2001-grand-hotel-duomo-pisa-italy/))
+* 16-17 November 2001: meeting in Pisa ([minutes](/board/text-encoding-intiative-consortium-minutes-of-the-board-of-directors-meeting-saturday-november-17-2001-grand-hotel-duomo-pisa-italy/))
 * 11-12 May 2001: meeting in Tingveken, Norway ([minutes](/board/bm01.xml))
 
 
@@ -178,12 +178,12 @@ Budget Documents
 ----------------
 
 
-* [2017/2018 finance report](https://www.tei-c.org/wp-content/uploads/2018/12/Finance-Report-2017_18.pdf)
-* [2006 budget projection](https://www.tei-c.org/wp-content/uploads/2017/01/2006budgetproj.pdf)
-* [2005 budget narrative](https://www.tei-c.org/wp-content/uploads/2017/01/2005budgetnarr.pdf)
-* [2005 budget report](https://www.tei-c.org/wp-content/uploads/2017/01/2005budget.pdf)
-* [2004 budget report](https://www.tei-c.org/wp-content/uploads/2017/01/budget_2004.pdf)
-* [2003 budget report](https://www.tei-c.org/wp-content/uploads/2017/01/budget_2003.pdf)
+* [2017/2018 finance report](/wp-content/uploads/2018/12/Finance-Report-2017_18.pdf)
+* [2006 budget projection](/wp-content/uploads/2017/01/2006budgetproj.pdf)
+* [2005 budget narrative](/wp-content/uploads/2017/01/2005budgetnarr.pdf)
+* [2005 budget report](/wp-content/uploads/2017/01/2005budget.pdf)
+* [2004 budget report](/wp-content/uploads/2017/01/budget_2004.pdf)
+* [2003 budget report](/wp-content/uploads/2017/01/budget_2003.pdf)
 
 
 

@@ -18,7 +18,7 @@ tags: page
  Description:
  
  "We are currently developing the Oslo Multilingual Corpus (OMC), which is an extension
- of the [English-Norwegian Parallel Corpus (ENPC)](https://www.tei-c.org/activities/projects/the-english-norwegian-parallel-corpus/).
+ of the [English-Norwegian Parallel Corpus (ENPC)](/activities/projects/the-english-norwegian-parallel-corpus/).
  
  The ENPC consists of text excerpts of approximately 10,000 to 15,000 words from fictional
  and non-fictional Norwegian and English original texts and their translations, amounting

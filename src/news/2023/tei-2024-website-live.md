@@ -1,6 +1,8 @@
 ---
 layout: page.njk
 title: "TEI 2024 website live!"
+date: "2023-12-21"
+permalink: /news/{{date | isoDateToPath}}/{{title | slugify}}
 tags: news
 ---
 # TEI 2024 website live!

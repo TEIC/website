@@ -4,14 +4,14 @@ title: "About the TEI Website"
 tags: page
 ---
 # About the TEI Website
-The TEI website was redesigned in October 2007, to coincide with the 1.0 release of the [P5 Guidelines](https://www.tei-c.org/Guidelines/P5/ "P5 Guidelines"). In addition to the new design, which provides enhanced site navigation, the new site features updated content, written in TEI P5 Lite and delivered to the web as HTML.
+The TEI website was redesigned in October 2007, to coincide with the 1.0 release of the [P5 Guidelines](/Guidelines/P5/ "P5 Guidelines"). In addition to the new design, which provides enhanced site navigation, the new site features updated content, written in TEI P5 Lite and delivered to the web as HTML.
 
 
 Content on www.tei-c.org is a composite of quite a few underlying sources.
 
 
 * Most content is served from a WordPress instance.
-* Some areas of the site are static filesystem directories with special material, such as the ["TEI Vault"](https://www.tei-c.org/Vault/ "\"TEI Vault\"")
+* Some areas of the site are static filesystem directories with special material, such as the ["TEI Vault"](/Vault/ "\"TEI Vault\"")
 * Yet others are pointers to TEI-related material hosted externally, such as the [Journal of the Text Encoding Initiative](http://journal.tei-c.org/ "Journal of the Text Encoding Initiative").
 
 

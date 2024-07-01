@@ -1,0 +1,3 @@
+[submodule "src/documentation/Documentation"]
+	path = src/documentation/Documentation
+	url = https://github.com/TEIC/Documentation.git

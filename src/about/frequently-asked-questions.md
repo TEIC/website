@@ -298,7 +298,7 @@ expertise necessary to apply it appropriately.
 
 
 
-For some people, the simplest way to learn the TEI is to read the [TEI Guidelines](https://www.tei-c.org/release/doc/tei-p5-doc/en/html/). However, the Guidelines are not primarily intended as
+For some people, the simplest way to learn the TEI is to read the [TEI Guidelines](/release/doc/tei-p5-doc/en/html/). However, the Guidelines are not primarily intended as
 a training document, and many find it easier to work with a tutorial or to
 attend a workshop. [Workshops](../Support/Learn/) are
 taught at intervals in various places and also through the [Education SIG](/activities/SIG/Education/). The TEI also

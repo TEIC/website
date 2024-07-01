@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "Call for Communications Officer"
+date: 2023-01-28
 tags: news
 ---
 # Call for Communications Officer

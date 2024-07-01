@@ -1,0 +1,22 @@
+name: Build and Deploy TEI Website
+on:
+  push:
+    branches:
+      - main
+  repository_dispatch:
+    types: [build-tei-website]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Build
+        uses: TartanLLama/actions-eleventy@v1.3
+        with:
+          install_dependencies: true
+      - name: Deploy
+        uses: webfactory/ssh-agent@v0.9.0
+        with:
+          ssh-private-key: ${{ secrets.TEIWEB_KEY }}
+      - run: rsync -avz -e ssh --delete dist/ ${{ secrets.TEIWEB_USER }}@${{ secrets.TEIWEB_HOST }}:${{ secrets.TEIWEB_PATH }}
+      

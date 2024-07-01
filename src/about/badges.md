@@ -7,7 +7,7 @@ tags: page
 
 
 
-![](https://www.tei-c.org/wp-content/uploads/2016/11/I-use-TEI.gif)
+![](/wp-content/uploads/2016/11/I-use-TEI.gif)
 Let others know you use the TEI
 -------------------------------
 

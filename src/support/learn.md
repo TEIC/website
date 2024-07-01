@@ -27,7 +27,7 @@ TEI Training Events
  institutions and for TEI subscribers..
  
  
-[Teach Yourself TEI](https://www.tei-c.org/support/learn/teach-yourself-tei/)
+[Teach Yourself TEI](/support/learn/teach-yourself-tei/)
 -----------------------------------------------------------------------------
 
 
@@ -40,7 +40,7 @@ TEI Training Events
  additions.
  
  
-[A Gentle Introduction to XML](../../release/doc/tei-p5-doc/en/html/SG.html)
+[A Gentle Introduction to XML](/release/doc/tei-p5-doc/en/html/SG.html)
 ----------------------------------------------------------------------------
 
 
@@ -54,7 +54,7 @@ TEI Training Events
  like the TEI work.
  
  
-[Getting Started with P5 ODDs](https://www.tei-c.org/guidelines/customization/getting-started-with-p5-odds/)
+[Getting Started with P5 ODDs](/customization/getting-started-with-p5-odds/)
 ------------------------------------------------------------------------------------------------------------
 
 
@@ -68,7 +68,7 @@ TEI Training Events
  also be created using the web-based [Roma](https://roma.tei-c.org) tool.
  
  
-[Bibliography](https://www.tei-c.org/support/learn/a-bibliography-of-publications-related-to-the-text-encoding-initiative/)
+[Bibliography](/support/learn/a-bibliography-of-publications-related-to-the-text-encoding-initiative/)
 ---------------------------------------------------------------------------------------------------------------------------
 
 

@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "Rahtz Prize for Ingenuity 2023 — Call for nominations and self-submissions"
+date: 2023-08-02
 tags: news
 ---
 # Rahtz Prize for Ingenuity 2023 — Call for nominations and self-submissions

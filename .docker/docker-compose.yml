@@ -7,6 +7,6 @@ services:
       - "9000:80"
     volumes:
       - ../dist:/usr/local/apache2/htdocs
-      - ./conf/my-httpd.conf:/usr/local/apache2/conf/httpd.conf
+      - ./conf/httpd.conf:/usr/local/apache2/conf/httpd.conf
     restart: on-failure
 

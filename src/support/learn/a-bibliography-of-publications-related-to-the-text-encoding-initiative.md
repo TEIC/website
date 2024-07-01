@@ -13,8 +13,8 @@ The lists of readings in markup theory and the TEI now stored in [a TEI Zotero l
 
 
 See these other compilations of works related to the TEI:
-1. *Teach Yourself TEI*. Text Encoding Initiative Consortium. <[http://www.tei-c.org/Support/Learn/tutorials.xml](https://www.tei-c.org/Support/Learn/tutorials.xml)>.
+1. *Teach Yourself TEI*. Text Encoding Initiative Consortium. <[http://www.tei-c.org/Support/Learn/tutorials.xml](/Support/Learn/tutorials.xml)>.
 2. *Journal of the Text Encoding Initiative*. <<http://journal.tei-c.org/>>.
-3. *TEI Members Meeting Archive*. Text Encoding Initiative Consortium. <[http://www.tei-c.org/Vault/MembersMeetings/](https://www.tei-c.org/Vault/MembersMeetings/)>.
+3. *TEI Members Meeting Archive*. Text Encoding Initiative Consortium. <[http://www.tei-c.org/Vault/MembersMeetings/](/Vault/MembersMeetings/)>.
 
 
