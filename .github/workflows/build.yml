@@ -18,5 +18,6 @@ jobs:
         uses: webfactory/ssh-agent@v0.9.0
         with:
           ssh-private-key: ${{ secrets.TEIWEB_KEY }}
+      - run: ssh -o StrictHostKeyChecking=accept-new ${{ secrets.TEIWEB_USER }}@{{ secrets.TEIWEB_HOST }} uptime
       - run: rsync -avz -e ssh --delete dist/ ${{ secrets.TEIWEB_USER }}@${{ secrets.TEIWEB_HOST }}:${{ secrets.TEIWEB_PATH }}
       
