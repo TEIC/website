@@ -27,6 +27,9 @@ module.exports = function(eleventyConfig) {
 
   eleventyConfig.addFilter("isoDateToPath", 
     function(date) {
+      if (date instanceof Date) {
+        date = date.toISOString().replace(/:.*$/, "").replace(/T.*$/, "");
+      }
       return date.replace(/-/g, "/");
     }
   );

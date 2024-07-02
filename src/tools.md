@@ -5,12 +5,6 @@ tags: page
 ---
 # Tools
 
-
-
- 
- 
-
-
  Tools for creating, editing, transforming, and publishing TEI documents and schemas
  are essential to using the TEI Guidelines. Since the TEI rules and recomendations
  are expressed in XML, TEI users can take advantage of the abundance of XML tools developed
