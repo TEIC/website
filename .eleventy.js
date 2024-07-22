@@ -18,6 +18,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy({ "src/assets/img": "img" });
   eleventyConfig.addPassthroughCopy("src/**/*.var");
   eleventyConfig.addPassthroughCopy({ "src/_data/*.json": "data" });
+  eleventyConfig.addPassthroughCopy({ "node_modules/bootstrap-icons/font/fonts/*.*": "fonts" });
   eleventyConfig.addPlugin(eleventyNavigationPlugin);
 
   eleventyConfig.addTemplateFormats("scss");
@@ -31,6 +32,30 @@ module.exports = function(eleventyConfig) {
         date = date.toISOString().replace(/:.*$/, "").replace(/T.*$/, "");
       }
       return date.replace(/-/g, "/");
+    }
+  );
+
+  eleventyConfig.addFilter("getYears",
+    function(pages) {
+      return Array.from(new Set(pages.map(item => {
+        let date = item.data.date;
+        if (date instanceof Date) {
+          date = date.toISOString().replace(/:.*$/, "").replace(/T.*$/, "");
+        }
+        return date.replace(/-.*$/, "");
+      })));
+    }
+  );
+
+  eleventyConfig.addFilter("newsByYear",
+    function(pages, year) {
+      return pages.filter(item => {
+        let date = item.data.date;
+        if (date instanceof Date) {
+          date = date.toISOString().replace(/:.*$/, "").replace(/T.*$/, "");
+        }
+        return date.startsWith(year);
+      });
     }
   );
 
@@ -72,6 +97,7 @@ module.exports = function(eleventyConfig) {
         "navkey": inputPath.replace(".*/", "").replace(".xml", ""),
         "eleventyNavigation": {
           key: inputPath.replace(".*/", "").replace(".xml", ""),
+          parent: "Council",
           title: jdom.window.document.querySelector("titleStmt > title").textContent
         }
       }

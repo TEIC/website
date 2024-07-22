@@ -15,6 +15,7 @@
   },
   "dependencies": {
     "bootstrap": "^5.3.1",
+    "bootstrap-icons": "^1.11.3",
     "CETEIcean": "^1.9.1",
     "jsdom": "^23.2.0",
     "sass": "^1.69.7"

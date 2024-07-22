@@ -29,7 +29,7 @@ Social Media
 
 The TEI maintains a presence on Twitter and Facebook. These may be used to advertise events, etc., but the mailing list remains the better source of discussion and advice.
 * **Twitter:** <https://twitter.com/teiconsortium>
-* **Facebook:**<https://www.facebook.com/groups/TEIconsortium>
+* **Facebook:** <https://www.facebook.com/groups/TEIconsortium>
 
 ## Feature requests and bug reports
 

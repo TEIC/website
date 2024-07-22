@@ -4,3 +4,4 @@ node_modules
 src/documentation/Documentation/Bylaws
 src/documentation/Documentation/bin
 src/documentation/Documentation/*.*
+src/news/README.md

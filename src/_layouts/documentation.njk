@@ -10,7 +10,7 @@
 <body>
   {% include 'navbar.njk' %}
   <nav aria-label="breadcrumb">
-    {% set breadcrumbs = collections.all | eleventyNavigationBreadcrumb(navkey, {includeSelf: true}) %}
+    {% set breadcrumbs = collections.all | eleventyNavigationBreadcrumb(eleventyNavigation.key, {includeSelf: true}) %}
     <ol class="breadcrumb">
       {%- for breadcrumb in breadcrumbs -%}
         <li class="breadcrumb-item">
