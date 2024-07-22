@@ -1,0 +1,14 @@
+<script>
+function setSearch(target) {
+  const input = document.getElementById("sitesearch");
+  const query = document.getElementById("query_string");
+  if (target == 'all') {
+    input.setAttribute('value', 'https://tei-c.org');
+    query.setAttribute('placeholder', 'Search');
+  }
+  if (target == 'guidelines') {
+    input.setAttribute('value', `https://tei-c.org/release/doc/tei-p5-doc/en/html/`);
+    query.setAttribute('placeholder', 'Search Guidelines');
+  }
+}
+</script>
