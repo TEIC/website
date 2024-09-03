@@ -22,7 +22,7 @@ Digital Scholarship Coordinator and Faculty Teaching Associate in Comparative Hu
 
 **[James Cummings](https://www.ncl.ac.uk/elll/staff/profile/jamescummings.html)**
 
-Senior Lecturer in Late-Medieval Literature and Digital Humanities, Newcastle University: james.cummings AT newcastle.ac.uk
+Reader in Digital Textual Studies and Late-Medieval Literature, Newcastle University: james.cummings AT newcastle.ac.uk
 
 **[Wolfgang Meier](https://www.existsolutions.com/)**
 
