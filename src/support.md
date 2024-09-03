@@ -16,10 +16,10 @@ Support for the [tools](./tools/) available for working with TEI documents and s
 ## Advice and queries: TEI-L mailing list
 
 The TEI boasts a friendly and highly skilled worldwide user community, whose members are quite willing to share their expertise. The best way
-to tap into this community is to join the TEI-L discussion list. Everyone is welcome to subscribe to the list, either via a [webform](https://listserv.brown.edu/archives/cgi-bin/wa?SUBED1=tei-l&A=1) or by sending an email to [TEI-L-subscribe-request@LISTSERV.BROWN.EDU](mailto:TEI-L-subscribe-request@LISTSERV.BROWN.EDU).
-Archived messages from the list can be browsed or searched online [through the LISTSERV archive](https://listserv.brown.edu/archives/cgi-bin/wa?A0=tei-l)
+to tap into this community is to join the TEI-L discussion list. Everyone is welcome to subscribe to the list, either via a [webform](https://lists.psu.edu/cgi-bin/wa?SUBED1=TEI-L&A=1) or by sending an email to [TEI-L-subscribe-request@lists.psu.edu](mailto:TEI-L-subscribe-request@lists.psu.edu).
+Archived messages from the list can be browsed or searched online [through the LISTSERV archive](https://lists.psu.edu/cgi-bin/wa?A0=TEI-L)
 and cover just about every text encoding topic you can imagine. All queries or comments about the TEI Guidelines or text encoding issues in general
-should be sent to the TEI-L list. You can unsubscribe from the list by sending an email to <mailto:TEI-L-unsubscribe-request@LISTSERV.BROWN.EDU>
+should be sent to the TEI-L list. You can unsubscribe from the list by sending an email to <mailto:TEI-L-unsubscribe-request@lists.psu.edu>
 There is also [a list for the francophone community](https://groupes.renater.fr/wiki/tei-fr/).
 
 For queries or comments about non-technical matters, please see the list of addresses on our [contacts page](../About/contact.xml).
