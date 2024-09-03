@@ -1,6 +1,6 @@
 ---
-layout: page.njk
 title: "TEI Technical Council F2F Graz 2019-09-14/16"
+date: 2019-09-16
 ---
 # TEI Technical Council F2F Graz 2019-09-14/16
 **Venue** 

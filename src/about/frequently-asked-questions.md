@@ -1,7 +1,7 @@
 ---
-layout: page.njk
 title: "Frequently Asked Questions"
-tags: page
+layout: page.njk
+tags: about_side
 ---
 # Frequently Asked Questions
 About the TEI

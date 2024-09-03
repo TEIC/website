@@ -1,6 +1,6 @@
 ---
-layout: page.njk
 title: "TEI Council Meeting 26 and 27 April 2007"
+date: 2007-04-27
 ---
 # TEI Council Meeting 26 and 27 April 2007
 

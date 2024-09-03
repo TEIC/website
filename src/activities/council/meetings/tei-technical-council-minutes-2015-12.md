@@ -1,7 +1,7 @@
 ---
-layout: page.njk
 title: "TEI Technical Council Minutes 2015-12"
 creator: TEI Technical Council
+date: 2015-12-03
 ---
 # TEI Technical Council Minutes 2015-12
 

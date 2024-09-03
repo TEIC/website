@@ -1,6 +1,6 @@
 ---
-layout: page.njk
 title: "TEI Technical Council Teleconference, 2020-08-04"
+date: 2020-08-04
 ---
 # TEI Technical Council Teleconference, 2020-08-04
 **Meeting time:**

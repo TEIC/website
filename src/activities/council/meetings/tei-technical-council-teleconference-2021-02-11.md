@@ -1,6 +1,6 @@
 ---
-layout: page.njk
 title: "TEI Technical Council Teleconference, 2021-02-11"
+date: 2021-02-11
 ---
 # TEI Technical Council Teleconference, 2021-02-11
 **Meeting times:** 

@@ -1,5 +1,4 @@
 ---
-layout: page.njk
 title: "TCM10: TEI Council Conference Call"
 date: 2004-03-29
 ---

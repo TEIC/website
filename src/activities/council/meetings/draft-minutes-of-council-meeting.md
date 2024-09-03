@@ -1,5 +1,4 @@
 ---
-layout: page.njk
 title: "Draft minutes of  Council meeting"
 date: 2010-04-29
 ---

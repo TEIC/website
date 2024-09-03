@@ -1,7 +1,7 @@
 ---
-layout: page.njk
 title: "Teleconference 2016-02-25"
 creator: TEI Council
+date: 2016-02-25
 ---
 # Teleconference 2016-02-25
 

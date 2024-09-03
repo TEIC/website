@@ -1,6 +1,6 @@
 ---
-layout: page.njk
 title: "TEI Council Meeting"
+date: 2004-05-15
 ---
 # TEI Council Meeting
 

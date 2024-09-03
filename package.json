@@ -11,13 +11,14 @@
   "license": "ISC",
   "devDependencies": {
     "@11ty/eleventy": "^2.0.1",
-    "@11ty/eleventy-navigation": "^0.3.5"
+    "@11ty/eleventy-navigation": "^0.3.5",
+    "@11ty/eleventy-plugin-rss": "^1.1.0"
   },
   "dependencies": {
     "bootstrap": "^5.3.1",
     "bootstrap-icons": "^1.11.3",
     "CETEIcean": "^1.9.1",
-    "jsdom": "^23.2.0",
+    "jsdom": "^25.0.0",
     "sass": "^1.69.7"
   }
 }

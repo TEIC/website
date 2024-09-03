@@ -1,7 +1,7 @@
 ---
-layout: page.njk
 title: "TEI Council Meeting"
 creator: Sebastian Rahtz
+date: 2009-12-07
 ---
 # TEI Council Meeting
 

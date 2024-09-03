@@ -1,8 +1,11 @@
 module.exports = function() {
   return { 
     "layout": "documentation.njk",
-    "tags": "Working Papers", 
-    "permalink": data => `${data.page.filePathStem.replace("Documentation/TCW", "").replace(".xml", "/index.html")}`,
+    "tags": ["Working Papers", "documentation"],
+    "permalink": data => {
+      const permalink = data.page.filePathStem.includes("TCW") ? data.page.filePathStem.replace("Documentation/TCW", "") : "/about/bylaws";
+      return `${permalink}/index.html`
+    },
     "eleventyNavigation": {
       "parent": "Council"
     }

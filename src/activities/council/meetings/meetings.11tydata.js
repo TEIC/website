@@ -1,6 +1,6 @@
 module.exports = function() {
   return { 
-    "layout": "page.njk",
+    "layout": "meeting.njk",
     "tags": "council_meetings",
     "eleventyComputed": {
       "eleventyNavigation": {

@@ -1,5 +1,4 @@
 ---
-layout: page.njk
 title: "Minutes of the TEI-C Council Meeting, Jan. 12th, 2002"
 date: 2002-01-12
 ---

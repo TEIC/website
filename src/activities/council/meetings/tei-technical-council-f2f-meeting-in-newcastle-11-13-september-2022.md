@@ -1,6 +1,6 @@
 ---
-layout: page.njk
 title: "TEI Technical Council F2F Meeting in Newcastle, 11–13 September 2022"
+date: 2022-09-13
 ---
 # TEI Technical Council F2F Meeting in Newcastle, 11–13 September 2022
 **Meeting Times**

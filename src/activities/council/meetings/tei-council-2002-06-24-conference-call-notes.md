@@ -1,5 +1,4 @@
 ---
-layout: page.njk
 title: "TEI Council 2002-06-24 Conference Call Notes"
 creator: Syd Bauman
 date: 2002-06-24

@@ -1,5 +1,4 @@
 ---
-layout: page.njk
 title: "TCM21: TEI Council Conference Call 16 Dec 05"
 date: 2005-12-16
 ---

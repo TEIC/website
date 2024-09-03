@@ -1,6 +1,6 @@
 ---
-layout: page.njk
 title: "TEI Teleconference Minutes 2015-01-30"
+date: 2015-01-30
 ---
 # TEI Teleconference Minutes 2015-01-30
 

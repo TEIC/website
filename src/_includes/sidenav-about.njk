@@ -1,0 +1,4 @@
+{% set navigation = collections.about | eleventyNavigation(sidenav) %}
+<div class="col col-sm-3 collapse tc-sidebar-collapse small" id="sidebar">
+  {{ navigation | eleventyNavigationToHtml | safe }}
+</div>

@@ -1,5 +1,4 @@
 ---
-layout: page.njk
 title: "tcm66.xml"
 date: 2015-02-27
 ---

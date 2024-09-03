@@ -1,7 +1,6 @@
 ---
-layout: page.njk
 title: "TEI Council Conference Call, 17 August 2011"
-creator: 
+date: 2011-08-17 
 ---
 # TEI Council Conference Call, 17 August 2011
 

@@ -1,7 +1,7 @@
 ---
-layout: page.njk
 title: "TEI Council Meeting"
 creator: Matt Zimmerman
+date: 2006-05-19
 ---
 # TEI Council Meeting
 

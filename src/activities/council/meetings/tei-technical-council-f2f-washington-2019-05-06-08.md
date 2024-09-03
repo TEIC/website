@@ -1,6 +1,6 @@
 ---
-layout: page.njk
 title: "Technical Council F2F Washington 2019-05-06/08"
+date: 2019-05-08
 ---
 # Technical Council F2F Washington 2019-05-06/08
 **Present:**

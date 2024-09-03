@@ -1,7 +1,7 @@
 ---
-layout: page.njk
 title: "TEI Council Meeting"
 creator: Brett Barney
+date: 2010-02-08
 ---
 # TEI Council Meeting
 

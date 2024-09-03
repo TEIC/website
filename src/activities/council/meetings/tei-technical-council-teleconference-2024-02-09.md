@@ -1,6 +1,6 @@
 ---
-layout: page.njk
 title: "TEI Technical Council Teleconference, 2024-02-09"
+date: 2024-02-09
 ---
 # TEI Technical Council Teleconference, 2024-02-09
 ### Meeting times

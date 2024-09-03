@@ -1,0 +1,9 @@
+{% set navigation_docs = collections.docs | eleventyNavigation(sidenav) %}
+{% set navigation_meetings = collections.tc_meetings | limit(10) | eleventyNavigation(sidenav) %}
+<div class="col col-sm-3 collapse tc-sidebar-collapse small" id="sidebar">
+  <h2>Working Papers</h2>
+  {{ navigation_docs | eleventyNavigationToHtml | safe }}
+  <h2>Meetings</h2>
+  {{ navigation_meetings | eleventyNavigationToHtml | safe }}
+  <p><a href="/activities/council/meetings">All Council Meetings</a></p>
+</div>

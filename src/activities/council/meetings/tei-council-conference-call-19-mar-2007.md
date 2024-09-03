@@ -1,6 +1,6 @@
 ---
-layout: page.njk
 title: "TEI Council Conference Call 19 Mar 2007"
+date: 2007-03-19
 ---
 # TEI Council Conference Call 19 Mar 2007
 

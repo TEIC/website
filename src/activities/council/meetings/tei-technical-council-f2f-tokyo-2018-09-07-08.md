@@ -1,6 +1,6 @@
 ---
-layout: page.njk
 title: "Technical Council F2F Tokyo 2018-09-07/08"
+date: 2018-09-08
 ---
 # Technical Council F2F Tokyo 2018-09-07/08
 

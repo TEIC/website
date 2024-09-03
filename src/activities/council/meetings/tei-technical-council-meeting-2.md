@@ -1,6 +1,6 @@
 ---
-layout: page.njk
-title: "TEI Technical Council Meeting,"
+title: "TEI Technical Council Meeting"
+date: 2012-04-16
 ---
 # TEI Technical Council Meeting,
 

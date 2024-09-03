@@ -1,7 +1,7 @@
 ---
-layout: page.njk
 title: "TEI Council Meeting"
 creator: James Cummings
+date: 2007-07-17
 ---
 # TEI Council Meeting
 

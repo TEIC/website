@@ -1,5 +1,4 @@
 ---
-layout: page.njk
 title: "Notes from TEI Meeting on Element Classes"
 creator: Syd Bauman
 date: 2005-10-01

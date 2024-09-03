@@ -1,5 +1,4 @@
 ---
-layout: page.njk
 title: "TC M12: TEI Council Conference Call 2 Jul 04"
 date: 2004-07-02
 ---

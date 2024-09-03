@@ -1,6 +1,6 @@
 ---
-layout: page.njk
 title: "TEI Technical Council Short VF2F Meeting, Online, 1–2 April 2022"
+date: 2022-04-02
 ---
 # TEI Technical Council Short VF2F Meeting, Online, 1–2 April 2022
 **Meeting Times**

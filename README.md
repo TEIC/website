@@ -1,6 +1,6 @@
 # The TEI-C website source
 
-This repository contains the sources for the TEI website and the configuration to run it locally if you need to. If you are editing the website's content, you will only need to be focused on the contents of the `src/` directory, which is laid out like this:
+This repository contains the sources for the TEI website and the configuration to run it locally if you need to. If you are editing the website's content, you will only need to be focused on the contents of the `src/` directory, which is laid out something like this:
 
 ```txt
 src

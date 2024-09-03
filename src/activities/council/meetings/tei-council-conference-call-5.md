@@ -1,5 +1,4 @@
 ---
-layout: page.njk
 title: "TEI Council Conference Call"
 creator: Syd Bauman
 date: 2007-06-15

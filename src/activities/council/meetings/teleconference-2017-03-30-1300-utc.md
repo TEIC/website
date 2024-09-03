@@ -1,6 +1,6 @@
 ---
-layout: page.njk
 title: "Teleconference 2017-03-30 13:00 UTC"
+date: 2017-03-30
 ---
 # Teleconference 2017-03-30 13:00 UTC
 **Present**

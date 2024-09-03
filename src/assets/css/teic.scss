@@ -108,20 +108,29 @@ th {
     display: block !important;
     position: relative;
     top: 1em;
-    left: 5em;
     height: min-content;
     width: min-content;
   }
   .tc-sidebar-collapse {
     background-color: ghostwhite;
-    position: fixed;
+    position: absolute;
     padding: 1em;
     top: 9em;
     right: 1em;
     width: 40vw;
+    overflow-y: scroll;
   }
 }
 
 #sidebar h2 {
   text-align: center;
+}
+
+#sidebar ul {
+  list-style: none;
+  padding-left: 2em;
+}
+
+#sidebar p {
+  padding-left: 2em;
 }

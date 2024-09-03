@@ -1,6 +1,6 @@
 ---
-layout: page.njk
 title: "TEI Technical Council F2F Meeting in Paderborn, 3-5 September 2023"
+date: 2023-09-05
 ---
 # TEI Technical Council F2F Meeting in Paderborn, 3-5 September 2023
 Meeting Times

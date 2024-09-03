@@ -1,6 +1,6 @@
 ---
-layout: page.njk
 title: "TEI Council - progress notes for June 2007"
+date: 2007-06-30
 ---
 # TEI Council - progress notes for June 2007
 TODO

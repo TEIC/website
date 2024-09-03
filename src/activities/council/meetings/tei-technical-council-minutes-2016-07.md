@@ -1,6 +1,6 @@
 ---
-layout: page.njk
 title: "TEI Technical Council Minutes 2016-07"
+date: 2016-07-29
 ---
 # TEI Technical Council Minutes 2016-07
 

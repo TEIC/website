@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ title }}</title>
+  <link rel="stylesheet" href="/css/teic.css">
+</head>
+<body>
+  {% include 'navbar.njk' %}
+  <nav aria-label="breadcrumb">
+    {% set breadcrumbs = collections.all | eleventyNavigationBreadcrumb(eleventyNavigation.key, {includeSelf: true}) %}
+    <ol class="breadcrumb">
+      {%- for breadcrumb in breadcrumbs -%}
+        <li class="breadcrumb-item">
+          {%- if breadcrumb.key != eleventyNavigation.key -%}
+          <a href="{{ breadcrumb.url }}">{{ breadcrumb.title }}</a>
+        {%- else -%}
+          {{ breadcrumb.title }}
+        {%- endif -%}
+        </li>
+      {%- endfor -%}
+    </ol>
+  </nav>
+  <main>
+    <div class="container col-xxl-8 mt-4">
+      {{ content | safe }}
+    </div>
+  </main>
+  <script src="/js/main.js"></script>
+  {% include 'footer.html' %}
+</body>
+</html>

@@ -1,5 +1,4 @@
 ---
-layout: page.njk
 title: "TEI Council Conference Call 27 Sep 06"
 date: 2006-09-27
 ---

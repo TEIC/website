@@ -1,5 +1,4 @@
 ---
-layout: page.njk
 title: "TCM09: TEI Council Conference Call 27 Jan 04"
 creator: Lou Burnard
 date: 2004-01-27

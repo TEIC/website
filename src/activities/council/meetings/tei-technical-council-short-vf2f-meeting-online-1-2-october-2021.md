@@ -1,6 +1,6 @@
 ---
-layout: page.njk
 title: "TEI Technical Council Short VF2F Meeting, Online, 1–2 October 2021"
+date: 2021-10-02
 ---
 # TEI Technical Council Short VF2F Meeting, Online, 1–2 October 2021
 **Meeting Times**

@@ -1,5 +1,4 @@
 ---
-layout: page.njk
 title: "TCM08: TEI Council Conference Call 23 Sep 03"
 date: 2003-09-23
 ---

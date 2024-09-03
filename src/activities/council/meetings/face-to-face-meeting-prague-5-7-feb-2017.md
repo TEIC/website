@@ -1,5 +1,4 @@
 ---
-layout: page.njk
 title: "Face to Face Meeting, Prague, 5–7 Feb 2017"
 date: 2017-02-07
 ---

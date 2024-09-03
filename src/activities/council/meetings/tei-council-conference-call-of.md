@@ -1,6 +1,6 @@
 ---
-layout: page.njk
 title: "TEI Council Conference Call of Mon, 29 Nov 04"
+date: 2004-11-29
 ---
 # TEI Council Conference Call of Mon, 29 Nov 04
 Initials Used for People

@@ -1,5 +1,4 @@
 ---
-layout: page.njk
 title: "TCM19: TEI Council Conference Call 09 Sep 05"
 date: 2005-09-05
 ---

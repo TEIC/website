@@ -1,5 +1,4 @@
 ---
-layout: page.njk
 title: "TEI Council Minutes: Face to Face in Providence 2016-04-25/27"
 date: 2016-04-27
 ---

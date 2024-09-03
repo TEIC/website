@@ -1,6 +1,6 @@
 ---
-layout: page.njk
 title: "TEI Technical Council virtual “F2F”, 2020-05-01 / 05-03"
+date: 2020-05-03
 ---
 # TEI Technical Council virtual “F2F”, 2020-05-01 / 05-03
 TEI Technical Council virtual F2F meeting: 1–3 May 2020 plus add\-on sessions on May 5, 12, and 19\.

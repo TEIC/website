@@ -1,5 +1,4 @@
 ---
-layout: page.njk
 title: "Fall 2016 Face to Face, Vienna"
 date: 2016-09-27
 ---

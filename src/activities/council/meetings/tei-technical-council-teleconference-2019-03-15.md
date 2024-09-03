@@ -1,6 +1,6 @@
 ---
-layout: page.njk
 title: "TEI Technical Council Teleconference 2019-03-15"
+date: 2019-03-15
 ---
 # TEI Technical Council Teleconference 2019-03-15
 **Present**

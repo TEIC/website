@@ -1,6 +1,6 @@
 ---
-layout: page.njk
 title: "TEI Technical Council Short VF2F Meeting, 12–13 April 2024"
+date: 2024-04-13
 ---
 # TEI Technical Council Short VF2F Meeting, 12–13 April 2024
 ### Meeting Times

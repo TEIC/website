@@ -1,7 +1,6 @@
 ---
-layout: page.njk
 title: "Logos"
-tags: page
+tags: about_side
 ---
 # Logos
 TEI Logo

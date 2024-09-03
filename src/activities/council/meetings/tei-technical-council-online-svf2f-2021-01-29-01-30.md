@@ -1,6 +1,6 @@
 ---
-layout: page.njk
 title: "TEI Technical Council Online \"SVF2F\", 2021-01-29 / 01-30"
+date: 2012-01-29
 ---
 # TEI Technical Council Online \"SVF2F\", 2021-01-29 / 01-30
 **Meeting Times**

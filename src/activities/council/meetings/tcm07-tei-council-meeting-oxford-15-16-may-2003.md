@@ -1,5 +1,4 @@
 ---
-layout: page.njk
 title: "TCM07: TEI Council Meeting, Oxford, 15-16 May 2003"
 date: 2003-05-16
 ---

@@ -1,7 +1,7 @@
 ---
-layout: page.njk
 title: "TEI Council Meeting"
 creator: Peter Boot
+date: 2008-10-07
 ---
 # TEI Council Meeting
 

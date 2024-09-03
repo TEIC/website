@@ -1,6 +1,6 @@
 ---
-layout: page.njk
 title: "TEI Technical Council F2F Meeting in Guelph, 7-9 May 2023"
+date: 2023-05-09
 ---
 # TEI Technical Council F2F Meeting in Guelph, 7-9 May 2023
 Meeting Times

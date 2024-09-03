@@ -1,7 +1,7 @@
 ---
-layout: page.njk
 title: "TEI Council Meeting"
 creator: David Sewell
+date: 2008-04-03
 ---
 # TEI Council Meeting
 

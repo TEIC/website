@@ -25,9 +25,6 @@
           "url": "https://github.com/TEIC/TEI"
         },
         {
-          "name": "Learn the TEI",
-          "url": "/support/learn/"},
-        {
           "name": "About the Guidelines",
           "url": "/guidelines/"}
       ]
@@ -64,7 +61,7 @@
         },
         {
           "name": "Journal of the TEI",
-          "url": "activities/journal/"
+          "url": "https://journals.openedition.org/jtei"
         }
       ]
     }

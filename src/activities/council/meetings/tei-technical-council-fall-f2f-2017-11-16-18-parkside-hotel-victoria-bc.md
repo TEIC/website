@@ -1,6 +1,6 @@
 ---
-layout: page.njk
 title: "TEI Technical Council Fall F2F, 2017-11-16/18 Parkside Hotel, Victoria, BC"
+date: 2017-11-18
 ---
 # TEI Technical Council Fall F2F, 2017-11-16/18 Parkside Hotel, Victoria, BC
 

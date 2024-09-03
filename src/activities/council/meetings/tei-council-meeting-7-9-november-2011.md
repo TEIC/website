@@ -1,6 +1,6 @@
 ---
-layout: page.njk
 title: "TEI Council Meeting, 7-9 November 2011"
+date: 2011-11-09
 ---
 # TEI Council Meeting, 7-9 November 2011
 

@@ -4,6 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="/css/teic.css">
+    <link rel="alternate" type="application/rss+xml" title="RSS Feed" href="/newsfeed.xml" />
     <title>{{ title }}</title>
   </head>
   <body>
@@ -32,7 +33,7 @@
             {% for year in years | reverse %}
               <h2 class="h4">{{ year }}</h2>
               <ul>
-                {% for page in collections.news | newsByYear(year) %}
+                {% for page in collections.news | pagesByYear(year) %}
                   <li><a href="{{ page.url }}">{{ page.data.title }}</a></li>
                 {% endfor %}
               </ul>

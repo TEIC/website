@@ -1,5 +1,4 @@
 ---
-layout: page.njk
 title: "TCM15: TEI Council Conference Call"
 creator: Syd Bauman
 date: 2005-01-31

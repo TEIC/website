@@ -1,7 +1,7 @@
 ---
-layout: page.njk
 title: "TEI Council Meeting"
-creator: Dan O'Donell
+creator: Dan O'Donnell
+date: 2007-09-25
 ---
 # TEI Council Meeting
 

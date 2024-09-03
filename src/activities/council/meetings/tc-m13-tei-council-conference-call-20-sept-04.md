@@ -1,5 +1,4 @@
 ---
-layout: page.njk
 title: "TC M13: TEI Council Conference Call 20 Sept 04"
 date: 2004-09-20
 ---

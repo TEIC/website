@@ -4,6 +4,8 @@ const path = require('node:path');
 const { JSDOM } = require("jsdom");
 const fs = require('fs');
 const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
+const pluginRss = require("@11ty/eleventy-plugin-rss");
+
 // CommonJS can't require ESM modules, so we have to use an import() hack instead
 let CETEI;
 import("CETEIcean").then((ceteicean) => {
@@ -20,11 +22,24 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy({ "src/_data/*.json": "data" });
   eleventyConfig.addPassthroughCopy({ "node_modules/bootstrap-icons/font/fonts/*.*": "fonts" });
   eleventyConfig.addPlugin(eleventyNavigationPlugin);
+  eleventyConfig.addPlugin(pluginRss);
 
   eleventyConfig.addTemplateFormats("scss");
   eleventyConfig.addTemplateFormats("xml");
 
   eleventyConfig.setUseGitIgnore(false);
+
+  eleventyConfig.addCollection("docs", function(collectionApi) {
+    return collectionApi.getFilteredByTag("documentation")
+      .filter(item => item.page.url !== "/about/bylaws/");
+    }
+  );
+
+  eleventyConfig.addCollection("tc_meetings", function(collectionApi) {
+    return collectionApi.getFilteredByTag("council_meetings").reverse().
+      filter(item => !item.data.tags.includes("meeting_list"));
+    }
+  );
 
   eleventyConfig.addFilter("isoDateToPath", 
     function(date) {
@@ -47,7 +62,7 @@ module.exports = function(eleventyConfig) {
     }
   );
 
-  eleventyConfig.addFilter("newsByYear",
+  eleventyConfig.addFilter("pagesByYear",
     function(pages, year) {
       return pages.filter(item => {
         let date = item.data.date;
@@ -58,6 +73,10 @@ module.exports = function(eleventyConfig) {
       });
     }
   );
+
+  eleventyConfig.addFilter("limit", function(array, limit) {
+    return array.slice(0, limit);
+  });
 
   eleventyConfig.addExtension("scss", {
 
@@ -97,7 +116,6 @@ module.exports = function(eleventyConfig) {
         "navkey": inputPath.replace(".*/", "").replace(".xml", ""),
         "eleventyNavigation": {
           key: inputPath.replace(".*/", "").replace(".xml", ""),
-          parent: "Council",
           title: jdom.window.document.querySelector("titleStmt > title").textContent
         }
       }

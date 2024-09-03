@@ -18,10 +18,11 @@
             <button class="tc-sidebar-toggler btn btn-light" type="button" data-bs-toggle="collapse" data-bs-target="#sidebar" aria-controls="#sidebar" aria-expanded="false" aria-label="Toggle sidebar">
               <i class="bi bi-arrow-bar-left"></i>
             </button>
-            {% set navigation = collections.all | eleventyNavigation(sidenav) %}
-            <div class="col col-sm-3 collapse tc-sidebar-collapse small" id="sidebar">
-              {{ navigation | eleventyNavigationToHtml | safe }}
-            </div>
+            {% if sidenav == 'Council' %}
+              {% include 'sidenav-council.njk' %}
+            {% else %}
+              {% include 'sidenav-about.njk' %}
+            {% endif %}
           {% else %}
             <div class="col mt-4">
               {{ content | safe }}

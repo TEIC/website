@@ -1,6 +1,6 @@
 ---
-layout: page.njk
 title: "TEI Council Meeting, Chicago 11-13 April 2011"
+date: 2011-04-13
 ---
 # TEI Council Meeting, Chicago 11-13 April 2011
 
