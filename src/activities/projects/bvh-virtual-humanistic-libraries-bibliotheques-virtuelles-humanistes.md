@@ -48,11 +48,11 @@ tags: page
  
  **Contact:** Marie-Luce Demonet
  
- **Address:** Centre d'Etudes Supérieures de la Renaissance, 59 rue Néricault-Destouches, BP 11328,
+
  37013 Tours Cedex, France.
  
- **Tel:** 33 (0)2 47 36 77 80
+
  
- **Fax:** 33 (0)2 47 36 77 62
+
  
  **Email:** [marie-luce.demonet@univ-tours.fr](mailto:marie-luce.demonet@univ-tours.fr)

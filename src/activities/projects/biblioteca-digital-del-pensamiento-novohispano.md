@@ -172,7 +172,7 @@ tags: page
  
  **Contact:** Ernesto Priani Saisó
  
- **Address:** Facultad de Filosofía y Letras, Circulito Escolar S/N Ciudad Universitaria, 04510
+
  Coyoacán,
  Distrito Federal.
  

@@ -12,7 +12,7 @@ tags: page
 
 
 * **Host:** CIHAM UMR 5648
-* **URL:** <http://ciham.ish-lyon.cnrs.fr/paleographie/>
+* **URL:** <https://paleographie.huma-num.fr/>
 * **Main language:** Multilingual
 
 
@@ -45,10 +45,10 @@ tags: page
  XSLT.
  
  **Copyright information:** Review in Digital Medievalist Journal, 7, 2011:
- <http://www.digitalmedievalist.org/journal/7/porter/>
+ <https://journal.digitalmedievalist.org/article/id/6981/>
 **Contact:** Marjorie Burghart
  
- **Address:** CIHAM UMR 5648, 14 avenue Berthelot, 69007 Lyon, France.
+
  
  **Email:** [marjorie.burghart@ehess.fr](mailto:marjorie.burghart@ehess.fr)
  

@@ -34,8 +34,8 @@ tags: page
  
  **Contact:** Brown University Box 1841 Providence RI 02912 USA
  
- **Tel:** +1 401 863 3619
+
  
- **Fax:** +1 401 863 9313
+
  
  **Email:** [info@stg.brown.edu](mailto:info@stg.brown.edu)

@@ -26,8 +26,8 @@ tags: page
  **Contact:** Scholarly Technology Group Computing and Information Services Box 1885 Brown University
  Providence RI 02912 USA
  
- **Tel:** +1 401 863 7312
+
  
- **Fax:** +1 401 863 7329
+
  
  **Email:** [info@stg.brown.edu](mailto:info@stg.brown.edu)

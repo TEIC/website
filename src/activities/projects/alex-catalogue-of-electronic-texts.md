@@ -12,7 +12,7 @@ tags: page
 
 
 * **Host:** Infomotions, Inc.
-* **URL:** <http://infomotions.com/alex2/>
+* **URL:** <http://www.infomotions.com/alex/>
 
 
 **Description:** The is a full-text indexed collection of classic American and English literature as
@@ -47,11 +47,5 @@ tags: page
  ability to access rather long file names.
  
  **Contact:** Eric Lease Morgan
- 
- **Address:** 209 W. North Shore Drive South Bend, IN 46617, USA.
- 
- **Tel:** 574/246-0639
- 
- **Fax/Email:** [eric\_morgan@infomotions.com](mailto:eric_morgan@infomotions.com)
- 
 
+ **Email:** [eric\_morgan@infomotions.com](mailto:eric_morgan@infomotions.com)

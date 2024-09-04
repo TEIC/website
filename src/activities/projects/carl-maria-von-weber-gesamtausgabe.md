@@ -41,6 +41,6 @@ tags: page
  
  **Telephone:** +49 (0)5231 975-676
  
- **Fax:** +49 (0)5231-975668
+
  
  **Email:** [stadler@weber-gesamtausgabe.de](mailto:stadler@weber-gesamtausgabe.de)

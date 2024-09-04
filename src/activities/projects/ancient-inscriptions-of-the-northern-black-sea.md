@@ -35,6 +35,6 @@ tags: page
 
 **Contact:** Irene Polinskaya
  
- **Address:** Department of Classics, King's College London, Strand, London, WC2R 2LS.
+
  
  **Email:** [irene.polinskaya@kcl.ac.uk](mailto:irene.polinskaya@kcl.ac.uk)

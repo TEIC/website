@@ -54,10 +54,10 @@ tags: page
  
  **Contact:** Will Noel
  
- **Address:** Walters Art Museum 600 N. Charles Street, Baltimore, MD 21201 USA.
+
  
- **Tel:** 410 547-9000 X253
+
  
- **Fax:** 410 752-4797
+
  
  **Email:** [wnoel@thewalters.org](mailto:wnoel@thewalters.org)

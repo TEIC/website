@@ -29,6 +29,6 @@ tags: page
  
  **Telephone:** +35929792969
  
- **Fax:** +35928722302
+
  
  **Email:** [svetla@dcl.bas.bg](mailto:svetla@dcl.bas.bg)

@@ -30,7 +30,7 @@ tags: page
  
  **Contact:** Anne Baillot
  
- **Address:** Humboldt-Universität zu Berlin, Institut für deutsche Literatur, Unter den Linden
+
  6, 10099 Berlin, Germany.
  
  **Email:** [anne.baillot@hu-berlin.de](mailto:anne.baillot@hu-berlin.de)

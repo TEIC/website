@@ -63,10 +63,10 @@ tags: page
  
  **Contact:** LAMÉ Marion
  
- **Address:** Les Cherriers 18700 OIZON France
+
  
- **Tel:** 00 33 6 27 57 78 83 / 00 33 2 48 58 08 39
+
  
- **Fax/Email:** [mlame@mmsh.univ-aix.fr](mailto:mlame@mmsh.univ-aix.fr) or [marionlame@yahoo.fr](mailto:marionlame@yahoo.fr)
+ **Email:** [mlame@mmsh.univ-aix.fr](mailto:mlame@mmsh.univ-aix.fr) or [marionlame@yahoo.fr](mailto:marionlame@yahoo.fr)
  
   

@@ -37,7 +37,7 @@ tags: page
  
  **Contact:** Christof Schöch
  
- **Address:** Universität Kassel, FB 02 / Institut für Romanistik, Kurt-Wolters-Str. 5 / Raum 4009
+
  34127 Kassel, Germany.
  
  **Email:** [c.schoech[at]gmail.com](mailto:c.schoech[at]gmail.com)

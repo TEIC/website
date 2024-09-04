@@ -30,8 +30,8 @@ tags: page
  
  **Contact:** Gautier Poupeau, Ecole nationale des chartes, 19 rue de la Sorbonne, 75005, Paris.
  
- **Tel:** +33 1 55 42 75 00
+
  
- **Fax:** +33 1 55 42 75 09
+
  
  **Email:** [gotpoupeau@infonie.fr](mailto:gotpoupeau@infonie.fr)
