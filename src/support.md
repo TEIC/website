@@ -4,14 +4,6 @@ title: "Support"
 tags: page
 ---
 # Support
-Tools and documentation
------------------------
-
-Support for the [tools](./tools/) available for working with TEI documents and schemas is provided as follows:
-* [Documentation](/Tools/Stylesheets/) of the TEI stylesheets (developed by the TEI for its own use in transforming TEI XML documents to HTML, to LaTeX, and to XSL Formatting Objects)
-* [Getting Started with P5 ODDs](/Guidelines/Customization/odds.xml), providing a basic introduction to writing TEI customizations using the P5 ODD language
-* [Creating Customizations with Roma](../Guidelines/Customization/use_roma.xml), providing instructions for using [Roma](http://tei.oucs.ox.ac.uk/Roma/), the web tool for developing TEI schemas
-
 
 ## Advice and queries: TEI-L mailing list
 
@@ -43,8 +35,7 @@ report a bug or add a feature request, or comment on existing tickets.
 
 The TEI also assists projects in the development of grant proposals that include TEI membership. We can review the technical portion of the proposal to help ensure that it is plausible and realistic, and that it describes the use of TEI in a persuasive manner. We can also help projects think through the strategic and practical issues involved in designing a TEI project, so that costs and staffing can be accurately assessed and planned. In order to allow sufficient time for review and feedback, please share your proposal with us at least six weeks before the submission deadline. For more information about this program, please contact the TEI at info@tei-c.org.
 
-Learn the TEI
--------------
+## Learn the TEI
 
 Interested in learning how to use the TEI Guidelines themselves? The [Learn the TEI](Learn/)
 page provides a selection of introductory readings and general
