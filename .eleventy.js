@@ -115,7 +115,8 @@ module.exports = function(eleventyConfig) {
         "title": jdom.window.document.querySelector("titleStmt > title").textContent,
         "navkey": inputPath.replace(".*/", "").replace(".xml", ""),
         "eleventyNavigation": {
-          key: inputPath.replace(".*/", "").replace(".xml", ""),
+          parent: inputPath.includes("TCW") ? "Council" : "About",
+          key: inputPath.replace(/.*\/([^\/])+\.xml/, "$1"),
           title: jdom.window.document.querySelector("titleStmt > title").textContent
         }
       }

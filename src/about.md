@@ -2,6 +2,8 @@
 layout: page.njk
 title: "About"
 tags: page
+eleventyNavigation:
+  key: "About"
 ---
 # About
 The Text Encoding Initiative Consortium is an international organization whose mission is to
