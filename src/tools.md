@@ -31,15 +31,16 @@ tags: page
  
  
  
- Generation of schemas and documentation: Roma
+ ## Generation of schemas and documentation: Roma
  
- [Roma](https://roma2.tei-c.org/) is a web-based application which allows TEI users to
- generate P5-compatible schemas and documentation. Roma is useful for all TEI customization
+ [Roma](https://roma.tei-c.org/) is a web-based application which allows TEI users to
+ generate their own customized P5-compatible schemas and documentation. Roma is useful for all TEI customization
  development, whether you want to create a simple TEI schema by selecting a few of
  the most relevant TEI modules for your project, or want to do a more complex customization
  involving modifications to specific elements. Roma can also help you generate TEI
- documentation in languages other than English (for more detail, see the section on
- internationalization below). For detailed instructions on using Roma, see [Customizing the TEI with Roma](../Guidelines/Customization/use_roma.xml). A command-line version of Roma (called roma) is also available and can be installed
+ documentation in languages other than English (for more detail, see the [section on
+ internationalization below](#I18N)). For detailed instructions on using Roma, see [Customizing the TEI with Roma](../Guidelines/Customization/use_roma.xml). 
+ A command-line version of Roma (called roma) is also available and can be installed
  and run locally; a description and instructions for use can be found [here](../Guidelines/Customization/odds.xml#romacommandline). The source code for Roma
  is available from the [TEI Sourceforge site](https://sourceforge.net/project/showfiles.php?group_id=106328&package_id=141128). Roma is the P5 equivalent of the
  older
@@ -50,7 +51,7 @@ tags: page
  
 
  
- Stylesheets for converting TEI documents to various formats
+ ## Stylesheets for converting TEI documents to various formats
  
  The TEI maintains a library of [XSL stylesheets](./Stylesheets/) developed by Sebastian Rahtz,
  which can convert TEI XML files to HTML, LaTeX, or XSL:FO documents. These stylesheets
@@ -62,9 +63,9 @@ tags: page
  
 
  
- Conversion to and from TEI:
+ ## Conversion to and from TEI:
  
- [OxGarage](https://oxgarage2.tei-c.org/) is a web, and RESTful, service to manage the transformation of documents between
+ [TEIGarage](https://teigarage.tei-c.org/) is a web, and RESTful, service to manage the transformation of documents between
  a variety of formats. The majority of transformations use the Text Encoding Initiative
  format as a pivot format. It is a good tool for conversion from TEI to Word (.docx),
  or Word (.docx) to TEI, but also does many other formats.
@@ -72,7 +73,7 @@ tags: page
  
 
  
- Internationalization of the TEI
+ <h2 id="I18N">Internationalization of the TEI</h2>
  
  One important tool developed by the TEI is the system for generating versions of the
  Guidelines in languages other than English. This initiative, funded in part by the
