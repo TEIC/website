@@ -31,7 +31,7 @@ tags: page
  
  
  
- Generation of schemas and documentation: Roma
+ ## Generation of schemas and documentation: Roma
  
  [Roma](https://roma2.tei-c.org/) is a web-based application which allows TEI users to
  generate P5-compatible schemas and documentation. Roma is useful for all TEI customization
@@ -50,7 +50,7 @@ tags: page
  
 
  
- Stylesheets for converting TEI documents to various formats
+ ## Stylesheets for converting TEI documents to various formats
  
  The TEI maintains a library of [XSL stylesheets](./Stylesheets/) developed by Sebastian Rahtz,
  which can convert TEI XML files to HTML, LaTeX, or XSL:FO documents. These stylesheets
@@ -62,7 +62,7 @@ tags: page
  
 
  
- Conversion to and from TEI:
+ ## Conversion to and from TEI:
  
  [OxGarage](https://oxgarage2.tei-c.org/) is a web, and RESTful, service to manage the transformation of documents between
  a variety of formats. The majority of transformations use the Text Encoding Initiative
@@ -72,7 +72,7 @@ tags: page
  
 
  
- Internationalization of the TEI
+ <h2 id="I18N">Internationalization of the TEI</h2>
  
  One important tool developed by the TEI is the system for generating versions of the
  Guidelines in languages other than English. This initiative, funded in part by the

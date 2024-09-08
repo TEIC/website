@@ -36,7 +36,7 @@ The Guidelines are designed to be customized, and specific projects and discipli
  We collect here well-documented TEI customizations, such as the popular [TEI Lite](Customization/Lite/), that may be of use as models or for projects wishing to follow their practice. We
  also provide information on creating TEI customizations.
  
- [Internationalization](./tools/I18N/)
+ [Internationalization](../Tools/index.html#I18N)
 The Guidelines are currently being translated into languages other than English; we
  provide here details of this process and information on how to get internationalized
  versions of the Guidelines.
@@ -53,7 +53,7 @@ The TEI maintains a GitHub repository where it manages the development and distr
  development; it also contains archived materials from earlier versions of the TEI
  web site.
  
- [Getting Involved](https://tei-c.org/guidelines/getting-involved/)
+ [Getting Involved](../Support/)
  
  The TEI welcomes participation in the development of the Guidelines; we detail here
  the various ways in which the TEI community (members and non-members) can contribute.
