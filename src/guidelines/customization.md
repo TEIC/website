@@ -53,7 +53,7 @@ To have your customization listed, please contact [web@tei-c.org](mailto:web@tei
 
 Best Practices for TEI in Libraries
 
-* A guide for mass digitization, automated workflows, and promotion of interoperability with XML using the TEI ([website](http://purl.oclc.org/NET/teiinlibraries), [prose documentation](/extra/teiinlibraries/4.0.0/bptl-driver.html), [ODD files](https://github.com/sydb/TEI-in-Libraries))
+* A guide for mass digitization, automated workflows, and promotion of interoperability with XML using the TEI ([ODD files](https://github.com/sydb/TEI-in-Libraries))
 
 EpiDoc: Epigraphic Documents in XML
 
