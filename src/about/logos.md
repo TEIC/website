@@ -68,7 +68,7 @@ The TEI Consortium undertook a consultation in summer 2023 to update the TEI Log
 </tr>
 <tr>
 <td><p><strong>TEI Vertical Logo</strong></p>
-<p<p>><a href="TEI_Logo_Vertical.png"><img src="TEI_Logo_Vertical.png" alt="" width="150" height="150"></a></p></td>
+<p style="text-align: center"><a href="TEI_Logo_Vertical.png"><img src="TEI_Logo_Vertical.png" alt="" width="150" height="150"></a></p></td>
 <td>
 <ul>
 <li><a href="TEI_Logo_Vertical.png">TEI_Logo_Vertical.png</a></li>
