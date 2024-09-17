@@ -16,9 +16,9 @@ The TEI Consortium undertook a consultation in summer 2023 to update the TEI Log
 <td><strong>EPS</strong></td>
 </tr>
 <tr>
-<td><strong>TEI Emblem Logo</strong><p></p>
-<p>Base AI file: <a href="TEI_Logo.ai">TEI_Logo.ai</a>
-<a href="TEI_Logo.png"><img src="TEI_Logo.png" alt="TEI Logo" width="150" height="150"></a></p></td>
+<td><p><strong>TEI Emblem Logo</strong></p>
+<p>Base AI file: <a href="TEI_Logo.ai">TEI_Logo.ai</a></p>
+<p style="text-align: center"><a href="TEI_Logo.png"><img src="TEI_Logo.png" alt="TEI Logo" width="150" height="150"></a></p></td>
 <td>
 <ul>
 <li><a href="TEI_Logo.png">TEI_Logo.png</a></li>
@@ -42,8 +42,8 @@ The TEI Consortium undertook a consultation in summer 2023 to update the TEI Log
 </td>
 </tr>
 <tr>
-<td><strong>TEI Horizontal Logo</strong><p></p>
-<p><a href="TEI_Logo_Horizontal.png"><img src="TEI_Logo_Horizontal.png" alt="" width="150" height="150"></a></p></td>
+<td><p><strong>TEI Horizontal Logo</strong></p>
+<p style="text-align: center"><a href="TEI_Logo_Horizontal.png"><img src="TEI_Logo_Horizontal.png" alt="" width="150" height="150"></a></p></td>
 <td>
 <ul>
 <li><a href="TEI_Logo_Horizontal.png">TEI_Logo_Horizontal.png</a></li>
@@ -67,8 +67,8 @@ The TEI Consortium undertook a consultation in summer 2023 to update the TEI Log
 </td>
 </tr>
 <tr>
-<td><strong>TEI Vertical Logo</strong><p></p>
-<p><a href="TEI_Logo_Vertical.png"><img src="TEI_Logo_Vertical.png" alt="" width="150" height="150"></a></p></td>
+<td><p><strong>TEI Vertical Logo</strong></p>
+<p<p>><a href="TEI_Logo_Vertical.png"><img src="TEI_Logo_Vertical.png" alt="" width="150" height="150"></a></p></td>
 <td>
 <ul>
 <li><a href="TEI_Logo_Vertical.png">TEI_Logo_Vertical.png</a></li>
