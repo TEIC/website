@@ -13,13 +13,11 @@ Interchange: an international and interdisciplinary standard that is widely used
 museums, publishers, and individual scholars to represent all kinds of textual material for
 online research and teaching.
 
-
 The TEI is supported by annual dues from institutional members and individual subscribers,
 with additional funding from grants and the institutional support of its hosts. Its chief
 activities include the publication and ongoing development of the TEI Guidelines, and support
 for their use with schema development tools, training and documentation initiatives, discussion
 forums, and an annual conference.
-
 
 The TEI community is broad-based and international in scope, including members in North
 America, Europe, Australia, and Asia and users at hundreds of universities, libraries, research
@@ -32,12 +30,10 @@ other literary, historical, and cultural material. The scope of the TEI is const
 and the Guidelines are in steady ongoing development to keep pace with the emerging needs of the
 TEI community.
 
-
 Please read further on the TEI web site for information on:
-
 
 * [TEI membership](http://members.tei-c.org/join/)
 * the [TEI Guidelines](../Guidelines/)
 * the TEI's [organization](https://tei-c.org/about/organization/)
-* [tools for creating and using TEI documents](https://wiki.tei-c.org/index.php/Category:Tools)
-* [frequently asked questions](faq.xml)
+* [frequently asked questions](frequently-asked-questions)
+* [TEI Logos](logos)
