@@ -17,7 +17,7 @@ The TEI provides a number of basic, general-purpose customizations. One of the b
          * [How to Update your ODD](https://teic.github.io/PDF/purifyDoc.pdf) (especially for older ODDs produced before version 3.0 of the TEI Guidelines)
          * [ODD chaining for Beginners](https://teic.github.io/PDF/howtoChain.pdf)
          * [“Customizing the TEI”](https://books.openedition.org/oep/692) in <i>What Is the Text Encoding Initiative?</i>, OpenEdition Press, 2014,
-     * [Using the TEI (Chapter 23 of the Guidelines)](/release/doc/tei-p5-doc/en/html/USE.html) 
+     * [Using the TEI (Chapter 24 of the Guidelines)](/release/doc/tei-p5-doc/en/html/USE.html) 
 
 
 ## Customizations provided by the TEI Consortium
