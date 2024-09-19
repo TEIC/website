@@ -8,7 +8,7 @@ Because the TEI Guidelines must cover such a broad domain and user community, it
 
 The TEI provides a number of basic, general-purpose customizations. One of the best-known of these is [TEI Lite](Lite/), which was originally designed as a demonstration of the customization mechanism, but has become popular as a simple TEI schema for basic encoding. Other basic customizations are listed below. To create your own customization, you can do one of the following:
 
-* Use the [Roma](https://roma.tei-c.org) web tool to select TEI modules, add and delete elements, and make other choices; see [Creating TEI Customizations with Roma](https://tei-c.org/guidelines/customization/customizing-the-tei-with-roma/) for more detailed information on using Roma.
+* Use the [Roma](https://roma.tei-c.org) web tool to select TEI modules, add and delete elements, and make other choices.
 * Write and maintain your own customization by hand using the TEI ODD language. For tutorials and guidance on how to do this, see
      * [TEI Customization Primer](https://www.wwp.neu.edu/outreach/resources/customization.html) by Syd Bauman and Julia Flanders, Women Writers Project
      * [Module 8: Customising the TEI, ODD, Roma](https://teibyexample.org/exist/tutorials/TBED08v00.htm) in TEI by Example.
