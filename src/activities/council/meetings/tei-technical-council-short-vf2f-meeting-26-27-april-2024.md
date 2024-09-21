@@ -19,7 +19,7 @@ date: 2024-04-27
 
 * Syd Bauman (SB)
 * Helena Bermúdez Sabel (HBS)
-* Elisa Beshe­ro\-Bondar (EBB, Chair)
+* Elisa Beshero\-Bondar (EBB, Chair)
 * Patricia O’Connor (TOC)
 * Gustavo Riva (GR)
 * Torsten Roeder (TR)
