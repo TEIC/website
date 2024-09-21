@@ -5,8 +5,8 @@ date: 2024-02-09
 # TEI Technical Council Teleconference, 2024-02-09
 ### Meeting times
 
+6:30am PST \| 9:30am EST \| 2:30pm UTC \| 3:30pm CET
 
-6:30am PST / 9:30am EST / 2:30pm UTC / 3:30pm CET
 ### Present
 
 
