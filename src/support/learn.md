@@ -15,17 +15,7 @@ tags: page
  
  This introduction provides an overview of the TEI Guidelines, describing their purpose
  and overall design, and addressing basic concepts of validity and TEI conformance.
- 
- 
-TEI Training Events
--------------------
 
-
-
- 
- The TEI's [events calendar](http://members.tei-c.org/Events) lists training opportunities, many of which offer a discount for staff at TEI member
- institutions and for TEI subscribers..
- 
  
 [Teach Yourself TEI](/support/learn/teach-yourself-tei/)
 -----------------------------------------------------------------------------
@@ -54,7 +44,7 @@ TEI Training Events
  like the TEI work.
  
  
-[Getting Started with P5 ODDs](/customization/getting-started-with-p5-odds/)
+[Getting Started with P5 ODDs](/guidelines/customization/getting-started-with-p5-odds/)
 ------------------------------------------------------------------------------------------------------------
 
 
