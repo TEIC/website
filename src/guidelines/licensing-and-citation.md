@@ -5,16 +5,7 @@ tags: page
 ---
 # Licensing and Citation
 
-
-
- 
- 
-
-
-
-How to Cite the TEI Guidelines
-------------------------------
-
+## How to Cite the TEI Guidelines
 
  The canonical release of the TEI Guidelines is the version found at the TEI web site,
  which is kept up to date as new versions are released. A print version of the Guidelines
@@ -26,13 +17,13 @@ How to Cite the TEI Guidelines
  you can indicate with some precision which state of the Guidelines is being cited;
  however, casual readers may not be able to get access to the precise state you cite,
  if it has been superseded by newer releases. (All previous versions can be recovered
- from the repository maintained at the TEI SourceForge site.) For purposes where a
+ from the repository maintained at the [TEI GitHub site](https://github.com/TEIC/TEI).) For purposes where a
  stable reference to specific words is crucial, citing the print version (if any) may
  be preferable, with the recognition that it may be out of date with respect to the
  most current online release.
  
  Below are the recommended forms of citation for the TEI Guidelines and its component
- parts, following the recommendations of the Columbia Guide to Online Style. The version number indicates the major release and version (e.g. P5, version 1.0),
+ parts, following the recommendations of the *Columbia Guide to Online Style*. The version number indicates the major release and version (e.g. P5, version 1.0),
  and can be found on the title page for the TEI Guidelines. The last modified date
  is the date on which the Guidelines were last updated and can also be found on the
  title page for the Guidelines; this includes any change that affects the text or substance
@@ -45,28 +36,30 @@ TEI Consortium, eds. *TEI P5: Guidelines for Electronic Text Encoding and Interc
 
 
 To cite P5 in its entirety, abbreviated version:
+
 TEI Consortium, eds. *Guidelines for Electronic Text Encoding and Interchange.* [last modified date]. http://www.tei-c.org/P5/.
 
 
 To cite a chapter or section, long (preferred) version:
-TEI Consortium, eds. "4.3.2 Floating Texts." *TEI P5: Guidelines for Electronic Text Encoding and Interchange.* [Version number]. [Last modified date]. TEI Consortium.
- http://www.tei-c.org/release/doc/tei-p5-doc/en/html/DS.html#DSFLT ([Date of access])
+
+TEI Consortium, eds. "4.3.2 Floating Texts." *TEI P5: Guidelines for Electronic Text Encoding and Interchange.* [Version number]. [Last modified date]. TEI Consortium. http://www.tei-c.org/release/doc/tei-p5-doc/en/html/DS.html#DSFLT ([Date of access])
 
 
 To cite a chapter or section, abbreviated version:
+
 TEI Consortium, eds. "Floating Texts." *Guidelines for Electronic Text Encoding and Interchange.* [Last modified date].
  http://www.tei-c.org/release/doc/tei-p5-doc/en/html/DS.html#DSFLT ([Date of access]).
 
 
 To cite a particular release's chapter or section, abbreviated version:
+
 TEI Consortium, eds. "Floating Texts." *Guidelines for Electronic Text Encoding and Interchange.* 1.7.0. [Last modified date].
  http://www.tei-c.org/Vault/P5/1.7.0/doc/tei-p5-doc/en/html/DS.html#DSFLT ([Date of
  access]).
 
+To cite a chapter or section using `<bibl>`:
 
-To cite a chapter or section using bibl: 
-
-```
+```xml
 <bibl>
   <editor><orgname>TEI Consortium</orgname></editor>
   <title level="a" n="4.3.2">Floating Texts</title>
@@ -79,11 +72,8 @@ To cite a chapter or section using bibl:
  </bibl>
 ```
 
-
-
-License Terms
+## License Terms
 -------------
-
 
  Copyright in most TEI Consortium materials, including the TEI Guidelines, is held
  by the Text Encoding Initiative Consortium, and these materials are made available
@@ -121,16 +111,12 @@ License Terms
  by citing this website.
  
  
-BSD 2-Clause
-------------
-
+## BSD 2-Clause
 
  If you choose to use the BSD 2-Clause license, these conditions require including
  the following:
  
- 
-
-```
+~~~txt
 Copyright 2011 TEI Consortium. All rights reserved.
 
 Redistribution and use in source and binary forms, with or without 
@@ -153,7 +139,7 @@ theory of liability, whether in contract, strict liability, or tort
 (including negligence or otherwise) arising in any way out of the use
 of this software, even if advised of the possibility of such
 damage.
-```
+~~~
 
 
 
