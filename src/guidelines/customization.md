@@ -8,7 +8,7 @@ Because the TEI Guidelines must cover such a broad domain and user community, it
 
 The TEI provides a number of basic, general-purpose customizations. One of the best-known of these is [TEI Lite](Lite/), which was originally designed as a demonstration of the customization mechanism, but has become popular as a simple TEI schema for basic encoding. Other basic customizations are listed below. To create your own customization, you can do one of the following:
 
-* Use the [Roma](https://roma.tei-c.org) web tool to select TEI modules, add and delete elements, and make other choices; see [Creating TEI Customizations with Roma](https://tei-c.org/guidelines/customization/customizing-the-tei-with-roma/) for more detailed information on using Roma.
+* Use the [Roma](https://roma.tei-c.org) web tool to select TEI modules, add and delete elements, and make other choices.
 * Write and maintain your own customization by hand using the TEI ODD language. For tutorials and guidance on how to do this, see
      * [TEI Customization Primer](https://www.wwp.neu.edu/outreach/resources/customization.html) by Syd Bauman and Julia Flanders, Women Writers Project
      * [Module 8: Customising the TEI, ODD, Roma](https://teibyexample.org/exist/tutorials/TBED08v00.htm) in TEI by Example.
@@ -17,7 +17,7 @@ The TEI provides a number of basic, general-purpose customizations. One of the b
          * [How to Update your ODD](https://teic.github.io/PDF/purifyDoc.pdf) (especially for older ODDs produced before version 3.0 of the TEI Guidelines)
          * [ODD chaining for Beginners](https://teic.github.io/PDF/howtoChain.pdf)
          * [“Customizing the TEI”](https://books.openedition.org/oep/692) in <i>What Is the Text Encoding Initiative?</i>, OpenEdition Press, 2014,
-     * [Using the TEI (Chapter 23 of the Guidelines)](/release/doc/tei-p5-doc/en/html/USE.html) 
+     * [Using the TEI (Chapter 24 of the Guidelines)](/release/doc/tei-p5-doc/en/html/USE.html) 
 
 
 ## Customizations provided by the TEI Consortium

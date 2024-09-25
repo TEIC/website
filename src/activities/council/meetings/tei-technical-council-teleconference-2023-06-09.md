@@ -48,9 +48,10 @@ Future meeting dates/times
 --------------------------
 
 
-EBB would like each of us to review dates \& times for future monthly Council meetings
+* EBB would like each of us to review dates and times for future monthly Council meetings
+
 Updating TEI P5 subset
-----------------------
+--------------------------
 
 
 * SS needs help for updating TEI P5 subset — she is working in Windows and both test and test2 targets are failing due to “file not found” for a file that is clearly there.
