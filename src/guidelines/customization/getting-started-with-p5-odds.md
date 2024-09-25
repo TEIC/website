@@ -222,30 +222,30 @@ applications or users without worrying about any dependencies
 
 ~~~xml
  <TEI>
- <teiHeader>
- <fileDesc>
- <titleStmt>
- <title>TEI with simple setup</title>
- <author>Sebastian Rahtz</author>
- </titleStmt>
- <publicationStmt>
- <p>freely available</p>
- </publicationStmt>
- <sourceDesc>
- <p>Written from scratch.</p>
- </sourceDesc>
- </fileDesc>
- </teiHeader>
- <text>
- <body>
- <schemaSpec ident="oddex1" start="TEI">
- <moduleRef key="header"/>
- <moduleRef key="core"/>
- <moduleRef key="tei"/>
- <moduleRef key="textstructure"/>
- </schemaSpec>
- </body>
- </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>TEI with simple setup</title>
+        <author>Sebastian Rahtz</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>freely available</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Written from scratch.</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <schemaSpec ident="oddex1" start="TEI">
+        <moduleRef key="header"/>
+        <moduleRef key="core"/>
+        <moduleRef key="tei"/>
+        <moduleRef key="textstructure"/>
+      </schemaSpec>
+    </body>
+  </text>
  </TEI>
  ~~~
 
@@ -286,20 +286,20 @@ applications or users without worrying about any dependencies
  A schema can include declarations for new elements, as in the following example:
 
 ~~~xml
- <schemaSpec xmlns:rng="http://relaxng.org/ns/structure/1\.0" ident="oddex1\.5" start="TEI"
- xml:base="examples/odd1\.5\.xml">
- <moduleRef key="header"/>
- <moduleRef key="core"/>
- <moduleRef key="tei"/>
- <moduleRef key="textstructure"/>
- <elementSpec ident="soundClip" mode="add">
- <classes>
- <memberOf key="model.pPart.data"/>
- </classes>
- <content>
- <textNode/>
- </content>
- </elementSpec>
+ <schemaSpec xmlns:rng="http://relaxng.org/ns/structure/1.0" ident="oddex1.5" start="TEI"
+ xml:base="examples/odd1.5.xml">
+  <moduleRef key="header"/>
+  <moduleRef key="core"/>
+  <moduleRef key="tei"/>
+  <moduleRef key="textstructure"/>
+  <elementSpec ident="soundClip" mode="add">
+    <classes>
+      <memberOf key="model.pPart.data"/>
+    </classes>
+    <content>
+      <textNode/>
+    </content>
+  </elementSpec>
  </schemaSpec>
  ~~~
 
@@ -313,27 +313,27 @@ applications or users without worrying about any dependencies
  existing `<birth>` element:
  
 ~~~xml
- <schemaSpec xmlns:rng="http://relaxng.org/ns/structure/1\.0" ident="oddex4" start="TEI"
- xml:base="examples/odd4\.xml">
- <moduleRef key="header"/>
- <moduleRef key="core"/>
- <moduleRef key="tei"/>
- <moduleRef key="textstructure"/>
- <moduleRef key="corpus"/>
- <elementSpec ident="rebirth" mode="add">
- <gloss>Rebirth details</gloss>
- <desc>contains information about a soul's rebirth, such as its
- date and place.</desc>
- <classes>
- <memberOf key="model.persEventLike"/>
- <memberOf key="att.editLike"/>
- <memberOf key="att.datable"/>
- <memberOf key="att.naming"/>
- </classes>
- <content>
- <macroRef name="macro.phraseSeq"/>
- </content>
- </elementSpec>
+ <schemaSpec xmlns:rng="http://relaxng.org/ns/structure/1.0" ident="oddex4" start="TEI"
+ xml:base="examples/odd4.xml">
+  <moduleRef key="header"/>
+  <moduleRef key="core"/>
+  <moduleRef key="tei"/>
+  <moduleRef key="textstructure"/>
+  <moduleRef key="corpus"/>
+  <elementSpec ident="rebirth" mode="add">
+    <gloss>Rebirth details</gloss>
+    <desc>contains information about a soul's rebirth, such as its
+    date and place.</desc>
+    <classes>
+      <memberOf key="model.persEventLike"/>
+      <memberOf key="att.editLike"/>
+      <memberOf key="att.datable"/>
+      <memberOf key="att.naming"/>
+    </classes>
+    <content>
+      <macroRef name="macro.phraseSeq"/>
+    </content>
+  </elementSpec>
  </schemaSpec>
 ~~~
 
@@ -358,15 +358,15 @@ applications or users without worrying about any dependencies
  easy:
 
 ~~~xml
- <schemaSpec ident="oddex2" start="TEI" xml:base="examples/odd2\.xml">
- <moduleRef key="header"/>
- <moduleRef key="core"/>
- <moduleRef key="tei"/>
- <moduleRef key="textstructure"/>
- <elementSpec ident="headItem" mode="delete" module="core"/>
- <elementSpec ident="headLabel" mode="delete" module="core"/>
- <elementSpec ident="hyphenation" mode="delete" module="header"/>
- </schemaSpec>
+<schemaSpec ident="oddex2" start="TEI" xml:base="examples/odd2.xml">
+  <moduleRef key="header"/>
+  <moduleRef key="core"/>
+  <moduleRef key="tei"/>
+  <moduleRef key="textstructure"/>
+  <elementSpec ident="headItem" mode="delete" module="core"/>
+  <elementSpec ident="headLabel" mode="delete" module="core"/>
+  <elementSpec ident="hyphenation" mode="delete" module="header"/>
+</schemaSpec>
 ~~~
  Note that no child elements of the deleted object are needed, or taken notice of.
 
@@ -376,32 +376,32 @@ applications or users without worrying about any dependencies
  little more complex:
 
 ~~~xml
- <schemaSpec ident="oddex3" start="TEI" xml:base="examples/odd3\.xml">
- <moduleRef key="header"/>
- <moduleRef key="core"/>
- <moduleRef key="tei"/>
- <moduleRef key="textstructure"/>
- <elementSpec ident="div" mode="change">
- <attList>
- <attDef ident="type" usage="req" mode="change">
- <gloss>You must indicate the level of the section</gloss>
- <datatype>
- <dataRef key="teidata.enumerated"/>
- </datatype>
- <valList type="closed" mode="replace">
- <valItem ident="section">
- <gloss>1st level section</gloss>
- </valItem>
- <valItem ident="subsection">
- <gloss>2nd level section</gloss>
- </valItem>
- <valItem ident="subsubsection">
- <gloss>3rd level section</gloss>
- </valItem>
- </valList>
- </attDef>
- </attList>
- </elementSpec>
+ <schemaSpec ident="oddex3" start="TEI" xml:base="examples/odd3.xml">
+  <moduleRef key="header"/>
+  <moduleRef key="core"/>
+  <moduleRef key="tei"/>
+  <moduleRef key="textstructure"/>
+  <elementSpec ident="div" mode="change">
+    <attList>
+      <attDef ident="type" usage="req" mode="change">
+        <gloss>You must indicate the level of the section</gloss>
+        <datatype>
+          <dataRef key="teidata.enumerated"/>
+        </datatype>
+        <valList type="closed" mode="replace">
+          <valItem ident="section">
+          <gloss>1st level section</gloss>
+        </valItem>
+        <valItem ident="subsection">
+          <gloss>2nd level section</gloss>
+        </valItem>
+        <valItem ident="subsubsection">
+          <gloss>3rd level section</gloss>
+        </valItem>
+        </valList>
+      </attDef>
+    </attList>
+  </elementSpec>
  </schemaSpec>
  ~~~
 
@@ -421,24 +421,24 @@ applications or users without worrying about any dependencies
  **att.linking** class:
 
 ~~~xml
- <schemaSpec ident="oddex5" start="TEI" xml:base="examples/odd5\.xml">
- <moduleRef key="header"/>
- <moduleRef key="core"/>
- <moduleRef key="tei"/>
- <moduleRef key="textstructure"/>
- <moduleRef key="linking"/>
- <classSpec module="linking" ident="att.global.linking" mode="change">
- <attList>
- <attDef ident="corresp" mode="delete"/>
- <attDef ident="synch" mode="delete"/>
- <attDef ident="sameAs" mode="delete"/>
- <attDef ident="copyOf" mode="delete"/>
- <attDef ident="next" mode="delete"/>
- <attDef ident="prev" mode="delete"/>
- <attDef ident="exclude" mode="delete"/>
- <attDef ident="select" mode="delete"/>
- </attList>
- </classSpec>
+ <schemaSpec ident="oddex5" start="TEI" xml:base="examples/odd5.xml">
+  <moduleRef key="header"/>
+  <moduleRef key="core"/>
+  <moduleRef key="tei"/>
+  <moduleRef key="textstructure"/>
+  <moduleRef key="linking"/>
+  <classSpec module="linking" ident="att.global.linking" mode="change">
+    <attList>
+      <attDef ident="corresp" mode="delete"/>
+      <attDef ident="synch" mode="delete"/>
+      <attDef ident="sameAs" mode="delete"/>
+      <attDef ident="copyOf" mode="delete"/>
+      <attDef ident="next" mode="delete"/>
+      <attDef ident="prev" mode="delete"/>
+      <attDef ident="exclude" mode="delete"/>
+      <attDef ident="select" mode="delete"/>
+    </attList>
+  </classSpec>
  </schemaSpec>
 ~~~
 
@@ -462,61 +462,62 @@ applications or users without worrying about any dependencies
  to define it ourselves using this `<elementSpec>`:
 
 ~~~xml
- <elementSpec ident="xinclude" mode="add" xmlns:rng="http://relaxng.org/ns/structure/1\.0"
- ns="http://www.w3\.org/2001/XInclude">
- <altIdent>include</altIdent>
- <classes>
- <memberOf key="model.common"/>
- </classes>
- <content>
- <elementRef key="fallback" minOccurs="0" maxOccurs="1"/>
- </content>
- <attList>
- <attDef ident="href" usage="req">
- <datatype>
- <dataRef name="anyURI"/>
- </datatype>
- </attDef>
- <attDef ident="parse">
- <datatype>
- <dataRef key="teidata.enumerated"/>
- </datatype>
- <valList>
- <valItem ident="xml"/>
- <valItem ident="text"/>
- </valList>
- </attDef>
- <attDef ident="xpointer">
- <datatype>
- <dataRef key="teidata.text"/>
- </datatype>
- </attDef>
- <attDef ident="encoding">
- <datatype>
- <dataRef key="teidata.text"/>
- </datatype>
- </attDef>
- <attDef ident="accept">
- <datatype>
- <dataRef key="teidata.text"/>
- </datatype>
- </attDef>
- <attDef ident="accept-charset">
- <datatype>
- <dataRef key="teidata.text"/>
- </datatype>
- </attDef>
- <attDef ident="accept-language">
- <datatype>
- <dataRef key="teidata.text"/>
- </datatype>
- </attDef>
- </attList>
- </elementSpec><elementSpec ident="fallback" ns="http://www.w3\.org/2001/XInclude">
- <content>
- <anyElement except="http://www.w3\.org/2001/XInclude" minOccurs="1" maxOccurs="unlimited"/>
- </content>
- </elementSpec>
+ <elementSpec ident="xinclude" mode="add" xmlns:rng="http://relaxng.org/ns/structure/1.0"
+ ns="http://www.w3.org/2001/XInclude">
+  <altIdent>include</altIdent>
+  <classes>
+    <memberOf key="model.common"/>
+  </classes>
+  <content>
+    <elementRef key="fallback" minOccurs="0" maxOccurs="1"/>
+  </content>
+  <attList>
+    <attDef ident="href" usage="req">
+      <datatype>
+        <dataRef name="anyURI"/>
+      </datatype>
+    </attDef>
+    <attDef ident="parse">
+      <datatype>
+        <dataRef key="teidata.enumerated"/>
+      </datatype>
+      <valList>
+        <valItem ident="xml"/>
+        <valItem ident="text"/>
+      </valList>
+    </attDef>
+    <attDef ident="xpointer">
+      <datatype>
+        <dataRef key="teidata.text"/>
+      </datatype>
+    </attDef>
+    <attDef ident="encoding">
+      <datatype>
+        <dataRef key="teidata.text"/>
+      </datatype>
+    </attDef>
+    <attDef ident="accept">
+      <datatype>
+        <dataRef key="teidata.text"/>
+      </datatype>
+    </attDef>
+    <attDef ident="accept-charset">
+      <datatype>
+        <dataRef key="teidata.text"/>
+      </datatype>
+    </attDef>
+    <attDef ident="accept-language">
+      <datatype>
+        <dataRef key="teidata.text"/>
+      </datatype>
+    </attDef>
+  </attList>
+</elementSpec>
+<elementSpec ident="fallback" ns="http://www.w3.org/2001/XInclude">
+  <content>
+    <anyElement except="http://www.w3.org/2001/XInclude" minOccurs="1" maxOccurs="unlimited"/>
+  </content>
+</elementSpec>
  ~~~
 
  Note the new **ns**
@@ -534,7 +535,7 @@ applications or users without worrying about any dependencies
 * the [TEIGarage web-based application](https://teigarage.tei-c.org)
 * the [Roma web-based application](https://tei-c.org/guidelines/customization/customizing-the-tei-with-roma/)
 * the [command-line scripts that are part of the TEI stylesheet package](http://tei-c.org/release/doc/tei-xsl/#commandline)
-* [oXygen XML Editor version 13\.1 or later](http://tei-c.org/release/doc/tei-xsl/#oxygen)
+* [oXygen XML Editor version 13.1 or later](http://tei-c.org/release/doc/tei-xsl/#oxygen)
 
 ## Making use of non-TEI schemas
 
@@ -587,19 +588,19 @@ For MathML, we redefine the content of the TEI `<formula>` element:
 
 ~~~xml
  <schemaSpec ident="tei_math" prefix="tei_" start="TEI teiCorpus" xmlns:teix="http://www.tei-c.org/ns/Examples"
- defaultExceptions="http://www.w3\.org/1998/Math/MathML http://www.tei-c.org/ns/1\.0
+ defaultExceptions="http://www.w3.org/1998/Math/MathML http://www.tei-c.org/ns/1.0
  teix:egXML">
- <moduleRef url="https://www.tei-c.org/release/xml/tei/Exemplars/mathml2-main.rng"/>
- <moduleRef key="header"/>
- <moduleRef key="core"/>
- <moduleRef key="tei"/>
- <moduleRef key="textstructure"/>
- <moduleRef key="figures"/>
- <elementSpec module="figures" ident="formula" mode="change">
- <content>
- <elementRef key="mathml.math"/>
- </content>
- </elementSpec>
+  <moduleRef url="https://www.tei-c.org/release/xml/tei/Exemplars/mathml2-main.rng"/>
+  <moduleRef key="header"/>
+  <moduleRef key="core"/>
+  <moduleRef key="tei"/>
+  <moduleRef key="textstructure"/>
+  <moduleRef key="figures"/>
+  <elementSpec module="figures" ident="formula" mode="change">
+  <content>
+    <elementRef key="mathml.math"/>
+  </content>
+  </elementSpec>
  </schemaSpec>
 ~~~
 
@@ -608,18 +609,18 @@ For SVG, we need to change the model of `<figure>`, simply adding a reference
 
 ~~~xml
  <elementSpec ident="figure" mode="change" xml:base="examples/addsvg.xml">
- <content>
- <rng:zeroOrMore xmlns:rng="http://relaxng.org/ns/structure/1\.0">
- <rng:choice>
- <rng:ref name="model.Incl"/>
- <rng:ref name="figure"/>
- <rng:ref name="figDesc"/>
- <rng:ref name="graphic"/>
- <rng:ref name="head"/>
- <rng:ref name="p"/>
- <rng:ref name="svg.svg"/>
- </rng:choice>
- </rng:zeroOrMore>
- </content>
+  <content>
+    <rng:zeroOrMore xmlns:rng="http://relaxng.org/ns/structure/1.0">
+      <rng:choice>
+        <rng:ref name="model.Incl"/>
+        <rng:ref name="figure"/>
+        <rng:ref name="figDesc"/>
+        <rng:ref name="graphic"/>
+        <rng:ref name="head"/>
+        <rng:ref name="p"/>
+        <rng:ref name="svg.svg"/>
+    </rng:choice>
+    </rng:zeroOrMore>
+  </content>
  </elementSpec>
 ~~~
