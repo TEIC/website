@@ -10,6 +10,7 @@ The TEI provides a number of basic, general-purpose customizations. One of the b
 
 * Use the [Roma](https://roma.tei-c.org) web tool to select TEI modules, add and delete elements, and make other choices.
 * Write and maintain your own customization by hand using the TEI ODD language. For tutorials and guidance on how to do this, see
+     * [Getting Started with P5 ODDs](getting-started-with-p5-odds/)
      * [TEI Customization Primer](https://www.wwp.neu.edu/outreach/resources/customization.html) by Syd Bauman and Julia Flanders, Women Writers Project
      * [Module 8: Customising the TEI, ODD, Roma](https://teibyexample.org/exist/tutorials/TBED08v00.htm) in TEI by Example.
      * Lou Burnard's resources:
