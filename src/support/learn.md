@@ -44,7 +44,7 @@ tags: page
  like the TEI work.
  
  
-[Getting Started with P5 ODDs](/guidelines/customization/getting-started-with-p5-odds/)
+[Orientation to TEI P5 ODDs](/guidelines/customization/)
 ------------------------------------------------------------------------------------------------------------
 
 
@@ -53,9 +53,8 @@ tags: page
  The underlying expression of the TEI Guidelines is a document called an ODD (or One Document Does it all), so called because it constitutes a single source from which the P5 schemas, reference
  documentation, and Guidelines prose are derived. The ODD language (which is part of
  the TEI language itself) is also the language in which TEI customizations are written.
- This introduction to the ODD language provides an overview of the essential concepts
- and some detail on how to write TEI customizations in ODD. ODD customizations may
- also be created using the web-based [Roma](https://roma.tei-c.org) tool.
+ This page lists resources to learn and work with the ODD language in order to produce TEI customizations, either working with 
+ the web-based [Roma](https://roma.tei-c.org) tool, or by writing TEI ODD code directly.
  
  
 [Bibliography](/support/learn/a-bibliography-of-publications-related-to-the-text-encoding-initiative/)
