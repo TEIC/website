@@ -4,7 +4,7 @@ date: 2024-10-02
 author: Diane Jakacki
 ---
 
-# TEI Officer Nominations -- 2024-25
+# TEI Officer Nominations — 2024-25
 
 This document offers names, statements of purpose, and biographies of candidates for open positions for the TEI Board of Directors and Technical Council.
 
@@ -115,7 +115,7 @@ I hold a degree in (medieval and early modern) history and English linguistics a
 
 _Affiliation:_ Heidelberg Universität
 
-**Statement of Purpose:_ As part of my work I regularly advise projects and instruct people on how to create editions with XML-TEI. As a result of this continuous exchange with students and other users of the TEI guidelines, I recognize a need to keep strengthening the TEI, particularly with regards to accessibility, outreach and innovation. I very interested in visualization technologies for digital texts as well as in using XML encoded texts as data for distant reading.
+**Statement of Purpose:** As part of my work I regularly advise projects and instruct people on how to create editions with XML-TEI. As a result of this continuous exchange with students and other users of the TEI guidelines, I recognize a need to keep strengthening the TEI, particularly with regards to accessibility, outreach and innovation. I very interested in visualization technologies for digital texts as well as in using XML encoded texts as data for distant reading.
 During 2024 I had the great opportunity to be a part of TEI-Council, replacing an elected member on leave. During this year I have learned a lot and I would like to serve for a full term in the Council to be able to apply all this new knowledge to work on more issues, improve the guidelines and expand the community.
 
 **Biography:** I studied Comparative Literature at the University of Buenos Aires (Argentina) and Medieval Literature at the University of Porto (Portugal). My PhD dissertation at the University of Buenos Aires included a digital edition of medieval texts. Since 2019, I have been a Research Associate in Digital Humanities at the University Library of Heidelberg, where I collaborate in the development of the library’s infrastructure for digital editions, [heiEDITIONS](https://heieditions.github.io/).
@@ -172,6 +172,7 @@ _Affiliation:_ Newcastle University
 ### Francesca Gianetti
 
 _Affiliation:_ Rutgers University–New Brunswick
+
 **Statement of Purpose:** As a librarian, my particular wish is to reinvigorate interest in the TEI among librarians and archivists as a means of promoting local collections and connecting with students seeking meaningful engagements with technology in the humanities. At one time, library participation in the TEI was quite strong; today it is a little less so, primarily due to the contraction in digital library/technical services units. I would like to serve as a library advocate for the TEI Board of Directors and seek ways to build connections to research librarians with an interest in digital pedagogy using the TEI. I feel that the TEI is an important means of teaching and learning institutional history, for showcasing rare and unique materials, and for demonstrating to students that the humanistic study of texts can be pursued in tandem with the study and application of technology. More broadly, I advocate for data curation as a means of demonstrating thoughtfulness, care, and attention when the calls for automation, speed, and scale are nearly deafening.
 
 **Biography:** I am the digital humanities librarian and liaison to Classics, Comparative Literature, French, and Italian at Rutgers--New Brunswick. At Rutgers, I lead initiatives in digital humanities—including the application of spatial and computational approaches to historical and cultural texts, and public outreach in the form of workshops, lectures, symposia, and open data crowdsourcing events. I have published extensively on digital libraries and digital humanities pedagogy and have worked on and managed numerous projects relating to text encoding and the dissemination of digital scholarly outputs in music. My digital projects mostly relate to digital editions and text encoding; two editions are in progress—the Still Papers and the Rutgers College War Service Bureau Correspondence. I am the maintainer of the Directory of Digital Scholarship in Music.
