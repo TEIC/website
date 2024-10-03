@@ -17,7 +17,9 @@ jobs:
         with:
           node-version: '18'
       - name: Build
-        uses: TartanLLama/actions-eleventy@v1.3
+        run: |
+          npm install
+          npx @11ty/eleventy
       - name: Deploy
         uses: webfactory/ssh-agent@v0.9.0
         with:
