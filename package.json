@@ -12,9 +12,9 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@11ty/eleventy": "2.0.1",
-    "@11ty/eleventy-navigation": "0.3.5",
-    "@11ty/eleventy-plugin-rss": "1.1.0"
+    "@11ty/eleventy": "~2.0.1",
+    "@11ty/eleventy-navigation": "~0.3.5",
+    "@11ty/eleventy-plugin-rss": "~1.1.0"
   },
   "dependencies": {
     "bootstrap": "^5.3.1",
