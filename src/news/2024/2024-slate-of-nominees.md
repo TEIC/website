@@ -169,7 +169,7 @@ _Affiliation:_ Newcastle University
 
 **Biography:** I have a long history with the TEI, first as a user, and then from 2005 as an elected member (and sometimes Chair) of the TEI Technical Council, and since 2020 as an elected member of the TEI Board of Directors. I worked for 15 years providing technical research support (and then managing teams who did) at the University of Oxford. We taught an annual TEI Summer School which I eventually helped transform into the Digital Humanities at Oxford Summer School (which I directed up until I left). I also run the annual DH Awards. In 2017 I moved to Newcastle University where I’ve since been promoted from Senior Lecturer to Reader in Digital Textual Studies and Late Medieval Literature in the School of English. While I also teach courses such as ‘Stagecraft in Early Drama’, a lot of my teaching and research involves the TEI. With Diane Jakacki and Susan Brown I’m part of the LEAF-VRE project (whose online TEI+RDF/LOD editor LEAF-Writer is gaining popularity). And I’m also Co-Investigator with Diane on the AHRC/NEH ‘Evolving Hands’ project looking at workflows for HTR to TEI conversion. I was very happy to host the TEI2022 conference in Newcastle Upon Tyne, UK.
 
-### Francesca Gianetti
+### Francesca Giannetti
 
 _Affiliation:_ Rutgers University–New Brunswick
 
