@@ -17,11 +17,11 @@ Two new Members of the Board of Directors and four new Members of the Technical 
 
 ### Technical Council
 
-* Elisa Beshero-Bondar
-* Ulrike Henny-Krahmer
-* Martin Holmes
-* Martina Scholger
+* Elisa Beshero-Bondar (2025-2027)
+* Ulrike Henny-Krahmer (2025-2027)
+* Martin Holmes (2025-2027)
+* Martina Scholger (2025-2027)
 
-With thanks to those who are rotating off at the end of 2024: Wolfgan Meier (Board); Gustavo Riva, Sabine Seifer, and Magdalena Turska (Council).
+With thanks to those who are rotating off at the end of 2024: Wolfgang Meier (Board); Gustavo Riva, Sabine Seifert, and Magdalena Turska (Council).
 
 Thanks, as well, to everyone who voted in this year's election, and with gratitude to everyone who accepted and stood for nomination. The TEI community is stronger for the commitment of all to participate and contribute.
