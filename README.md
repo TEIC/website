@@ -59,3 +59,40 @@ By default, a file like `src/support.md` will end up being served at a URL like 
 The TEI Documentation pages are an exception. These are included as a Git submodule in `src/documentation/Documentation` and are TEI files. You probably don't want to edit them locally, but if you do, make sure they get pushed to the Documentation repo.
 
 The root index pages, `index.en.md` and `index.es.md` are special in that they are set up for the Apache web server to do content negotiation to determine whether to show an English or Spanish version of the landing page depending on the requester's locale. If you use the built in Eleventy serve command, be aware that you won't get a regular index.html file at the root.
+
+## Building Locally
+
+The website can be built locally. To do so, first make sure you have Node (20+), npm (10+), and git installed. 
+
+Then check out the repository and install all dependencies
+
+```sh
+git clone https://github.com/TEIC/website
+cd website
+npm install
+```
+
+The commands for building and serving the website are configured in `./package.json`.
+
+To preview the website, run:
+
+```sh
+npm run dev 
+```
+This will also watch for any new changes and rebuild, so you can leave the console running if you're making multiple changes. 
+
+If this is successful, you'll likely see a whole bunch of output, which should conclude with something like:
+
+```sh 
+[11ty] Copied 50 files / Wrote 654 files in 3.08 seconds (4.7ms each, v2.0.1)
+[11ty] Watching…
+[11ty] Server at http://localhost:8080/
+```
+
+**Note**: Since the website is localized, the homepage will be located at `index.[LANGUAGE-CODE]`. E.g. to see the English homepage, go to: `https://localhost:8080/index.en`
+
+
+
+
+
+

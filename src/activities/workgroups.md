@@ -20,13 +20,13 @@ tags: page
 ----------------------------------------------------------------------------------
 
 
-[TEI Stylesheets Task Force](https://tei-c.org/activities/workgroups/tei-stylesheets-task-force-charge/)
+[TEI Stylesheets Task Force](/activities/workgroups/tei-stylesheets-task-force-charge/)
 * This group was charged in March 2022 with rewriting the current XSLT stylesheets.
  It is aimed at converting ODD to the TEI Guidelines, schemas, and customization ODDs
  into schemas and customized output.
 
 
-[Internationalization (I18n) Workgroup](https://tei-c.org/activities/workgroups/internationalization-i18n-workgroup/)
+[Internationalization (I18n) Workgroup](/activities/workgroups/internationalization-i18n-workgroup/)
 * This group was charged in March 2020 with communicating the TEI to a multilingual
  user community. This comprises the development of a) internationalized and localized
  landing pages for the TEI site, b) a multilingual glossary of TEI terminology for
