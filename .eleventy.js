@@ -18,11 +18,13 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy({ "src/assets/js": "js" });
   eleventyConfig.addPassthroughCopy({ "src/assets/css/*.css": "css" });
   eleventyConfig.addPassthroughCopy({ "src/assets/img": "img" });
-  eleventyConfig.addPassthroughCopy("src/**/*.var");
-  eleventyConfig.addPassthroughCopy("src/**/*.png");
   eleventyConfig.addPassthroughCopy("src/**/*.ai");
-  eleventyConfig.addPassthroughCopy("src/**/*.svg");
   eleventyConfig.addPassthroughCopy("src/**/*.eps");
+  eleventyConfig.addPassthroughCopy("src/**/*.jpg");
+  eleventyConfig.addPassthroughCopy("src/**/*.png");
+  eleventyConfig.addPassthroughCopy("src/**/*.pdf");
+  eleventyConfig.addPassthroughCopy("src/**/*.svg");
+  eleventyConfig.addPassthroughCopy("src/**/*.var");
   eleventyConfig.addPassthroughCopy({ "src/_data/*.json": "data" });
   eleventyConfig.addPassthroughCopy({ "node_modules/bootstrap-icons/font/fonts/*.*": "fonts" });
   eleventyConfig.addPlugin(eleventyNavigationPlugin);
