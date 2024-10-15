@@ -21,7 +21,7 @@ tags: page
 
 
 [TEI Stylesheets Task Force](/activities/workgroups/tei-stylesheets-task-force-charge/)
-* This group was charged in March 2022 with rewriting the current XSLT stylesheets.
+* This group was charged in March 2022 with rewriting the current set of XSLT stylesheets that tackle ODD processing for generation of schemas and documentation.
  It is aimed at converting ODD to the TEI Guidelines, schemas, and customization ODDs
  into schemas and customized output.
 
