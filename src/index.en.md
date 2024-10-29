@@ -12,4 +12,5 @@ Want to become active in the TEI community?
 * [Become a TEI Member](https://members.tei-c.org/join)
 * join a [special interest group](https://tei-c.org/Activities/SIG/)
 * sign up for the [TEI-L mailing list](https://tei-c.org/support/#tei-l)
+* join a [Community Call](/activities/community) 
 * come to our [annual conferences and members’ meetings](http://members.tei-c.org/Events/meetings)

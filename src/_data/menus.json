@@ -48,6 +48,10 @@
           "url": "/activities/board/"
         },
         {
+          "name": "Community",
+          "url": "/activities/community/"
+        },
+        {
           "name": "Workgroups",
           "url": "/activities/workgroups/"
         },
