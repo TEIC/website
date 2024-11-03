@@ -9,10 +9,13 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
         with:
           fetch-depth: 1
           submodules: 'recursive'
+      - name: Update submodule
+        run: git submodule update --remote src/documentation/Documentation
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
