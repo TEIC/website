@@ -53,7 +53,7 @@ tags: page
  
  ## Stylesheets for converting TEI documents to various formats
  
- The TEI maintains a library of [XSL stylesheets](./Stylesheets/) developed by Sebastian Rahtz,
+ The TEI maintains a library of [XSL stylesheets](https://github.com/TEIC/Stylesheets), originally developed by Sebastian Rahtz,
  which can convert TEI XML files to HTML, LaTeX, or XSL:FO documents. These stylesheets
  are designed for specific purposes and are not intended as general-purpose conversion
  tools. Other
