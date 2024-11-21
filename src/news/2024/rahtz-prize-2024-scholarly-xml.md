@@ -11,6 +11,6 @@ Scholarly XML adds to the suite of independently produced tools and extensions t
 [Scholarly XML was first used in 2020 as part of joint course offered by Gimena del Rio Riande and Raffaele Viglianti](https://digitalhumanities.org/dhq/vol/16/2/000591/000591.html), bringing together students from the University of Maryland, College Park and the Universidad del Salvador in Buenos Aires in 2020. 
 
 Heartiest congratulations to the Scholarly XML team.
-The 2024 Rhatz Prize Evaluation Committee, Constance Crompton (Univiersty of Ottawa),James Cummings (Newcastle University) and Frank Fischer (Freie Universität Berlin) 
+The 2024 Rahtz Prize Evaluation Committee, Constance Crompton (Univiersty of Ottawa),James Cummings (Newcastle University) and Frank Fischer (Freie Universität Berlin) 
 
 Do you know of a TEI project that might merit this prize? Keep an eye out for the next call for nominations in spring 2025.
