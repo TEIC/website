@@ -1,4 +1,5 @@
 ---
+layout: page.njk
 title: "TEI-C Board Minutes: Oct. 2024"
 date: 2024-10-17
 author: Diane Jakacki
