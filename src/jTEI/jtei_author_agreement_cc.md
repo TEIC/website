@@ -1,5 +1,6 @@
 ---
 title: jTEI Author Agreement
+layout: page.njk
 ---
 # jTEI Author Agreement
 
