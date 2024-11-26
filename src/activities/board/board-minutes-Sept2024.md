@@ -1,9 +1,10 @@
 ---
+layout: page.njk
 title: "TEI-C Board Minutes: Sept. 2024"
 date: 2024-09-21
 author: Diane Jakacki
 ---
-# TEI-C Board Minutes: Sept. 2024
+## TEI-C Board Minutes: Sept. 2024
 
 The TEI Board of Directors met on 19 September 2024.
 
