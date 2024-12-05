@@ -27,11 +27,17 @@ Senior XML Programmer\-Analyst, Northeastern University
 [Helena Bermúdez Sabel](https://helenasabel.github.io/) (Jan 2023 \- Dec 2025\)
 Software developer, JinnTec
 
-[Elisa Beshero\-Bondar](https://newtfire.org "Elisa Beshero-Bondar") (Jan 2022 \- Dec 2024\) (Chair)
+[Elisa Beshero\-Bondar](https://newtfire.org) (Jan 2025 \- Dec 2027\) (Chair)
 Professor of Digital Humanities and Director of the Digital Humanities Lab at Penn State Erie, The Behrend College
 
-Elli Bleeker (Jan 2023 \- Dec 2025, on leave)
+Elli Bleeker (Jan 2023 \- Dec 2025)
 Postdoctoral researcher, Huygens Institute for the History of the Netherlands
+
+Ulrike Henny\-Krahmer (Jan 2025 \- Dec 2027\)
+Junior Professor for Digital Humanities, University of Rostock, Germany
+
+Martin Holmes (Jan 2025 \- Dec 2027\)
+Programmer/Consultant, University of Victoria Humanities Computing and Media Centre
 
 [Patricia O’Connor](https://trishaoconnor.com/) (Jan 2023 \- Dec 2025\)
 Independent Researcher
@@ -42,7 +48,7 @@ Research Associate in Digital Humanities at the University Library of Heidelberg
 [Torsten Roeder](https://www.uni-wuerzburg.de/zpd/zentrum/team/roeder-torsten/) (Jan 2024 \- Dec 2026\)
 Center for Philology and Digitality, University of Würzburg
 
-[Martina Scholger](https://online.uni-graz.at/kfu_online/wbForschungsportal.cbShowPortal?pPersonNr=50869&pMode=E) (Jan 2022 \- Dec 2024\)
+[Martina Scholger](https://online.uni-graz.at/kfu_online/wbForschungsportal.cbShowPortal?pPersonNr=50869&pMode=E) (Jan 2025 \- Dec 2027\)
 Senior Scientist, Centre for Information Modelling — Austrian Centre for Digital Humanities, University of Graz
 
 [Sabine Seifert](https://www.fontanearchiv.de/ueber-uns/team/sabine-seifert) (Jan 2022 \- Dec 2024\)
