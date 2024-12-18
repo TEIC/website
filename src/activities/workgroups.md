@@ -19,6 +19,9 @@ tags: page
  Council:
 ----------------------------------------------------------------------------------
 
+[TEI Lite 2.0 Workgroup](/activities/workgroups/lite2-charge)
+* This group was charged in December 2024 to provide a new version of TEI Lite. The work comprises the provision of extensive and context-rich encoding examples, the revision of the TEI Lite Guidelines, the selection of TEI Lite 2.0 elements, the proposal of a declarative syntax for context-dependent content models, and the preparation of a TEI Lite 2.0 schema customization.
+
 [GIS Workgroup](/activities/workgroups/gis-charge)
 * This group was charged in January 2024 to provide standards-informed mechanisms that are at least interchangeable, if not interoperable, for encoding geographic information in TEI that are capable of unambiguous interpretation and transformation to and from standard GIS file formats. 
 
