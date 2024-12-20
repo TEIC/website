@@ -9,7 +9,7 @@ eleventyNavigation:
 
 El Consorcio de la Text Encoding Initiative (TEI) es una organización internacional cuya misión es desarrollar y mantener directrices para la codificación digital de textos literarios y lingüísticos. El Consorcio publica las **Text Encoding Initiative Guidelines for Electronic Text Encoding and Interchange** (Directrices de la Iniciativa de Codificación de Textos para la Codificación e Intercambio Electrónico): un estándar internacional e interdisciplinario ampliamente utilizado por bibliotecas, museos, editoriales y académicos individuales para representar todo tipo de materiales textuales en investigaciones y enseñanzas en línea.
 
-The TEI is supported by annual dues from institutional members and individual subscribers,
+La TEI es mantenida by annual dues from institutional members and individual subscribers,
 with additional funding from grants and the institutional support of its hosts. Its chief
 activities include the publication and ongoing development of the TEI Guidelines, and support
 for their use with schema development tools, training and documentation initiatives, discussion
