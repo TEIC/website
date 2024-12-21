@@ -11,7 +11,8 @@ The TEI Board of Directors is the governing body for the TEI Consortium, and is 
 
 ### Elected members: term January 2025 through December 2027
 
-**James Cummings**
+**[James Cummings](https://www.ncl.ac.uk/elll/staff/profile/jamescummings.html)**
+Reader in Digital Textual Studies and Late-Medieval Literature, Newcastle University: james.cummings AT newcastle.ac.uk
 (re-elected)
 
 **Magdalena Turska**
