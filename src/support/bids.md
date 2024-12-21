@@ -9,7 +9,7 @@ tags: page
 
 The TEI Consortium provides one of the most flexible, widely-used internationally-recognised standards in digital text encoding, and mentioning that you are planning to follow the TEI Guidelines can reassure your application reviewers of your funding body that the data you produce will follow best practices and be reusable in the future. A template explanatory paragraph you may wish to modify for your funding bid could read like this: 
 
-<p style="padding-left:10em; padding-right:10em; font-style:italic; color:#004400">
+<p style="padding-left:10%; padding-right:10%; font-style:italic; color:#004400">
 The Text Encoding Initiative (TEI) is a community-based consortium which collectively develops and maintains a mature and well-regarded international standard for the representation of texts in digital form that is recognised by digital libraries and archives throughout the world. Volunteers working on behalf of the TEI Consortium maintain this standard as a set of recommended encoding methods for digital texts that are used by projects such as this one. Using the TEI P5 Guidelines for our digital textual data delivers value for money in the creation of richly-encoded XML texts that are in a format ready for long-term preservation. 
 </p>
 
