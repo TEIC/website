@@ -137,6 +137,10 @@
         {
           "name": "Issues and Feature Requests",
           "url": "https://github.com/TEIC/TEI/issues"
+        },
+        {
+          "name": "Funding Bids and the TEI-C",
+          "url": "/support/bids/"
         }
       ]
     }
