@@ -63,4 +63,4 @@ eXist Solutions
 [Raffaele Viglianti](http://mith.umd.edu/people/raffaele-viglianti/) (Jan 2024 \- Dec 2026\)
 Senior Research Software Developer, Maryland Institute for Technology in the Humanities, University of Maryland
 
-A full list of former Council members can be found [here](/release/doc/tei-p5-doc/en/html/FM1.html). Council wishes to thank our skilled and generous volunteers from our consortium and past Council members including Hugh Cayless, Martin Holmes, and Peter Stadler who continue to help us with maintaining our infrastructure and advise regularly on our work.
+A full list of former Council members can be found [here](/release/doc/tei-p5-doc/en/html/FM1.html). Council wishes to thank our skilled and generous volunteers from our consortium and past Council members including Hugh Cayless and Peter Stadler who continue to help us with maintaining our infrastructure and advise regularly on our work.

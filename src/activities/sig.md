@@ -7,10 +7,11 @@ tags: page
 
 TEI Special Interest Groups (SIGs) provide an opportunity for TEI enthusiasts with similar interests to meet and exchange ideas. The TEI provides each SIG with web space, wiki space, a mailing list, and opportunities to meet at the [annual conference and members' meeting](/Membership/Meetings/ "annual conference and members' meeting"). SIG activity might lead to any number of outputs, including training courses or documentation, proposals for extension or modification to the Guidelines, etc., no particular outcomes are required or expected. All SIGs are open to the public.
 
-Anyone with an idea for a fresh area of activity or collaboration is invited to propose a new SIG. See the SIG [rules](/Activities/SIG/rules.xml "rules") page for details.
+Anyone with an idea for a fresh area of activity or collaboration is invited to propose a new SIG. See the SIG [rules](/Activities/SIG/sig-rules-and-regulations) page for details.
 
 ## Currently Active SIGs
 
+* [Computable Text and Media SIG](/Activities/SIG/computable). Convener: Torsten Roeder.
 * [Computer-Mediated Communication](/Activities/SIG/CMC/ "Computer-Mediated Communication"). Conveners: Michael Beißwenger and Harald Lüngen. [Join mailing list](https://groups.google.com/d/forum/tei-cmc "Join mailing list"); [visit Wiki](https://wiki.tei-c.org/index.php/SIG:Computer-Mediated_Communication "visit Wiki").
 * [Correspondence](/Activities/SIG/Correspondence/ "Correspondence"). Conveners: Stefan Dumont and Sabine Seifert. [Join mailing list](https://lists.psu.edu/cgi-bin/wa?SUBED1=TEI-CORRESP-SIG&A=1 "Join mailing list"); [list archive](https://lists.psu.edu/cgi-bin/wa?A0=TEI-CORRESP-SIG "list archive"); [visit Wiki](https://wiki.tei-c.org/index.php/SIG:Correspondence "visit Wiki").
 * [East Asian/Japanese](/Activities/SIG/EastAsian/ "East Asian/Japanese"). Conveners: Kiyonori Nagasaki and A. Charles Muller. [Visit wiki](https://wiki.tei-c.org/index.php/SIG:East_Asian "Visit wiki").
