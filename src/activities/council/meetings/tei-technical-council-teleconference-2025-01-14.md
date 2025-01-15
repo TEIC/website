@@ -17,7 +17,7 @@ date: 2025-01-14
 * Torsten Roeder (TR)  
 * Martina Scholger (MS)  
 * Joey Takeda (JT)   
-* Raff Viglianti (RV) 18:38Z
+* Raff Viglianti (RV)
 
 ### Invited Guest
 
@@ -119,6 +119,6 @@ date: 2025-01-14
     * Decision to use “….unicode” rather than “….Unicode” despite its being a proper noun  
     * teidata.teiP5:  
       * Regular expression is a bit loose (should limit to max 3 numbered segments, maybe should not include ‘α‘ and ‘β’)  
-## Council procedures: 
+## Council procedures
     * Council members signing up for Ticket Triage & Minute Review for 2025
 
