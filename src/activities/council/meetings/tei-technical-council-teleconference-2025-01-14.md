@@ -28,7 +28,7 @@ date: 2025-01-14
 * Ulrike Henny-Krahmer (UHK)
 
 
-## TEI 2025 Conference and Council F2F:  
+## TEI 2025 Conference and Council F2F  
   * **Planned** dates: Week of 14–20 Sep 25  
   * Will be announced shortly (after local organizer gets website up)  
   * Conference dates 16–20 Sep 2025 to avoid conflict with the CLARIN event in Vienna (Sep 30–Oct 2).  
@@ -78,9 +78,9 @@ date: 2025-01-14
       * Possibly TEI meetups might be oriented more to beginners (vs. e-editiones)? Eg: TEI meetup geared to people who haven't learned what an ODD is yet...  
       * HBS: Usually e-editiones meets 1st Tuesday of each month.
 
-## Slack: **Action on HC**  to make all our channels private (except the public “atop” channel), renaming to “-internal” or “pvt-” or whatever, and then make Slack space public, re-creating several of our current channels PRN.
+## Preparing TEI Slack for community access
+    * **Action on HC**: before next Board meeting, to make all our channels private (except the public “atop” channel), renaming to “-internal” or “pvt-” or whatever, and then make Slack space public, re-creating several of our current channels PRN.
 
- 
 
 ## New TEI SIG on Computable Text and Media  
   * Page is now on website: [https://www.tei-c.org/activities/sig/computable/](https://www.tei-c.org/activities/sig/computable/)  
@@ -98,11 +98,11 @@ date: 2025-01-14
     * Be very clear on specialized use of @ref on bibl
 
 
-* [\#2376](https://github.com/TEIC/TEI/issues/2376) : Add a Charters Module (prod to Council)  
+  * [\#2376](https://github.com/TEIC/TEI/issues/2376) : Add a Charters Module (prod to Council)  
   * From Buenos Aires F2F: "Subgroup A suggests requesting a short proposal with descriptions of related elements and accompanying examples so that we can understand exactly what is wanted, shorter more concise descriptions of related elements rather than lengthy descriptions for each element (like how we define/describe an element in the TEI)"  
   * MS and SB: Check the CEI standard, and Akoma Ntoso.
 
-* [\#960](https://github.com/TEIC/TEI/issues/960) : MH suggested closing this old ticket on i18n, since there is now a working group. Council agreed, and the ticket was closed.
+  * [\#960](https://github.com/TEIC/TEI/issues/960) : MH suggested closing this old ticket on i18n, since there is now a working group. Council agreed, and the ticket was closed.
 
 
 ## Semantic versioning (\#1993)  
