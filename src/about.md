@@ -13,7 +13,7 @@ Interchange: an international and interdisciplinary standard that is widely used
 museums, publishers, and individual scholars to represent all kinds of textual material for
 online research and teaching.
 
-La TEI es mantenida by annual dues from institutional members and individual subscribers,
+The TEI is supposrted by annual dues from institutional members and individual subscribers,
 with additional funding from grants and the institutional support of its hosts. Its chief
 activities include the publication and ongoing development of the TEI Guidelines, and support
 for their use with schema development tools, training and documentation initiatives, discussion
