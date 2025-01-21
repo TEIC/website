@@ -42,12 +42,10 @@ If you experience or witness unacceptable behavior or have any other concerns ab
 After filing a report, a member of the TEI-C Board of Directors will contact you personally. If the person who is harassing you is part of the response team, they will recuse themselves from handling your incident. A representative will then review the incident, follow up with any additional questions, and make a decision, with input from the Chair of the TEI-C Board of Directors, as to how to respond. All due care, with chance for appeal, will be taken in reaching any decision. We will respect confidentiality requests for the purpose of protecting victims of abuse. 
 Anyone asked to stop unacceptable behavior is expected to comply immediately. If an individual engages in unacceptable behavior, the representative may take any action they deem appropriate, up to and including a permanent ban from our community.
 
+## Acknowledgments
 
-Acknowledgments
----------------
+This code of conduct was authored by Pip Willcox with input from the TEI-C Board of Directors and the TEI community at-large. It is based on the [Open Code of Conduct](https://github.com/todogroup/opencodeofconduct) v1.0 from the [TODOGroup](https://todogroup.org). We have additionally borrowed from the Digital Library Federation’s [Code of Conduct](https://www.diglib.org/about/code-of-conduct/). We are thankful for their work and all the communities who have paved the way with codes of conduct.
 
-
-This code of conduct was authored by Pip Willcox with input from the TEI-C Board of Directors and the TEI community at-large. It is based on Twitter Engineering’s [Open Source Code of Conduct](https://engineering.twitter.com/opensource/code-of-conduct), which in turn is based on the [Open Code of Conduct](https://github.com/todogroup/opencodeofconduct) v1.0 from the [TODOGroup](https://todogroup.org). We have additionally borrowed from the Digital Library Federation’s [Code of Conduct](https://www.diglib.org/about/code-of-conduct/). We are thankful for their work and all the communities who have paved the way with codes of conduct.
 We thank you, all the members of our community whose work uses TEI Guidelines, who share their work through our list and conferences, and who volunteer their time to support the work of the TEI-C including our officers, and Council and Board members.
 
 
