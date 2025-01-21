@@ -26,14 +26,6 @@ Researcher, Seminario de Edicion y Critica Textual (SECRIT-IIBICRIT), External P
 **Diane Jakacki (2022-24 Chair)**
 Digital Scholarship Coordinator and Faculty Teaching Associate in Comparative Humanities, Bucknell University: dkj004 AT bucknell.edu
 
-### Elected members: term January 2022 through December 2024
-
-**[James Cummings](https://www.ncl.ac.uk/elll/staff/profile/jamescummings.html)**
-Reader in Digital Textual Studies and Late-Medieval Literature, Newcastle University: james.cummings AT newcastle.ac.uk
-
-**[Wolfgang Meier](https://www.existsolutions.com/)**
-Director of eXistSolutions: wolfgang AT existsolutions.com
-
 ### Elected members: term January 2023 through December 2025
 
 **[Constance Crompton](https://uniweb.uottawa.ca/members/3039)**
@@ -41,8 +33,8 @@ Assistant Professor, University of Ottawa: constance.crompton AT uottawa.ca
 
 ### Ex officio (non-voting)
 
-**Treasurer: Hugh Cayless (January 2018 – December 2024)**
+**Treasurer: Hugh Cayless (January 2018 – December 2025)**
 Senior Digital Humanities Developer, Duke University Libraries
 
-**Technical Council Chair: [Elisa Beshero-Bondar](https://newtfire.org) (January 2023 – December 2024)**
+**Technical Council Chair: [Elisa Beshero-Bondar](https://newtfire.org) (January 2023 – December 2025)**
 Professor of Digital Humanities and Director of the Digital Humanities Lab at Penn State Erie, the Behrend College
