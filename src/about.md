@@ -6,14 +6,14 @@ eleventyNavigation:
   key: "About"
 ---
 # About
-The Text Encoding Initiative Consortium is an international organization whose mission is to
+The Text Encoding Initiative Consortium (TEI-C) is an international organization whose mission is to
 develop and maintain guidelines for the digital encoding of literary and linguistic texts. The
 Consortium publishes the Text Encoding Initiative Guidelines for Electronic Text Encoding and
 Interchange: an international and interdisciplinary standard that is widely used by libraries,
 museums, publishers, and individual scholars to represent all kinds of textual material for
 online research and teaching.
 
-The TEI is supposrted by annual dues from institutional members and individual subscribers,
+The TEI-C is supported by annual dues from institutional members and individual subscribers,
 with additional funding from grants and the institutional support of its hosts. Its chief
 activities include the publication and ongoing development of the TEI Guidelines, and support
 for their use with schema development tools, training and documentation initiatives, discussion
