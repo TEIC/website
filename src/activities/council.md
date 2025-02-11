@@ -33,7 +33,7 @@ Professor of Digital Humanities and Director of the Digital Humanities Lab at Pe
 Elli Bleeker (Jan 2023 – Dec 2025)
 Postdoctoral researcher, Huygens Institute for the History of the Netherlands
 
-Ulrike Henny\-Krahmer (Jan 2025 – Dec 2027)
+[Ulrike Henny\-Krahmer](https://www.germanistik.uni-rostock.de/en/lehrende/professorinnen-und-professoren/jun-prof-dr-ulrike-henny-krahmer/) (Jan 2025 – Dec 2027)
 Junior Professor for Digital Humanities, University of Rostock, Germany
 
 Martin Holmes (Jan 2025 – Dec 2027)
@@ -46,7 +46,7 @@ Independent Researcher
 Center for Philology and Digitality, University of Würzburg
 
 [Martina Scholger](https://online.uni-graz.at/kfu_online/wbForschungsportal.cbShowPortal?pPersonNr=50869&pMode=E) (Jan 2025 – Dec 2027)
-Senior Scientist, Centre for Information Modelling — Austrian Centre for Digital Humanities, University of Graz
+Senior Scientist, Department of Digital Humanities, University of Graz
 
 [Joey Takeda](https://joeytakeda.github.io/) (Jan 2024 – Dec 2026)
 Developer, Digital Humanities Innovation Lab, Simon Fraser University
