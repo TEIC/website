@@ -36,7 +36,7 @@ Postdoctoral researcher, Huygens Institute for the History of the Netherlands
 [Ulrike Henny\-Krahmer](https://www.germanistik.uni-rostock.de/en/lehrende/professorinnen-und-professoren/jun-prof-dr-ulrike-henny-krahmer/) (Jan 2025 – Dec 2027)
 Junior Professor for Digital Humanities, University of Rostock, Germany
 
-Martin Holmes (Jan 2025 – Dec 2027)
+[Martin Holmes](https://www.uvic.ca/humanities/hcmc/aboutus/staff/profiles/holmesmartin.php) (Jan 2025 – Dec 2027)
 Programmer/Consultant, University of Victoria Humanities Computing and Media Centre
 
 [Patricia O’Connor](https://trishaoconnor.com/) (Jan 2023 – Dec 2025)
