@@ -22,7 +22,7 @@ Attending:  Diane Jackaki, Magdalena Turska, Pietro Liuzzo, Hugh Cayless, Elisa 
         * Magdalena Turska to lead the program committee
         * Discussion of conference timelines and formats
         * Keynotes: usually one proposed by the board, one by the local organizing teams; best to have at least one keynote that brings in new perspectives on the TEI's use or room for growth
-        * Interest in the Plenary "Iterview with" format to capture TEI history  
+        * Interest in the Plenary "Interview with" format to capture TEI history  
     * TEI2026 
         * Discussions with potential hosts are under way
    * TEI2027: JC suggests an open call later this summer.
