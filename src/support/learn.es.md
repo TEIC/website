@@ -1,6 +1,6 @@
 ---
 layout: page.njk
-title: "Learn the TEI"
+title: "Aprende TEI"
 tags: page
 ---
 # Learn the TEI
