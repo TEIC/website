@@ -33,7 +33,7 @@ The most recent version of the TEI Guidelines is known as P5. It was initially r
  [Customization of the Guidelines](Customization/)
 The Guidelines are designed to be customized, and specific projects and disciplinary
  groups often create customized versions reflecting particular needs and practices.
- We collect here well-documented TEI customizations, such as the popular [TEI Lite](Customization/Lite/), that may be of use as models or for projects wishing to follow their practice. We
+ We collect here well-documented TEI customizations, such as the popular [TEI Lite](https://tei-c.org/release/doc/tei-p5-exemplars/html/tei_lite.doc.html), that may be of use as models or for projects wishing to follow their practice. We
  also provide information on creating TEI customizations.
  
  [Internationalization](../Tools/index.html#I18N)
