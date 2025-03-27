@@ -37,7 +37,10 @@ module.exports = function(eleventyConfig) {
 
   eleventyConfig.addCollection("docs", function(collectionApi) {
     return collectionApi.getFilteredByTag("documentation")
-      .filter(item => item.page.url !== "/about/bylaws/");
+      .filter(item => item.page.url !== "/about/bylaws/")
+      .sort((a, b) => {
+        return a.data.title.localeCompare(b.data.title);
+      });
     }
   );
 
@@ -122,7 +125,7 @@ module.exports = function(eleventyConfig) {
         "navkey": inputPath.replace(".*/", "").replace(".xml", ""),
         "eleventyNavigation": {
           parent: inputPath.includes("TCW") ? "Council" : "About",
-          key: inputPath.replace(/.*\/([^\/])+\.xml/, "$1"),
+          key: inputPath,
           title: jdom.window.document.querySelector("titleStmt > title").textContent
         }
       }
