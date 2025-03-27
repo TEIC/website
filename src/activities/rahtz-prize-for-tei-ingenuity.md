@@ -104,6 +104,7 @@ Past Recipients
 ---------------
 
 **2024**
+
 TEI Rahtz Prize to Raffaele Viglianti for [The Scholarly XML extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=raffazizzi.sxml)
 
 **2023**
