@@ -32,7 +32,7 @@ Our TEI Consortium community strives to:
 ## Reporting Issues
 
 When a participant has made a mistake, we expect them to take responsibility for it. If someone has been harmed or offended, it is our responsibility to listen carefully and respectfully, do our best to right the wrong, and where necessary contact authorities external to the TEI Consortium.
-If you experience or witness unacceptable behavior or have any other concerns about the conduct of members of our community that you are uncomfortable addressing directly, please report it by contacting us via the Chair or Secretary or another member of the TEI-C Board of Directors whose contact details can be found: [http://www.tei-c.org/About/board.xml](https://tei-c.org/about/board-of-directors/). All reports will be handled with respect and discretion. In your report please include:
+If you experience or witness unacceptable behavior or have any other concerns about the conduct of members of our community that you are uncomfortable addressing directly, please report it by contacting us via the Chair or Secretary or another member of the TEI-C Board of Directors whose contact details can be found: <https://tei-c.org/about/board-of-directors/>. All reports will be handled with respect and discretion. In your report please include:
 
 * Your contact information.
 * Names (real, nicknames, or pseudonyms) of any individuals involved. If there are additional witnesses, please include them as well.
