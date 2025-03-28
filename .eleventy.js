@@ -1,19 +1,14 @@
-const collections = require('./config/collections.js');
-const sass = require("sass");
-const path = require('node:path');
-const { JSDOM } = require("jsdom");
-const fs = require('fs');
-const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
-const pluginRss = require("@11ty/eleventy-plugin-rss");
+import collections from "./config/collections.js";
+import * as sass from "sass";
+import path from "node:path";
+import { JSDOM } from "jsdom";
+import fs from "fs";
+import eleventyNavigationPlugin from "@11ty/eleventy-navigation"
+import pluginRss from "@11ty/eleventy-plugin-rss";
 
-// CommonJS can't require ESM modules, so we have to use an import() hack instead
-let CETEI;
-import("CETEIcean").then((ceteicean) => {
-  CETEI = ceteicean.default;
-})
+import CETEI from 'CETEIcean';
 
-module.exports = function(eleventyConfig) {
-
+export default function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy({"src/assets/favicon.ico": "favicon.ico"});
   eleventyConfig.addPassthroughCopy({ "src/assets/js": "js" });
   eleventyConfig.addPassthroughCopy({ "src/assets/css/*.css": "css" });

@@ -12,15 +12,17 @@
   "author": "",
   "license": "BSD-2-Clause",
   "devDependencies": {
-    "@11ty/eleventy": "~2.0.1",
+    "@11ty/eleventy": "^3.0.0",
     "@11ty/eleventy-navigation": "~0.3.5",
     "@11ty/eleventy-plugin-rss": "~1.2.0"
   },
   "dependencies": {
-    "bootstrap": "^5.3.1",
+    "@11ty/eleventy-upgrade-help": "^3.0.1",
+    "bootstrap": "^5.3.3",
     "bootstrap-icons": "^1.11.3",
     "CETEIcean": "^1.9.1",
     "jsdom": "^25.0.0",
-    "sass": "^1.69.7"
+    "sass": "^1.69.7",
+    "sass-migrator": "^2.3.1"
   }
 }
