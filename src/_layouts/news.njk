@@ -30,7 +30,7 @@
           </button>
           <div class="col col-3 ms-0 mt-3 collapse tc-sidebar-collapse small" id="sidebar">
             {% set years = collections.news | getYears %}
-            {% for year in years %}
+            {% for year in years | reverse %}
               <h2 class="h4">{{ year }}</h2>
               <ul>
                 {% for page in collections.news | pagesByYear(year) %}

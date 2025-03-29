@@ -1,4 +1,4 @@
-module.exports = function() {
+export default function() {
   return { 
     "layout": "meeting.njk",
     "tags": "council_meetings",

@@ -31,6 +31,8 @@ export default function (eleventyConfig) {
   eleventyConfig.setUseGitIgnore(false);
 
   eleventyConfig.addCollection("docs", function(collectionApi) {
+    console.log("Building documentation collection");
+    console.log(collectionApi.getFilteredByTag("documentation").map(item => item.page.url));
     return collectionApi.getFilteredByTag("documentation")
       .filter(item => item.page.url !== "/about/bylaws/")
       .sort((a, b) => {
