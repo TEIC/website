@@ -1,3 +1,8 @@
+---
+title: "TEI Technical Council Teleconference, 2025-02-11"
+date: 2025-02-11
+---
+
 # TEI Technical Council Teleconference, 2025-02-11
 
 10:30–12:00 PST | 13:30–15:00 EST | 17:30–19:00 UTC | 19:30–21:00 CEST
