@@ -37,7 +37,12 @@ Let others know you use the TEI
 ----------
 
 
- There are two sets of badges, I/We use <TEI> and Powered by <TEI>. How you use these is up to you.
+ There are three sets of badges:
+ *  `I use <TEI>`
+ * `We use <TEI>`
+ *  `Powered by <TEI>`. 
+ 
+ How you use these is up to you.
  
  Each set is rendered in two formats: [PNG](http://en.wikipedia.org/wiki/PNG) and [GIF](http://en.wikipedia.org/wiki/GIF). The PNG versions are preferable if you don’t need to accommodate older Web browser
  versions, as the their transparency effects are superior. They will not display properly
