@@ -37,8 +37,8 @@ Let others know you use the TEI
 ----------
 
 
- There are three sets of badges:
- *  `I use <TEI>`
+ There are three sets of badges available. They read:
+ *  `I use <TEI>` 
  * `We use <TEI>`
  *  `Powered by <TEI>`. 
  
