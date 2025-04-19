@@ -36,4 +36,6 @@ Please read further on the TEI web site for information on:
 * the [TEI Guidelines](../Guidelines/)
 * the TEI's [organization](https://tei-c.org/about/organization/)
 * [frequently asked questions](frequently-asked-questions)
+* [TEI Badges](badges)
 * [TEI Logos](logos)
+
