@@ -1,5 +1,4 @@
 ---
-layout: page.njk
 title: "TEI-C Elections 2023"
 date: 2023-08-06
 tags: news

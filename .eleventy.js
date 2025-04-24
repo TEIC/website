@@ -60,6 +60,15 @@ module.exports = function(eleventyConfig) {
     }
   );
 
+  eleventyConfig.addFilter("dateString",
+    function(date) {
+      if (!(date instanceof Date)) {
+        date = new Date(date);
+      }
+      return date.toDateString();
+    }
+  );
+        
   eleventyConfig.addFilter("getYears",
     function(pages) {
       return Array.from(new Set(pages.map(item => {
@@ -67,6 +76,7 @@ module.exports = function(eleventyConfig) {
         if (date instanceof Date) {
           date = date.toISOString().replace(/:.*$/, "").replace(/T.*$/, "");
         }
+        console.log(`Date: ${date}`);
         return date.replace(/-.*$/, "");
       })));
     }

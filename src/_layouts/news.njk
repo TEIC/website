@@ -18,6 +18,7 @@
               <div class="article card mt-4">
                 <div class="card-header">
                   <a href="{{ page.url }}">{{ page.data.title }}</a>
+                  <em style="float:right;">{{ page.data.date | dateString }}</em>
                 </div>
                 <div class="card-body">
                   {{ page.content | safe }}
@@ -29,7 +30,7 @@
             <i class="bi bi-arrow-bar-left"></i>
           </button>
           <div class="col col-3 ms-0 mt-3 collapse tc-sidebar-collapse small" id="sidebar">
-            {% set years = collections.news | getYears %}
+            {% set years = collections.news | getYears | reverse %}
             {% for year in years %}
               <h2 class="h4">{{ year }}</h2>
               <ul>

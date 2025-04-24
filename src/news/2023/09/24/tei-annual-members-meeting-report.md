@@ -1,5 +1,4 @@
 ---
-layout: page.njk
 title: "TEI Annual Members Meeting - Report"
 date: 2023-09-24
 tags: news
