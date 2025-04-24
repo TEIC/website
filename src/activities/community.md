@@ -29,16 +29,11 @@ Please note that the [TEI Code of Conduct](http://localhost:8080/about/code-of-c
 		<p>On TEI's GitHub users can report issues, suggest additions or changes to the Guidelines, and provide feedback.</p>
 		<a href="https://github.com/teic" title="GitHub Organization">Learn more 🢚</a>
 	</div>
-	<!-- <div class="col-md-4 p-4 border rounded m-4" style="width: 15em">
+	<div class="col-md-4 p-4 border rounded m-4" style="width: 15em">
 		<h3>Slack</h3>
 		<p>Join the TEI public Slack team for group and topic-based conversations, questions, and more.</p>
-		<a href="#" title="Sign up to Slack">Learn more 🢚</a>
-	</div> -->
-	<!-- <div class="col-md-4 p-4 border rounded m-4" style="width: 15em">
-		<h3>WhatsApp</h3>
-		<p>Join an informal WhatsApp group where TEI users can chat freely, ask questions, etc.</p>
-		<a href="#" title="Join WhatsApp group">Learn more 🢚</a>
-	</div> -->
+		<a href="https://docs.google.com/forms/d/e/1FAIpQLSea-bODBGKqVAHvU7bwNMcVLRRy6XjQNkrPlBbab6XIIocjSQ/viewform" title="Sign up to Slack">Learn more 🢚</a>
+	</div>
 </div>
 
 ## Special Interest Groups (SIGs)
