@@ -24,7 +24,7 @@ The TEI maintains a presence on various social media. These may be used to adver
 * **Facebook:** <https://www.facebook.com/groups/TEIconsortium>
 * **Bluesky:** [@teiconsortium.bsky.social](https://teiconsortium.bsky.social/)
 * **Mastodon:** [@TEIConsortium@hcommons.social](https://hcommons.social/@TEIConsortium)
-* **Twitter:** ([@teiconsortium]https://twitter.com/teiconsortium)
+* **Twitter:** [@teiconsortium](https://twitter.com/teiconsortium)
 
 ## Feature requests and bug reports
 
