@@ -27,7 +27,7 @@ date: 2025-04-08
 ## Council concerns about travel reimbursement
 
     * **Action on EBB on 2025-05-24**: Bring up concerns about reimbursement in current political climate with BOD  
-    * 
+    
 ## Update Stylesheets meeting times
     * HBS to send a poll for changing the schedule after April
     * Next stylesheets meeting to start a little earlier at 6pm European CET (updated in calendar)
