@@ -12,12 +12,12 @@ date: 2025-03-18
 * Syd Bauman (SB)  
 * Elli Bleeker (EB)  
 * Elisa Beshero-Bondar (EBB, Chair)  
-* Ulrike Henny-Krahmer (UHK) (joined 17:36)  
+* Ulrike Henny-Krahmer (UHK) 
 * Martin Holmes (MH)  
 * Patricia O'Connor (TOC)   
 * Torsten Roeder (TR)  
 * Martina Scholger (MS)  
-* Joey Takeda (JT) (will need to leave around 19:30Z)    
+* Joey Takeda (JT)  
 * Raff Viglianti (RV) 
 
 ### Apologies
