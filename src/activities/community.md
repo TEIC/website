@@ -10,13 +10,13 @@ If you use the TEI, or are planning to, there are many ways to get involved in T
 
 ## Join a Community Call
 
-<a href="https://members.tei-c.org/Events?EventViewMode=1&EventListViewMode=2" style="text-align: center">
-
-![TEI Community Calls Logo](/img/TEI_Community_Calls.png)
-
+<div style="text-align: center">
+<a href="https://members.tei-c.org/Events?EventViewMode=1&EventListViewMode=2">
+<img src="/img/TEI_Community_Calls.png" alt="TEI Community Calls Logo" style="max-width: 100%; margin-bottom: 2em;"/>
+</a>
 </div>
 
-The TEI community meets on Zoom every month at two alternating times to cover our global community. See the [TEI Events calendar](https://members.tei-c.org/Events?EventViewMode=1&EventListViewMode=2) to join the next call! 
+The TEI community meets on Zoom every month. See the [TEI Events calendar](https://members.tei-c.org/Events?EventViewMode=1&EventListViewMode=2) to join the next call! 
 
 The calls provide an opportunity for the TEI community to get together, share ideas, discuss proposals, and ask questions to peers. An agenda is usually circulated beforehand (see Communication Channels below).
 
