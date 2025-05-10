@@ -3,22 +3,22 @@ layout: page.njk
 title: "Actividades"
 tags: page
 ---
-# Activities
-The TEI Guidelines require constant maintenance, development, and promotion in order to remain useful. Improvements and additions to the standard are made continuously, in response to evolving technologies and the demands of the user community.
+# Actividades
+Las Directrices TEI requieren mantenimiento, desarrollo y promoción constantes para seguir siendo útiles. Las mejoras y adiciones al estándar se realizan de manera continua, en respuesta a la evolución de las tecnologías y a las demandas de la comunidad de usuarios.
 
 
-The TEI Consortium is governed by a [Board of Directors](/Board/ "Board of Directors") which provides strategic direction and fiscal oversight, marketing, and coordinates fundraising and membership.
+El Consorcio TEI está a cargo de una [Junta Directiva](/Junta/ "Junta Directiva"), que proporciona dirección estratégica, supervisión fiscal, marketing y coordina la recaudación de fondos y la membresía.
 
 
-Technical development of the TEI Guidelines is organized and overseen by the [TEI Technical Council](/Activities/Council/ "TEI Technical Council"). While the Council undertakes much of this technical work itself, it also convenes [workgroups](/Activities/Workgroups/ "workgroups") to address specific projects within a fixed time frame. Much of the TEI Technical Council's work can be seen in the [minutes of its meetings](/Activities/Council/Meetings/ "minutes of its meetings"), the [public archives of its mailing list](http://lists.tei-c.org/pipermail/tei-council/ "public archives of its mailing list"), and the issues on [the TEI's GitHub site](https://github.com/TEIC/TEI "the TEI's GitHub site").
+El desarrollo técnico de las Directrices TEI está organizado y supervisado por el [Consejo Técnico TEI](/Actividades/Consejo/ "Consejo Técnico TEI"). Aunque el Consejo realiza gran parte de este trabajo técnico, también convoca [grupos de trabajo](/Actividades/Grupos de trabajo/ "grupos de trabajo") para abordar proyectos específicos dentro de un período de tiempo determinado. Gran parte del trabajo del Consejo Técnico de TEI puede verse en las [actas de sus reuniones](/Actividades/Consejo/Reuniones/ "actas de sus reuniones"), en los [archivos públicos de su lista de correo](http://lists.tei-c.org/pipermail/tei-council/ "archivos públicos de su lista de correo"), y en los temas publicados en [sitio de GitHub de TEI](https://github.com/TEIC/TEI "sitio de GitHub de TEI").
 
 
-The TEI Consortium also awards the [Rahtz Prize for TEI Ingenuity](/activities/rahtz-prize-for-tei-ingenuity/ "Rahtz Prize for TEI Ingenuity") not more than once a year.
+El Consorcio EI además otorga el [Premio Rahtz a la Ingeniosidad en TEI](/actividades/premio-rahtz-a-la-ingeniosidad-en-TEI/ "Premio Rahtz a la Ingeniosidad en TEI") una vez al año.
 
 
-The success of the TEI depends upon the active participation of its community of members and users. Those involved in projects using the TEI Guidelines are strongly encouraged to subscribe to the [TEI-L](/Support/ "TEI-L") mailing list, and to make others aware of their work by registering it on the [TEI projects page](/Activities/Projects/ "TEI projects page"). The TEI also supports a number of loosely-organized [Special Interest Groups](/Activities/SIG/ "Special Interest Groups") (SIGs), which provide an opportunity for people with similar interests to collaborate and share ideas.
+El éxito de la TEI depende de la participación activa de su comunidad de miembros y usuarios. A aquellos involucrados en proyectos que utilizan las Directrices TEI se les anima encarecidamene a suscribirse a la lista de correo[TEI-L](/Soporte/ "TEI-L"), y a dar a conocer su trabajo registrándolo en la [página de proyectos de TEI](/Actividades/Proyectos/ "Página de Proyectos TEI"). Además, la TEI apoya una serie de [Grupos de Interés Especial](/Actividades/SIG/ "Grupos de Interés Especial") (SIGs), organizados de manera más flexible, que brindan una oportunidad para wu las personas con intereses similares colaboren y compartan ideas.
 
 
-To find out about training-related activities, see the [events calendar](http://members.tei-c.org/Events "events calendar"). To find out about activities specifically related to tool development, visit the [Tools](/Tools/ "Tools") page.
+Para obetener infrmación sobre acividades relacionadas con la capacitación, consulta el [calendario de eventos](http://members.tei-c.org/Events "calendario de eventos"). Para conocer actividades específicamente relacionadas con el desarrollo de herramientas, visita la página de [Herramientas](/Herramientas/ "Herramientas").
 
 
