@@ -11,18 +11,9 @@ tags: page
  
 
 
- The TEI Guidelines for Electronic Text Encoding and
- Interchange define and document a markup language for representing the structural,
- renditional, and conceptual features of texts. They focus (though not exclusively)
- on the encoding of documents in the humanities and social sciences, and in particular
- on the representation of primary source materials for research and analysis. These
- guidelines are expressed as
- a modular, extensible XML schema, accompanied by detailed documentation, and are published
- under an open-source license. The Guidelines are maintained and developed by the TEI
- Consortium, through its [Technical Council](/activities/Council/), with the support and participation of the TEI community.
+ Las Directices TEI para la Codificación e Intercambio de Textos Electrónicos definen y documentan un lenguaje de marcado para reepresentar características estructurales, de presentación y conceptuales de los textos. Se centran, aunque no exclusivamente, en la codificación de documentos en las humanidades y ciencias sociales, y en particular en la representación de materiales de fuentes primarias para la investiacióny el análisis. Estas directrices se expresan como un esquema XML modular y extensible, acompañado de documentación detallada, y se publican bajo una licencia de código abierto. Las Directrices son mantenidas y desarrolladas por el Consorcio TEI, a través de su [Consejo Técnico](/actividades/Consejo/), con el apoyo y la participación de la comunidad TEI.
  
- Below are some of the most important resources and information needed to use and learn
- about the Guidelines:
+ A continuación, se presentan algunos de los recursos e información más importantes necesarios para utilizar y aprender sobre las Directrices:
  
  [P5 Guidelines](P5/)
 The most recent version of the TEI Guidelines is known as P5. It was initially released
