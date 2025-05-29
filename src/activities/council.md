@@ -40,7 +40,7 @@ Junior Professor for Digital Humanities, University of Rostock, Germany
 Programmer/Consultant, University of Victoria Humanities Computing and Media Centre
 
 [Patricia O’Connor](https://trishaoconnor.com/) (Jan 2023 – Dec 2025)
-Independent Researcher
+Postdoctoral researcher, University of Maynooth, Ireland
 
 [Torsten Roeder](https://www.uni-wuerzburg.de/zpd/zentrum/team/roeder-torsten/) (Jan 2024 – Dec 2026)
 Center for Philology and Digitality, University of Würzburg
