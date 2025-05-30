@@ -15,48 +15,33 @@ tags: page
  
  A continuación, se presentan algunos de los recursos e información más importantes necesarios para utilizar y aprender sobre las Directrices:
  
- [P5 Guidelines](P5/)
-The most recent version of the TEI Guidelines is known as P5. It was initially released
- in November 2007 and has been updated since then on a
- six-month cycle, with point releases incorporating maintenance fixes and minor feature
- enhancements.
+ [Directrices P5](P5/)
+La versión más reciente de las Directrices TEI se conoce como P5. Fue lanzada inicialmente en noviembre de 2007 y desde entonces se ha actualizado en ciclos de seis meses, con versiones puntuales que incorporan correcciones de mantenimiento y mejoras menores en las funcionalidades.
  
- [Customization of the Guidelines](Customization/)
-The Guidelines are designed to be customized, and specific projects and disciplinary
- groups often create customized versions reflecting particular needs and practices.
- We collect here well-documented TEI customizations, such as the popular [TEI Lite](Customization/Lite/), that may be of use as models or for projects wishing to follow their practice. We
- also provide information on creating TEI customizations.
+ [Personalización de as Directrices](Personalización/)
+Las Directrices están diseñadas para ser personalizadas, y con frecuencia los proyectos específicos y los grupos disciplinarios crean versiones adaptadas que reflejan necesidades y prácticas particulares. Aquí reunimos personalizaciones de TEI bien documentadas, como la popular [TEI Lite](Personalización/Lite/), que pueden servir como modelos o ser útiles para proyectos que deseen seguir sus enfoques. También proporcionamos información sobre cómo crear personalizaciones de TEI.
  
- [Internationalization](../Tools/index.html#I18N)
-The Guidelines are currently being translated into languages other than English; we
- provide here details of this process and information on how to get internationalized
- versions of the Guidelines.
+ [Internacionalización](../Herramientas/index.html#I18N)
+Actualmente, las Directrices están siendo traducidas a otros idiomas además del inglés. Aquí ofrecemos detalles sobre este proceso e información sobre cómo obtener versiones internacionalizadas de las Directrices.
  
- [The TEI GitHub Site](https://github.com/TEIC)
-The TEI maintains a GitHub repository where it manages the development and distribution
- of current versions of the Guidelines. The source files for the latest
- version of the Guidelines and related materials (stylesheets, Roma, I18N
- files) can be downloaded at the GitHub site.
+ [El sitio de TEI en GitHub](https://github.com/TEIC)
+La TEI mantiene un repositorio en GitHub donde gestiona el desarrollo y la distribución de las versiones actuales de las Directrices. Los archivos fuente de la versión más reciente de las Directrices, junto con materiales relacionados  (hojas de estilo, Roma, I18N 
+carpetas) pueden descargarse desde el sitio de GitHub.
  
- [TEI Archive](/Vault/)
+ [Archivo TEI](/Archivo/)
  
- The TEI Archive contains older versions of the Guidelines, and some history of their
- development; it also contains archived materials from earlier versions of the TEI
- web site.
+ El Archivo TEI contiene versiones anteriores de las Directrices, así como parte de la historia de su desarrollo; también incluye materiales archivados de versiones previas del sitio web de TEI.
  
- [Getting Involved](../Support/)
+ [Participar](../Support/)
  
- The TEI welcomes participation in the development of the Guidelines; we detail here
- the various ways in which the TEI community (members and non-members) can contribute.
+ TEI invita a participar en el desarrollo de las Directrices; aquí detallamos las diferentes formas en que la comunidad TEI (miembros y no miembros) puede contribuir.
  
- [Licensing and Citation](https://tei-c.org/guidelines/licensing-and-citation/)
+ [Licencias and Citación](https://tei-c.org/guidelines/licensing-and-citation/)
  
- Learn about the licensing terms for the Guidelines, and how to cite them.
+ Conocé los términos de licencia de las Directrices y cómo citarlas.
  
- [Teach Yourself TEI](../Support/Learn/)
+ [Aprende TEI por tu cuenta](../Support/Learn/)
  
- The TEI maintains a list of resources and materials that can help you get started
- learning the Guidelines, including links to workshops, project documentation, and
- online tutorials.
+ TEI mantiene una lista de recursos y materiales que pueden ayudarte a comenzar a aprender las Directrices, incluyendo enlaces a talleres, documentación de proyectos y tutoriales en línea.
  
   
