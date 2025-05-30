@@ -8,7 +8,7 @@ tags: page
 The TEI [Board of Directors](/about/board-of-directors/) is the governing body for the TEI Consortium, and is responsible for its strategic and financial oversight. The Board consists of five voting members who are elected to staggered two-year terms by the TEI membership at the Annual Meeting, and several nonvoting members potentially drawn from outside the elected membership: the Membership Secretary, the Treasurer, the TEI webmaster, and the chair of the TEI Technical Council. The Board meets once a year in person, immediately following the Annual Meeting, and holds meetings via teleconferencing software on a regular basis.
 
 ## Meetings of the Board
-
+* 22 May 2025: Zoom ([minutes](/activities/board/minutes-from-tei-board-meeting-2025-05-22/))
 * 24 April 2025: Zoom ([minutes](/activities/board/minutes-from-tei-board-meeting-2025-04-24/))
 * 27 March 2025: Zoom ([minutes](/activities/board/minutes-from-tei-board-meeting-2025-03-27/))
 * 27 February 2025: Zoom ([minutes](/activities/board/minutes-from-tei-board-meeting-2025-02-27/))
