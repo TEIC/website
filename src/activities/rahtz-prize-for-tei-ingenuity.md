@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "Rahtz Prize for TEI Ingenuity"
+tags: page
 ---
 # Rahtz Prize for TEI Ingenuity
 
@@ -52,7 +53,7 @@ Nomination and Submission Process
 
 ### How to nominate
  
- Nominations and self\-submissions should only be submitted through [this form](https://docs.google.com/forms/d/e/1FAIpQLSerbrDP3Gs9BGBwLjRN32hT5aSHcpVhdKDyCO6CqMAPI1ZCZA/viewform?usp=dialog)
+ Nominations and self\-submissions should only be submitted through [this form](https://docs.google.com/forms/d/e/1FAIpQLSerbrDP3Gs9BGBwLjRN32hT5aSHcpVhdKDyCO6CqMAPI1ZCZA/viewform?usp=dialog).
  
  The form will allow both nominations of other people’s projects and submissions of
  your own projects. Nominators and submitters will be asked to provide their name and
