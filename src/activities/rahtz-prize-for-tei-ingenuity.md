@@ -48,7 +48,7 @@ Nomination and Submission Process
  ### Timeline for the 2025 Rahtz Prize:
 
 * Nominations and self-submissions are due 30 June 2025 by midnight Hawaii/Aleutian Standard Time (HAST). 
-* Nominees will be contacted by the committee by 1 July 2025 and asked to submit their materials by 10 July 2025. 
+* Nominees will be contacted by the committee by 1 July 2025 and asked to submit their materials by 11 July 2025. 
 * Pending the Awards Panel decision in favor of a winner for 2025, the Rahtz Prize will be awarded at the Annual General Meeting during the TEI 2025 conference in September or at the latest, by 31 December 2025.
 
 ### How to nominate
