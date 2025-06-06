@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 title: "Rahtz Prize for TEI Ingenuity"
+tags: page
 ---
 # Rahtz Prize for TEI Ingenuity
 
@@ -25,9 +26,9 @@ The Rahtz Prize for TEI Ingenuity is awarded to an individual or team judged to 
 Important Info and Dates
 ------------------------
 
-While the Board of Directors may alter these details in any given year (*see below changes for 2024*), the expected timeline for the award is as follows:
-* April: Nominations Due
-* June: Submissions Due
+While the Board of Directors may alter these details in any given year, the expected timeline for the award is as follows:
+* May to June: Nominations Due
+* July to August: Submissions Due
 * by Annual Business Meeting: Recipient Announced
 
 
@@ -37,25 +38,28 @@ Nomination and Submission Process
 ---------------------------------
 
 
- The recipient(s) of the 2024 award will receive $1,000 USD or equivalent.
+ The recipient(s) of the 2025 award will receive $1,000 USD or equivalent.
  
  The TEI community is encouraged to nominate prospective candidates for the Rahtz Prize.
  Self\-submissions will also be accepted. You do not have to be a member of the TEI\-C
  to make a nomination or submission. The project/work nominated or submitted does not
  have to be from 2024\.
  
- Nominations and self\-submissions should only be submitted through [this form](https://docs.google.com/forms/d/e/1FAIpQLSfSiNV343f6eq4sbx7ZDkXzqRmzfokAqQhcL0oWT59scfinaw/viewform?usp=sf_link)
+ ### Timeline for the 2025 Rahtz Prize:
+
+* Nominations and self-submissions are due 30 June 2025 by midnight Hawaii/Aleutian Standard Time (HAST). 
+* Nominees will be contacted by the committee by 1 July 2025 and asked to submit their materials by 11 July 2025. 
+* Pending the Awards Panel decision in favor of a winner for 2025, the Rahtz Prize will be awarded at the Annual General Meeting during the TEI 2025 conference in September or at the latest, by 31 December 2025.
+
+### How to nominate
  
- The form will allow both, nominations of other people’s projects and submissions of
+ Nominations and self\-submissions should only be submitted through [this form](https://docs.google.com/forms/d/e/1FAIpQLSerbrDP3Gs9BGBwLjRN32hT5aSHcpVhdKDyCO6CqMAPI1ZCZA/viewform?usp=dialog).
+ 
+ The form will allow both nominations of other people’s projects and submissions of
  your own projects. Nominators and submitters will be asked to provide their name and
  contact details for the record and to ensure they are not robots. These data will
  not be published or otherwise shared, and will only be used for running the award
  process.
- Nominations and self\-submissions are due 1 August 2024 by midnight Hawaii/Aleutian
- Standard Time (HAST). Nominees will be contacted by the committee by 15 August and
- asked to submit their materials by 1 September 2024\.
- 
- The Rahtz Prize winner will be announced in October at the TEI AGM at the annual conference.
  
  Along with contact information, nominees and submitters will be asked to provide a
  500\-1,500 summary describing the project/initiative. This summary should reflect the
@@ -77,6 +81,7 @@ Submissions will be reviewed by an Awards Panel comprising the Chair of the TEI\
  the Awards Panel may serve more than four consecutive years. 
 Submissions should demonstrate that the person or team has made an outstanding contribution
  to one or more of the following:
+ 
 * innovative development of the TEI Guidelines
 * creation of TEI\-aware tools and technologies that further dissemination, adoption,
  and engaged use of the TEI Guidelines
