@@ -13,7 +13,7 @@ The SIG Computable Text and Media is related to other SIGs, as the Correspondenc
 
 ## Convener
 
-The SIG is convened by [Torsten Roeder](https://www.uni-wuerzburg.de/zpd/zentrum/team/roeder-torsten/) (Center for Philology and Digitality, University of Würzburg).
+The SIG is convened by [Torsten Roeder](https://www.uni-wuerzburg.de/zpd/forschungsstelle-dachs/team/roeder-torsten/) (Center for Philology and Digitality, University of Würzburg).
 
 ## Background
 
@@ -39,14 +39,14 @@ While the questions above may seem abstract, they become clearer when grounded i
 
 ## References
 
-Beshero-Bondar, Elisa; Bauman, Syd (2024): Can we apply the new CMC chapter to the TEI Listserv Archives? An experiment with TEI for Correspondence and Computer-Mediated Communication, TEI Conference 2024. https://www.conftool.pro/tei2024/[…]
+Beshero-Bondar, Elisa; Bauman, Syd (2024): Can we apply the new CMC chapter to the TEI Listserv Archives? An experiment with TEI for Correspondence and Computer-Mediated Communication, TEI Conference 2024. [https://www.conftool.pro/tei2024/…](https://www.conftool.pro/tei2024/index.php/Beshero-Bondar-Can_we_apply_the_new_CMC_chapter_to_the_TEI_Listserv_Archives_An_experiment_with-143.docx?page=downloadPaper&ismobile=false&filename=Beshero-Bondar-Can_we_apply_the_new_CMC_chapter_to_the_TEI_Listserv_Archives_An_experiment_with-143.docx&form_id=143)
 
 Ensslin, Astrid (2007): Canonizing Hypertext. Explorations and Constructions.
 
-Feichtinger, Moritz (2023): Annotation, Simulation und Analyse eines historischen Datenbanksystems. In: Burghardt, M. & Weiß, C. (eds.): Lecture Notes in Informatics (LNI), Gesellschaft für Informatik.
+Feichtinger, Moritz (2023): Annotation, Simulation und Analyse eines historischen Datenbanksystems. In: Burghardt, M. & Weiß, C. (eds.): Lecture Notes in Informatics (LNI), Gesellschaft für Informatik. DOI: [10.18420/inf2023_96](https://doi.org/10.18420/inf2023_96)
 
 Höltgen, Stefan (2014): Humanities of the Digital. Philologische Perspektiven auf Source Codes als Beitrag einer computerarchäologischen Knowledge Preservation. In: Bartelmus, M./Nebrig, A. (eds.): Digitale Schriftlichkeit. Programmieren, Prozessieren und Codieren von Schrift, p. 207–229.
 
 Montfort, Nick (ed.) (2024): Our Generation: Programs + Computer-Generated Texts. Bad Quarto. https://badquar.to/publications/our_generation.html
 
-Shtohryn, Tomash (2025): Semi-automatisierte Erzeugung eines Textkorpus von deutschsprachigen Diskettenmagazinen für das Heimcomputersystem Commodore 64 im TEI-Format, Universität Würzburg. https://doi.org/10.25972/OPUS-40282
+Shtohryn, Tomash (2025): Semi-automatisierte Erzeugung eines Textkorpus von deutschsprachigen Diskettenmagazinen für das Heimcomputersystem Commodore 64 im TEI-Format, Universität Würzburg. DOI: [10.25972/OPUS-40282](https://doi.org/10.25972/OPUS-40282)
