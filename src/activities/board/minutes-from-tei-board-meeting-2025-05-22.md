@@ -11,7 +11,7 @@ Regrets: Magdalena Turska
 
 ### Agenda Items
 
-* Approval of March meeting minutes
+* Approval of April meeting minutes
     *  Constance Crompton proposes acceptance; Gimena del Rio Riande seconds
 
 * TEI2025 Conference Update
