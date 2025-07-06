@@ -1,8 +1,6 @@
-module.exports = {
-  posts: function (collectionApi) {
-    return collectionApi.getFilteredByGlob('src/posts/**/*.md');
-  },
-  activities: function (collectionApi) {
-    return collectionApi.getFilteredByGlob('src/activities/**/*.md');
-  }
+export function posts(collectionApi) {
+  return collectionApi.getFilteredByGlob('src/posts/**/*.md');
+}
+export function activities(collectionApi) {
+  return collectionApi.getFilteredByGlob('src/activities/**/*.md');
 }
