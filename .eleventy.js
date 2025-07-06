@@ -17,6 +17,7 @@ export default function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("src/**/*.eps");
   eleventyConfig.addPassthroughCopy("src/**/*.jpg");
   eleventyConfig.addPassthroughCopy("src/**/*.png");
+  eleventyConfig.addPassthroughCopy("src/**/*.gif");
   eleventyConfig.addPassthroughCopy("src/**/*.pdf");
   eleventyConfig.addPassthroughCopy("src/**/*.svg");
   eleventyConfig.addPassthroughCopy("src/**/*.var");
@@ -56,6 +57,15 @@ export default function (eleventyConfig) {
     }
   );
 
+  eleventyConfig.addFilter("dateString",
+    function(date) {
+      if (!(date instanceof Date)) {
+        date = new Date(date);
+      }
+      return date.toDateString();
+    }
+  );
+        
   eleventyConfig.addFilter("getYears",
     function(pages) {
       return Array.from(new Set(pages.map(item => {
@@ -63,6 +73,7 @@ export default function (eleventyConfig) {
         if (date instanceof Date) {
           date = date.toISOString().replace(/:.*$/, "").replace(/T.*$/, "");
         }
+        console.log(`Date: ${date}`);
         return date.replace(/-.*$/, "");
       })));
     }

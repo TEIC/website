@@ -1,5 +1,4 @@
 ---
-layout: page.njk
 title: "Call for Proposals: Encoding Cultures – joint MEC and TEI Conference 2023"
 date: 2023-02-27
 tags: news

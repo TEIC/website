@@ -36,5 +36,5 @@ Assistant Professor, University of Ottawa: constance.crompton AT uottawa.ca
 **Treasurer: Hugh Cayless (January 2018 – December 2025)**
 Senior Digital Humanities Developer, Duke University Libraries
 
-**Technical Council Chair: [Elisa Beshero-Bondar](https://newtfire.org) (January 2023 – December 2025)**
+**Technical Council Chair: [Elisa Beshero-Bondar](https://newtfire.org) (January 2025 – December 2027)**
 Professor of Digital Humanities and Director of the Digital Humanities Lab at Penn State Erie, the Behrend College

@@ -25,7 +25,7 @@ tags: page
 [GIS Workgroup](/activities/workgroups/gis-charge)
 * This group was charged in January 2024 to provide standards-informed mechanisms that are at least interchangeable, if not interoperable, for encoding geographic information in TEI that are capable of unambiguous interpretation and transformation to and from standard GIS file formats. 
 
-[TEI Stylesheets Task Force](/activities/workgroups/tei-stylesheets-task-force-charge/)
+[TEI Stylesheets Task Force (ATOP)](/activities/workgroups/tei-stylesheets-task-force-charge/)
 * This group was charged in March 2022 with rewriting the current set of XSLT stylesheets that tackle ODD processing for generation of schemas and documentation.
  It is aimed at converting ODD to the TEI Guidelines, schemas, and customization ODDs
  into schemas and customized output.

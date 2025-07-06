@@ -10,6 +10,7 @@
     {% include 'navbar.njk' %}
     <main>
       <div class="container">
+        <p class="lead" style="margin-top: .5em; margin-bottom: 0;"><em>{{ date | dateString }}</em></p>
         <div class="row">
           {% if sidenav %}
             <div class="col col-md-9 mt-4">

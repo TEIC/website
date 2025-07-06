@@ -1,5 +1,4 @@
 ---
-layout: page.njk
 title: "Rahtz Prize and Community Award 2022"
 date: "2023-01-09"
 tags: news

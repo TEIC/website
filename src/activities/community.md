@@ -10,13 +10,19 @@ If you use the TEI, or are planning to, there are many ways to get involved in T
 
 ## Join a Community Call
 
-The TEI community meets on Zoom every month at two alternating times to cover our global community. See the [TEI Events calendar](https://members.tei-c.org/Events?EventViewMode=1&EventListViewMode=2) to join the next call! 
+<div style="text-align: center">
+<a href="https://members.tei-c.org/Events?EventViewMode=1&EventListViewMode=2">
+<img src="/img/TEI_Community_Calls.png" alt="TEI Community Calls Logo" style="max-width: 100%; margin-bottom: 2em;"/>
+</a>
+</div>
+
+The TEI community meets on Zoom every month. See the [TEI Events calendar](https://members.tei-c.org/Events?EventViewMode=1&EventListViewMode=2) to join the next call! 
 
 The calls provide an opportunity for the TEI community to get together, share ideas, discuss proposals, and ask questions to peers. An agenda is usually circulated beforehand (see Communication Channels below).
 
 ## Communication Channels
 
-Please note that the [TEI Code of Conduct](http://localhost:8080/about/code-of-conduct/) applies to all communication channels.
+Please note that the [TEI Code of Conduct](/about/code-of-conduct/) applies to all communication channels.
 
 <div class="row justify-content-center my-5">
 	<div class="col-md-4 p-4 border rounded m-4" style="width: 15em">
@@ -29,11 +35,11 @@ Please note that the [TEI Code of Conduct](http://localhost:8080/about/code-of-c
 		<p>On TEI's GitHub users can report issues, suggest additions or changes to the Guidelines, and provide feedback.</p>
 		<a href="https://github.com/teic" title="GitHub Organization">Learn more 🢚</a>
 	</div>
-	<!-- <div class="col-md-4 p-4 border rounded m-4" style="width: 15em">
+	<div class="col-md-4 p-4 border rounded m-4" style="width: 15em">
 		<h3>Slack</h3>
 		<p>Join the TEI public Slack team for group and topic-based conversations, questions, and more.</p>
-		<a href="#" title="Sign up to Slack">Learn more 🢚</a>
-	</div> -->
+		<a href="https://docs.google.com/forms/d/e/1FAIpQLSea-bODBGKqVAHvU7bwNMcVLRRy6XjQNkrPlBbab6XIIocjSQ/viewform?usp=header" title="Sign up to Slack">Sign up 🢚</a>
+	</div>
 	<!-- <div class="col-md-4 p-4 border rounded m-4" style="width: 15em">
 		<h3>WhatsApp</h3>
 		<p>Join an informal WhatsApp group where TEI users can chat freely, ask questions, etc.</p>

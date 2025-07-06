@@ -3,13 +3,12 @@ layout: homepage.njk
 title: "Text Encoding Initiative"
 permalink: "index.es.html"
 ---
-# TEI
 
-El Consorcio TEI es una organización sin fines de lucro compuesta por instituciones académicas, proyectos de investigación y académicos individuales de todo el mundo. Desarrollamos las Guidelines, que proporcionan la infraestructura para desarrollar textos sobre patrimonio cultural procesables por máquinas. Desde 1994, las Guidelines TEI han sido ampliamente utilizadas por bibliotecas, museos, editores y académicos individuales para presentar textos para investigación, enseñanza y preservación en línea.
+El Consorcio la  **Text Encoding Initiative (TEI)** es una organización sin fines de lucro compuesta por instituciones académicas, proyectos de investigación y profesionales de todo el mundo. Desarrollamos una serie de Guías Directrices, también llamadas Guidelines, que proporcionan la infraestructura para la codificación de textos de humanidades y su procesamiento informático. Desde 1994, las Guidelines de la TEI han sido ampliamente utilizadas por bibliotecas, museos, editores e investigadores para editar, publicar y preservar textos del campo de las humanidades y las ciencias sociales.
 
-¿Quieres ser activo en la comunidad TEI?
+¿Quieres participar en la comunidad de la TEI?
 
-* [Conviértase en miembro de TEI](https://members.tei-c.org/join)
-* únete a un [grupo de interés especial](https://tei-c.org/Activities/SIG/)
-* regístrese en la [lista de correo de TEI-L](https://tei-c.org/support/#tei-l)
-* venga a nuestras [conferencias anuales y reuniones de miembros] (http://members.tei-c.org/Events/meetings)
+* [Forma parte de la TEI](https://members.tei-c.org/join)
+* Únete a un [grupo de interés especial](https://tei-c.org/Activities/SIG/)
+* Regístrate en la [lista de correo de TEI-L](https://tei-c.org/support/#tei-l)
+* Ven a nuestras [conferencias anuales y reuniones de miembros](http://members.tei-c.org/Events/meetings)

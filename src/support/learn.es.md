@@ -7,30 +7,25 @@ tags: page
 
 
 
-[Introducing the TEI Guidelines](/support/learn/introducing-the-guidelines/)
+[Introducción a las Directrices TEI](/support/learn/introducing-the-guidelines/)
 ----------------------------------------------------------------------------
 
 
 
  
- This introduction provides an overview of the TEI Guidelines, describing their purpose
- and overall design, and addressing basic concepts of validity and TEI conformance.
+ Esta introducción ofrece una visión general de las Directrices TEI, describiendo su propósito y diseño general, y abordando conceptos básicos como la validez y la conformidad con TEI.
 
  
-[Teach Yourself TEI](/support/learn/teach-yourself-tei/)
+[Aprenda TEI por su cuenta](/support/learn/teach-yourself-tei/)
 -----------------------------------------------------------------------------
 
 
 
  
- Although the TEI itself does not currently maintain any tutorials for learning TEI,
- the TEI community has produced a wide range of materials including online tutorials,
- materials used in teaching TEI workshops (some of which are held on a regular basis),
- and project documentation. The TEI maintains a listing of these materials and welcomes
- additions.
+ Aunque la propia TEI en sí no mantiene actualmente tutoriales para aprender TEI, la comunidad TEI ha producido una amplia variedad de materiales, incluyendo tutoriales en línea, materiales utilizados en talleres de enseñanza de TEI (algunos de los cuales se realizan de forma regular) y documentación de proyectos. La TEI mantiene un listado de estos materiales y recibe con agrado nuevas incorporaciones.
  
  
-[A Gentle Introduction to XML](/release/doc/tei-p5-doc/en/html/SG.html)
+[Una introducción sencilla al XML](/release/doc/tei-p5-doc/en/html/SG.html)
 ----------------------------------------------------------------------------
 
 
@@ -44,7 +39,7 @@ tags: page
  like the TEI work.
  
  
-[Orientation to TEI P5 ODDs](/guidelines/customization/)
+[Orientación sobre los ODDs de TEI P5](/guidelines/customization/)
 ------------------------------------------------------------------------------------------------------------
 
 
@@ -57,7 +52,7 @@ tags: page
  the web-based [Roma](https://roma.tei-c.org) tool, or by writing TEI ODD code directly.
  
  
-[Bibliography](/support/learn/a-bibliography-of-publications-related-to-the-text-encoding-initiative/)
+[Bibliografía](/support/learn/a-bibliography-of-publications-related-to-the-text-encoding-initiative/)
 ---------------------------------------------------------------------------------------------------------------------------
 
 
