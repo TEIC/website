@@ -73,7 +73,6 @@ export default function (eleventyConfig) {
         if (date instanceof Date) {
           date = date.toISOString().replace(/:.*$/, "").replace(/T.*$/, "");
         }
-        console.log(`Date: ${date}`);
         return date.replace(/-.*$/, "");
       })));
     }

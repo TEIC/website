@@ -17,11 +17,9 @@
     "@11ty/eleventy-plugin-rss": "~1.2.0"
   },
   "dependencies": {
-    "bootstrap": "^5.3.3",
-    "bootstrap-icons": "^1.11.3",
+    "bootstrap": "^5.3.7",
+    "bootstrap-icons": "^1.13.1",
     "CETEIcean": "^1.9.1",
     "jsdom": "^25.0.0",
-    "sass": "^1.69.7",
-    "sass-migrator": "^2.3.1"
-  }
+    "sass": "^1.89.2"  }
 }
