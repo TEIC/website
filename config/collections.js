@@ -4,3 +4,4 @@ export function posts(collectionApi) {
 export function activities(collectionApi) {
   return collectionApi.getFilteredByGlob('src/activities/**/*.md');
 }
+export default [posts, activities];
