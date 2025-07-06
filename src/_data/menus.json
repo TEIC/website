@@ -28,6 +28,35 @@
           "name": "About the Guidelines",
           "url": "/guidelines/"}
       ]
+    },
+    "es": {
+      "name": "Directrices",
+      "items": [
+        {
+          "name": "Directrices actuales",
+          "url": "/release/doc/tei-p5-doc/es/html/index.html"
+        },
+        {
+          "name": "Versiones anteriores (Inglés)",
+          "url": "/guidelines/p5/"
+        },
+        {
+          "name": "Personalización (Inglés)",
+          "url": "/guidelines/customization/"
+        },
+        {
+          "name": "Licencias y citación (Inglés)",
+          "url": "/guidelines/licensing-and-citation/"
+        },
+        {
+          "name": "TEI en GitHub",
+          "url": "https://github.com/TEIC/TEI"
+        },
+        {
+          "name": "Acerca de las directrices",
+          "url": "/es/directrices/"
+        }
+      ]
     }
   },
   {
@@ -35,6 +64,10 @@
     "en": {
       "name": "Activities",
       "items": [
+        {
+          "name": "Summary",
+          "url": "/activities/"
+        },
         {
           "name": "Annual Meetings",
           "url": "https://members.tei-c.org/Events/meetings"
@@ -68,6 +101,47 @@
           "url": "https://journals.openedition.org/jtei"
         }
       ]
+    },
+    "es": {
+      "name": "Actividades",
+      "items": [
+        {
+          "name": "Resumen",
+          "url": "/es/actividades/"
+        },
+        {
+          "name": "Reuniones anuales",
+          "url": "https://members.tei-c.org/Events/meetings"
+        },
+        {
+          "name": "Consejo técnico (Inglés)",
+          "url": "/activities/council/"
+        },
+        {
+          "name": "Junta directiva (Inglés)",
+          "url": "/activities/board/"
+        },
+        {
+          "name": "Comunidad (Inglés)",
+          "url": "/activities/community/"
+        },
+        {
+          "name": "Grupos de trabajo (Inglés)",
+          "url": "/activities/workgroups/"
+        },
+        {
+          "name": "SIGs (Inglés)",
+          "url": "/activities/sig/"
+        },
+        {
+          "name": "Grupo de infraestructura (Inglés)",
+          "url": "/activities/infrastructure-group/"
+        },
+        {
+          "name": "Revista de la TEI",
+          "url": "https://journals.openedition.org/jtei"
+        }
+      ]
     }
   },
   {
@@ -95,6 +169,31 @@
           "name": "About TEI Tools",
           "url": "/tools/"}
       ]
+    },
+    "es": {
+      "name": "Herramientas",
+      "items": [
+        {
+          "name": "TEIGarage",
+          "url": "https://teigarage.tei-c.org/"
+        },
+        {
+          "name": "Roma",
+          "url": "https://roma.tei-c.org"
+        },
+        {
+          "name": "Roma Antiqua",
+          "url": "https://romaantiqua.tei-c.org"
+        },
+        {
+          "name": "Stylesheets",
+          "url": "https://github.com/TEIC/Stylesheets"
+        },
+        {
+          "name": "Acerca de las herramientas TEI (Inglés)",
+          "url": "/tools/"
+        }
+      ]
     }
   },
   {
@@ -112,6 +211,23 @@
         },
         {
           "name": "Meetings",
+          "url": "https://members.tei-c.org/Events/meetings"
+        }
+      ]
+    },
+    "es": {
+      "name": "Membresía",
+      "items": [
+        {
+          "name": "Sitio de miembros (Inglés)",
+          "url": "https://members.tei-c.org/"
+        },
+        {
+          "name": "Cómo unirse (Inglés)",
+          "url": "https://members.tei-c.org/Join"
+        },
+        {
+          "name": "Reuniones (Inglés)",
           "url": "https://members.tei-c.org/Events/meetings"
         }
       ]
@@ -140,6 +256,31 @@
         },
         {
           "name": "Funding Bids and the TEI-C",
+          "url": "/support/bids/"
+        }
+      ]
+    },
+    "es": {
+      "name": "Soporte",
+      "items": [
+        {
+          "name": "Soporte (Inglés)",
+          "url": "/support/"
+        },
+        {
+          "name": "Aprende TEI",
+          "url": "/es/soporte/aprende/"
+        },
+        {
+          "name": "Lista de correo TEI-L (Inglés)",
+          "url": "/support/#tei-l"
+        },
+        {
+          "name": "Problemas y solicitudes de características (Inglés)",
+          "url": "https://github.com/TEIC/TEI/issues"
+        },
+        {
+          "name": "Financiación y el TEI-C (Inglés)",
           "url": "/support/bids/"
         }
       ]
@@ -179,12 +320,49 @@
           "url": "/about/contact/"
         }
       ]
+    },
+    "es": {
+      "name": "Acerca de",
+      "items": [
+        {
+          "name": "Acerca de la TEI",
+          "url": "/es/acerca_de/"
+        },
+        {
+          "name": "Objetivos y misión (Inglés)",
+          "url": "/about/mission/"
+        },
+        {
+          "name": "Junta directiva (Inglés)",
+          "url": "/about/board-of-directors/"
+        },
+        {
+          "name": "Preguntas frecuentes (Inglés)",
+          "url": "/about/frequently-asked-questions/"
+        },
+        {
+          "name": "Historia (Inglés)",
+          "url": "/about/history/"
+        },
+        {
+          "name": "Vault",
+          "url": "/Vault/"
+        },
+        {
+          "name": "Contacto (Inglés)",
+          "url": "/about/contact/"
+        }
+      ]
     }
   },
   {
     "id": "news",
     "en": {
       "name": "News", 
+      "url": "/news/"
+    },
+    "es": {
+      "name": "Noticias",
       "url": "/news/"
     }
   }

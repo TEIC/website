@@ -34,7 +34,7 @@
             {% for year in years %}
               <h2 class="h4">{{ year }}</h2>
               <ul>
-                {% for page in collections.news | pagesByYear(year) %}
+                {% for page in collections.news | pagesByYear(year) | reverse %}
                   <li><a href="{{ page.url }}">{{ page.data.title }}</a></li>
                 {% endfor %}
               </ul>

@@ -1,5 +1,5 @@
 ---
-layout: homepage.njk
+layout: homepage_es.njk
 title: "Text Encoding Initiative"
 permalink: "index.es.html"
 ---

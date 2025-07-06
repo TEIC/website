@@ -1,5 +1,5 @@
 ---
-layout: page.njk
+layout: page_es.njk
 title: "Actividades"
 tags: page
 ---

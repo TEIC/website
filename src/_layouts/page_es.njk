@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/css/teic.css">
+    <title>{{ title }}</title>
+  </head>
+  <body>
+    {% include 'navbar_es.njk' %}
+    <main>
+      <div class="container">
+        <div class="row">
+          {% if sidenav %}
+            <div class="col col-md-9 mt-4">
+              {{ content | safe }}
+            </div>
+            <button class="tc-sidebar-toggler btn btn-light" type="button" data-bs-toggle="collapse" data-bs-target="#sidebar" aria-controls="#sidebar" aria-expanded="false" aria-label="Toggle sidebar">
+              <i class="bi bi-arrow-bar-left"></i>
+            </button>
+            {% if sidenav == 'Council' %}
+              {% include 'sidenav-council.njk' %}
+            {% else %}
+              {% include 'sidenav-about.njk' %}
+            {% endif %}
+          {% else %}
+            <div class="col mt-4">
+              {{ content | safe }}
+            </div>
+          {% endif %}
+        </div>
+      </div>
+    </main>
+    {% include 'footer.html' %}
+    <script src="/js/main.js"></script>
+  </body>
+</html>

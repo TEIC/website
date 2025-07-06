@@ -7,10 +7,10 @@ tags: page
 The TEI Guidelines require constant maintenance, development, and promotion in order to remain useful. Improvements and additions to the standard are made continuously, in response to evolving technologies and the demands of the user community.
 
 
-The TEI Consortium is governed by a [Board of Directors](/Board/ "Board of Directors") which provides strategic direction and fiscal oversight, marketing, and coordinates fundraising and membership.
+The TEI Consortium is governed by a [Board of Directors](/about/board-of-directors/ "Board of Directors") which provides strategic direction and fiscal oversight, marketing, and coordinates fundraising and membership.
 
 
-Technical development of the TEI Guidelines is organized and overseen by the [TEI Technical Council](/Activities/Council/ "TEI Technical Council"). While the Council undertakes much of this technical work itself, it also convenes [workgroups](/Activities/Workgroups/ "workgroups") to address specific projects within a fixed time frame. Much of the TEI Technical Council's work can be seen in the [minutes of its meetings](/Activities/Council/Meetings/ "minutes of its meetings"), the [public archives of its mailing list](http://lists.tei-c.org/pipermail/tei-council/ "public archives of its mailing list"), and the issues on [the TEI's GitHub site](https://github.com/TEIC/TEI "the TEI's GitHub site").
+Technical development of the TEI Guidelines is organized and overseen by the [TEI Technical Council](/Activities/Council/ "TEI Technical Council"). While the Council undertakes much of this technical work itself, it also convenes [workgroups](/Activities/Workgroups/ "workgroups") to address specific projects within a fixed time frame. Much of the TEI Technical Council's work can be seen in the [minutes of its meetings](/Activities/Council/Meetings/ "minutes of its meetings"), the [public archives of its mailing list](https://lists.tei-c.org/archives/list/tei-council@lists.tei-c.org/ "public archives of its mailing list"), and the issues on [the TEI's GitHub site](https://github.com/TEIC/TEI "the TEI's GitHub site").
 
 
 The TEI Consortium also awards the [Rahtz Prize for TEI Ingenuity](/activities/rahtz-prize-for-tei-ingenuity/ "Rahtz Prize for TEI Ingenuity") not more than once a year.

@@ -1,15 +1,9 @@
 ---
-layout: page.njk
+layout: page_es.njk
 title: "Directrices"
 tags: page
 ---
-# Guidelines
-
-
-
- 
- 
-
+# Directices
 
  Las Directices TEI para la Codificación e Intercambio de Textos Electrónicos definen y documentan un lenguaje de marcado para reepresentar características estructurales, de presentación y conceptuales de los textos. Se centran, aunque no exclusivamente, en la codificación de documentos en las humanidades y ciencias sociales, y en particular en la representación de materiales de fuentes primarias para la investiacióny el análisis. Estas directrices se expresan como un esquema XML modular y extensible, acompañado de documentación detallada, y se publican bajo una licencia de código abierto. Las Directrices son mantenidas y desarrolladas por el Consorcio TEI, a través de su [Consejo Técnico](/actividades/Consejo/), con el apoyo y la participación de la comunidad TEI.
  

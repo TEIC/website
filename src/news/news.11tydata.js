@@ -1,4 +1,4 @@
-module.exports = function() {
+export default function() {
   return {
     layout: "news_page.njk",
     permalink: function(data) {

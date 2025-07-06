@@ -1,12 +1,12 @@
 ---
-layout: page.njk
+layout: page_es.njk
 title: "Acerca de"
 tags: page
 eleventyNavigation:
   key: "About"
 ---
 # Acerca de
-El Consorcio de la Text Encoding Initiative(TEI-C) es una organización internacional cuya misión es desarrollar y mantener directrices para la codificación digital de textos literarios y lingüísticos.  
+El Consorcio de la Text Encoding Initiative (TEI-C) es una organización internacional cuya misión es desarrollar y mantener directrices para la codificación digital de textos literarios y lingüísticos.  
 
 El Consorcio publica las *Text Encoding Initiative Guidelines for Electronic Text Encoding and Interchange* (Directrices de la Iniciativa de Codificación de Textos para la Codificación e Intercambio de Textos Electrónicos): un estándar internacional e interdisciplinario ampliamente utilizado por bibliotecas, museos, editoriales e investigadores individuales para representar todo tipo de material textual con fines de investigación y enseñanza en línea.  
 
@@ -20,6 +20,6 @@ Para más información, visite el sitio web de la TEI.
 
 * [Membresía](http://members.tei-c.org/join/)
 * Las Guías directrices o [Guidelines](../Guidelines/)
-* La [organización] de la TEI(https://tei-c.org/about/organization/)
+* La [organización](https://tei-c.org/about/organization/) de la TEI
 * [Preguntas frecuentes](frequently-asked-questions)
 * [Logos](logos)
