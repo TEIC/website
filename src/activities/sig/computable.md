@@ -11,9 +11,21 @@ The TEI Special Interest Group "Computable Text and Media" aims to explore and p
 
 The SIG Computable Text and Media is related to other SIGs, as the Correspondence SIG (for e-mails) and the Computer Mediated Communication SIG (for social media posts).
 
+## Mailing List
+
+The mailing list "TEI Computable SIG" can be joined by:  
+by sending an email to (recommended): TEI-COMPUTABLE-SIG-subscribe-request@lists.psu.edu  
+or join the mailing list via webform: https://lists.psu.edu/cgi-bin/wa?SUBED1=TEI-COMPUTABLE-SIG&A=1
+
+To send a mail to the list (only as subscriber), write to: TEI-COMPUTABLE-SIG@lists.psu.edu
+
+To unsubscribe, send an email to: TEI-COMPUTABLE-SIG-unsubscribe-request@lists.psu.edu
+
+To access the list archive: https://lists.psu.edu/cgi-bin/wa?A0=TEI-COMPUTABLE-SIG
+
 ## Convener
 
-The SIG is convened by [Torsten Roeder](https://www.uni-wuerzburg.de/zpd/forschungsstelle-dachs/team/roeder-torsten/) (Center for Philology and Digitality, University of Würzburg).
+The SIG is convened by [Torsten Roeder](https://www.uni-wuerzburg.de/zpd/forschungsstelle-dachs/team/roeder-torsten/) (Center for Philology and Digitality, University of Würzburg). Contact: torsten.roeder@uni-wuerzburg.de
 
 ## Background
 
