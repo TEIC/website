@@ -57,6 +57,12 @@ a {
 .article h1 {
   font-size: 1.5rem;
 }
+blockquote {
+  margin-left: 2rem;
+  margin-right: 2rem;
+  padding-left: 1rem;
+  border-left: thin solid silver;
+}
 footer {
   clear: both;
 }
