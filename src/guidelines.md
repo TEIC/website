@@ -5,12 +5,6 @@ tags: page
 ---
 # Guidelines
 
-
-
- 
- 
-
-
  The TEI Guidelines for Electronic Text Encoding and
  Interchange define and document a markup language for representing the structural,
  renditional, and conceptual features of texts. They focus (though not exclusively)
@@ -20,16 +14,16 @@ tags: page
  a modular, extensible XML schema, accompanied by detailed documentation, and are published
  under an open-source license. The Guidelines are maintained and developed by the TEI
  Consortium, through its [Technical Council](/activities/Council/), with the support and participation of the TEI community.
- 
- Below are some of the most important resources and information needed to use and learn
+
+Below are some of the most important resources and information needed to use and learn
  about the Guidelines:
- 
+
  [P5 Guidelines](P5/)
 The most recent version of the TEI Guidelines is known as P5. It was initially released
  in November 2007 and has been updated since then on a
  six-month cycle, with point releases incorporating maintenance fixes and minor feature
  enhancements.
- 
+
  [Customization of the Guidelines](Customization/)
 The Guidelines are designed to be customized, and specific projects and disciplinary
  groups often create customized versions reflecting particular needs and practices.
