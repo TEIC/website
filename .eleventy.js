@@ -94,6 +94,10 @@ export default function (eleventyConfig) {
     return array.slice(0, limit);
   });
 
+  eleventyConfig.addFilter("scrub", function(content) {
+    return content.replace(/<a[^>]+>/g, "").replace(/<\/a>/, "");
+  });
+
   eleventyConfig.addExtension("scss", {
 
     compileOptions: {
