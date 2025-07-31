@@ -20,7 +20,7 @@
                   <a href="{{ page.url }}">{{ page.data.title }}</a>
                   <em style="float:right;">{{ page.data.date | dateString }}</em>
                 </div>
-                <div class="card-body">
+                <div class="card-body" onclick="location.href='{{ page.url }}';" style="cursor: pointer;">
                   {{ page.content | safe }}
                 </div>
               </div>
