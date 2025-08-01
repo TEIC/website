@@ -2,7 +2,7 @@
 title: "25th TEI Conference — Registration Reminder"
 date: 2025-07-24
 ---
-# 25th TEI Conference -- Register Now!
+# 25th TEI Conference — Register Now!
 
 Dear colleagues — please join us for the annual Text Encoding Initiative conference in Kraków, Poland, 16-20 September!
 
