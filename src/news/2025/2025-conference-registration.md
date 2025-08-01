@@ -1,5 +1,5 @@
 ---
-title: "25th TEI Conference -- Registration Reminder"
+title: "25th TEI Conference — Registration Reminder"
 date: 2025-07-24
 ---
 # 25th TEI Conference -- Register Now!
