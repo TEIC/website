@@ -34,7 +34,7 @@ Please read further on the TEI web site for information on:
 
 * [TEI membership](http://members.tei-c.org/join/)
 * the [TEI Guidelines](../Guidelines/)
-* the TEI's [organization](https://tei-c.org/about/organization/)
+* the TEI's [organization](/about/organization/) and [bylaws](/about/bylaws/)
 * [frequently asked questions](frequently-asked-questions)
 * [TEI Badges](badges)
 * [TEI Logos](logos)
