@@ -20,6 +20,8 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: '23'
+      - name: Set up analytics
+        run: cp src/_includes/analytics.html_src src/_includes/analytics.html
       - name: Build
         run: |
           npm install

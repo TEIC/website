@@ -6,15 +6,7 @@
     <link rel="stylesheet" href="/css/teic.css">
     <title>{{ title }}</title>
   </head>
-  <!-- Google tag (gtag.js) -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-S0016MEQQZ"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-
-    gtag('config', 'G-S0016MEQQZ');
-  </script>
+  {% include 'analytics.html' %}
   <body>
     {% include 'navbar.njk' %}
     <main>
