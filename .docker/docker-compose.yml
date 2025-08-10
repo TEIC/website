@@ -8,3 +8,4 @@ services:
       - ./conf/httpd.conf:/usr/local/apache2/conf/httpd.conf
     restart: on-failure
 
+# TODO: Add an 11ty service and proxy it in Apache.
