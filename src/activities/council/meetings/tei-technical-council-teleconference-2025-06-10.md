@@ -1,5 +1,5 @@
 ---
-title: "TEI Technical Council Teleconference, 2025-04-08"
+title: "TEI Technical Council Teleconference, 2025-06-10"
 date: 2025-06-10
 ---
 
@@ -29,8 +29,7 @@ date: 2025-06-10
   * Conference website: [https://tei2025.confer.uj.edu.pl/en\_GB/](https://tei2025.confer.uj.edu.pl/en_GB/)   
   * Conference dates: 16–20 Sep 2025   
   * Council meeting slated: Sun 14, Mon 15, and Tue 16 Sep 25\.  
-  * Info / updates so far:  
-    * EBB is working with the TEI SIGs to find out which are attending and require meeting rooms to be scheduled.  
+  * EBB is working with the TEI SIGs to find out which are attending and require meeting rooms to be scheduled.  
 
 ## Confirm next release  
  
@@ -93,5 +92,6 @@ date: 2025-06-10
   * SB and EBB agree that we need a high priority explanation of interleave for the Guidelines release to accompany this new feature. [Ticket \#2717](https://github.com/TEIC/TEI/issues/2717) opened.  
   * Discussion: It's okay to release this with the understanding that it works as RNG interleave.  
   * SB: We should invite Lou Burnard to help with adding documentation to the Gentle Introduction, where it's a good opportunity to explain the Relax NG idea.  
-* [PR \#2509](https://github.com/TEIC/TEI/pull/2509) (new work on the problem with processing abstract patterns)  
+* [PR \#2509](https://github.com/TEIC/TEI/pull/2509)
+  * Reviewed new work on the problem with processing abstract patterns.  
   * Merged during the meeting. 
