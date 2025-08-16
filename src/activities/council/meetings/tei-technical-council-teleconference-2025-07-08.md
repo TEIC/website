@@ -7,7 +7,7 @@ date: 2025-07-08
 
 10:30–12:00 PDT | 13:30–15:00 EDT | 18:30–20:00 UTC | 19:30–21:00 CET
 
-### Present:
+### Present
 
 * Syd Bauman (SB)  
 * Helena Bermúdez Sabel (HBS)   
