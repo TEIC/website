@@ -4,7 +4,7 @@ date: 2025-08-15
 ---
 # New Release of the TEI Guidelines 4.10.0 / Stylesheets 7.59.0
 
-The TEI Consortium has released [version 4.10.0 of the TEI Guidelines](https://tei-c.org/Vault/P5/4.10.0/doc/tei-p5-doc/en/html/index.html), codenamed “The Olinguito Release” celebrating the discovery of the olinguito in South America, announced by the Smithsonian on 15 August 2013 <ptr target="https://www.si.edu/stories/olinguito-discovery"/>. This release includes [version 7.59.0](https://github.com/TEIC/Stylesheets/releases) of the TEI Stylesheets. 
+On 15 August 2025, The TEI Consortium released [version 4.10.0 of the TEI Guidelines](https://tei-c.org/Vault/P5/4.10.0/doc/tei-p5-doc/en/html/index.html), codenamed “The Olinguito Release” celebrating the discovery of the olinguito in South America which was announced by the Smithsonian Institution on this date in 2013 <ptr target="https://www.si.edu/stories/olinguito-discovery"/>. This release includes [version 7.59.0](https://github.com/TEIC/Stylesheets/releases) of the TEI Stylesheets. 
 
 Helena Bermúdez Sabel, Elli Bleeker, and Patricia O’Connor were our release technicians, and the release process was helped along by our ever-vigilant Council members and friends, with special thanks to Syd Bauman, Hugh Cayless, Martin Holmes, and Peter Stadler. For details about what has changed in the new version, please see the release notes below. 
 
