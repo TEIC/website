@@ -70,7 +70,7 @@ date: 2025-07-08
 * [PR \#2727](https://github.com/TEIC/TEI/pull/2727)
     * MH would like us to review his potential fix of the JS bug for bibliography items as popups in the Guidelines.  
     
-* [PR \#2538](https://github.com/TEIC/TEI/pull/2538) (`<interleave/>`)  
+* [PR \#2538](https://github.com/TEIC/TEI/pull/2538) (`<interleave>`)  
     * Council agrees to write the documentation as soon as possible and invite Lou Burnard to review it. 
     * Add to the [Gentle Introduction](https://tei-c.org/release/doc/tei-p5-doc/en/html/SG.html)  
     * Add also to the [TD chapter](https://tei-c.org/release/doc/tei-p5-doc/en/html/TD.html), make sure we address classes (collections of things) being interleaved.  

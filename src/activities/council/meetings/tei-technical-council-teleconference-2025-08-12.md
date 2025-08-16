@@ -74,7 +74,7 @@ date: 2025-08-12
 ## Tickets deferred to Release 4.11
 
 * [PR \#2538](https://github.com/TEIC/TEI/pull/2538) and [\#2154](https://github.com/TEIC/TEI/issues/2154) (Interleave)  
-  * Council discussion:  `<interleave\>` PR is not yet ready to merge, but let's make it a  high priority discussion at the F2F in Kraków. JT will review and merge SB’s PR against the base PR, so that other reviewers only need to review one PR against dev.  
+  * Council discussion:  `<interleave>` PR is not yet ready to merge, but let's make it a  high priority discussion at the F2F in Kraków. JT will review and merge SB’s PR against the base PR, so that other reviewers only need to review one PR against dev.  
   * Related tickets: [\#2717](https://github.com/TEIC/TEI/issues/2717) and [Stylesheets \#719](https://github.com/TEIC/Stylesheets/issues/719) 
 
 * [Issue \#2663](https://github.com/TEIC/TEI/issues/2663) (phrase-level encoded attr values in descriptions thereof) (fixes so far are merged; punting other languages to milestone **4.11**)  
