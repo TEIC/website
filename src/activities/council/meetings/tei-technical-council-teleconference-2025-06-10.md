@@ -88,7 +88,7 @@ date: 2025-06-10
 ## Tickets and Pull Requests:
 
 * [Stylesheets PR \#748](https://github.com/TEIC/Stylesheets/pull/748) (Fix for a bug which is completely breaking builds with modern Java VMs): SB had tested this successfully, so we merged during the meeting.  
-* [PR \#2538](https://github.com/TEIC/TEI/pull/2538) (Interleave)  
+* [PR \#2538](https://github.com/TEIC/TEI/pull/2538) (`<interleave/>`)  
   * SB and EBB agree that we need a high priority explanation of interleave for the Guidelines release to accompany this new feature. [Ticket \#2717](https://github.com/TEIC/TEI/issues/2717) opened.  
   * Discussion: It's okay to release this with the understanding that it works as RNG interleave.  
   * SB: We should invite Lou Burnard to help with adding documentation to the Gentle Introduction, where it's a good opportunity to explain the Relax NG idea.  
