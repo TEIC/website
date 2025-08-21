@@ -51,7 +51,7 @@ While the questions above may seem abstract, they become clearer when grounded i
 
 ## References
 
-Beshero-Bondar, Elisa; Bauman, Syd (2024): Can we apply the new CMC chapter to the TEI Listserv Archives? An experiment with TEI for Correspondence and Computer-Mediated Communication, TEI Conference 2024 (Buenos Aires). [Slides](https://slides.com/elisabeshero-bondar/listserv2tei/)
+Bauman, Syd; Beshero-Bondar, Elisa; (2024): Can we apply the new CMC chapter to the TEI Listserv Archives? An experiment with TEI for Correspondence and Computer-Mediated Communication, TEI Conference 2024 (Buenos Aires). [Slides](https://slides.com/elisabeshero-bondar/listserv2tei/)
 
 Ensslin, Astrid (2007): Canonizing Hypertext. Explorations and Constructions.
 
