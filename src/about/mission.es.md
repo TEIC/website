@@ -49,23 +49,24 @@ Capacitación y difusión
  interna. La TEI mantiene una lista seleccionada de [materiales para aprender TEI](../../Support/Learn/),
  que incluye tutoriales, documentación de proyectos y eventos de formación. Además, se 
  fomenta que las comunidades de usuarios y proyectos desarrollen documentación y 
- esquemas TEI específicos para áreas disciplinarias o temáticas concretas. Estos
- materiales pueden ser difundidos por la TEI a través de su página de [personalizaciones](../../Support/Learn/) 
- y mediante el [wiki de TEI](https://wiki.tei-c.org/).
+ esquemas TEI específicos para áreas disciplinarias o temáticas concretas. Estos 
+ materiales pueden ser difundidos por la TEI a través de su página de [personalizaciones](../../Support/Learn/) y mediante el [wiki de TEI](https://wiki.tei-c.org/).
 
-Cultivation of a TEI research community
-* The thriving research community surrounding the TEI is one of its greatest assets
- and also the reason for its ongoing vitality. This community is loosely bound together
- through a variety of forums, virtual and actual. Of these the oldest and most inclusive
- is [the TEI-L discussion list](../../Support/) which serves as a clearing house for TEI questions,
- debates, opinion, and information of all kinds. It includes TEI users at all levels
- of expertise and [its archive](https://lists.psu.edu/cgi-bin/wa?A0=TEI-L) 
- contains a record of discussion on text encoding and TEI usage going back to January 1990. 
-* The TEI also sponsors an annual members meeting and conference that is
- attended by participants from around the world, representing TEI projects of every
- type. The program includes papers on theoretical and practical topics, reports on
- work in progress, posters, meetings of the TEI special interest groups, and updates
- on the work being done on the TEI Guidelines.
+Fomento de una comunidad investigadora TEI
+* La activa comunidad investigadora que rodea a la TEI es uno de sus mayores activos
+ y también la razón de su continua vitalidad. Esta comunidad se encuentra unida de 
+ manera flexible a través de diversos foros, tanto virtuales como presenciales. De estos,
+ l más antiguo e inclusivo es [la lista de debate TEI-L](../../Support/), que 
+ unciona como centro de intercambio de preguntas, debates, opiniones e información 
+ e todo tipo sobre TEI. Incluye usuarios de todos los niveles de experiencia y 
+[su archivo](https://lists.psu.edu/cgi-bin/wa?A0=TEI-L) contiene un registro de 
+ iscusiones sobre codificación de textos y uso de TEI desde enero de 1990.
+
+* La TEI también patrocina una reunión anual de miembros y conferencia, a la que 
+ asisten participantes de todo el mundo, representando royectos TEI de todo tipo. El
+ programa incluye ponencias osbre temas teóricos y prácticos, informes de trabajos 
+ en progreso, pósters, reuniones de grupos de interés especial de TEI y actualizaciones
+ sobre el trabajo realizado en acerca de las Dorectrices de la TEI.
 
 
   
