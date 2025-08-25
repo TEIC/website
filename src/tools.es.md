@@ -1,6 +1,6 @@
 ---
 layout: page.njk
-title: "Herramientas
+title: Herramientas
 tags: page
 ---
 # Herramientas
