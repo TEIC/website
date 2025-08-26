@@ -2,6 +2,7 @@
 title: "TEI-C Elections 2025"
 date: 2025-08-26
 tags: news
+author: Magdalena Turska
 ---
 # TEI-C Elections 2025
 
@@ -23,6 +24,8 @@ tags: news
 * [Candidate Statements: TEI Board](#board)
     + [Dimitra Grigoriou](#DG)
 
+<a id="intro"></a>
+
 Introduction
 ------------
 
@@ -35,6 +38,8 @@ The following people have been nominated and have agreed to stand as candidates 
 1. a candidate statement in which they discuss their reasons for wishing to serve on the Board or Technical Council and what their particular goals would be.
 2. a biographical description focusing on their education, training, research, etc., relevant to the TEI.
 
+<a id="note"></a>
+
 
 A Note on Voting
 ----------------
@@ -43,12 +48,11 @@ A Note on Voting
 Voting will be conducted via the OpaVote website, which uses the open-source balloting software OpenSTV for tabulation. OpenSTV is a widely used open-source Single Transferable Vote program.
 TEI Member voters, identified by email address, will receive a URL at which to cast their ballots. Upon closing of the election, all voters who cast a vote will be sent an email with a link to the results of the election, from which it is also possible to download the actual final ballots for verification. Individual members may vote in the TEI Technical Council elections. The nominated representative of institutions with membership may vote for both the TEI Board and TEI Technical Council.
 
-
 Voting will open on September 1st, 2025
 
+Voting closes on September 19th, 2025 at 09:00 CEST
 
-Voting closes on September 18th, 2025 at 09:00 CEST
-
+<a id="council"></a>
 
 Candidate Statements: TEI Technical Council
 -------------------------------------------
@@ -261,6 +265,8 @@ Currently, a Fellow at the International Institute for Digital Humanities, as we
 Academic activities: [“Design of Document Repository Management System Based on Graph Database”](http://id.nii.ac.jp/1001/00187424/) (2018; awarded IPSJ SIG Computers and the Humanities Student Award), [“What Are We Calling ‘Latin Script’? Name and Reality in the Grammatological Terminology”](https://doi.org/10.36824/2018-graf-wang) (2019), [“慧琳撰『一切経音義』の符号化をめぐって [On the encoding of Huilin’s Yiqiejing Yinyi]”](http://repository.bungaku-report.com/htdocs/?action=repository_uri&item_id=55) (2019), [“Xu Yiqiejing Yinyi and Issues on TEI Markup of Chinese Literature”](https://ipsj.ixsq.nii.ac.jp/records/215795) (2021; awarded Jinmoncom 2021 Student Award), “『續一切経音義』を通じた外字と割注の課題 [Problems on gaiji and warichū as seen in Xu Yiqiejing Yinyi]” (2022; in: ISBN 978-4-90-965884-5)
 
 Standardization activities: [“On Encoding Policy of Gongche Notations and Upcoming Para-ideographs”](https://www.unicode.org/L2/L2019/19346-gongche-policy.pdf) (2019), [“Proposal to Encode 20 Additional Kanbun Marks”](https://www.unicode.org/L2/L2021/21082-kanbun-add.pdf) (2021), [“Suggestions for Future IRG Workflow and Procedures”](https://www.unicode.org/irg/docs/n2467-IRGWorkflow.pdf) (2021), [“SAT Submission for the IRG Working Set 2024”](https://www.unicode.org/irg/docs/n2684r-SAT2024sub.pdf) (2024)																	
+
+<a id="board"></a>
 
 Candidate Statements: TEI Board
 -------------------------------
