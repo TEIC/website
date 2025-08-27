@@ -1,6 +1,6 @@
 ---
 layout: page.njk
-title: Herramientas
+title: "Herramientas
 tags: page
 ---
 # Herramientas
@@ -77,8 +77,7 @@ de conversión de uso general. Otras XSL y CSS se listan en la sección de hojas
  
  <h2 id="I18N">Internacionalización de la TEI</h2>
  
- Una herramienta importante desarrollada por la TEI es el sistema para generar versiones 
- de las Directrices en idiomas distintos al inglés. Esta iniciativa, financiada en parte por la  [ALLC](http://www.allc.org/), 
+ Una herramienta importante desarrollada por la TEI es el sistema para generar versiones de las Directrices en idiomas distintos al inglés. Esta iniciativa, financiada en parte por la  [ALLC](http://www.allc.org/), 
  proporciona un marco para gestionar las traducciones de la documentación de referencia,
  los nombres y valores de atributos, y potencialmente el texto en prosa de las propias
  Directrices. Actualmente se está trabajando en la traducción de la documentación de referencia
