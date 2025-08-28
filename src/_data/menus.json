@@ -194,8 +194,8 @@
           "url": "https://github.com/TEIC/Stylesheets"
         },
         {
-          "name": "Acerca de las herramientas TEI (Inglés)",
-          "url": "/tools/"
+          "name": "Acerca de las herramientas TEI",
+          "url": "/es/herramientas/"
         }
       ]
     }
@@ -333,8 +333,8 @@
           "url": "/es/acerca_de/"
         },
         {
-          "name": "Objetivos y misión (Inglés)",
-          "url": "/about/mission/"
+          "name": "Objetivos y misión",
+          "url": "/acerca_de/mision/"
         },
         {
           "name": "Junta directiva (Inglés)",

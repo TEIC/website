@@ -1,6 +1,6 @@
 ---
-layout: page.njk
-title: "Goals and Mission"
+layout: page_es.njk
+title: "Objetivos y Misión"
 tags: page
 ---
 # Objetivos y Misión 
