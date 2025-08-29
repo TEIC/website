@@ -3,6 +3,10 @@ on:
   push:
     branches:
       - main
+    paths:
+      - "src/**"
+      - "package.json"
+      - "package-lock.json"
   repository_dispatch:
     types: [update-documentation]
 jobs:
