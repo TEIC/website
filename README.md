@@ -16,28 +16,7 @@ src
 │   ├── css
 │   ├── img
 │   └── js
-├── documentation
-│   └── Documentation
-│       ├── Bylaws
-│       ├── TCW
-│       └── bin
-├── guidelines
-├── news
-│   ├── 2023
-│   │   ├── 01
-│   │   │   ├── 09
-│   │   │   └── 28
-│   │   ├── 02
-│   │   │   └── 27
-│   │   ├── 08
-│   │   │   ├── 02
-│   │   │   └── 06
-│   │   └── 09
-│   │       └── 24
-│   └── 2024
-├── posts
-└── support
-    └── learn
+...
 ```
 
 Unless you need to change the look and feel of the site, you can ignore any directory prefixed with a `_`. The `assets/` directory contains CSS, JavaScript, and images.
@@ -67,23 +46,50 @@ The website can be built locally. To do so, first make sure you have Node (20+),
 Then check out the repository and install all dependencies
 
 ```sh
-git clone https://github.com/TEIC/website
+git clone https://github.com/TEIC/website --recurse-submodules
 cd website
 npm install
 ```
 
 The commands for building and serving the website are configured in `./package.json`.
 
+## Previewing with Docker Compose
+
+If you have Docker installed, you can run the site in something like its production setup, with an Apache front end. This will avoid any confusion over the index page, which exists in multiple lanaguages. You will get the version corresponding to your browser's language preferences.
+
+To run under Docker Compose, do
+
+```sh
+.docker/dev.sh up -d
+```
+
+The site should be available at <http://localhost:9090/>. To shut it down, you can run
+
+```sh
+.docker/dev.sh down
+```
+
+You can also do things like view the logs from Eleventy and Apache by running
+
+```sh
+.docker/dev.sh logs -f
+```
+
+Changes to source files will result in an automatic rebuild of the site.
+
+## Previewing without Docker
+
 To preview the website, run:
 
 ```sh
 npm run dev 
 ```
+
 This will also watch for any new changes and rebuild, so you can leave the console running if you're making multiple changes. 
 
 If this is successful, you'll likely see a whole bunch of output, which should conclude with something like:
 
-```sh 
+```txt
 [11ty] Copied 50 files / Wrote 654 files in 3.08 seconds (4.7ms each, v2.0.1)
 [11ty] Watching…
 [11ty] Server at http://localhost:8080/
