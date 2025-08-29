@@ -2,12 +2,12 @@
   "name": "website-11ty",
   "version": "1.0.0",
   "description": "This repository contains the sources for the TEI website and the configuration to run it locally if you need to. If you are editing the website's content, you will only need to be focused on the contents of the `src/` directory, which is laid out something like this:",
-  "main": "index.js",
   "scripts": {
     "dev": "npx @11ty/eleventy --serve",
     "build": "npx @11ty/eleventy",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "type": "module",
   "keywords": [],
   "author": "Hugh Cayless",
   "license": "BSD-2-Clause",
@@ -19,7 +19,8 @@
   "dependencies": {
     "bootstrap": "^5.3.7",
     "bootstrap-icons": "^1.13.1",
-    "CETEIcean": "^1.9.1",
+    "CETEIcean": "^1.9.5",
+    "highlight.js": "^11.11.1",
     "jsdom": "^25.0.0",
     "sass": "^1.89.2"  }
 }
