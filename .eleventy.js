@@ -5,10 +5,15 @@ import { JSDOM } from "jsdom";
 import fs from "fs";
 import eleventyNavigationPlugin from "@11ty/eleventy-navigation"
 import pluginRss from "@11ty/eleventy-plugin-rss";
+import attributes from "markdown-it-attrs";
 
 import CETEI from 'CETEIcean';
+import attrs from "markdown-it-attrs";
 
 export default function (eleventyConfig) {
+  eleventyConfig.amendLibrary("md", (md) => {
+    md.use(attributes);
+  });
   eleventyConfig.addPassthroughCopy({"src/assets/favicon.ico": "favicon.ico"});
   eleventyConfig.addPassthroughCopy({ "src/assets/js": "js" });
   eleventyConfig.addPassthroughCopy({ "src/assets/css/*.css": "css" });

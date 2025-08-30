@@ -38,7 +38,7 @@ the most relevant TEI modules for your project, or want to do a more complex cus
 involving modifications to specific elements. Roma can also help you generate TEI
 documentation in languages other than English (for more detail, see the [section on
 internationalization below](#I18N)).
- 
+
 ## Stylesheets for converting TEI documents to various formats
 
 The TEI maintains a library of [XSL stylesheets](https://github.com/TEIC/Stylesheets), originally developed by Sebastian Rahtz,
@@ -47,7 +47,7 @@ are designed for specific purposes and are not intended as general-purpose conve
 tools. Other
 XSL and CSS stylesheets are listed in the stylesheets section of the [TEI wiki](https://wiki.tei-c.org/index.php/Stylesheets), and
 all TEI users are encouraged to contribute their own stylesheets to this collection.
- 
+
 ## Conversion to and from TEI:
 
 [TEIGarage](https://teigarage.tei-c.org/) is a web, and RESTful, service to manage the transformation of documents between
@@ -56,7 +56,7 @@ format as a pivot format. It is a good tool for conversion from TEI to Word (.do
 or Word (.docx) to TEI, but also does many other formats.
 
 ## Internationalization of the TEI {#I18N}
- 
+
 One important tool developed by the TEI is the system for generating versions of the
 Guidelines in languages other than English. This initiative, funded in part by the
 [ALLC](http://www.allc.org/), provides a framework for managing translations of the TEI reference documentation,
