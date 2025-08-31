@@ -1,6 +1,6 @@
 ---
 title: "TEI-C Elections 2025"
-date: 2025-08-26
+date: 2025-08-31
 tags: news
 author: Magdalena Turska
 ---
@@ -9,60 +9,44 @@ author: Magdalena Turska
 * [Introduction](#intro)
 * [A Note on Voting](#note)
 * [Candidate Statements: TEI Technical Council](#council)
-	+ [Helena Bermúdez Sabel](#HBS)
-    + [Elli Bleeker](#EB)
-    + [Maria Fronczak](#MF)
-    + [Joanna Hałaczkiewicz](#JH)
-    + [Dario Kampkaspar](#DK)
-    + [Naoki Kokaze](#NK)
-    + [Stephan Kurz](#SK)
-    + [Patricia O'Connor](#POC)
-    + [Ariane Pinche](#AP)
-    + [Klaus Rettinghaus](#KR)
-    + [Yifan Wang](#YW)
+  * [Helena Bermúdez Sabel](#HBS)
+  * [Elli Bleeker](#EB)
+  * [Maria Fronczak](#MF)
+  * [Joanna Hałaczkiewicz](#JH)
+  * [Dario Kampkaspar](#DK)
+  * [Naoki Kokaze](#NK)
+  * [Stephan Kurz](#SK)
+  * [Patricia O'Connor](#POC)
+  * [Ariane Pinche](#AP)
+  * [Klaus Rettinghaus](#KR)
+  * [Yifan Wang](#YW)
 
 * [Candidate Statements: TEI Board](#board)
-    + [Dimitra Grigoriou](#DG)
+  * [Dimitra Grigoriou](#DG)
 
-<a id="intro"></a>
+## Introduction {#intro}
 
-Introduction
-------------
+In 2025, TEI Members will hold an election to fill 3 open positions on the TEI Technical Council (3-year term). There is 1 open position on the TEI Board of Directors (3-year term).
 
-
-In 2025, TEI Members will hold an election to fill 3 open positions on the TEI Technical Council (3-year term). 
-There is 1 open position on the TEI Board of Directors (3-year term).
 The following people have been nominated and have agreed to stand as candidates for election to the TEI Technical Council and the TEI Board. They have all supplied a statement covering two aspects:
-
 
 1. a candidate statement in which they discuss their reasons for wishing to serve on the Board or Technical Council and what their particular goals would be.
 2. a biographical description focusing on their education, training, research, etc., relevant to the TEI.
 
-<a id="note"></a>
-
-
-A Note on Voting
-----------------
-
+## A Note on Voting {#note}
 
 Voting will be conducted via the OpaVote website, which uses the open-source balloting software OpenSTV for tabulation. OpenSTV is a widely used open-source Single Transferable Vote program.
 TEI Member voters, identified by email address, will receive a URL at which to cast their ballots. Upon closing of the election, all voters who cast a vote will be sent an email with a link to the results of the election, from which it is also possible to download the actual final ballots for verification. Individual members may vote in the TEI Technical Council elections. The nominated representative of institutions with membership may vote for both the TEI Board and TEI Technical Council.
 
-Voting will open on September 1st, 2025
+Voting will open on September 1st, 2025.
 
-Voting closes on September 19th, 2025 at 09:00 CEST
+Voting closes on September 19th, 2025 at 09:00 CEST.
 
-<a id="council"></a>
+## Candidate Statements: TEI Technical Council {#council}
 
-Candidate Statements: TEI Technical Council
--------------------------------------------
-
-<a id="HBS"></a>
-
-### Helena Bermúdez Sabel
+### Helena Bermúdez Sabel {#HBS}
 
 _Affiliation:_ JinnTec
-
 
 **Statement of purpose:**
 
@@ -80,9 +64,7 @@ I also have solid experience in Digital Humanities teaching, in particular givin
 
 My avid interest in data modeling and the formalization of annotation schemes makes me very keen on continuing to have an active role in the TEI community.
 
-<a id="EB"></a>
-
-### Elli Bleeker	
+### Elli Bleeker {#EB}
 
 _Affiliation:_ Huygens Institute
 
@@ -96,8 +78,7 @@ Serving on the TEI Technical Council is sometimes challenging but always rewardi
 
 I work as a researcher at the Huygens Institute for the History of the Netherlands and the DHLab of the KNAW Humanities Cluster. The Huygens Institute is a leading European institute in digital scholarly editing and therefore recognizes the value of the TEI, providing institutional support for this kind of work. I have a background in French literature, book history, and manuscript studies, but over the years I've received hands-on training in text modeling, semi-automated collation, and digital scholarly editing. Coming to XML and text encoding from a humanities background rather than a technical one gives me particular insight into the challenges scholars face when learning these technologies, making me well-positioned to contribute to the pedagogical aspects of TEI work.	
 
-<a id="MF"></a>
-### Maria Fronczak
+### Maria Fronczak {#MF}
 
 _Affiliation:_ Institute of History of the Polish Academy of Sciences
 
@@ -114,8 +95,7 @@ Working both at a research institute and an academic library, I am acutely aware
 
 A graduate of computer science and interfaculty studies in the humanities, currently working at the Institute of History of the Polish Academy of Sciences and the University of Warsaw Library, where she makes use of her vast experience in software engineering when architecting and implementing solutions for scientific research and library operations. She has been involved in several digital humanities and cultural heritage projects, including digital editions projects; and her current responsibilities include preparing the infrastructure for digital editions at the Institute of History of the Polish Academy of Sciences.		
 
-<a id="JH"></a>
-### Joanna Hałaczkiewicz
+### Joanna Hałaczkiewicz {#JH}
 
 _Affiliation:_ Jagiellonian University (Kraków, Poland)
 
@@ -131,10 +111,9 @@ I am particularly interested in developing multimodal publishing workflows, wher
 
 I am an assistant at the Faculty of Polish Studies at the Jagiellonian University, holding a PhD in literary studies. I combine teaching – in the fields of textual criticism, editing, and publishing studies – with research, as a member of the LabEdyt (Laboratory of Digital Editing) team at the Jagiellonian Centre for Digital Humanities.
 
-I am involved in several digital scholarly edition projects, including an edition of Szymon Laks’s correspondence with Krystyna and Czesław Bednarczyk (1975–1983), an edition of the homiletic works of Piotr Skarga (16th century), an edition of a manuscript containing Baroque poetry by Wacław Potocki („Moralia”), Neolatina Sarmatica (a digital repository of critical editions of Latin texts authored by writers associated with the former Polish–Lithuanian Commonwealth), and a web platform dedicated to the history of the 20th-century Polish publishing house in London: Poets' and Painters' Press – Oficyna Poetów i Malarzy.																																
+I am involved in several digital scholarly edition projects, including an edition of Szymon Laks’s correspondence with Krystyna and Czesław Bednarczyk (1975–1983), an edition of the homiletic works of Piotr Skarga (16th century), an edition of a manuscript containing Baroque poetry by Wacław Potocki („Moralia”), Neolatina Sarmatica (a digital repository of critical editions of Latin texts authored by writers associated with the former Polish–Lithuanian Commonwealth), and a web platform dedicated to the history of the 20th-century Polish publishing house in London: Poets' and Painters' Press – Oficyna Poetów i Malarzy.
 
-<a id="DK"></a>
-### Dario Kampkaspar
+### Dario Kampkaspar {#DK}
 
 _Affiliation:_ University and State Library Darmstadt
 
@@ -160,8 +139,7 @@ My key interests are closely related to this background – the need to keep a l
 
 I hold a degree in (medieval and early modern) history and English linguistics and literature.					
 
-<a id="NK"></a>
-### Naoki Kokaze
+### Naoki Kokaze {#NK}
 
 _Affiliation:_ Chiba University
 
@@ -184,12 +162,11 @@ Thank you for your time and consideration.
 
 I am an Assistant Professor of Digital Humanities at Chiba University, Japan, where I design a postgraduate DH curriculum. I received my MA degree in DH as the Best Overall Student in the MA in Digital Humanities at King's College London 2018/19, focusing on the usability of TEI and semantic web technologies for the analysis of digital history.
 
-I have led a project that involved creating a TEI-based digital scholarly edition of ancient Japanese administrative document, Engi-shiki. In this project, we proposed new tag sets and contributed to the development of <unitDecl> and <unitDef>, in an article for the Journal of the Text Encoding Initiative, titled *"Toward a Model for Marking up Non-SI Units and Measurements."* Furthermore, I first-authored a paper in the journal of Digital Scholarship in the Humanities on the analysis of early-modern Spanish ledger using TEI/DEPCHA (Digital Edition Publishing Cooperative for Historical Accounts).
+I have led a project that involved creating a TEI-based digital scholarly edition of ancient Japanese administrative document, Engi-shiki. In this project, we proposed new tag sets and contributed to the development of `<unitDecl>` and `<unitDef>`, in an article for the Journal of the Text Encoding Initiative, titled *"Toward a Model for Marking up Non-SI Units and Measurements."* Furthermore, I first-authored a paper in the journal of Digital Scholarship in the Humanities on the analysis of early-modern Spanish ledger using TEI/DEPCHA (Digital Edition Publishing Cooperative for Historical Accounts).
 
 Drawing from my experience in structuring and comparing Japanese and European historical accounting records with TEI, my research begins by focusing on the unique characteristics of these primary sources, but my ultimate goal is to derive broader lessons and general insights that are applicable across different cultural contexts.	
 
-<a id="SK"></a>
-### Stephan Kurz
+### Stephan Kurz {#SK}
 
 _Affiliation:_ Austrian Academy of Sciences, Institute for Habsburg and Balkan Studies
 
@@ -203,10 +180,9 @@ I would be honored to return the lots of favours the TEI community has done me s
 
 **Biography:**
 
-Working for the Austrian Academy of Sciences’ Institute for Habsburg and Balkan Studies as a technical editor for the ›Ministerratsprotokolle der Habsburgermonarchie 1848–1918‹ edition of governmental documents (in print and on the web), as well as for the ›Digital Scholarly Edition of Habsburg-Ottoman Diplomatic Sources 1500–1918‹ (QhoD) online edition project. Former German studies lecturer at University of Zagreb, Croatia, and University of Vienna, Austria. PhD thesis on German-language epistolary novels (`correspDesc`, but also `objectDesc` and genre theory beyond `textClass`). Experience in the book trade (financed my studies by working in proofreading, copyediting, graphic design, typesetting, publishing, a large digitization project at a university library, as well as at a bookseller’s). Accustomed to organizational matters through various academic committees and representation of doctoral candidates on national and European level. Typography aficionado, LaTeX (ab)user. 																	
+Working for the Austrian Academy of Sciences’ Institute for Habsburg and Balkan Studies as a technical editor for the ›Ministerratsprotokolle der Habsburgermonarchie 1848–1918‹ edition of governmental documents (in print and on the web), as well as for the ›Digital Scholarly Edition of Habsburg-Ottoman Diplomatic Sources 1500–1918‹ (QhoD) online edition project. Former German studies lecturer at University of Zagreb, Croatia, and University of Vienna, Austria. PhD thesis on German-language epistolary novels (`correspDesc`, but also `objectDesc` and genre theory beyond `textClass`). Experience in the book trade (financed my studies by working in proofreading, copyediting, graphic design, typesetting, publishing, a large digitization project at a university library, as well as at a bookseller’s). Accustomed to organizational matters through various academic committees and representation of doctoral candidates on national and European level. Typography aficionado, LaTeX (ab)user.
 
-<a id="POC"></a>
-### Patricia O'Connor 
+### Patricia O'Connor {#POC}
 
 _Affiliation:_ Independent Researcher
 
@@ -220,8 +196,7 @@ I specialise in text encoding, and my experience with TEI encompasses early medi
 
 I hold a Digital Humanities PhD from University College Cork. My doctoral research was focused on creating a digital documentary edition of an early eleventh century Old English manuscript witness of the Old English Bede and its marginalia. I am committed to developing my knowledge of TEI. I was the co-instructor for the introductory workshop on ‘Building Digital Editions with the TEI’ at University College Cork (2023). At the École nationale des chartes (2024), I was a co-instructor on the postgraduate module ‘Structuring XML and TEI-XML’. I am also a co-instructor for the ‘Navigating and Processing Data from the TEI with XPath and XSLT’ workshop at the TEI 2025 conference in Krakow. During my PhD, summer schools such as the 'Medieval and Modern Manuscript Studies in the Digital Age' summer school at Cambridge University Library (CUL) and King’s College London (2016) were invaluable for providing in-depth training in text encoding and I hope to continue  expanding the TEI community by teaching TEI-XML at workshops and summer schools. I am a newly appointed member of the EpiDoc Action Group and I am also the Digital Officer for the Teachers of Old English in Britain and Ireland (TOEBI), and would be delighted to promote the activities of the TEI Technical Council in both of these roles.													
 
-<a id="AP"></a>
-### Ariane Pinche
+### Ariane Pinche {#AP}
 
 _Affiliation:_ CNRS
 
@@ -234,10 +209,9 @@ If elected to the Technical Council, I would be honoured to contribute to ongoin
 
 **Biography:**
 
-I am a researcher (chargée de recherche) at the CNRS, working in medieval studies and digital humanities at CIHAM (UMR 5648) in Lyon. My primary area of research is the vernacular hagiographic tradition, with a particular interest in the circulation and reception of texts across manuscripts and communities. I am especially focused on the mechanisms of compilation in French ‘legendiers’ and on how digital tools can help us better understand their structure and transmission. To explore these large and complex corpora, I have been involved in the development of automatic handwriting recognition models for medieval manuscripts, notably within the international project CATMuS (Consistent Approaches to Transcribing ManuScripts). This work has led me to reflect on the ways in which the TEI standard can support semi-automatic editorial workflows – from transcription to enriched, layered textual representations that allow for multiple levels of interpretation.																	
+I am a researcher (chargée de recherche) at the CNRS, working in medieval studies and digital humanities at CIHAM (UMR 5648) in Lyon. My primary area of research is the vernacular hagiographic tradition, with a particular interest in the circulation and reception of texts across manuscripts and communities. I am especially focused on the mechanisms of compilation in French ‘legendiers’ and on how digital tools can help us better understand their structure and transmission. To explore these large and complex corpora, I have been involved in the development of automatic handwriting recognition models for medieval manuscripts, notably within the international project CATMuS (Consistent Approaches to Transcribing ManuScripts). This work has led me to reflect on the ways in which the TEI standard can support semi-automatic editorial workflows – from transcription to enriched, layered textual representations that allow for multiple levels of interpretation.
 
-<a id="KR"></a>
-### Klaus Rettinghaus
+### Klaus Rettinghaus {#KR}
 
 **Statement of purpose:**
 
@@ -247,8 +221,7 @@ I am honored to have been nominated for the Technical Council. As a musicologist
 
 Klaus studied physics in Berlin. After graduating, he studied musicology, LIS and theology at the Humboldt University in Berlin. He received his doctorate in 2012 with a thesis on Otto Nicolai's sacred works. From 2011, he was a research assistant at the Saxon Academy of Sciences in Leipzig, where he also worked on the Bach digital project. From 2020, he was employed as a developer at the Berlin start-up Enote. He worked as a lecturer at the Felix Mendelssohn Bartholdy University of Music and Theater in Leipzig. He was a board member of the Music Encoding Initiative and is also a member of its technical team. Klaus works as an editor and develops tools for the digital humanities and is especially interested in exchange formats.	
 
-<a id="YW"></a>
-### Yifan Wang
+### Yifan Wang {#YW}
 
 _Affiliation:_ International Institute for Digital Humanities, Tokyo
 
@@ -264,15 +237,11 @@ Currently, a Fellow at the International Institute for Digital Humanities, as we
 
 Academic activities: [“Design of Document Repository Management System Based on Graph Database”](http://id.nii.ac.jp/1001/00187424/) (2018; awarded IPSJ SIG Computers and the Humanities Student Award), [“What Are We Calling ‘Latin Script’? Name and Reality in the Grammatological Terminology”](https://doi.org/10.36824/2018-graf-wang) (2019), [“慧琳撰『一切経音義』の符号化をめぐって [On the encoding of Huilin’s Yiqiejing Yinyi]”](http://repository.bungaku-report.com/htdocs/?action=repository_uri&item_id=55) (2019), [“Xu Yiqiejing Yinyi and Issues on TEI Markup of Chinese Literature”](https://ipsj.ixsq.nii.ac.jp/records/215795) (2021; awarded Jinmoncom 2021 Student Award), “『續一切経音義』を通じた外字と割注の課題 [Problems on gaiji and warichū as seen in Xu Yiqiejing Yinyi]” (2022; in: ISBN 978-4-90-965884-5)
 
-Standardization activities: [“On Encoding Policy of Gongche Notations and Upcoming Para-ideographs”](https://www.unicode.org/L2/L2019/19346-gongche-policy.pdf) (2019), [“Proposal to Encode 20 Additional Kanbun Marks”](https://www.unicode.org/L2/L2021/21082-kanbun-add.pdf) (2021), [“Suggestions for Future IRG Workflow and Procedures”](https://www.unicode.org/irg/docs/n2467-IRGWorkflow.pdf) (2021), [“SAT Submission for the IRG Working Set 2024”](https://www.unicode.org/irg/docs/n2684r-SAT2024sub.pdf) (2024)																	
+Standardization activities: [“On Encoding Policy of Gongche Notations and Upcoming Para-ideographs”](https://www.unicode.org/L2/L2019/19346-gongche-policy.pdf) (2019), [“Proposal to Encode 20 Additional Kanbun Marks”](https://www.unicode.org/L2/L2021/21082-kanbun-add.pdf) (2021), [“Suggestions for Future IRG Workflow and Procedures”](https://www.unicode.org/irg/docs/n2467-IRGWorkflow.pdf) (2021), [“SAT Submission for the IRG Working Set 2024”](https://www.unicode.org/irg/docs/n2684r-SAT2024sub.pdf) (2024)
 
-<a id="board"></a>
+## Candidate Statements: TEI Board {#board}
 
-Candidate Statements: TEI Board
--------------------------------
-
-<a id="DG"></a>
-### Dimitra Grigoriou
+### Dimitra Grigoriou {#DG}
 
 _Affiliation:_ Instistute for Habsburg and Balkan Studies, Austrian Academy of Sciences
 
