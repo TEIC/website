@@ -1,12 +1,13 @@
 ---json
 {
-  "permalink": "newsfeed.xml",
+  "permalink": "/news/rss.xml",
   "eleventyExcludeFromCollections": true,
   "metadata": {
     "title": "TEI News",
-    "description": "News from the TEI Consortium",
+    "description": "News from the Text Encoding Initiative Consortium",
     "language": "en",
-    "base": "https://example.com/",
+    "base": "https://tei-c.org/",
+    "url": "https://tei-c.org/",
     "author": {
       "name": "Text Encoding Initiative Consortium"
     }
@@ -14,21 +15,25 @@
 }
 ---
 <?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="/xslt/rss.xsl" type="text/xsl"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:base="{{ metadata.url }}" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>{{ metadata.title }}</title>
     <link>{{ metadata.url }}</link>
     <atom:link href="{{ permalink | absoluteUrl(metadata.url) }}" rel="self" type="application/rss+xml" />
-    <description>{{ metadata.subtitle }}</description>
+    <description>{{ metadata.description }}</description>
     <language>{{ metadata.language }}</language>
-    {%- for post in collections.news | reverse %}
+    {%- for post in collections.news | reverse | limit(10) %}
     {%- set absolutePostUrl = post.url | absoluteUrl(metadata.url) %}
     <item>
       <title>{{ post.data.title }}</title>
       <link>{{ absolutePostUrl }}</link>
       <description>{{ post.templateContent | htmlToAbsoluteUrls(absolutePostUrl) }}</description>
       <pubDate>{{ post.date | dateToRfc822 }}</pubDate>
-      <dc:creator>{{ metadata.author.name }}</dc:creator>
+      <dc:date>{{ post.date | dateString }}</dc:date>
+      {% if post.data.author %}
+      <dc:creator>{{ post.data.author }}</dc:creator>
+      {% endif %}
       <guid>{{ absolutePostUrl }}</guid>
     </item>
     {%- endfor %}

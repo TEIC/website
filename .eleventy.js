@@ -11,6 +11,7 @@ import CETEI from 'CETEIcean';
 import attrs from "markdown-it-attrs";
 
 export default function (eleventyConfig) {
+  // Add attributes plugin to markdown so we can have, e.g., {#id .class}
   eleventyConfig.amendLibrary("md", (md) => {
     md.use(attributes);
   });
@@ -18,6 +19,7 @@ export default function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy({ "src/assets/js": "js" });
   eleventyConfig.addPassthroughCopy({ "src/assets/css/*.css": "css" });
   eleventyConfig.addPassthroughCopy({ "src/assets/img": "img" });
+  eleventyConfig.addPassthroughCopy({ "src/assets/xslt": "xslt" });
   eleventyConfig.addPassthroughCopy("src/**/*.ai");
   eleventyConfig.addPassthroughCopy("src/**/*.eps");
   eleventyConfig.addPassthroughCopy("src/**/*.jpg");
