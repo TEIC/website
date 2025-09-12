@@ -12,11 +12,11 @@ El Consorcio publica las *Text Encoding Initiative Guidelines for Electronic Tex
 
 El Consorcio de la Text Encoding Initiative (TEI-C) se financia mediante cuotas anuales de sus miembros institucionales y suscriptores individuales, además de recibir apoyo adicional a través de subvenciones y del respaldo institucional de sus anfitriones. Sus principales actividades incluyen la publicación y el desarrollo continuo de las Directrices TEI, así como el apoyo a su uso mediante herramientas para el desarrollo de esquemas, iniciativas de formación y documentación, foros de discusión y una conferencia anual.  
 
-La comunidad de la TEI es amplia y de alcance internacional, con miembros en América del Norte, Europa, Australia y Asia, y usuarios en cientos de universidades, bibliotecas, unidades de investigación y empresas en todo el mundo. Los materiales codificados con las Directrices TEI son tan diversos como sus practicantes, abarcando un amplio espectro de las humanidades y las ciencias sociales, e incluso con usos ocasionales en la comunidad científica. Además de su adopción en bibliotecas digitales, la TEI se emplea para representar manuscritos, artículos de investigación, archivos históricos, libros impresos antiguos, corpus lingüísticos, antologías, ediciones críticas, inscripciones antiguas y una gran variedad de otros materiales literarios, históricos y culturales.  
+La comunidad de la TEI es amplia y de alcance internacional, con miembros y usuarios en cientos de universidades, bibliotecas, unidades de investigación y empresas en todo el mundo. Los materiales codificados con las Directrices de la TEI son tan diversos como sus practicantes, abarcando un amplio espectro de las humanidades y las ciencias sociales, e incluso con usos ocasionales en la comunidad científica. Además de su adopción en bibliotecas digitales, la TEI se emplea para representar manuscritos, artículos de investigación, archivos históricos, libros impresos antiguos, corpus lingüísticos, antologías, ediciones críticas, inscripciones antiguas y una gran variedad de otros materiales literarios, históricos y culturales.  
 
-El alcance de la TEI está en constante expansión y las Directrices se desarrollan de manera continua para adaptarse a las necesidades emergentes de la comunidad de la TEI.  
+El alcance de la TEI está en constante expansión y las Directrices se desarrollan de manera continua para adaptarse a las necesidades emergentes de la comunidad.  
 
-Para más información, visite el sitio web de la TEI.
+Para más información, visita:
 
 * [Membresía](http://members.tei-c.org/join/)
 * Las Guías directrices o [Guidelines](../Guidelines/)
