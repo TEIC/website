@@ -6,47 +6,49 @@ title: "Computer-Mediated Communication SIG"
 Mission statement
 -----------------
 
+The internet and social media have given rise to a broad range of new communicative genres which are subsumed under the term **computer-mediated communication (CMC)** – genres such as chats, forums, text messaging (SMS, WhatsApp), interaction on wiki talk pages and in blog comments, via Twitter, on social network sites, and in multimodal 3D environments.
 
-The internet and social media have given rise to a broad range of new communicative genres which are subsumed under the term **computer\-mediated communication (CMC)** – genres such as chats, forums, text messaging (SMS, WhatsApp), interaction on wiki talk pages and in blog comments, via Twitter, on social network sites, and in multimodal 3D environments. A TEI standard for the representation of those genres and their structural and linguistic peculiarities is a desideratum both in the fields of digital humanities and computer sciences. Such a standard would foster interoperability between language resources as well as the analysis and automatic exploitation of resources of that kind in several respect:
+While the term **computer-mediated communication** might be used broadly to describe all kinds of communications that are mediated by digital technologies (such as text on web pages, written exchanges in chats and forums, interactions with artificial intelligence systems, the spoken conversations in internet video meetings), for the purposes of these Guidelines we use the term to apply to forms of communication that share the following features: 
+
+*	They are dialogic;
+*	They are organized as interactional sequences so that each communicative move may determine the context for subsequent moves (typically taken by another interlocutor) and may react to the context created by a prior move;
+*	They are created and displayed using computer technology or human-machine interfaces such as keyboard, mouse, speech-to-text conversion software, monitor or screen and transmitted over a computer network (typically the internet).
+
+Since 2013, the SIG **Computer-Mediated Communication** has brought together experts from the field of corpus linguistics, DH infrastructures and researchers from linguistics and related disciplines working on the language of CMC to discuss best practices for the representation and annotation of original CMC data using TEI schema customizations.
+
+Based on several schema customizations from the community and as a result of a working group with members of the SIG and the TEI Technical Council (2020-2023), in July 2024 the TEI Consortium included [a new chapter “Computer-mediated communication” into the P5 Guidelines for Electronic Text Encodung and Interchange](https://tei-c.org/release/doc/tei-p5-doc/en/html/CMC.html). As of version 4.8.0 of the guidelines it is therefore possible to fully rely on the TEI framework as a standard for encoding corpora and other data sets of CMC genres in XML/TEI. The status of the new CMC chapter in the TEI guidelines is that of a **basic encoding schema**. When encoding and exploiting CMC corpora, scholars would typically wish to annotate even more than just basic structures, e.g. linguistic and semiotic features particular to CMC discourse, and also capture metadata in a way that suits for the specific requirements of research on CMC and social media. The **mission of the SIG as of 2025** is therefore to discuss experiences with and further customizations of the TEI-P4 CMC schema building on resources from various research and encoding projects from the community.
+
+Activities
+----------
+The **next meeting of the SIG** will be held as part of the [25th annual conference and general meeting in Kraków/Poland](https://tei2025.confer.uj.edu.pl) on **September 19, 2025, 11:00-13:00 MET** as a hybrid meeting. Participation is possible on site or remote (via zoom). If you are interested to take part in the meeting please contact the conveners for the zoom link.
+Previous meetings and panels of the SIG have been held, e.g.,
+* at the TEI Conference in Rome/Italy (2013)
+*	at the CMC Corpora Conferences in Dortmund/Germany (2014), Rennes/France (2015) and Ljubljana/Slovenia (2016)
+*	as part of the 4th DARIAH-EU VCC meeting in Rome/Italy (2014),
+*	at the TEI Conferences in Lyon/France (2015) and Vienna/Austria (2016)
+*	at the international colloquium “Integrating a new type of language resource into the Digital Humanities landscape” in Essen/Germany (2017)
+
+A documentation of the work and activities of the SIG (including TEI customizations and schemas for CMC) can be found in [the SIG space of the TEI wiki](https://wiki.tei-c.org/index.php/SIG:Computer-Mediated_Communication).
 
 
-* It would allow scholars for building interoperable CMC corpora for different languages and thus enhance the empirical basis for doing **CMC research across languages and cultures**.
-* It would allow scholars for building CMC resources which are interoperable with text and speech corpora that are already represented in TEI and thus pave the way for corpus\-based **research on language use across different types of corpora** (\= comparative analysis of the language use in CMC, in edited text and in spoken language).
-* Through including models for the description of not only verbal but also of non\-verbal acts, it would allow scholars to describe and analyse **CMC accross different modalities**.
+
+Conveners
+---------
 
 
-The **TEI special interest group (SIG) "computer\-mediated communication"** is developing and discussing suggestions for adapting the TEI guidelines for the representation of genres of computer\-mediated communication. The focus of the group's work is on (but not limited to) tasks such as:
+[Michael Beißwenger](https://www.uni-due.de/germanistik/beisswenger/), University of Duisburg\-Essen
 
+[Harald Lüngen](https://www.ids-mannheim.de/digspra/personal/luengen/), Institute for the German Language (IDS), Mannheim/Germany
 
-* modeling user contributions (posts) to written CMC interactions (which share features both with written and spoken language) as well as the interplay of written posts, spoken utterances and non\-verbal acts in multimodal CMC environments;
-* modeling CMC document structures ("CMC macrostructures" – e.g., forum threads, wiki talk pages, chat logfiles, Twitter timelines etc.);
-* annotating linguistic features within user posts ("CMC microstructures" – elements such as emoticons, addressing terms, hashtags; quotes from prior posts; etc.);
-* representing linked data and media objects connected with/embedded in CMC discourse;
-* metadata schemas for the description of CMC resources;
-* developing perspectives for the representation of discourse in multimodal cmc environments in which the participants in one interaction space combine a variety of modalities from written, spoken and non\-verbal modes.
-
-
-Convener
---------
-
-
-[Michael Beißwenger](http://www.uni-due.de/germanistik/beisswenger/ "Michael Beißwenger"), University of Duisburg\-Essen
 Wiki space and mailing lists
 ----------------------------
 
 
-For exchange on the issues and tasks listed above, the SIG uses the talk pages in the TEI wiki and a mailing list.
-Visit the SIG's [space in the TEI wiki](https://wiki.tei-c.org/index.php/SIG:Computer-Mediated_Communication "space in the TEI wiki").
+For exchange on the issues and tasks listed above, the SIG uses the talk pages in the TEI wiki and a mailing list:
+
+* Visit the SIG's [space in the TEI wiki](https://wiki.tei-c.org/index.php/SIG:Computer-Mediated_Communication).
 
 
-Mailing list: tei\-cmc@googlegroups.com (For subscription please visit [https://groups.google.com/d/forum/tei\-cmc](https://groups.google.com/d/forum/tei-cmc "https://groups.google.com/d/forum/tei-cmc"))
-
-
-Activities
-----------
-
-
-Previous meetings and panels of the SIG have been held at the TEI Conference in Rome (2013\), at the 2nd CMC Corpora Conference in Dortmund (2014\), as part of the 4th DARIAH\-EU VCC meeting in Rome (2014\), at the 3rd CMC Corpora Conference in Rennes (2015\) and at the TEI Conference in Lyon (2015\). Activities of the SIG in 2016 include meetings at the 4th CMC Corpora Conference in Ljubljana and at the TEI Conference in Vienna.
-A documentation of the work and activities of the SIG (including TEI customizations and schemas for CMC) can be found in [the SIG space of the TEI wiki](https://wiki.tei-c.org/index.php/SIG:Computer-Mediated_Communication "the SIG space of the TEI wiki").
+* Mailing list: tei\-cmc@googlegroups.com (For subscription please visit [https://groups.google.com/d/forum/tei\-cmc](https://groups.google.com/d/forum/tei-cmc))
 
 
