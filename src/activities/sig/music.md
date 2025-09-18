@@ -5,6 +5,9 @@ creator: Raffaele Viglianti
 ---
 # Music SIG
 
+<img src="/img/emblem_color_transparent.png" alt="TEI logo" width="80"/> 💓 <img src="https://music-encoding.org/pix/logos/mei-logo-simple-light.png" alt="MEI logo" width="100"/>
+
+
 This SIG aims to:
 * Bring together users of the TEI who are interested in **incorporating encoding for music** into their TEI documents or in **encoding music-related documents**.
 * Provide recommendations and examples for encoding music notation within TEI.
