@@ -108,6 +108,15 @@ The final selection is made by the Awards Panel and announced as part of the Bus
 Past Recipients
 ---------------
 
+**2025**
+
+TEI Rahtz Prize to Susan Brown, James Cummings, Luciano Frizzera, 
+Mihaela Ilovan, and Diane Jakacki for [LEAF-Writer](https://leaf-writer.leaf-vre.org/).
+
+TEI Community Prize to Claire Carlin, 
+Ewa Czaykowska-Higgins, Janelle Jenstad, Elizabeth Grove-White, Corey Davis, John Durno, Lisa Goddard,
+J. Matthew Huculak, Martin Holmes, Stewart Arneil, Greg Newton, and Joey Takeda for [The Endings Project](https://endings.uvic.ca/).
+
 **2024**
 
 TEI Rahtz Prize to Raffaele Viglianti for [The Scholarly XML extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=raffazizzi.sxml)
