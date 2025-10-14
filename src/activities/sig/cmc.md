@@ -49,6 +49,6 @@ For exchange on the issues and tasks listed above, the SIG uses the talk pages i
 * Visit the SIG's [space in the TEI wiki](https://wiki.tei-c.org/index.php/SIG:Computer-Mediated_Communication).
 
 
-* Mailing list: tei\-cmc@googlegroups.com (For subscription please visit [https://groups.google.com/d/forum/tei\-cmc](https://groups.google.com/d/forum/tei-cmc))
+* Mailing list: [tei-cmc@lists.uni-due.de](mailto:tei-cmc@lists.uni-due.de) (For subscription please visit <https://lists.uni-due.de/mailman/listinfo/tei-cmc>)
 
 
