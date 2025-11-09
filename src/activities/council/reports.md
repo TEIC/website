@@ -11,6 +11,8 @@ Reports of the TEI Council
 The Council submits a brief written report to Consortium Members at its annual meeting.
 
 
+* [2025 report](tei-council-annual-report-AGM-2025/ "2025 report") (also included in the Annual General Meeting report in slide presentation at the TEI Conference in Kraków)
+* [2024 report](tei-council-annual-report-AGM-2024/ "2024 report") (also included in the Annual General Meeting report in a slide presentation at the TEI Conference in Buenos Aires)
 * 2023 report (included in the [Annual General Meeting report)](/news/2023/09/24/tei-annual-members-meeting-report/)
 * 2017 \- 2022 reports (combined with Annual General Meeting reports in slide presentations)
 * [2016 report](/Vault/CouncilReports/2016_TEI_Council_Report.pdf "2016 report") (PDF)
@@ -23,7 +25,7 @@ The Council submits a brief written report to Consortium Members at its annual m
 * 2009 report: as [PowerPoint slides](/Vault/CouncilReports/2009_TEI_Council_Report.ppt "PowerPoint slides"); as [Web pages](/Vault/CouncilReports/CouncilReport2009.htm "Web pages")
 * 2008 report: as [PowerPoint slides](/Vault/CouncilReports/2008_TEI_Council_Report.pdf "PowerPoint slides"); as [Web pages](/Vault/CouncilReports/CouncilReport2008.htm "Web pages")
 * [2007 report](/Membership/Meetings/2007-Maryland/mm44.xml#CR44 "2007 report") (contained in [minutes of the business meeting](/Vault/MembersMeetings/2007-info/mm44.html "minutes of the business meeting"))
-* [2006 report](reports/report-of-the-tei-council-activities-to-the-members-meeting-2006.md "2006 report")
-* [2005 report](reports/tcr03-report-of-the-tei-council-to-the-members-meeting-2005.md "2005 report")
-* [2004 report](reports/tcr02-report-of-the-tei-council-to-the-members-meeting-2004.md "2004 report")
-* [2003 report](reports/tcr01-report-of-the-tei-council-2003.md "2003 report")
+* [2006 report](report-of-the-tei-council-activities-to-the-members-meeting-2006/ "2006 report")
+* [2005 report](tcr03-report-of-the-tei-council-to-the-members-meeting-2005/ "2005 report")
+* [2004 report](tcr02-report-of-the-tei-council-to-the-members-meeting-2004/ "2004 report")
+* [2003 report](tcr01-report-of-the-tei-council-2003/ "2003 report")
