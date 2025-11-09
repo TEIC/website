@@ -24,13 +24,13 @@ to organize agendas or other information relating to its meetings.
 Syd Bauman (Jan 2024 – Dec 2026)
 Senior XML Programmer\-Analyst, Northeastern University
 
-[Helena Bermúdez Sabel](https://helenasabel.github.io/) (Jan 2023 – Dec 2025)
+[Helena Bermúdez Sabel](https://helenasabel.github.io/) (Jan 2026 – Dec 2028)
 Software developer, JinnTec
 
 [Elisa Beshero\-Bondar](https://newtfire.org) (Jan 2025 – Dec 2027) (Chair)
 Professor of Digital Humanities and Director of the Digital Humanities Lab at Penn State Erie, The Behrend College
 
-Elli Bleeker (Jan 2023 – Dec 2025)
+Elli Bleeker (Jan 2026 – Dec 2028)
 Postdoctoral researcher, Huygens Institute for the History of the Netherlands
 
 [Ulrike Henny\-Krahmer](https://www.germanistik.uni-rostock.de/en/lehrende/professorinnen-und-professoren/jun-prof-dr-ulrike-henny-krahmer/) (Jan 2025 – Dec 2027)
@@ -39,7 +39,7 @@ Junior Professor for Digital Humanities, University of Rostock, Germany
 [Martin Holmes](https://www.uvic.ca/humanities/hcmc/aboutus/staff/profiles/holmesmartin.php) (Jan 2025 – Dec 2027)
 Programmer/Consultant, University of Victoria Humanities Computing and Media Centre
 
-[Patricia O’Connor](https://trishaoconnor.com/) (Jan 2023 – Dec 2025)
+[Patricia O’Connor](https://trishaoconnor.com/) (Jan 2026 – Dec 2028)
 Postdoctoral researcher, University of Maynooth, Ireland
 
 [Torsten Roeder](https://www.uni-wuerzburg.de/zpd/forschungsstelle-dachs/team/roeder-torsten/) (Jan 2024 – Dec 2026)
