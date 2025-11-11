@@ -30,8 +30,8 @@ Software developer, JinnTec
 [Elisa Beshero\-Bondar](https://newtfire.org) (Jan 2025 – Dec 2027) (Chair)
 Professor of Digital Humanities and Director of the Digital Humanities Lab at Penn State Erie, The Behrend College
 
-Elli Bleeker (Jan 2026 – Dec 2028)
-Postdoctoral researcher, Huygens Institute for the History of the Netherlands
+[Elli Bleeker](https://pure.knaw.nl/portal/en/persons/elli-bleeker/) (Jan 2026 – Dec 2028)
+Researcher at the Huygens Institute, Royal Netherlands Academy of Arts and Sciences (KNAW) 
 
 [Ulrike Henny\-Krahmer](https://www.germanistik.uni-rostock.de/en/lehrende/professorinnen-und-professoren/jun-prof-dr-ulrike-henny-krahmer/) (Jan 2025 – Dec 2027)
 Junior Professor for Digital Humanities, University of Rostock, Germany
