@@ -1,10 +1,10 @@
 ---
 layout: page.njk
 title: "TEI-C Board Minutes: August 2025"
-date: 2025-09-20
+date: 2025-08-20
 author: Constance Crompton
 ---
-## TEI Board Meeting: 24 July 2025
+## TEI Board Meeting: August 20 2025
 
 Attending: Diane Jakacki, Hugh Cayless, James Cummings, Magdalena Turska, Elisa Beshero-Bondar, Constance Crompton 
 Apologies: Gimena del Rio Riande
