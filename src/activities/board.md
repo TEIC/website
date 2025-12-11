@@ -9,6 +9,8 @@ The TEI [Board of Directors](/about/board-of-directors/) is the governing body f
 
 ## Meetings of the Board
 
+* 14 November 2025: Zoom ([minutes](minutes-from-tei-board-meeting-2025-11-14/))
+* 24 October 2025: Zoom ([minutes](minutes-from-tei-board-meeting-2025-10-24/))
 * 20 August 2025: Zoom ([minutes](minutes-from-tei-board-meeting-2025-08-20/))
 * 24 July 2025: Zoom ([minutes](minutes-from-tei-board-meeting-2025-07-24/))
 * 27 June 2025: Zoom ([minutes](/activities/board/minutes-from-tei-board-meeting-2025-06-27/))
