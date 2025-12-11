@@ -1,10 +1,10 @@
 ---
 layout: page.njk
 title: "TEI-C Board Minutes: November 2025"
-date: 2025-11-17
+date: 2025-11-14
 author: Constance Crompton
 ---
-## TEI Board Meeting: 17 November 2025
+## TEI Board Meeting: 14 November 2025
 
 Attending: Diane Jakacki, James Cummings, Magdalena Turska, Elisa Beshero-Bondar, Constance Crompton, Dimitra Grigoriou 
 Apologies: Gimena del Rio Riande, Hugh Cayless
