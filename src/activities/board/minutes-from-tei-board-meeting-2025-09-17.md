@@ -17,7 +17,7 @@ author: Constance Crompton
     * Will continue in XML, but with new architecture to permit new features that the TEI can't currenly accomodate
     * Council will need to bring in guests (from working groups, other expertise)
  
-* Grants for P5
+* Grants for P6
     * Councils F2F meetings are a priority to the board. The in-kind of council members expertise and work are invaluable to the TEI 
     * Writing future grant funding to seek support for an extra F2F meeting, retreat style: COST Action (requires a pre-meeting)? Connections Grant (Canada)? to support time to think through P6 planning, to develop the theoretical basis for the change 
     *  Discussion: Council should try to move things forward by indicating what we need (e.g. 3 working groups and an in-person meeting over next three years.) 
