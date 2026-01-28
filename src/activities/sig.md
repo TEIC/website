@@ -11,7 +11,8 @@ Anyone with an idea for a fresh area of activity or collaboration is invited to 
 
 ## Currently Active SIGs
 
-* [Computable Text and Media SIG](/Activities/SIG/computable). Convener: Torsten Roeder.
+* [AI Tools for TEI](/Activities/SIG/ai-tools-for-tei). Convener: Chris Ruotolo. 
+* [Computable Text and Media SIG](/Activities/SIG/computable). Convener: Torsten Roeder.  [Join mailing list](https://lists.psu.edu/cgi-bin/wa?SUBED1=TEI-COMPUTABLE-SIG&A=1); [list archive](https://lists.psu.edu/cgi-bin/wa?A0=TEI-COMPUTABLE-SIG)
 * [Computer-Mediated Communication](/Activities/SIG/CMC/ "Computer-Mediated Communication"). Conveners: Michael Beißwenger and Harald Lüngen. [Join mailing list](https://groups.google.com/d/forum/tei-cmc "Join mailing list"); [visit Wiki](https://wiki.tei-c.org/index.php/SIG:Computer-Mediated_Communication "visit Wiki").
 * [Correspondence](/Activities/SIG/Correspondence/ "Correspondence"). Conveners: Stefan Dumont and Sabine Seifert. [Join mailing list](https://lists.psu.edu/cgi-bin/wa?SUBED1=TEI-CORRESP-SIG&A=1 "Join mailing list"); [list archive](https://lists.psu.edu/cgi-bin/wa?A0=TEI-CORRESP-SIG "list archive"); [visit Wiki](https://wiki.tei-c.org/index.php/SIG:Correspondence "visit Wiki").
 * [East Asian/Japanese](/Activities/SIG/EastAsian/ "East Asian/Japanese"). Conveners: Kiyonori Nagasaki and A. Charles Muller. [Visit wiki](https://wiki.tei-c.org/index.php/SIG:East_Asian "Visit wiki").
