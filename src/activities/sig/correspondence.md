@@ -26,8 +26,6 @@ The [SIG wiki page](https://wiki.tei-c.org/index.php/SIG:Correspondence "SIG wik
 Mailing List
 ------------
 
-## Mailing List
-
 The mailing list "TEI Computable SIG" can be joined:  
 * by sending an email to (recommended): [TEI-CORRESP-SIG-subscribe-request@lists.psu.edu](mailto:TEI-CORRESP-SIG-subscribe-request@lists.psu.edu)  
 * or via webform: [https://lists.psu.edu/cgi-bin/wa?SUBED1=TEI-CORRESP-SIG&A=1](https://lists.psu.edu/cgi-bin/wa?SUBED1=TEI-CORRESP-SIG&A=1)
