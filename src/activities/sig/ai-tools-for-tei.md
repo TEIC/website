@@ -12,11 +12,11 @@ This SIG is focused on the use of AI tools/LLMs for creating, enhancing, and ana
 The mailing list "AI Tools for TEI SIG" can be joined [TBD]:  
 * by sending an email to (recommended): 
 * or via webform: 
-To send a mail to the list (only as subscriber), write to: [TEI-COMPUTABLE-SIG@lists.psu.edu](mailto:TEI-COMPUTABLE-SIG@lists.psu.edu)
+To send a mail to the list (only as subscriber), write to: 
 
-To unsubscribe, send an email to: [TEI-COMPUTABLE-SIG-unsubscribe-request@lists.psu.edu](mailto:TEI-COMPUTABLE-SIG-unsubscribe-request@lists.psu.edu)
+To unsubscribe, send an email to:
 
-To access the list archive: [https://lists.psu.edu/cgi-bin/wa?A0=TEI-COMPUTABLE-SIG](https://lists.psu.edu/cgi-bin/wa?A0=TEI-COMPUTABLE-SIG)
+To access the list archive:
 
 ## Convener
 
