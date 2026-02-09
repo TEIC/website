@@ -6,7 +6,7 @@ date: 2025-12-18
 
 07:00 – 08:30 PST | 10:00 – 11:30 EST | **15:00 – 16:30 UTC** | 16:00 – 17:30 CET
 
-### Present:
+#### Present:
 
 * Syd Bauman (SB)  
 * Helena Bermúdez Sabel (HBS)  
@@ -18,7 +18,7 @@ date: 2025-12-18
 * Martina Scholger (MS)  
 * Joey Takeda (JT)
 
-### Apologies:
+#### Apologies:
 
 * Raff Viglianti (RV)  
 * Torsten Roeder (TR)
