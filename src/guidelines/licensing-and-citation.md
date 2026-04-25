@@ -31,30 +31,30 @@ tags: page
  accessed the page in question.
  
  To cite P5 in its entirety, long (preferred) version
-TEI Consortium, eds. *TEI P5: Guidelines for Electronic Text Encoding and Interchange.* [Version number]. [Last modified date]. TEI Consortium. http://www.tei-c.org/Guidelines/P5/
+TEI Consortium, eds. *TEI P5: Guidelines for Electronic Text Encoding and Interchange.* [Version number]. [Last modified date]. TEI Consortium. https://www.tei-c.org/Guidelines/P5/
  ([Date of access]).
 
 
 To cite P5 in its entirety, abbreviated version:
 
-TEI Consortium, eds. *Guidelines for Electronic Text Encoding and Interchange.* [last modified date]. http://www.tei-c.org/P5/.
+TEI Consortium, eds. *Guidelines for Electronic Text Encoding and Interchange.* [last modified date]. https://www.tei-c.org/P5/.
 
 
 To cite a chapter or section, long (preferred) version:
 
-TEI Consortium, eds. "4.3.2 Floating Texts." *TEI P5: Guidelines for Electronic Text Encoding and Interchange.* [Version number]. [Last modified date]. TEI Consortium. http://www.tei-c.org/release/doc/tei-p5-doc/en/html/DS.html#DSFLT ([Date of access])
+TEI Consortium, eds. "4.3.2 Floating Texts." *TEI P5: Guidelines for Electronic Text Encoding and Interchange.* [Version number]. [Last modified date]. TEI Consortium. https://www.tei-c.org/release/doc/tei-p5-doc/en/html/DS.html#DSFLT ([Date of access])
 
 
 To cite a chapter or section, abbreviated version:
 
 TEI Consortium, eds. "Floating Texts." *Guidelines for Electronic Text Encoding and Interchange.* [Last modified date].
- http://www.tei-c.org/release/doc/tei-p5-doc/en/html/DS.html#DSFLT ([Date of access]).
+ https://www.tei-c.org/release/doc/tei-p5-doc/en/html/DS.html#DSFLT ([Date of access]).
 
 
 To cite a particular release's chapter or section, abbreviated version:
 
 TEI Consortium, eds. "Floating Texts." *Guidelines for Electronic Text Encoding and Interchange.* 1.7.0. [Last modified date].
- http://www.tei-c.org/Vault/P5/1.7.0/doc/tei-p5-doc/en/html/DS.html#DSFLT ([Date of
+ https://www.tei-c.org/Vault/P5/1.7.0/doc/tei-p5-doc/en/html/DS.html#DSFLT ([Date of
  access]).
 
 To cite a chapter or section using `<bibl>`:
@@ -67,7 +67,7 @@ To cite a chapter or section using `<bibl>`:
   <title level="m" type="main">Guidelines for Electronic Text Encoding and Interchange</title>
   <edition>[Version number]</edition>
   <date type="generated" when="2016-12-15T15:14:54Z"/>
-  <ptr target="http://www.tei-c.org/release/doc/tei-p5-doc/html/DS.html#DSFLT/"/>
+  <ptr target="https://www.tei-c.org/release/doc/tei-p5-doc/html/DS.html#DSFLT/"/>
   <date type="accessed" when="2017-04-05"/>
  </bibl>
 ```
@@ -78,7 +78,7 @@ To cite a chapter or section using `<bibl>`:
  Copyright in most TEI Consortium materials, including the TEI Guidelines, is held
  by the Text Encoding Initiative Consortium, and these materials are made available
  under the terms and conditions of both
- [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/) and a [BSD 2-Clause license](http://www.opensource.org/licenses/BSD-2-Clause).
+ [Creative Commons Attribution 3.0 Unported License](https://creativecommons.org/licenses/by/3.0/) and a [BSD 2-Clause license](https://www.opensource.org/licenses/BSD-2-Clause).
  
  You may choose the license that is most appropriate for the use you intend to make
  of the TEI material. Hence it is made available under both the CC+BY and BSD-2 licences.
