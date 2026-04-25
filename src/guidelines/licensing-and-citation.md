@@ -67,7 +67,7 @@ To cite a chapter or section using `<bibl>`:
   <title level="m" type="main">Guidelines for Electronic Text Encoding and Interchange</title>
   <edition>[Version number]</edition>
   <date type="generated" when="2016-12-15T15:14:54Z"/>
-  <ptr target="https://www.tei-c.org/release/doc/tei-p5-doc/html/DS.html#DSFLT/"/>
+  <ptr target="https://www.tei-c.org/release/doc/tei-p5-doc/html/DS.html#DSFLT"/>
   <date type="accessed" when="2017-04-05"/>
  </bibl>
 ```
