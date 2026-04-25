@@ -57,7 +57,7 @@ TEI Consortium, eds. "Floating Texts." *Guidelines for Electronic Text Encoding 
  https://www.tei-c.org/Vault/P5/1.7.0/doc/tei-p5-doc/en/html/DS.html#DSFLT ([Date of
  access]).
 
-To cite a chapter or section using `<bibl>`:
+To cite a chapter or section using `<bibl>`, in this case for version 3.1.0:
 
 ```xml
 <bibl>
@@ -65,12 +65,14 @@ To cite a chapter or section using `<bibl>`:
   <title level="a" n="4.3.2">Floating Texts</title>
   <title level="m" type="sub">TEI P5:</title>
   <title level="m" type="main">Guidelines for Electronic Text Encoding and Interchange</title>
-  <edition>[Version number]</edition>
+  <edition>3.1.0</edition>
   <date type="generated" when="2016-12-15T15:14:54Z"/>
   <ptr target="https://www.tei-c.org/release/doc/tei-p5-doc/en/html/DS.html#DSFLT"/>
   <date type="accessed" when="2017-04-05"/>
  </bibl>
 ```
+Note that the timestamp it was generated is displayed in the footer of each web page
+of the TEI Guidelines.
 
 ## License Terms
 -------------
