@@ -154,7 +154,6 @@ Over the course of P5 and especially in recent years, what has Council and TEI c
 
 Working in groups, Council freewrites and later summarizes points in favor of continuing P5 vs. why we need to start P6. 
 See [Appendices: Table from Small Group Actvities: B.  Why not P6 yet? Vs. Why P6 now?](#b-why-not-p6-yet-vs-why-p6-now) 
-
    
    
    ---
