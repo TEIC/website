@@ -1,3 +1,8 @@
+---
+title: "TEI Technical Council F2F Meeting in Wurzburg, 10-13 March 2026"
+date: 2026-03-10
+---
+
 # TEI Technical Council F2F Meeting in Würzburg
 
 10–13 March 2026
@@ -45,10 +50,11 @@ Shared understanding of what P6 means: We should be able to articulate what we m
 
 Meeting started @ 09:46 local time
 
-### Setting the stage for P6
+### 1. Setting the stage for P6
 
-1. Setting the stage for "P6":  [TCW 09](https://tei-c.org/documentation/tcw09/) and what Council thought in 2006/2007 when P5 began.   
-   Discussion:   
+See [TCW 09](https://tei-c.org/documentation/tcw09/) and what Council thought in 2006/2007 when P5 began.   
+
+Discussion:   
    MH: That statement at the end of TCW09 has held us back from P6.  
    HBS: We have frustrations with P5 that we need to confront.  
    JT: We are, arguably, in the presence of new technologies (AI), but even if that doesn't change the use of XML, there's nothing being said in TCW09 that prevents us from moving to P6.  
@@ -77,7 +83,8 @@ Meeting started @ 09:46 local time
 
    MH: If we put HTML on the table: We can express the TEI abstract model in HTML.   
    RV: HTML also handles mixed content, and there's good reason why it hasn't died.  
-   Making TEI work in the browser immediately, without CETEIcean, would be wonderful.  
+   Making TEI work in the browser immediately, without CETEIcean, would be wonderful. 
+    
 * This is already partially done: a PR on TEI expressed in HTML \+ RDFa : A customization of TEI with RDFa attributes. An attribute in TEI isn't in the RDFa namespace: this was a small conflict, but really needed examples.  
 * Could that be something we develop toward P6?  
 * So much good tooling exists for resolving RDFa triples that we just need good documentation to show how to formalize the RDF statements with attributes.  
@@ -107,10 +114,8 @@ Meeting started @ 09:46 local time
   * HBS: Hard for us to tell currently in P5 about the specialization vs. abstraction. Abstraction not always the most desirable.   
     * What if we could have a formalization / specialization that is consistent, makes sense and is affordable for people  
     * What if you could create an abstract class of your own from which your use of elements descends.  
-    * Attach an element to different hierarchies depending on where they descend.
-
-      
-
+    * Attach an element to different hierarchies depending on where they descend.    
+    
 * Why does the sequence of things in the teiHeader (fileDesc, encodingDesc etc) matter? What rules aren't really necessary b/c we're always accessing by XPath / processing anyway?  
 * Expression of TEI in TEI?   
   * Guidelines chapters should continue in TEI  
@@ -138,12 +143,18 @@ Meeting started @ 09:46 local time
 * Perhaps we're returning to first Poughkeepsie principles: metalanguage and prose and tools / ingredients to do the work  
 * MS: speaks to difficulty of embedding other languages in TEI P5 (e.g. MathML). Geolanguages, too.   
 
-2. TEI Community Views on P6: Over the course of P5 and especially in recent years, what has Council and TEI community said of "P6" in GitHub tickets? Small group "warm-up" activity for one hour: Read the ticket and don't try to solve it, but rather describe the gist of its perspective on P6. [Groups \+ Table](?tab=t.0#heading=h.iouk4wcyb5vu)
 
-   **Tuesday 3/10 Group Activity**
+### 2. TEI Community Views on P6: 
+Over the course of P5 and especially in recent years, what has Council and TEI community said of "P6" in GitHub tickets? Small group "warm-up" activity for one hour: Read the ticket and don't try to solve it, but rather describe the gist of its perspective on P6. [Groups \+ Table](?tab=t.0#heading=h.iouk4wcyb5vu)
+
    See [Appendices: Table from Small Group Actvities: A. GitHub Guidelines and Stylesheets Tickets Marked or Mentioning P6](#a-github-guidelines-and-stylesheets-tickets-marked-or-mentioning-p6)
-   
-   
+
+
+### 3. Do we need a P6 now, or had we better continue with P5? 
+
+Working in groups, Council freewrites and later summarizes points in favor of continuing P5 vs. why we need to start P6. 
+See [Appendices: Table from Small Group Actvities: B.  Why not P6 yet? Vs. Why P6 now?](#b-why-not-p6-yet-vs-why-p6-now) 
+
    
    
    ---
@@ -193,7 +204,7 @@ Meeting started @ 09:46 local time
 
 
 
-<div style="border: 1px solid black; background:#fce5cd; padding:1em;";>
+<div style="border: 1px solid black; background:#fce5cd; padding:1em; margin: 1em;";>
 <em>The following is an AI-generated summary based on the table above. What ideas are emerging about P6? (Claude AI Sonnet 4.6).</em>
 
 <p><strong>Class &amp; Attribute System</strong></p>
@@ -245,8 +256,6 @@ Meeting started @ 09:46 local time
 
 ### B.  Why not P6 yet?   Vs.  Why P6 now? 
 
-(#b-why-not-p6-yet-vs-why-p6-now) 
-
 | *In this column, write reasons why we should not bother with P6.* | *In this column, write reasons why we need P6 now?* |
 | :---- | :---- |
 | It will be painful and time-consuming. | The P5 schema has become unmanageable. |
@@ -258,7 +267,7 @@ Meeting started @ 09:46 local time
 |  | TEI should not be about policing textual practice and interpretation; overly constrained schemas that rely on ossified “common sense” understanding of text alienates users, requires significant continuous updates to maintain currency (and be responsive to shifting understanding of text), and will always be insufficient |
 
 
-<div style="border: 1px solid black; background:#fce5cd; padding:1em;";>
+<div style="border: 1px solid black; background:#fce5cd; padding:1em; margin: 1em";>
 
 <p><em>AI-generated summary based on notes above (<a href="?tab=t.0#heading=h.ozdh1xgxdzg7">Setting the stage for P6</a>) (Claude AI Sonnet 4.6).</em></p>
 <table>
