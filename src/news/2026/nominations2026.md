@@ -14,7 +14,7 @@ The following positions are vacant and up for election:
 Please submit your nominations to the TEI-C Board Nominating Committee by **16 June 2026**: 
 [https://forms.gle/5dVnEuLYWzsF5ndx9](https://forms.gle/5dVnEuLYWzsF5ndx9)
 
-**The elections will take place via online voting closing prior to the 2026 virtual Members’ Meeting in August.**
+**The elections will take place via online voting closing prior to the 2026 Members’ Meeting in August.**
 
 ## **Process**
 
