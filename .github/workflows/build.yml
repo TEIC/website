@@ -3,10 +3,13 @@ on:
   push:
     branches:
       - main
+      - dockerize
     paths:
       - "src/**"
       - "package.json"
       - "package-lock.json"
+      - "Dockerfile"
+      - ".docker/**"
   repository_dispatch:
     types: [update-documentation]
 jobs:
@@ -14,26 +17,50 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
         with:
           fetch-depth: 1
           submodules: 'recursive'
       - name: Update submodule
         run: git submodule update --remote src/documentation/Documentation
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
+
+      # Login to DockerHub registry
+      - name: Log in to DockerHub
+        uses: docker/login-action@v4
         with:
-          node-version: '23'
+          username: ${{ secrets.PETERS_DOCKERHUB_USERNAME }}
+          password: ${{ secrets.PETERS_DOCKERHUB_TOKEN }}
+
+      # Login to dh.io registry
+      - name: Log in to DockerHub
+        uses: docker/login-action@v4
+        with:
+          registry: dhi.io
+          username: ${{ secrets.PETERS_DOCKERHUB_USERNAME }}
+          password: ${{ secrets.PETERS_DOCKERHUB_TOKEN }}
+
       - name: Set up analytics
         run: cp src/_includes/analytics.html_src src/_includes/analytics.html
-      - name: Build
-        run: |
-          npm install
-          npx @11ty/eleventy
-      - name: Deploy
-        uses: webfactory/ssh-agent@v0.9.0
+
+      # Extract metadata (tags, labels) for Docker
+      # https://github.com/docker/metadata-action
+      - name: Extract Docker metadata
+        id: meta
+        uses: docker/metadata-action@v6
         with:
-          ssh-private-key: ${{ secrets.TEIWEB_KEY }}
-      - run: |
-          ssh -o StrictHostKeyChecking=accept-new ${{ secrets.TEIWEB_USER }}@${{ secrets.TEIWEB_HOST }} uptime
-          rsync -avz -e ssh --delete dist/ ${{ secrets.TEIWEB_USER }}@${{ secrets.TEIWEB_HOST }}:${{ secrets.TEIWEB_PATH }}
+          images: |
+            teic/website
+          flavor: |
+            latest=${{ github.ref == 'refs/heads/main' }}
+
+      # Build and push Docker image with Buildx (don't push on PR)
+      # https://github.com/docker/build-push-action
+      - name: Build and push Docker image
+        uses: docker/build-push-action@v7
+        with:
+          context: .
+          push: ${{ github.event_name != 'pull_request' }}
+          tags: ${{ steps.meta.outputs.tags }}
+          labels: ${{ steps.meta.outputs.labels }}
+          build-args: |
+            BASE_IMAGE=dhi.io/httpd:2.4-debian
