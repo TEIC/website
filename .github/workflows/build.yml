@@ -38,9 +38,6 @@ jobs:
           username: ${{ secrets.PETERS_DOCKERHUB_USERNAME }}
           password: ${{ secrets.PETERS_DOCKERHUB_TOKEN }}
 
-      - name: Set up analytics
-        run: cp src/_includes/analytics.html_src src/_includes/analytics.html
-
       # Extract metadata (tags, labels) for Docker
       # https://github.com/docker/metadata-action
       - name: Extract Docker metadata
