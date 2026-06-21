@@ -37,6 +37,7 @@
       </encodingDesc>
       <revisionDesc>
          <listChange>
+            <change when="2026-06-21">Corrected heading links. <persName>Hugh Cayless</persName>.</change>
             <change when="2025-09-13">Updates to reflect the Bylaws as amended and approved by TEI Board in August 24, 2024.
             Updates recorded by <persName>Elisa Beshero-Bondar</persName>.</change>
             <change when="2013">2013 Revision. Edited from online version, last updated 2011-08-09.
@@ -82,11 +83,12 @@
                They may be revised further by the TEI Board, as described in <ref target="#TEIby-A7"
                   >Article 7</ref> below. The Bylaws specify <ref target="#TEIby-A1">classes of
                   membership</ref>, <ref target="#TEIby-A2">conduct of meetings of the Consortium
-                  Members</ref>, <ref target="#TEIby-A3">appointment and responsibilities of
-                  Consortium Officers</ref>, <ref target="#TEIby-A4">constitution and
-                  responsibilities of the Board of Directors</ref>, <ref target="#TEIby-A6"
-                  >constitution and responsibilities of the Technical Council</ref>, and <ref
-                  target="#TEIby-A5">funding of Consortium activities</ref>.</p>
+                  Members</ref>, <ref target="#TEIby-A3">constitution and
+                  responsibilities of the Board of Directors</ref>, <ref target="#TEIby-A4"
+                  >constitution and responsibilities of the Technical Council</ref>, 
+                  <ref target="#TEIby-A5">appointment and responsibilities of
+                  Consortium Officers</ref>, and <ref
+                  target="#TEIby-A6">funding of Consortium activities</ref>.</p>
             <div xml:id="TEIby-A1">
                <head>Article I. Members</head>
                <div xml:id="TEIby-A1.1">
