@@ -145,7 +145,7 @@ Discussion:
 
 
 ### 2. TEI Community Views on P6: 
-Over the course of P5 and especially in recent years, what has Council and TEI community said of "P6" in GitHub tickets? Small group "warm-up" activity for one hour: Read the ticket and don't try to solve it, but rather describe the gist of its perspective on P6. [Groups \+ Table](?tab=t.0#heading=h.iouk4wcyb5vu)
+Over the course of P5 and especially in recent years, what has Council and TEI community said of "P6" in GitHub tickets? Small group "warm-up" activity for one hour: Read the ticket and don't try to solve it, but rather describe the gist of its perspective on P6. 
 
    See [Appendices: Table from Small Group Actvities: A. GitHub Guidelines and Stylesheets Tickets Marked or Mentioning P6](#a-github-guidelines-and-stylesheets-tickets-marked-or-mentioning-p6)
 
@@ -154,12 +154,55 @@ Over the course of P5 and especially in recent years, what has Council and TEI c
 
 Working in groups, Council freewrites and later summarizes points in favor of continuing P5 vs. why we need to start P6. 
 See [Appendices: Table from Small Group Actvities: B.  Why not P6 yet? Vs. Why P6 now?](#b-why-not-p6-yet-vs-why-p6-now) 
+ 
+ ----
+
+## Wednesday 3/11
+
+### ODD processing without `@module`
+
+[#2840](https://github.com/TEIC/TEI/issues/2840): When `@module` attribute is missing what should a processor do?
+
+* elementSpec is not required Problem of address (the element on which `@module` is designated). What if an `elementSpec` doesn’t have a module attribute? 
+* Two elementSpecs can’t both have ident in the customisation, will need to use altIdent
+* MH: Now it is possible to be explicit about which module you are using. 
+* Council discussion / decision: require `module` on *Spec elements. 
+* Need to provide good documentation and also deprecation to guide and notify users about this change. We will have to explain to users now that every element belongs to one and only one module.
+* RV: Can we please no longer have `@mode="replace"` in future ODD? Does it qualify as ‘magic’ in the TEI sense?
+
+### Group P6 Modeling Activity
+*Working with cards (on which we printed the names of each current TEI P5 element) or whiteboards / marker/paper*: Take a handful of ~20 elements from P5 and remodel them in terms of abstract classes. To become familiar with the complexity of how to group elements and attributes and abstract classes. To find criteria for organising elements. 
+
+Summary discussion / representative examples of experimental classifications based on random "scoops" of elements:
+
+* Are classes somewhat arbitrary? Or do they work?
+
+* Example classifications from one group:
+	* Markers 
+	* Referential
+	* Naming
+	* Segmentable
+
+* Examples from another group’s categorizations:
+	* Resource
+	* Named Entities
+	* List
+	* Feature / Detail
+
+For details on more experiments see [Appendices: Group Element Classification Experiments]()
+
+
+
+
+
    
+ ---
    
-   ---
-   ## Appendices: Tables from small group activities
+## Appendices
+
+Tables from small group activities
    
-  ### A. GitHub Guidelines and Stylesheets Tickets Marked or Mentioning P6
+### A. GitHub Guidelines and Stylesheets Tickets Marked or Mentioning P6
 
    * Group A:  HBS, RV
    *  Group B: SB, TOC, MS
@@ -172,7 +215,7 @@ See [Appendices: Table from Small Group Actvities: B.  Why not P6 yet? Vs. Why P
 | B | [\#2090](https://github.com/TEIC/TEI/issues/2090) | Argues for per-document default attribute values. Should definitely be included in P6 but not relevant for today’s discussion. **Council discussion:** Idea is to allow for setting a declaration mechanism in the teiHeader: is this good explicit context modeling, and good idea for P6?  Relation / difference to ODD chaining Raises question of relation between the document and the ODD. JT: Taxonomies are often wrapped into ODDs in the form of e.g. valLists; perhaps valLists should be taxonomies? Dropping ODD entirely and chain Relax NG instead? What are the advantages of ODD over RelaxNG (Documentation?)? A resource for generating Relax NG TEI can't be only about its schema. Raises arguments for a TEI schema and validator Relax NG provides speed/ease of validation What if TEI schema language were totally expressed in XPath? It would be slow to do Schematron for ALL of it. "Not invented here": If there's a good standard that works we should use it.  Would the TEI still exist even if we didn't have validating engines? Yes.  If we can generate complicated Schematron from a simpler source... “Vibe-coding a TEI schema”. |
 | C | [\#2000](https://github.com/TEIC/TEI/issues/2000) | Shows difficulties arising from over-policing content models in P5. Also shows the need for context-sensitive content models. (app use in tables) **Council discussion:** Is there a mechanism that we could use in RELAX NG  In the context of critical apparatus, it means teasing apart and validating the individual versions (“horizontally”) as well as the apparatus (“vertically”).  JT: Do we have to constrain it all, or can we rely on scholarly peer review. A lot of the TEI can be automated, but what cannot be automated are the prior decisions, e.g., why are you encoding the text, what’s your theoretical model? Need to review the [24.4.6](https://tei-c.org/release/doc/tei-p5-doc/en/html/USE.html#CFCATSCH) and update accordingly: What do we now want to define as TEI conformance? |
 | D | [\#1923](https://github.com/TEIC/TEI/issues/1923) | Technically complex change to resolve relative small inconsistency in ODD processing (attRef using `@key` and not `@name`) that would break backwards compatibility  |
-| A | [\#1744](https://github.com/TEIC/TEI/issues/1744) | Content models need to be context-dependent – this seems to be a must-have for P6. The ticket includes suggestions on how to do this, including allowing \<elementSpec\> to define multiple contexts based on a @predicate containing an XPath – which we think should instead be abstracted as much as possible.**RV \+ Council discussion of "zones" or “interface” or "behaviors" or "grouping mechanism" or "purpose" or "context" or "mode"(?)**: related to object-oriented programming. "Context" problematic b/c of its association with document structure--that's not what this is about. `seg.meta``seg.ling``seg.hi` \*\*\*A class structure with inheritance:rsnamepersName | orgName`seg.rs` Maybe we don't need ab if we have p defined in this manner. Can we do this with attributes, too? Define them in this new way of "everything, everywhere, all at once" . Can every attribute be serialized as an element? Try it and see if it will work. Maybe there will be conditions to guide the decision of expressing something as an attribute or a child element.Definition of class discussion: Class as a formal definition of an object in programming (not thinking of class as in the TEI sense). Usually instantiate a class into an object? 1\. Classes should descend  2\. Attributes could likely be expressed in this descendant hierarchy.   |
+| A | [\#1744](https://github.com/TEIC/TEI/issues/1744) | Content models need to be context-dependent – this seems to be a must-have for P6. The ticket includes suggestions on how to do this, including allowing \<elementSpec\> to define multiple contexts based on a @predicate containing an XPath – which we think should instead be abstracted as much as possible. **Council discussion of "zones" or “interface” or "behaviors" or "grouping mechanism" or "purpose" or "context" or "mode"(?)**: related to object-oriented programming. "Context" problematic b/c of its association with document structure--that's not what this is about. `seg.meta``seg.ling``seg.hi` \*\*\*A class structure with inheritance:rsnamepersName | orgName`seg.rs` Maybe we don't need ab if we have p defined in this manner. Can we do this with attributes, too? Define them in this new way of "everything, everywhere, all at once" . Can every attribute be serialized as an element? Try it and see if it will work. Maybe there will be conditions to guide the decision of expressing something as an attribute or a child element.Definition of class discussion: Class as a formal definition of an object in programming (not thinking of class as in the TEI sense). Usually instantiate a class into an object? 1\. Classes should descend  2\. Attributes could likely be expressed in this descendant hierarchy.   |
 | B | [\#1400](https://github.com/TEIC/TEI/issues/1400) | P6 should not have numbered divs.Group D: We think this is where the marking of tickets explicitly for P6 begins. **Council discussion**: Given what we've been discussing so far: we can imagine including numbered elements in a specific **abstract class** by users.\<q\> vs. \<quote\> vs. \<cit\> begin to appear as distinct purposes of handling quotation marking, depending on the choice of abstract class.Content model might look simple but compile into something more complex in Relax NG.Discussion of inheritance: If we want the specific subclass (persName but not name), we get the subclass by pointing to it, and we lose access to name. But what if we want rs and persName? The user can define their own class to include what they need.How does multiple inheritance work? \<note\>  How are modules participating in this? They could be properties (private?) of classes. \*\*\* We can express all the previous versions of TEI as profiles in P6. P3 can be expressed as a distinct profile of P6. Discussion of abstraction in the Guidelines: Feature structures as the most abstract of all the models?Can everything in TEI be expressed in this way?What is \<rs\>? Not really a feature structureWe may not want to define what's "inline" or "block" anymore. But we could define "text-bearing"? \<app\> is an interesting complexity: not appropriate to call it a "block". And \<list\> can go in a \<p\> now in the TEI. It's the editorial and semantic function that should define these classes.  |
 | C | [\#1175](https://github.com/TEIC/TEI/issues/1175) | Provides one of the principles we should\[?\] articulate at the outset of working on P6: what do we mean by modal verbs and terms such as “mandatory”? |
 | D | [\#2744](https://github.com/TEIC/TEI/issues/2744) | We need guidance to clarify and simplify the use of attributes as pointers. P5 has too many ways to do things that mean the same thing with different attributes (e.g. `@ed` vs `@edRef` ). Attributes for pointing and referencing are generally not well specified in P5. What do we use for single strings vs. multiple pointers? Broad principle: How much does the TEI grow in order to specify different use-cases and how much is up to the user to document and define? Does the TEI proliferate attributes or allow for refinement of a single attribute?  |
@@ -272,8 +315,8 @@ See [Appendices: Table from Small Group Actvities: B.  Why not P6 yet? Vs. Why P
 <table>
 <thead>
 <tr>
-<th>Reasons NOT to bother with P6</th>
-<th></th>
+<th>Reasons not to bother with P6 yet</th>
+<th>Reasons to develop P6 now</th>
 </tr>
 </thead>
 <tbody><tr>
@@ -310,3 +353,144 @@ See [Appendices: Table from Small Group Actvities: B.  Why not P6 yet? Vs. Why P
 </tr>
 </tbody></table>
 </div>
+
+
+### C. Element SubGroup Classification Exercise
+
+`1.` SubGroup Classification Exercise (MS, HBS, RV) 
+
+```
+List
+│
+├── Pointer group
+│   ├── listRef
+│   ├── (listRelation)
+│   ├── (specGrp)
+│   ├── (linkGrp)
+
+Resource
+│
+├── facsimile
+├── (text)
+├── (standOff)
+├── (TEI)
+│
+├── Resource Part
+│   ├── floatingText
+│   ├── lg
+│   ├── (div)
+│   ├── (sp)
+
+Named Entity
+│
+├── org
+├── (person)
+├── (place)
+
+Statement
+│
+├── recordingStmt
+├── publicationStmt
+├── (change)
+
+Feature (or Detail)
+│
+├── pubPLace
+├── seal
+├── publisher
+├── terrain
+├── region
+├── support
+├── floruit
+├── affiliation
+├── msContent
+├── addrLine
+├── colloc
+
+Encoder Operation
+│
+├── revisionDesc
+├── (fileDesc)
+├── (encodingDesc)
+│
+├── Encoding Declaration
+│   ├── fsDecl
+│   ├── fsConstraint
+│   ├── fDecl
+│   │
+│   ├── Verbose
+│   │   ├── variantEncoding
+│   │   ├── transcriptionDesc
+│   │   ├── prefixDef
+
+Analysis
+│
+├── s
+├── gloss
+├── (phr)
+├── (seg)
+├── (w)
+```
+
+`2.` SubGroup classification exercise (SB, EBB, TR, TOC)
+
+```
+Interpretation
+
+Classification
+│
+├── usage
+├── trait
+├── per
+
+Referential
+│
+├── mapping
+├── bibl
+
+Naming
+│
+├── ident
+├── geogName
+├── actor
+
+Segmentation
+│
+├── text
+├── div
+├── entryFree
+├── castItem
+
+Markers
+│
+├── milestone
+├── anchor
+├── watermark
+├── witEnd
+├── gb
+├── cb
+├── g
+├── pb
+├── lb
+├── handShift
+
+Medium/a
+│
+├── notatedMusic
+├── facsimile
+├── pause
+├── sound
+├── set
+
+Transcriptional
+│
+├── interaction
+
+Bridgework
+│
+├── app
+
+```
+
+
+
