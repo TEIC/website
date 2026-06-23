@@ -6,7 +6,7 @@ export default function() {
     "eleventyComputed": {
       "permalink": data => {
         console.log(`path: ${data.page.filePathStem}`); // For debugging
-        const permalink = data.page.filePathStem.includes("TCW") ? data.page.filePathStem.replace("Documentation/TCW", "") : "/about/bylaws";
+        const permalink = data.page.filePathStem.replace("Documentation/TCW", "");
         return `${permalink}/index.html`
       },
     }
