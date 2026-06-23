@@ -533,13 +533,45 @@ What's the difference between a referencing string and a name?
 	* Possibly  "Council recommended" is distinct from other forms of review/approval. 
 
 
-7. Customizations would start from an existing blueprint, and **extensions would be created by sub-classing an existing item** in the tree; for example, a project wanting a \<sarcasm\> element could subclass the \<seg\> element, enabling automated resolution back to something like \<seg subclass=”sarcasm”\> for interchange. 
+7.   Customizations would start from an existing blueprint, and **extensions would be created by sub-classing an existing item** in the tree; for example, a project wanting a `<sarcasm>` element could subclass the `<seg>` element, enabling automated resolution back to something like `<seg subclass=”sarcasm”>` for interchange.   
+	* EB: Will subclassing inherit the parent’s scope-sensitive content models? E.g., will `<sarcasm>` inherit the scope-sensitive content model of \<seg\> per scope?  
 
-8. Distinguish between (1) working on a formal specification of the abstract model and (2) working on the processing pipeline. We need a clear definition of inheritance rules, scope resolution rules, and subclassing semantics, before working on the implementation. 
+8. Distinguish between (1) working on a formal specification of the abstract model vs. (2) working on the processing pipeline. We need a clear definition of inheritance rules, scope resolution rules, and subclassing semantics, before working on the implementation. 
 
 TEI becomes two different things: the abstract model AND the scoping / blueprints. Both are to be maintained and versioned. We may need to develop new community infrastructure. 
 
- 
+### Council Activity: Reduction and Splitting Exercise 
+
+Start with our [Miro board of TEI elements](https://miro.com/app/board/uXjVMopTUHY=/?share_link_id=7939356576) (as well as classes and macros). (This was made a couple of years ago, but we have just added the new `<post>` element and macro.specialPara.cmc so that it is up to date. 
+
+* Identify what no longer seems necessary after our discussions of classification and scoping.   
+* Identify elements whose content models can be "split" by distinct contexts. 
+
+#### Discussion of elements under Destroy
+
+* MH: `titlePage` etc since it has never worked properly  
+* EBB: `listPerson` etc: no reason for specificity of `listPerson`, `listOrg`; just using list or (HBS) maybe new element listEntity  
+* SB: Considering the user \-- is it easier for encoders to have fewer, limited options?  
+* JT: Is a `listEntity` the same as a list, and do we need a grouping element?  
+* JT: `docEdition` and `geoName` \- we know intuitively that these element names are all instances of specifications for what is a subclass of another element i.e. `<name type=”geo”>`  
+* SB: If you want a set of elements to behave differently depending on their context (header or text) then you have to define these behaviours, how feasible is this to achieve?  
+* The idea while P3 was being developed is that the number of allowed attributes had to match the number of allowed values?   
+* MH: the constraints will apply at the blueprint level. If you’re unable to express your assertions in a formal language, you should be able to express them in prose.   
+* SB: A constraint expressed in prose *within* a constraint spec takes priority over the schema. If a (prose) constraint is *not* expressed in the constraint spec, the schema takes priority. (See issue [\#2875](https://github.com/TEIC/TEI/issues/2875)).  
+* UHK: `biblFull` and `biblStruct`, `bibl` is sufficient.  
+*  `biblFull` does something distinctive from `bibl` and has been around since P1 and it serves the same function as the `teiHeader`  
+  * `biblFull` can and often does contain a `teiHeader` . For that reason, we don't really need a `biblFull` element. Just allow `fileDesc` in `sourceDesc`.  
+* JT: If the element itself declares a new context, then we have to ask whether it is truly necessary? m  
+* HBS: Allow all the elements in `biblStruct` within `bibl` but not enforce an order of use on the user.   
+* SB: `titlePart` the semantics are an issue here, possible confusion here between titles of external works and the title of the title page of the work being encoded.  
+* SB and MH: `title` descends from both `name` and `rs` where it can have different meaning.  
+* HBS: Whenever there is an element suffix `Part`, the solution should be to enable that particular element to self-nest.  
+* SB: the discussion about the information in the teiHeader vs the information in the transcription is similar to the distinction between speech acts and spoken speech:  
+  * The `<title>` in teiHeader `titleStmt` is a declaration like a speech act. I claim this document is called "Hello world", but this doesn’t mean that this is the title of the document I’m transcribing  
+  * Elsewhere `<title>` refers to external documents. And `<head>` refers to the title of the current work or portion of it.
+
+
+  
  
    
  ---
