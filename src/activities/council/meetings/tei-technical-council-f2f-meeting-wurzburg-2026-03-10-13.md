@@ -492,8 +492,55 @@ What's the difference between a referencing string and a name?
 
 * RV: Let's try to see if there's a way to make scoping work.
 
+ ----
 
-   
+## Thursday 3/12
+ 
+### Review / Summation of yesterday's discussion
+ 
+ 1. Although we see no reason to consider moving away from XML as our serialization/editing format, we would like to express the abstract model in such a way that it is **not dependent on the distinction between elements and attributes in XML**, reflecting expression in “objects” and “properties”, for example. Properties could be expressed as attributes, for instance, or as child elements. That way, transitioning to another format that is not XML will be facilitated.
+
+2. We would like, *if it proves practical*, to build our abstract model on **a real class inheritance system** under which any given class could be resolved back to a more generic class. This would in theory enable automated simplification of documents for the purpose of interchange, because a processor should be able to take a specific element/object/attribute/property and walk up the inheritance tree in order to find the most generic equivalent that a receiving system understands. There may be abstract classes in that tree, and it’s not yet clear how this would work. In addition: if multiple inheritance is allowed for, a strategy (precedence rules? depending on scopes?) is needed to decide on which path to take up the hierarchy.  
+   (An **alternative** would be to describe objects/properties in terms of common features instead of a strict classification system (e.g., using feature structures), with the advantage that it would make grouping easier and the disadvantage that there would probably not be an easy way for automated simplification and it might not be directly compatible with the establishment of content models)
+
+3. We will ensure that it is straightforward to provide **different content models for the same object/element in different contexts**, and will adopt that practice in all the “**blueprints**” (see below). The suggested mechanism for this is that affected objects/elements will declare different content models, each assigned to different “**scopes**”; then objects/elements will also declare their active “scopes”, and any object/element included in their content model will appear with the appropriate content model from their collection of available content models. The details of this are still not fully worked out.   
+	* For instance: **scope definition** (who defines the scopes? Are scopes fixed by us (the TEI, e.g., in council maintained blueprints) or can they be defined by the community/individual projects?)  
+	* scope **compatibility** (can we ensure scope compatibility across blueprints?   
+  		* RV: This is a good question because if scope is beyond the abstract model, it's bound to be less compatible outside of subscription to / reuse of someone else's (including the Council's) blueprints  
+	* Should we make scope-declaration required?)   
+ 		 * EB: For example: if an element appears in a context where no matching scope is declared, does it fall back to a/its default content model, raise a validation error, or accept anything?  
+	* Scope **inheritance?** If a subclass inherits its parent’s scope declarations, does it also inherit its content models, or should these be “redeclared”?.    
+	* The "scope-ability" of objects/elements would be part of the abstract model, but the actual scoping would not be generalized. Scoping should be built into the abstract model, to an extent.   
+	* Scopes would have to be defined within projects, but we might have some recommended / broadly accessible scopes that seem useful in many projects.  
+	* Can these be easily translated into a schema language? If we get too abstract, it may be difficult. Counterpoint: Perhaps a better definition of the abstract model will make it easier to develop a good schema. EB: That would include inheritance rules, scope-definition rules, and subclassing-mechanisms. Having strong "first principles" makes for better schemas.   
+	* Underspecification is a serious blockage for the atop group now. So knowing what the problems are with current P5 ODD processing will help. Out of this work we will probably make a much better ODD.   
+	* However, the difficulty will be in expressing schemas for the new approaches to customization. Can we make this less of a technological load for customizers and Council?   
+	* Much of our technological burden is about "why isn't this element allowed \_\_\_?" Our work will shift.   
+	* Core blueprint and starting point for users should have stronger, clearer guidance for decision making. 
+
+4. Rather than providing a tei\_all which becomes the yardstick for compliance and which many projects inevitably adopt despite our warnings, we will make an effort to provide **a larger and better array of "blueprints" to replace the current exemplars**. We want to emphasize customization as a core principle for using TEI. To encourage customization, users should be enabled to generate a schema bottom-up that can be refined/expanded further, starting from instances of encoded text (e.g., through ODDbyExample.xsl).
+
+5. Blueprints would be complete working customizations with full documentation (consisting of a template TEI file for encoding, a schema and an ODD), organized into **a blueprint repository** (ideally persistent and versioned) along the lines of a package management system (e.g. PyPI or NPM), with a front-end that enables you to use a questionnaire approach to find the blueprint(s) most appropriate as starting points for your project.
+
+6. A repository would provide a central place for the community to locate helpful blueprints for customization. Projects and scholarly communities would be encouraged to **submit their own blueprints** to the repository, which would be accepted provided they meet certain criteria (documentation etc.) and have **appropriate descriptors** enabling them to be found via the questionnaire. Some blueprints would have the Council’s mark of approval. Blueprints should be citable with DOIs. Blueprints/ODDs are treated as first-class research output and their circulation within the scholarly ecosystem is encouraged.  
+	* Review and acceptance can be facilitated by requiring push to a branch with actions/tests.  
+	* But some classification and organization will be required.   
+	* Responsibility for schemas involves the community. Perhaps a "TEI-approved" blueprint needs to involve a scholarly peer review infrastructure we develop (not limited to Council).   
+	* Maybe we don't have to make this a requirement to allow people to contribute to the repository.  
+	* Perhaps there's a free area that's a bit chaotic but could be a pre-peer review open resource.   
+	* “Council recommended” blueprints might conflict. Might not be a problem.   
+	* If limited community participation, perhaps limit our expectations. But we should promote this as Open Science. Council members can launch this and there will probably be interest in organizers of large projects. Could be integrated into graduate program work for peer review experience.  
+	* Possibly  "Council recommended" is distinct from other forms of review/approval. 
+
+
+7. Customizations would start from an existing blueprint, and **extensions would be created by sub-classing an existing item** in the tree; for example, a project wanting a \<sarcasm\> element could subclass the \<seg\> element, enabling automated resolution back to something like \<seg subclass=”sarcasm”\> for interchange. 
+
+8. Distinguish between (1) working on a formal specification of the abstract model and (2) working on the processing pipeline. We need a clear definition of inheritance rules, scope resolution rules, and subclassing semantics, before working on the implementation. 
+
+TEI becomes two different things: the abstract model AND the scoping / blueprints. Both are to be maintained and versioned. We may need to develop new community infrastructure. 
+
+ 
+ 
    
  ---
    
