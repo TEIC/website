@@ -21,7 +21,7 @@ Shared understanding of what P6 means: We should be able to articulate what we m
 
     * Tickets mentioning "P6" in the discussion:
         * [Guidelines: all tickets mentioning "P6"](https://github.com/TEIC/TEI/issues?q=P6) (remove subset "reconsider for P6") : 2 open; 20 closed.
-*.       [Stylesheet tickets mentioning "P6"](https://github.com/TEIC/Stylesheets/issues?q=P6): 1 open + 1 closed.
+        * [Stylesheet tickets mentioning "P6"](https://github.com/TEIC/Stylesheets/issues?q=P6): 1 open + 1 closed.
 
 
 * Address P5's Models and Classes in their current state. 
@@ -271,9 +271,7 @@ JT: We’re evaluating the customization: Does the customization do what it says
 
 RV: Can we adopt UHK's suggestion of calling them "blueprints" rather than "prototypes"?
 
-
 EB: We currently work according to this principle, but call them "templates". Example: Building a letter template from bottom up for 17th-c. letters vs. medieval letters. The template they provide allows their IT to develop a front end based on an expected set of elements for them to process.
-
 
 JT: Right now everything's ad hoc--just looking for resources that aren't easy to find. The TEI can make it easier for people to find helpful customizations. Smaller blueprints can be clear and deliberate and help users adopt these customisations. 
 
@@ -368,8 +366,7 @@ Discussion:
 * Are classes for elements somewhat arbitrary? Or do they work?
 
 
-For details on more experiments see [Appendices: Group Element Classification Experiments]()
-
+For details on more experiments see [Appendix C. Element SubGroup Classification Exercise](#c-element-subgroup-classification-exercise)
 
 #### Discussion following the group activity on redefining class structure for P6
 
@@ -789,7 +786,7 @@ Taking the example above and trying to model it from an Aspect-Oriented Programm
 In a UML visualisation (generated with [PlantUML](https://editor.plantuml.com/uml/LL5BRkCm3Dth5DeFaYCCCeFPpB90Bi38pp41YJ8eActGzkvDx2YnTjJxF3sGXsAaLbDqZiMW8mNu8pxiwZ-Tzxy2YGzPZ5YytM0lUK1ntrlvMoKn7fbE4QlhGh7YFbHXwyN_SgW9OgIF7nGXwr3yF5qB1uf-15bLzBR_OX3ZB1HRCLL6yI6dL8K36L_W4qXOpdSldOef1VCXKYd-Y3HdRUx3-mHP1ids5sDMjDUVqQ3tWDKtaE7X2HGX0sr8uzJ8MH6uS9ONEqDvsTcgiEkC5nbX1fr0mrDEIcUbUNBkMNQ___gzdgF7kfsxfUDkTuERo2tDUiYrFjlK7jiSnxqAhZbDwTopQ1VKWvjxENU033N57m00)): 
  
  <figure>
- 	<img src="img/letter-blueprint-plantUML-2026-03-12.png" alt="PlantUML visual diagram based on the encoding provided in this section" />
+ 	<img src="../img/letter-blueprint-plantUML-2026-03-12.png" alt="PlantUML visual diagram based on the encoding provided in this section" />
  	<figcaption>PlantUML diagram representing our blueprint model. "C" indicates class, "A" indicates aspect, and "I" indicates specific inheritance from a class.</figcaption>
  </figure>
  
@@ -855,10 +852,195 @@ persName ..|> Texty
  ```
   
   
-  
-  
-  
+ ----
+
+## Friday 3/13  
+
+###  Proposed adjustments to Thursday's example abstract model and blueprints
+ 
+*This continues discussion of the modeling and blueprints we developed at the end of the day on Thursday.*
+
+* Add `realizeAs=”Element”` or `realize`   
+  * MH: should there be any distinction at all in the abstract model? Should it be left simply as abstract?  
+* Should `elementDef` be `classDef` instead?   
+* SB: If you’re not `texty`, you can’t have an attribute:  
+  * Example: element `date` vs attribute `date`  
+  * Occur in different positions in the tree  
+  * Possible solution to prevent this confusion: Need another namespace (“meta” and “content”?) to clarify when information is a property or content.
+
+Proposal for defining `trait`: 
+Abstract model:
+`classDef TRAIT:texty(:meta|:transc)`
+
+Blueprint:
+
+* Content for metadata:
+`<content element=”trait” scope=”meta”>`
+
+* Content for transcription:
+`<content` element`=”trait” scope=”transc”>`
+
+#### Developing abstract models for P6
+
+  * People can experiment with trying to apply the abstract model in something other than XML (e.g. as a graph) even to test that it works as a true abstract model.   
+    * Properties to link/join can be serialised in XML as elements (`<join>`)  
+  * Concretizations of the abstract model are schemas. Can the abstract model be itself converted to a concrete schema? Blueprint customization of the abstract model leads to schemas.   
+  * Separation of concerns of the mechanism for generating abstract models from the mechanism for generating schemas.   
+  * Other languages that customize ODD can generate schemas with completely different abstract models, using our schema-generating mechanism.   
+  * HBS: using abstract modelling languages to formalize our abstract model might mean that we could already create schemas out of them with existing tools, e.g. [Balisage Conference Proceedings](https://teamscale.com/hubfs/26978363/Publications/2009-engineering-document-applications-from-uml-models-to-xml-schemas.pdf)   
+  * RV: The definition of attributes, do they get named in the abstract model?  
+    * Properties and values  
+    * Concepts behind the attributes should be there in the abstract model  
+    * JT: We should describe precisely what it means for elements and attributes to be equivalent. E.g. is `<element when=”1990”/>` equivalent to `<element><date when=”1990”/></element>` (or even `<element><when>1990</when></element>`  
+    * We may need a namespace or something like prop:when to distinguish when added information is a property and not from the source text.  
+    * We should research tools already available for this work (For example: [UML](https://books.xmlschemata.org/relaxng/relax-CHP-14-SECT-3.html)).   
+    * The differentiation of data from metadata needs to be sharply defined in the abstract model to prevent confusion.  
+    * Proposal to use a flag “transcription/transcriptional/transcribed” to signal in which cases an object or property is used to mark text of the original document (vs. used to structure metadata/annotated information added to the texts)  
+      * `<birth date=”2021-10-11”>`Washington D.C.`</birth>` \-\> here, `@date` is not used in a “transcriptional” way: it’s metadata  
+      * `<birth><date>`11.10.2021`</date></birth>` \-\> here, `<date>` is used in a “transcriptional” way: it’s annotating information in the source.  
+      * One could allow one or the other or both in a blueprint/schema.  
+  * Idea of “meta” vs. “content” namespaces  
+  * Question of whether this distinction should be clear at the document level or not: if it depends on the schema and must be defined there.   
+  * Allowing for editorial specificity may become easier: Unpacking things that used to be sayable only in attributes into elements makes editorial documentation more expressive. \-\> e.g., if one is not sure about the date given in `@when`, if it is expressed as an element instead, `@cert` can be used on `<when>`  
+  * UHK: How to resolve the scenario when text nodes added by an editor as annotation and text already present in the source – both have content  
+  * Remember (via Patrick Sahle) that all of our transcription and markup is meta / editorial after all. Agreed that there is transcription (which yes, is our interpretation) and added meta-information. We just simply cannot state that content is transcription and meta-information is markup.   
+  * Note elements in a transcription are a good example of metadata information embedded in transcription. The differentiation needs to be clearly defined--as properties in the abstract model.   
+    * HSB: attributes on `<note>` can render as elements if \<note\> is “editorial”, but only as attributes if `<note>` is “transcriptional”. RV: we still need to identify that the “attributes” are not of the same nature as `<note>` in order to make this differentiation.  
+  * TEI system needs to be able to permit scholars to create classes like "editorial"... `<note type="editorial">` vs. `<note type="authorial">`. If an editorial note is applied in a transcriptional area, change the default property to editorial.   
+  * Might have to adjust content models at the blueprint level.  
+  * JT: Scopes determine inherited traits when you are a text node?  
+    * Trait being used to markup how traits were being indicated. How to specify when the trait isn’t necessarily meta?  
+    * MH: Traits and scope seem to be overlapping considerably, should both traits and scopes be available at the abstract level and then customised?  
+    * HBS: If we have a clear idea of which classes are meant to be metadata and which are to be meant to be transcriptional, and in the example of trait – where it could operate in both contexts – then we should have a property that states this duality in the abstract model.  
+    * Suggestion: have certain elements that set a scope, for example: header has flag “meta”, and this propagates to all elements below it, and text propagates transcription. If projects do not like this, you change the flag in your blueprint and explicitly declare the scope.   
+    * JT: Some elements that are designated as “scoping” elements, like islands, that create scopes. Few elements will have only one scope.   
+      * SB: Same as how we are using xml:lang and a namespace, very used to working this way in XML.  
+  * HBS: We should be using the tools already designed for class / property definition: this will be so much easier.   
+  * UHK: several levels of conceptual relationships: we do need to be clear to us on which level we're modeling these.   
+    * Options: [StarUML](https://staruml.io/),   
+  * MH: subclasses that may be inherited may be a clean way to do this.  
+  * Abstract model provides building blocks for the blueprints.   
+  * MH Abstract model is assertions about documents / editorial practice. “Islands” where editorial interventions take place, for example, of text transcription takes place  
+  * RV: this makes TEI special compared to other data models and standards: that the model incorporates/represents these assertions about documents/texts/editorial practice  
+  * SB: we should not reinvent the wheel…  
+  * HBS: We should use a tool designed for this work   
+  * RV: UML has been written about (see Elena Pierazzo in Scholarly Editing book), may be helpful for us.  
+    * MH: suggested activity: Try inventing a "toy language" with UML first to see how it works.
+
+
+### Discussion of the Guidelines prose and the schema
+
+USE chapter now says:
+  * If there's a discrepancy between the schema and the Guidelines, this needs to be addressed.   
+  * Does this need to change? According to our P6 discussion, we have been saying the Guidelines language should take precedence over the schema.   
+  * MH has opened a ticket about this and tagged as "reconsider for P6": [\#2875](https://github.com/TEIC/TEI/issues/2875).
+
+### Planning our next steps
+
+Let's set some manageable tasks in motion for the near future.
+
+#### Establish a workspace
+
+* Create [Sandbox](https://github.com/TEIC/p6-sandbox) repository   
+  * Add README (information available on the [P6 dev TEIWiki](https://wiki.tei-c.org/index.php/P6-dev))  
+  * Assign tasks and GitHub Project management  
+  * Council decides to make the repo private for now and reevaluate at F2F at Vancouver.  
+  * Looking for resources like   
+    * UML modeling tools for experimentation (see [UML tools Wiki](https://en.wikipedia.org/wiki/List_of_Unified_Modeling_Language_tools)).   
+    * XMI: XML metadata exchange.   
+
+#### Council Homework assignment after this F2F
+ 
+ 1. Thinking which languages would be appropriate for P6, how to build?   
+ 	* HBS: Modelling exercise will result in us quickly realising that meta and content become a class  
+    	* MS: We have to make clear and describe what we want and summarise what we know we want now. The tools don't matter until we achieve this consensus and clarity.   
+    	* JT: Reach a shared vocabulary of what we're doing.   
+ 2.  Review the TEI Guidelines   
+	* Flag what sections can be kept for P6  
+ 	* Identify what sections need to be rewritten and to what extent (some will need to be rewritten from scratch).
+      
+3. Regular reporting / review in Council meetings  
+  * Find a regular time for ALL of Council to have a 90 minute meeting twice per month: one for P5 and one for P6 where ALL of Council is present.  
+  * Add a standing agenda item of a summary of the P6 meeting to the Council meeting to catch up Council members that might miss P6.
+
+
+### Explore funding options for P6 
+
+  * A good grant application pitch is that  
+    * (1) the abstract model can be used by other processing models, edition projects, AI (especially for the lazy people or people seeking to test "emerging technologies"), as a logical addition to the HTR/OCR tools and workflow, and  
+    * (2) that the blueprint model promotes interchange.   
+  * EBB: We need to prepare an elevator pitch for Board to help them conceptualize it with us, and for Board to help distill into a grant application.   
+    * Implementing object-oriented abstract model.
+
+* Funding for P6 development: What would help us to work together?  
+     * Work with Board on funding proposals 
    
+### Engage the TEI community
+   
+* Plan a Community Call / Discussion on alternative ways of modeling TEI  
+* Revisit the [P6 Panel Proposal](https://docs.google.com/document/d/1X_ozsb89701eBeDxeAWVd8U2JH2hXEQ9YACGhv6eL5Y/edit?tab=t.0) for the TEI 2026 Conference, and review the questions we planned to discuss there:
+
+  * Why is it time for P6? Why should we not just continue to add feature requests to P5?  
+    We're ready to rumble\! (Seriously) The landscape has changed and we can engage people who wouldn't want to do manual encoding before... The landscape of available resources/expressions has changed....
+
+* New solution for context-sensitive content modeling (Worth differentiating between co-occurrence constraints and context-sensitivity.)  
+    Blueprints \+ community involvement   
+    Abstract model principles so far clarified...  
+    Seeking time to continue refining this work.
+
+* P6 has been called for for a long time: recognized need over at least the past decade. See [P5 Report from 2006](https://vault.tei-c.org/Talks/2006/p5report.pdf), and P6 Wiki article from 2017\.  
+
+* We're going to be able to implement TEI P5 with better tools and better modeling now. 
+
+ * We aren't breaking from XML but the abstract model we develop will make alternative serializations (RDF, graph models) possible.   What about \<overlhappens/\>  (overlap issues)? Blueprint models will choose a hierarchy to prioritize (consistent with how we've approached it before, implemented with more options/flexibility for scholars to customize).
+
+* Priority on guiding our community to their own scholarly customizations. 
+
+### Continued support of P5 while developing P6
+
+* As we develop P6, we plan to continue supporting P5. What will that mean?  
+  * What changes in our maintenance of P5?  
+  * It can't be nothing, but do we say, "every ticket will be evaluated based on whether it's a short fix for P5 or better developed in P6"?  
+  * Encourage PRs for us to review. But we won't be implementing everything in P5 now.   
+  * Encourage ODD customization  
+  * Between now and TEI Conference Annual Members meeting is a "grey area": between previous commitments and future plans.   
+    * Announce at Annual Members' Meeting that we're stopping new features until we start P6. This puts pressure on us.   
+    * SB: A lot of the feature requests are actually issues with ODD.  
+    * Whatever solution is arrived at will look very differently from ODD we recognise now . 
+   
+* Will there be a period of accepting feature requests to support P5 while developing P6?  
+  * See grey areas announced above.  
+  * Prioritize community tickets over our own.  
+  * STOP fishing for things to fix in P5 UNLESS you're looking for things to do in P6.
+
+* Review our own Guidelines Chapters with an eye to what we preserve for P6 version and what must be changed.
+
+* Will the elements we know from P5 persist in P6? Are we going to try to reduce or expand the number of elements?  
+  * We will REDUCE  the number elements in P6.
+  
+* Will models and classes persist in P6, but not in a way that's compatible with P5? Or will we create an entirely different system of organizing TEI elements and attributes?   
+  	\* SEE ABSTRACT MODEL   
+              \* Previous modeling "informs" the present modeling. 
+
+* Where and how is P6 being developed? How will our supporting infrastructure change?   
+  \* Toy sandbox research phase for now.   
+  \* We will begin hosting two meetings per month to support P6 development now while continuing work requested on P5.
+
+* Will there be parallel serializations alongside XML?  
+  \* YES . We will demonstrate that it's possible to serialize the abstract model in alternative ways. 
+
+  Our main goal is to formalize the abstract model.     
+  
+  ### Proposed principles for P6
+  
+  1. We are the TEI: the TEI is a community standard that underscores openness and community involvement  
+  		* We locate development and customization of schemas at the center of the TEI’s approach  
+  2. We do not re-invent the wheel. We value expertise and remain responsive to shifting needs and concerns. 
+  		* However, we do not tie ourselves to a single technology. 
+  3. We provide core infrastructure for expressing scholarly knowledge for texts, enabling robust systems for scholarly communities to express, share, review, validate, collaborate, extend, and challenge expertise
+  4. We consider interchangeability of texts, knowledge, and expertise as the key purpose of the TEI, its infrastructure, and its design
+  
+    
  ---
    
 ## Appendices
@@ -879,7 +1061,7 @@ Tables from small group activities
 | C | [\#2000](https://github.com/TEIC/TEI/issues/2000) | Shows difficulties arising from over-policing content models in P5. Also shows the need for context-sensitive content models. (app use in tables) **Council discussion:** Is there a mechanism that we could use in RELAX NG  In the context of critical apparatus, it means teasing apart and validating the individual versions (“horizontally”) as well as the apparatus (“vertically”).  JT: Do we have to constrain it all, or can we rely on scholarly peer review. A lot of the TEI can be automated, but what cannot be automated are the prior decisions, e.g., why are you encoding the text, what’s your theoretical model? Need to review the [24.4.6](https://tei-c.org/release/doc/tei-p5-doc/en/html/USE.html#CFCATSCH) and update accordingly: What do we now want to define as TEI conformance? |
 | D | [\#1923](https://github.com/TEIC/TEI/issues/1923) | Technically complex change to resolve relative small inconsistency in ODD processing (attRef using `@key` and not `@name`) that would break backwards compatibility  |
 | A | [\#1744](https://github.com/TEIC/TEI/issues/1744) | Content models need to be context-dependent – this seems to be a must-have for P6. The ticket includes suggestions on how to do this, including allowing \<elementSpec\> to define multiple contexts based on a @predicate containing an XPath – which we think should instead be abstracted as much as possible. **Council discussion of "zones" or “interface” or "behaviors" or "grouping mechanism" or "purpose" or "context" or "mode"(?)**: related to object-oriented programming. "Context" problematic b/c of its association with document structure--that's not what this is about. `seg.meta``seg.ling``seg.hi` \*\*\*A class structure with inheritance:rsnamepersName | orgName`seg.rs` Maybe we don't need ab if we have p defined in this manner. Can we do this with attributes, too? Define them in this new way of "everything, everywhere, all at once" . Can every attribute be serialized as an element? Try it and see if it will work. Maybe there will be conditions to guide the decision of expressing something as an attribute or a child element.Definition of class discussion: Class as a formal definition of an object in programming (not thinking of class as in the TEI sense). Usually instantiate a class into an object? 1\. Classes should descend  2\. Attributes could likely be expressed in this descendant hierarchy.   |
-| B | [\#1400](https://github.com/TEIC/TEI/issues/1400) | P6 should not have numbered divs.Group D: We think this is where the marking of tickets explicitly for P6 begins. **Council discussion**: Given what we've been discussing so far: we can imagine including numbered elements in a specific **abstract class** by users.\<q\> vs. \<quote\> vs. \<cit\> begin to appear as distinct purposes of handling quotation marking, depending on the choice of abstract class.Content model might look simple but compile into something more complex in Relax NG.Discussion of inheritance: If we want the specific subclass (persName but not name), we get the subclass by pointing to it, and we lose access to name. But what if we want rs and persName? The user can define their own class to include what they need.How does multiple inheritance work? \<note\>  How are modules participating in this? They could be properties (private?) of classes. \*\*\* We can express all the previous versions of TEI as profiles in P6. P3 can be expressed as a distinct profile of P6. Discussion of abstraction in the Guidelines: Feature structures as the most abstract of all the models?Can everything in TEI be expressed in this way?What is \<rs\>? Not really a feature structureWe may not want to define what's "inline" or "block" anymore. But we could define "text-bearing"? \<app\> is an interesting complexity: not appropriate to call it a "block". And \<list\> can go in a \<p\> now in the TEI. It's the editorial and semantic function that should define these classes.  |
+| B | [\#1400](https://github.com/TEIC/TEI/issues/1400) | P6 should not have numbered divs.Group D: We think this is where the marking of tickets explicitly for P6 begins. **Council discussion**: Given what we've been discussing so far: we can imagine including numbered elements in a specific **abstract class** by users.\<q\> vs. \<quote\> vs. \<cit\> begin to appear as distinct purposes of handling quotation marking, depending on the choice of abstract class.Content model might look simple but compile into something more complex in Relax NG.Discussion of inheritance: If we want the specific subclass (`persName` but not `name`), we get the subclass by pointing to it, and we lose access to name. But what if we want `rs` and `persName`? The user can define their own class to include what they need.How does multiple inheritance work? \<note\>  How are modules participating in this? They could be properties (private?) of classes. \*\*\* We can express all the previous versions of TEI as profiles in P6. P3 can be expressed as a distinct profile of P6. Discussion of abstraction in the Guidelines: Feature structures as the most abstract of all the models?Can everything in TEI be expressed in this way?What is \<rs\>? Not really a feature structureWe may not want to define what's "inline" or "block" anymore. But we could define "text-bearing"? \<app\> is an interesting complexity: not appropriate to call it a "block". And \<list\> can go in a \<p\> now in the TEI. It's the editorial and semantic function that should define these classes.  |
 | C | [\#1175](https://github.com/TEIC/TEI/issues/1175) | Provides one of the principles we should\[?\] articulate at the outset of working on P6: what do we mean by modal verbs and terms such as “mandatory”? |
 | D | [\#2744](https://github.com/TEIC/TEI/issues/2744) | We need guidance to clarify and simplify the use of attributes as pointers. P5 has too many ways to do things that mean the same thing with different attributes (e.g. `@ed` vs `@edRef` ). Attributes for pointing and referencing are generally not well specified in P5. What do we use for single strings vs. multiple pointers? Broad principle: How much does the TEI grow in order to specify different use-cases and how much is up to the user to document and define? Does the TEI proliferate attributes or allow for refinement of a single attribute?  |
 | A | [\#367](https://github.com/TEIC/TEI/issues/367) | For the most part this is additional evidence that we need to rethink the class system. The ticket focuses on the content model discrepancies between place, org, and person. |
