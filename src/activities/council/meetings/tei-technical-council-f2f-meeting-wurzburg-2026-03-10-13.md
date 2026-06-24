@@ -543,7 +543,6 @@ TEI becomes two different things: the abstract model AND the scoping / blueprint
 ### Council Activity: Reduction and Splitting Exercise 
 
 Start with our [Miro board of TEI elements](https://miro.com/app/board/uXjVMopTUHY=/?share_link_id=7939356576) (as well as classes and macros). (This was made a couple of years ago, but we have just added the new `<post>` element and macro.specialPara.cmc so that it is up to date. 
-
 * Identify what no longer seems necessary after our discussions of classification and scoping.   
 * Identify elements whose content models can be "split" by distinct contexts. 
 
@@ -570,9 +569,295 @@ Start with our [Miro board of TEI elements](https://miro.com/app/board/uXjVMopTU
   * The `<title>` in teiHeader `titleStmt` is a declaration like a speech act. I claim this document is called "Hello world", but this doesn’t mean that this is the title of the document I’m transcribing  
   * Elsewhere `<title>` refers to external documents. And `<head>` refers to the title of the current work or portion of it.
 
+### Council Activity: Create a blueprint 
+
+ *Template: Council selects a Tom Hanks Letter Typewritten on a 1934 Smith Corona typewriter as a basis for constructing a simple experimental blueprint  Source: [https://flashbak.com/tom-hanks-writes-great-letter-1934-smith-corona-typerwriter-58609/](https://flashbak.com/tom-hanks-writes-great-letter-1934-smith-corona-typerwriter-58609/)*
+ 
+*Working all together, with EBB encoding, guided by the group, we began by modeling the document in XML potentially possible for TEI P6 but incompatible wtih TEI P5*
+ 
+#### First encoding
+ 
+ ```xml
+ <?xml version="1.0" encoding="UTF-8"?>
+<tei6>
+    <metadata> </metadata>
+    <text>
+        <dateline>
+            <date when="2012-07-13">13 July 2012</date>
+        </dateline>
+        <formeWork>
+            <formeWork rend="underline">PLAYTONE</formeWork>
+            <formeWork>
+                <seg>Film</seg>
+                <seg>Television</seg>
+                <seg>Music</seg>
+                <seg>Typewriters</seg>
+            </formeWork>
+        </formeWork>
+        <salute>Dear <persName>Chris</persName>, <persName>Ashley</persName>, and <rs ref="#dg"
+                what="person" quantity="multiple">all the<lb/> diabolical
+                        <options><sic>genuies</sic><corr n="1">geniuses</corr><corr n="2"
+                        >geniis</corr><corr n="3">ingenues</corr></options>
+                <!--   An alternate encoding <w>gen<choice><sic>ui</sic><corr>ius</corr></choice>es</w>-->
+                at <orgName>Nerdist<lb/> Industries</orgName></rs>.</salute>
+   
+        <p>Just who do you think you are to try<lb/> to briibe me into an apperance on your<lb/> ‘thing’ with
+            this gift of the most<lb/> fantastic Cornona Silent typewriter made in 1934?</p>
+ 
+        <p>You are out of your minds if you <lb/>think… that I… wow, this thing <lb/>has great action… and
+            this deep <lb/>crimson color… Wait! I’m not so <lb/>shallow as to… and it types nearly
+            <lb/>silently…</p>
+   
+        <p>Oh, OKAY!</p>
+        <p>I will have my people contact yours <lb/>and work out some kind of interview <lb/>process…</p>
+        <closer>Damn you all to hell, <signature><lb/>Tom Hanks</signature></closer>
+    </text>
+</tei6>
+ ```
+ 
+#### Discussion
+ 
+ * SB: `<fw>` should be `<formeWork>` in P6 as clarity should take precedence over abbreviations. Also, is *forme work* a term that is still in use today? If not, we should create a more appropriate element name.  
+* Encoding date and time: should there be a general usage `<temporality>` element or a `dateTime` element for combining both date and time?   
+* Does it require a `dateLine` element wrapper too to represent the structure of certain texts like letters.  
+* HBS: `dateLine` conveys the formality of letter writing practices.  
+* MS: `dateLine` can be useful as a wrapper, especially as a `place` is usually included on the same line as the date in the letter.  
+* JT: `dateLine` is a typographic feature and has different semantics to the date element.  
+* HBS and EB: What are the research questions and editorial perspective guiding our encoding of the letter, that will determine what elements we would need.  
+* EB: change the `<teiHeader>` section to `<metadata>` for P6, it’s more readily recognizable and meaningful.  
+* Does text remain or should the element name also be changed?  
+* Attributes for detailing the things contained by the referencing string element `<rs>`  
+  * `type` should not be used, it has been incorrectly used since P2 or so. SB: type should be used to describe the *element* (in this case rs) and not the thing being referred to. Similar argument for not using `kind`. Prepositions such as `of` and `to` are not as clear. `what` isn’t used anywhere else, could we use it instead?    
+* Discussion of possibly renaming `<choice>` as a wrapper of `<sic>` and `<corr>`  
+  * `<split>` or `<fork>` or alt(ernative) or parallel, though Council doesn’t agree on the alternative names  
+  * SB: Note that when discussing this kind of “split” or alternatives, we have to keep in mind the aspect of order: in which order should the children of choice be processed/read? JT: subclasses can be ordered; if we go up higher in the tree the children could be order-independent. For example: sic and corr can be ordered, while their parent elements parallel/option are unordered.   
+    * `<abbr>` and \<`expan`\>  
+    * `<orig>` and `<reg>`  
+  * RV: This kind of construct with `<choice> <sic>` and `<corr>` can also occur within a word too and this often leads to whitespace issues and how can we approach this problem? Automatic segmentation automatically puts `sic` into a new line  
+    * MH: You could resolve this by wrapping the word with the `<w>` element.	  
+  * RV: Need to add the abstract class naming that we are suggesting while creating the blueprint  
+  * Discussion of `<lb/>` and `<space>`  
+    * `<lb/>` (in typescripts\!) is a carriage return whereas `<space>` is representing significant space in a text  
+    * Can we assume that `<p>` always contains a `<lb>` in itself? No, for example in scriptio continua, where a paragraph metamark could indicate the start of a new paragraph even though it doesn’t start on a new line.  
+    * UHK \- Can this differentiation between lb and space relevant for deciding on keeping either `ab` or `seg`?  
+  * `<peritext>` element for elements such as `<fw>` or `<formeWork>`  
+  * `<app>` will be a subclass of the abstract `<options>` class  
+  * Issue with `<lem>` and `<rdg>` belonging to the abstract `<options>` class  
+    * The `<lem>` and `<rdg>` elements are special in respect to their content models and are different feature wise from the other child elements of `<options>` (formerly `<choice>`)  
+  * Discussion of `<date>` and `<time>` and whether they should belong to an abstract `<temporal>` or `<measure>` element class. UHK: [TimeML](https://timeml.github.io/site/index.html) \- Markup language for Temporal and Event Expressions  
+    * MH: The distinction between elements and attributes is something that we need to overcome, for instance, currently `duration` exists in the TEI as an attribute but not an element.  
+    * Prompts important considerations on how to subclass or reduce elements effectively and in a logical order.  
+    * MS: Could the XSD datatypes supply a suitable template for us to achieve consensus on this  
+    * Agreed resolution below:  
+        
+      `Measuring: quantifiable`   
+       	`measure`   
+       		`Temporal:datable` 
+
+      `date`   
+      `time`   
+        
+  * How to resolve `<form(e)Work>` to `<ab>`?  
+    * MH: Missing an intermediary class that could be called `<peritext>`  
+    * EB: Letterhead should be included in the `<form(e)Work>` element and `<peritext>` abstract class.  
+    * `<form(e)Work>` should be renamed  
+    * Possible resolution below:  
+        
+      `Peritext:mixedContent`  
+      `formWork`
+
+      `letterHead`  
+        
+  * Potentially rename `<ab>` to either `<textualComponent>` or `<contentObject>`  
+    * `<textualComponent>` and `<metadataComponent>` subclasses of `<informationObject>`  
+      * This seems problematic because metadata is composed of text, and the metadata aspect of this might be seen as a property of that text.   
+          
+* Properties that seem important in the abstract model:  
+  * Some elements subscribe to a property of mixed content and some do not.  
+  * Possible contenders for the name of the all encompassing elements for mixed content: `Texty` and `notTexty` or `textLess`.  
+  * `Texty` is a term derived from a technical term such as **truthy** which in JavaScript context is a value that is likely to be considered true when encountered in a Boolean context. Similarly, `texty` is a value that is likely to be considered true when encountered in text context.
+ 
+#### Same data with potential classes and "traits"
+
+*RV next experimented with preparing a more abstract modeling of the document encoding.*
+
+```xml
+<?xml version="1.0" encoding="UTF-8"?>
+<tei6>
+   <metadata>
+      
+   </metadata>
+   <text>
+       <!-- Capitalized terms are abstract classes; they may or may not resolve into new elements -->
+       <!-- ab is a placeholder to be replaced by either an abstract class or new element. <textualComponent> <contentObject> <thing> á la schema.org? -->
+       <dateline--ab>
+           <date--measure--Measuring when="2012-07-13">13 July 2012</date--measure--Measuring>
+           <time--date--measure--Measuring>13 July 2012</time--date--measure--Measuring>
+           <measure--Measuring/> <!-- time–Temporal–measure–Measuring & date–Temporal–measure–Measuring is under consideration as well -->
+
+
+<!-- “texty” is inspired by truthy/falsy in JS: a value that is considered true/false when encountered in a Boolean. In practice it means that elements with this property will be able to contain text nodes. -->
+
+
+           Thing?:texty
+           ├── Measuring:quantifiable
+               ├── measure
+                   ├── Temporal:datable
+                       ├── date
+                       ├── time
+
+
+       </dateline--ab>
+
+
+       Thing?:texty
+           ├── Peritext
+               ├── formWork
+                   ├── letterHead
+
+
+       rdg:transparent (a property that indicates that the content is determined by the closest texty ancestor)
+
+
+       <letterhead--formWork--Peritext--ab> <!-- form(e)Work to be renamed -->
+           <letterhead--formWork--Peritext--ab rend="underline">PLAYTONE</letterhead--formWork--Peritext--ab>
+           <letterhead--formWork--Peritext--ab>
+               <seg>Film</seg>
+               <seg>Television</seg>
+               <seg>Music</seg>
+               <seg>Typewriters</seg>
+           </letterhead--formWork--Peritext--ab>
+       </letterhead--formWork--Peritext--ab>
+
+
+       <salute>Dear
+           <persName--name>Chris</persName--name>,
+           <persName--name>Ashley</persName--name>, and
+           <rs what="person" ref="#" quantity="many">all the
+           <lb/>diabolical
+               <choice--Options> <!-- also app -->
+                   <sic>genuies</sic> <!-- also orig, reg -->
+                   <corr>geniuses</corr>
+               </choice--Options> at Nerdist
+               <lb/>Industries
+           </rs>.
+       </salute>
+      
+       <p>
+           Just who do you think you are to try
+           <lb/>to briibe me into an apperance on your
+           <lb/>'thing' with this gift of the most
+           <lb/>fantastic Cornona Silent typewriter
+           <lb/>made in 1934?
+       </p>
+
+
+       <p>
+           You are out of your minds if you
+           <lb/>think… that I… wow, this thing
+           <lb/>has great action… and this deep
+           <lb/>crimson color… Wait! I'm not so
+           <lb/>shallow as to… and it types nearly
+           <lb/>silently…
+       </p>
+
+
+       <p>Oh, OKAY!</p>
+      
+       <p>
+           I will have my people contact yours
+           <lb/>ad work out some kind of interview
+           <lb/>process…
+       </p>
+      
+       <closer>
+           Damn you all to hell,
+           <signature><lb/>Tom Hanks</signature>
+       </closer>
+   </text>
+</tei6>
+```
 
   
+Taking the example above and trying to model it from an Aspect-Oriented Programming perspective:
+
+* Aspect (e.g., “Texty”, “Documentary”) 		\>\> Interface  
+* Element (e.g., paragraph (or p), date) 		\>\> Class  
+* “This element *has* this aspect” 			\>\> Realisation  
+* “This element *is a* more specific kind of class 	\>\> Inheritance
+
+In a UML visualisation (generated with [PlantUML](https://editor.plantuml.com/uml/LL5BRkCm3Dth5DeFaYCCCeFPpB90Bi38pp41YJ8eActGzkvDx2YnTjJxF3sGXsAaLbDqZiMW8mNu8pxiwZ-Tzxy2YGzPZ5YytM0lUK1ntrlvMoKn7fbE4QlhGh7YFbHXwyN_SgW9OgIF7nGXwr3yF5qB1uf-15bLzBR_OX3ZB1HRCLL6yI6dL8K36L_W4qXOpdSldOef1VCXKYd-Y3HdRUx3-mHP1ids5sDMjDUVqQ3tWDKtaE7X2HGX0sr8uzJ8MH6uS9ONEqDvsTcgiEkC5nbX1fr0mrDEIcUbUNBkMNQ___gzdgF7kfsxfUDkTuERo2tDUiYrFjlK7jiSnxqAhZbDwTopQ1VKWvjxENU033N57m00)): 
  
+ <figure>
+ 	<img src="img/letter-blueprint-plantUML-2026-03-12.png" alt="PlantUML visual diagram based on the encoding provided in this section" />
+ 	<figcaption>PlantUML diagram representing our blueprint model. "C" indicates class, "A" indicates aspect, and "I" indicates specific inheritance from a class.</figcaption>
+ </figure>
+ 
+ The visual diagram is based on the following PlantUML code:
+
+ ```
+ interface Texty {
+  +can contain text nodes
+}
+
+interface Quantifiable {
+  +value
+  +unit
+}
+
+interface Documentary {
+  +records physical features  
+}
+
+abstract class Temporal {
+  +@when
+  +@notBefore
+  +@notAfter
+  +@...?
+}
+
+abstract class NamedEntity {
+    +xml:id
+}
+
+class persName {
+    +@role
+}
+
+class date {
+  +@calendar
+}
+
+class peritext {
+  +@type
+}
+
+class letterhead
+
+class p
+
+class name
+
+Temporal ..|> Texty
+Temporal ..|> Quantifiable
+date --|> Temporal
+time --|> Temporal
+persName --|> NamedEntity
+peritext ..|> Texty
+peritext ..|> Documentary
+letterhead --|> peritext
+
+p ..|> Texty
+
+name ..|> Texty
+
+persName ..|> Texty
+ ```
+  
+  
+  
+  
+  
    
  ---
    
