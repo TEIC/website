@@ -964,7 +964,7 @@ Let's set some manageable tasks in motion for the near future.
   * Add a standing agenda item of a summary of the P6 meeting to the Council meeting to catch up Council members that might miss P6.
 
 
-### Explore funding options for P6 
+#### Explore funding options for P6 
 
   * A good grant application pitch is that  
     * (1) the abstract model can be used by other processing models, edition projects, AI (especially for the lazy people or people seeking to test "emerging technologies"), as a logical addition to the HTR/OCR tools and workflow, and  
@@ -975,7 +975,7 @@ Let's set some manageable tasks in motion for the near future.
 * Funding for P6 development: What would help us to work together?  
      * Work with Board on funding proposals 
    
-### Engage the TEI community
+#### Engage the TEI community
    
 * Plan a Community Call / Discussion on alternative ways of modeling TEI  
 * Revisit the [P6 Panel Proposal](https://docs.google.com/document/d/1X_ozsb89701eBeDxeAWVd8U2JH2hXEQ9YACGhv6eL5Y/edit?tab=t.0) for the TEI 2026 Conference, and review the questions we planned to discuss there:
@@ -996,7 +996,7 @@ Let's set some manageable tasks in motion for the near future.
 
 * Priority on guiding our community to their own scholarly customizations. 
 
-### Continued support of P5 while developing P6
+#### Continued support of P5 while developing P6
 
 * As we develop P6, we plan to continue supporting P5. What will that mean?  
   * What changes in our maintenance of P5?  
@@ -1031,7 +1031,7 @@ Let's set some manageable tasks in motion for the near future.
 
   Our main goal is to formalize the abstract model.     
   
-  ### Proposed principles for P6
+### Proposed principles for P6
   
   1. We are the TEI: the TEI is a community standard that underscores openness and community involvement  
   		* We locate development and customization of schemas at the center of the TEI’s approach  
