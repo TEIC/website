@@ -5,12 +5,19 @@ date: 2026-03-10
 
 # TEI Technical Council F2F Meeting in Würzburg
 
-10–13 March 2026
+## 10–13 March 2026
 
 ## Objectives
-Shared understanding of what P6 means: We should be able to articulate what we mean and our points of disagreement, too.
+* A shared understanding of what P6 means. 
+* We should be able to articulate what we mean and our points of disagreement, too.
 
-## Discussion Topics
+## Daily notes
+* [Tuesday 3/10](#T-2026-03-10)
+* [Wednesday 3/11](#W-2026-03-11)
+* [Thursday 3/12](#R-2026-03-12)
+* [Friday 3/13](#F-2026-03-13)
+
+## Discussion topics
 
 ### From P5 to P6
 
@@ -46,7 +53,7 @@ Shared understanding of what P6 means: We should be able to articulate what we m
 
 ----
 
-## Tuesday 3/10
+<h2 id="T-2026-03-10">Tuesday 3/10</h2>
 
 Meeting started @ 09:46 local time
 
@@ -144,20 +151,20 @@ Discussion:
 * MS: speaks to difficulty of embedding other languages in TEI P5 (e.g. MathML). Geolanguages, too.   
 
 
-### 2. TEI Community Views on P6: 
+### 2. TEI community views on P6: 
 Over the course of P5 and especially in recent years, what has Council and TEI community said of "P6" in GitHub tickets? Small group "warm-up" activity for one hour: Read the ticket and don't try to solve it, but rather describe the gist of its perspective on P6. 
 
-   See [Appendices: Table from Small Group Actvities: A. GitHub Guidelines and Stylesheets Tickets Marked or Mentioning P6](#a-github-guidelines-and-stylesheets-tickets-marked-or-mentioning-p6)
+   See [Appendices: Table from Small Group Actvities: A. GitHub Guidelines and Stylesheets Tickets Marked or Mentioning P6](#appA)
 
 
 ### 3. Do we need a P6 now, or had we better continue with P5? 
 
 Working in groups, Council freewrites and later summarizes points in favor of continuing P5 vs. why we need to start P6. 
-See [Appendices: Table from Small Group Actvities: B.  Why not P6 yet? Vs. Why P6 now?](#b-why-not-p6-yet-vs-why-p6-now) 
+See [Appendices: Table from Small Group Actvities: B.  Why not P6 yet? Vs. Why P6 now?](#appB) 
  
  ----
 
-## Wednesday 3/11
+<h2 id="W-2026-03-11">Wednesday 3/11</h2>
 
 ### ODD processing without `@module`
 
@@ -189,161 +196,166 @@ This discussion was sparked by issues with where `<addrLine>` is permitted to be
 
 * We perhaps missed a step in the process of creating P5, we have the vocabulary but need to add this missed step where users can determine what to use and in what order. 
 
-Counterpoint that hierarchy is intrinsic for the standard.
+* Counterpoint that hierarchy is intrinsic for the standard.
 We are NOT just a controlled vocabulary. In the end we're working with XML: What children are allowed in a parent element is part of our semantics. XML is allowing us to process our data and share it / review it. 
 
-Discussion of feature structures - Characterising elements by the features that they have and share with other elements.
+* Discussion of feature structures - Characterising elements by the features that they have and share with other elements.
 
-No one would ever use “everything, everywhere, all it once" in a single project. To make a chapter division available inside a sentence is part of the ability to modify an ODD schema: so it's a deliberate decision. 
+* No one would ever use “everything, everywhere, all it once" in a single project. To make a chapter division available inside a sentence is part of the ability to modify an ODD schema: so it's a deliberate decision. 
 
-80/20 rule: we can't cover 20% of the edge cases.
+* 80/20 rule: we can't cover 20% of the edge cases.
 Subsetting from a prototype can make that easier.
 
-
-We already say that TEI-ALL isn't usually appropriate but people use it anyway. 
+* We already say that TEI-ALL isn't usually appropriate but people use it anyway. 
 Want to provide more specialised customisations beside TEI ALL and give some agency back to the community. 
-RV: We’re already allowing “everything, everywhere, all at once” but there are many steps to achieving this in P5. Let’s condone customisation more, certainly, but we still need to have an official recommendation. 
-MH: Creating a new element, making it a sub-class of an existing TEI component, makes the interchange process much easier because it can easily be resolved back to the TEI official recommendation. 
-MH: We shouldn't be aiming to make just one prototype, but several.
+     * RV: We’re already allowing “everything, everywhere, all at once” but there are many steps to achieving this in P5. Let’s condone customisation more, certainly, but we still need to have an official recommendation. 
+      * MH: Creating a new element, making it a sub-class of an existing TEI component, makes the interchange process much easier because it can easily be resolved back to the TEI official recommendation. 
+     * MH: We shouldn't be aiming to make just one prototype, but several.
 
-RV: Provide a mechanism for users who need the specialisation but not remove the prescriptiveness that benefits the majority of the community.
-SB: Having the community agree on a shared way to do things, organize chapters, etc. is beneficial.
+* RV: Provide a mechanism for users who need the specialisation but not remove the prescriptiveness that benefits the majority of the community.
+* SB: Having the community agree on a shared way to do things, organize chapters, etc. is beneficial.
 
-If there's a mutiny we can be dethroned,  but we provide the infrastructure. 
+* If there's a mutiny we can be dethroned,  but we provide the infrastructure. 
 Council being the arbiter of the rules/scholarly decisions and the infrastructure should give up one of those roles. 
 
-HBS: If all we're providing is an ontology and some prototype customizations, community doesn't have room to adjust the customizations.
+* HBS: If all we're providing is an ontology and some prototype customizations, community doesn't have room to adjust the customizations.
 
-
-UHK: Conformance to prototypes need not be absolute? Would it be possible to indicate that a project can conform to a degree?
+* UHK: Conformance to prototypes need not be absolute? Would it be possible to indicate that a project can conform to a degree?
 We have that now in a manner when you customise
 
-MH: Prescriptiveness has been built into the infrastructure, this seems misguided. It should belong in the scholarly domain, NOT within the infrastructure itself. Carefully crafted prototypes which could be useful starting points for projects. (We are currently doing this but we could do it more effectively.)
-RV: There needs to be a way to label prototypes as those offered by Council. 
-UHK: Restructuring the current system and not getting rid of it completely: prototyping is different from an abstract, logical class system. As it is now, we do have some restrictions that aren't sensible. Context sensitivity for the element behavior / content is generally agreed on.
+* MH: Prescriptiveness has been built into the infrastructure, this seems misguided. It should belong in the scholarly domain, NOT within the infrastructure itself. Carefully crafted prototypes which could be useful starting points for projects. (We are currently doing this but we could do it more effectively.)
 
-HBS: I don't see the advantage of the kind of modeling we were doing b/c we should be designing the prototypes. It's unclear how to make these customizations. 
+* RV: There needs to be a way to label prototypes as those offered by Council. 
 
-"Everything, everywhere, all at once" is not the same as the abstract class system.
+*  UHK: Restructuring the current system and not getting rid of it completely: prototyping is different from an abstract, logical class system. As it is now, we do have some restrictions that aren't sensible. Context sensitivity for the element behavior / content is generally agreed on.
 
-MS: It is very important to think of P6 not as us experts but as our students. They are still faced with choosing a prototype and come from many disciplines and have no idea what they're doing. 
-EB: Providing prototypes: a prototype of an historic letter and a letter to encode will help. But we'll then need multiple prototypes for different kinds of letters. 
-MS: Can we manage all of these prototypes needed?
+* HBS: I don't see the advantage of the kind of modeling we were doing b/c we should be designing the prototypes. It's unclear how to make these customizations. 
 
-HBS: Managing things by prototype seems reductive. The variety is so huge, that our set of prototypes can't be sufficient.
-SB: Is it a similar issue with the Guidelines? 
+* "Everything, everywhere, all at once" is not the same as the abstract class system.
+
+* MS: It is very important to think of P6 not as us experts but as our students. They are still faced with choosing a prototype and come from many disciplines and have no idea what they're doing. 
+
+* EB: Providing prototypes: a prototype of an historic letter and a letter to encode will help. But we'll then need multiple prototypes for different kinds of letters. 
+
+* MS: Can we manage all of these prototypes needed?
+
+* HBS: Managing things by prototype seems reductive. The variety is so huge, that our set of prototypes can't be sufficient.
+
+* SB: Is it a similar issue with the Guidelines? 
 Following MH, the Guidelines shouldn't have content models, but should be maintained in the prototypes.
 
-HBS: Is this something we should question: Can we provide the infrastructure for this?
+* HBS: Is this something we should question: Can we provide the infrastructure for this?
 
-RV: Technically yes: if we do have a good class system that generates the schema: we're really re-imagining the system we already have. You can already create a perfectly valid TEI by customizing ODD. But we're going to rearrange the class system to make the processing easier and make TEI conformance make more sense to people.
+* RV: Technically yes: if we do have a good class system that generates the schema: we're really re-imagining the system we already have. You can already create a perfectly valid TEI by customizing ODD. But we're going to rearrange the class system to make the processing easier and make TEI conformance make more sense to people.
 
-SB: Defining content model in prototype rather than TEI Guidelines: Are we going to find that 80% of all users want the same content models?
+* SB: Defining content model in prototype rather than TEI Guidelines: Are we going to find that 80% of all users want the same content models?
 
-MH: But we've already said, we want multiple context-sensitive content models. 
+* MH: But we've already said, we want multiple context-sensitive content models. 
 
-MH: Because customizations add and make classes, content models have fluidity...they are "almost arbitrary".
+* MH: Because customizations add and make classes, content models have fluidity...they are "almost arbitrary".
 
-RV: Even in this new scenario, the TEI expert who consults the group--that relationship--isn't going to change. That process of change is still going to be done with expert guidance--for creating a new profile or prototype.
+* RV: Even in this new scenario, the TEI expert who consults the group--that relationship--isn't going to change. That process of change is still going to be done with expert guidance--for creating a new profile or prototype.
 
-JT: If we shift our focus more to infrastructure, can we change that?
+* JT: If we shift our focus more to infrastructure, can we change that?
 
-RV: We're going to be seen as the maintainers of viable prototypes.
+* RV: We're going to be seen as the maintainers of viable prototypes.
 
-JT: But we're being more explicit--rather than informally sharing ODDs, we can formally share them. The ODDs repository idea.
+* JT: But we're being more explicit--rather than informally sharing ODDs, we can formally share them. The ODDs repository idea.
 
-HBS: I liked calculating my level of conformance with a prototype, but from an administrative point of view, doing a grant application, if you say you're "80% compliant w/ a TEI prototype" even if you had a good reason not to comply, it might look negative in a grant evaluation. Even if you are contributing this prototype to the TEI community you will still need to get it approved first.
+* HBS: I like calculating my level of conformance with a prototype, but from an administrative point of view, doing a grant application, if you say you're "80% compliant w/ a TEI prototype" even if you had a good reason not to comply, it might look negative in a grant evaluation. Even if you are contributing this prototype to the TEI community you will still need to get it approved first.
 
-UHK: Maybe you don't report the number/percentage, just say it's "based" on the prototype. HBS: and then you could say that without using a teiHeader element!
-EB: The 20% will be used to propose an update to a pre-existing prototype of the TEI. Confirms the position within the TEI Community and establishes with the review how you are addressing the specific needs of your research and contributing this actively to the TEI Community to align the TEI better with your research area.
+* UHK: Maybe you don't report the number/percentage, just say it's "based" on the prototype. HBS: and then you could say that without using a teiHeader element!
+
+* EB: The 20% will be used to propose an update to a pre-existing prototype of the TEI. Confirms the position within the TEI Community and establishes with the review how you are addressing the specific needs of your research and contributing this actively to the TEI Community to align the TEI better with your research area.
 The 20% nonconformance is the area of new research/innovation.
 
-MH:  Throw away "conformance" and "compliance" and instead apply words like "aligned" and “extend”. 
+* MH:  Throw away "conformance" and "compliance" and instead apply words like "aligned" and “extend”. 
 
-RV: Authority of the TEI is still what people want. 
-SB: Maybe entirely separate fields: the infrastructure to create prototypes and the maintenance / acceptance / adoption of the prototype: perhaps those roles shouldn't be approved by the same people. 
-RV: approval based on safety, based on what could be broken. (as in code-injection).
-SB: Add minimal criteria that TEI says you have to meet.
-RV: Minimal info on the header to perform basic operations on a TEI file.
+* RV: Authority of the TEI is still what people want. 
+
+* SB: Maybe entirely separate fields: the infrastructure to create prototypes and the maintenance / acceptance / adoption of the prototype: perhaps those roles shouldn't be approved by the same people. 
+
+* RV: approval based on safety, based on what could be broken. (as in code-injection).
+
+* SB: Add minimal criteria that TEI says you have to meet.
+
+* RV: Minimal info on the header to perform basic operations on a TEI file.
 Hierarchy and attributes--the way they exist and don't exist on elements will matter. Some strict rules will need to be there. We need @xml:id and @xml:lang . 
 
-JT: We’re evaluating the customization: Does the customization do what it says it's doing? 
+* JT: We’re evaluating the customization: Does the customization do what it says it's doing? 
 
-RV: Can we adopt UHK's suggestion of calling them "blueprints" rather than "prototypes"?
+* RV: Can we adopt UHK's suggestion of calling them "blueprints" rather than "prototypes"?
 
-EB: We currently work according to this principle, but call them "templates". Example: Building a letter template from bottom up for 17th-c. letters vs. medieval letters. The template they provide allows their IT to develop a front end based on an expected set of elements for them to process.
+* EB: We currently work according to this principle, but call them "templates". Example: Building a letter template from bottom up for 17th-c. letters vs. medieval letters. The template they provide allows their IT to develop a front end based on an expected set of elements for them to process.
 
-JT: Right now everything's ad hoc--just looking for resources that aren't easy to find. The TEI can make it easier for people to find helpful customizations. Smaller blueprints can be clear and deliberate and help users adopt these customisations. 
+* JT: Right now everything's ad hoc--just looking for resources that aren't easy to find. The TEI can make it easier for people to find helpful customizations. Smaller blueprints can be clear and deliberate and help users adopt these customisations. 
 
-RV: All of those customizations will start from a TEI-ALL like prototype. Which is the central point that we’d like to remain in place for P6 to be a guiding principle through all the possibilities.
+* RV: All of those customizations will start from a TEI-ALL like prototype. Which is the central point that we’d like to remain in place for P6 to be a guiding principle through all the possibilities.
 
-P5-all-like--can become the origin blueprint. 
-NOT the everything-everywhere-all-at-once schema. 
+* "P5-all-like" can become the origin blueprint. This would NOT be the everything-everywhere-all-at-once schema. 
 There needs to be a TEI-generic as a "guiding star" (RV). 
 
-SB: part of the point of the TEI Guidelines is to provide guidance. 
+* SB: part of the point of the TEI Guidelines is to provide guidance. 
 
-HBS: Where do you start when you have 300 optional prototypes
+* HBS: Where do you start when you have 300 optional prototypes?
 
-MS: I like the idea of the "blueprints"/"prototypes": but we need to take care of the curation: More prototypes for different kinds of things requires also figuring out good starting point. WHERE to start when you're beginning. Templates of varying levels of encoding granularity perhaps to match the level of the encoder?
+* MS: I like the idea of the "blueprints"/"prototypes": but we need to take care of the curation: More prototypes for different kinds of things requires also figuring out good starting point. WHERE to start when you're beginning. Templates of varying levels of encoding granularity perhaps to match the level of the encoder?
 
-EBB: We'll need a hierarchy of prototypes.
+* EBB: We'll need a hierarchy of prototypes.
 
-MH: A questionnaire that would direct you to the correct template/blueprint for your research needs. 
+* MH: A questionnaire that would direct you to the correct template/blueprint for your research needs. 
 
-RV: Let everyone post blueprints. We can have something like "TEI-Council-Reviewed" 
+* RV: Let everyone post blueprints. We can have something like "TEI-Council-Reviewed" 
 
-TR: How many blueprints is feasible for the Council to manage?
+* TR: How many blueprints is feasible for the Council to manage?
 
-EBB: Is it realistic that the Community would like to contribute their own templates? Not much response when asked to contribute their ODDs. How do we change this?
+* EBB: Is it realistic that the Community would like to contribute their own templates? Not much response when asked to contribute their ODDs. How do we change this?
 
-JT: Establish a Registry/Repository for these that can be pointed to and others to use. Value added to the contribution.
+* JT: Establish a Registry/Repository for these that can be pointed to and others to use. Value added to the contribution.
 
-MS: One reason people don't contribute is b/c they aren't so good / "dirty laundry" of the project.
+* MS: One reason people don't contribute is b/c they aren't so good / "dirty laundry" of the project.
 
-RV: If it's sent to our repository it becomes actionable. 
-MH. And subject to review by reviewers.
+* RV: If it's sent to our repository it becomes actionable. 
 
-RV: Infrastructure will provide value. 
+* MH. And subject to review by reviewers.
 
-TR: Don't we need a validator to test our cusotmizations? Maybe you're not going to post your ODD but just testing to make sure it's valid. Can we provide a validation test as opposed to storage?
+* RV: Infrastructure will provide value. 
 
-Reading / reviewing ODDs will create sources of confusion. 
-Some convergence to a few popular prototypes--
+* TR: Don't we need a validator to test our cusotmizations? Maybe you're not going to post your ODD but just testing to make sure it's valid. Can we provide a validation test as opposed to storage?
 
-MH: If all are stored in different servers, might be seriously problematic.
-HBS: What would the validation service look like/ how would it work? 
-RV: Schema would need to be provided. Generate the RNG, etc. 
+* Reading / reviewing ODDs will create sources of confusion. 
+But there could be some convergence to a few popular prototypes.
+     * MH: If all are stored in different servers, might be seriously problematic.
+     * HBS: What would the validation service look like/ how would it work? 
+     * RV: Schema would need to be provided. Generate the RNG, etc. 
+     * JT: Shift the work of the Council to be more on the Stylesheets and infrastructure and away from the P5 customisation.
 
-JT: Shift the work of the Council to be more on the Stylesheets and infrastructure and away from the P5 customisation.
+* HBS: How do we provide the tools to create the schema when we don't know what our schema declarative language will look like? If it's already close to RelaxNG w/ co-occurence constraints... This is worrisome: Are we facilitating that people do their own customizations with something not defined? 
 
-HBS: How do we provide the tools to create the schema when we don't know what our schema declarative language will look like? If it's already close to RelaxNG w/ co-occurence constraints... This is worrisome: Are we facilitating that people do their own customizations with something not defined? 
+* RV: It will be "ODD-like" and will probably involve a lot of chaining.
 
-RV: It will be "ODD-like" and will probably involve a lot of chaining.
+* HBS: You'll need to be able to read a full customization of a prototype. 
 
-HBS: You'll need to be able to read a full customization of a prototype. 
-RV: that's how it is now. Modules, class system for elements and attributes, and the new concept of zones. 
+* RV: that's how it is now. Modules, class system for elements and attributes, and the new concept of zones. 
 
-JT: Help people winnow contents down or expand them. Allowing elements to go in alternative places always seems wrong. 
+* JT: Help people winnow contents down or expand them. Allowing elements to go in alternative places always seems wrong. 
 
-RV: Most people do just want to customize attributes. Not many really want to move elements they way JT and MH want to do.
+* RV: Most people do just want to customize attributes. Not many really want to move elements they way JT and MH want to do.
 
-EBB: But customizing in projects is a scholarly act and how TEI pushes beyond its limits. 
+* EBB: But customizing in projects is a scholarly act and how TEI pushes beyond its limits. 
 
-MH: We shouldn't be recreating P5, but allow for more of a separation of concerns.
+* MH: We shouldn't be recreating P5, but allow for more of a separation of concerns.
 
-EB: RV's right that most users learn from a generic starting point. 
+* EB: RV's right that most users learn from a generic starting point. 
 
-JT: Give people better, more carefully constructed, templates that are specific to the various project’s needs. 
+* JT: Give people better, more carefully constructed, templates that are specific to the various project’s needs. 
 
-HBS: We need to be respecting customizations maintained by the community like EpiDoc
+* HBS: We need to be respecting customizations maintained by the community like EpiDoc
 
-RV: We should still be maintaining these and they should be fine in the new system.
-
-We'll still be working on these and the community will probably want us to be making changes on the "official ODD".
+* RV: We should still be maintaining these and they should be fine in the new system. We'll still be working on these and the community will probably want us to be making changes on the "official ODD".
 
 
-### Group P6 Modeling Activity
+### Group P6 modeling activity
 *Working with cards (on which we printed the names of each current TEI P5 element) or whiteboards / marker/paper*: Take a handful of ~20 elements from P5 and remodel them in terms of abstract classes. To become familiar with the complexity of how to group elements and attributes and abstract classes. To find criteria for organising elements. 
 
 Summary discussion / representative examples of experimental classifications based on random "scoops" of elements:
@@ -366,27 +378,27 @@ Discussion:
 * Are classes for elements somewhat arbitrary? Or do they work?
 
 
-For details on more experiments see [Appendix C. Element SubGroup Classification Exercise](#c-element-subgroup-classification-exercise)
+For details on more experiments see [Appendix C. Element SubGroup Classification Exercise](#appC)
 
 #### Discussion following the group activity on redefining class structure for P6
 
-SB: Is the division of these classes based on their semantic meaning or their features/function (works the same as other elements)?  
-MH: The Feature/Detail level is where it gets very difficult. For example, would `<date>` be placed here? Yes.  
-RV: Probably need an Entity level as well as a Named Entity level for elements such as `<address>`?  
-MH: Need to distinguish between markers as there will be markers that will be markers only and markers which will designate other structural features?   
-JT: The idea of an abstract element is preferable to an abstract class. For instance \<place\> and `<org>` would have the abstract element `<entity>`  
-Some elements can occur in both the `<teiHeader>` and the `<text>`, such as `<p>` and `<bibl>`. However, the difference between `<p>` and `<bibl>` is that `<bibl>` changes its meaning depending on whether it occurs in the `<teiHeader>` or the `<text>` section, while `<p>` doesn’t.  
-SB: Are we heading towards a scenario where inside prose (however we chose to define this) these elements have a ref attribute, but inside a listLike context these elements have content?
+* SB: Is the division of these classes based on their semantic meaning or their features/function (works the same as other elements)?  
+* MH: The Feature/Detail level is where it gets very difficult. For example, would `<date>` be placed here? Yes.  
+* RV: Probably need an Entity level as well as a Named Entity level for elements such as `<address>`?  
+* MH: Need to distinguish between markers as there will be markers that will be markers only and markers which will designate other structural features?   
+* JT: The idea of an abstract element is preferable to an abstract class. For instance \<place\> and `<org>` would have the abstract element `<entity>`  
+* Some elements can occur in both the `<teiHeader>` and the `<text>`, such as `<p>` and `<bibl>`. However, the difference between `<p>` and `<bibl>` is that `<bibl>` changes its meaning depending on whether it occurs in the `<teiHeader>` or the `<text>` section, while `<p>` doesn’t.  
+* SB: Are we heading towards a scenario where inside prose (however we chose to define this) these elements have a ref attribute, but inside a listLike context these elements have content?
 
 #### Discussion of class structure on the element level
 
-RV: Need to figure out what we can get from the class structure at the element level.  
-JT:  What are the fundamental elements (core elements from P5) that you need? What's irreducible?  
-RV: Examples of `<ab>`, `<seg>`, and `<anchor>`  
-SB: Generally we don’t nest `<ab>` so perhaps `<div>` instead for self-nesting?  
-JT: `<note>` is also very valuable as a default element  
-HBS: `<note>` is analytical as opposed to transcription: `<ab>`.  
-SB: But then why not `<ab type="analytical">`?
+* RV: Need to figure out what we can get from the class structure at the element level.  
+* JT:  What are the fundamental elements (core elements from P5) that you need? What's irreducible?  
+* RV: Examples of `<ab>`, `<seg>`, and `<anchor>`  
+* SB: Generally we don’t nest `<ab>` so perhaps `<div>` instead for self-nesting?  
+* JT: `<note>` is also very valuable as a default element  
+* HBS: `<note>` is analytical as opposed to transcription: `<ab>`.  
+* SB: But then why not `<ab type="analytical">`?
 
 In the beginning was `<element>`. Everything is an `<element>`.
 
@@ -453,19 +465,19 @@ EL
 ├── DESCRIPTOR
 </pre>
    
-Scoping? 
+* Scoping? 
 
-If a seg-like element is self-closing, then it can behave like an anchor or pointer. 
+* If a seg-like element is self-closing, then it can behave like an anchor or pointer. 
 
-A seg becoming anchoring is due to a structural problem. Otherwise it would be text-bearing.
+* A seg becoming anchoring is due to a structural problem. Otherwise it would be text-bearing.
 Think of `<delSpan>` as an example of this: It's really JUST `<del>` that had to be shaped differently. 
 SB: "The class of things that handles overlap was a bad idea!"
 
-Metadata elements?
+* How would we develop the metadata elements?
 
 #### Discussion of multiple hierarchies/ inheritance
 
-What's the difference between a referencing string and a name?
+* What's the difference between a referencing string and a name?
 
 
     label, head
@@ -491,9 +503,9 @@ What's the difference between a referencing string and a name?
 
  ----
 
-## Thursday 3/12
+<h2 id="R-2026-03-12">Thursday 3/12</h2>
  
-### Review / Summation of yesterday's discussion
+### Summation of yesterday's discussion
  
  1. Although we see no reason to consider moving away from XML as our serialization/editing format, we would like to express the abstract model in such a way that it is **not dependent on the distinction between elements and attributes in XML**, reflecting expression in “objects” and “properties”, for example. Properties could be expressed as attributes, for instance, or as child elements. That way, transitioning to another format that is not XML will be facilitated.
 
@@ -537,13 +549,13 @@ What's the difference between a referencing string and a name?
 
 TEI becomes two different things: the abstract model AND the scoping / blueprints. Both are to be maintained and versioned. We may need to develop new community infrastructure. 
 
-### Council Activity: Reduction and Splitting Exercise 
+### Council activity: Reduction and splitting exercise 
 
 Start with our [Miro board of TEI elements](https://miro.com/app/board/uXjVMopTUHY=/?share_link_id=7939356576) (as well as classes and macros). (This was made a couple of years ago, but we have just added the new `<post>` element and macro.specialPara.cmc so that it is up to date. 
 * Identify what no longer seems necessary after our discussions of classification and scoping.   
 * Identify elements whose content models can be "split" by distinct contexts. 
 
-#### Discussion of elements under Destroy
+#### Discussion of elements under "Destroy"
 
 * MH: `titlePage` etc since it has never worked properly  
 * EBB: `listPerson` etc: no reason for specificity of `listPerson`, `listOrg`; just using list or (HBS) maybe new element listEntity  
@@ -557,7 +569,7 @@ Start with our [Miro board of TEI elements](https://miro.com/app/board/uXjVMopTU
 * UHK: `biblFull` and `biblStruct`, `bibl` is sufficient.  
 *  `biblFull` does something distinctive from `bibl` and has been around since P1 and it serves the same function as the `teiHeader`  
   * `biblFull` can and often does contain a `teiHeader` . For that reason, we don't really need a `biblFull` element. Just allow `fileDesc` in `sourceDesc`.  
-* JT: If the element itself declares a new context, then we have to ask whether it is truly necessary? m  
+* JT: If the element itself declares a new context, then we have to ask whether it is truly necessary? 
 * HBS: Allow all the elements in `biblStruct` within `bibl` but not enforce an order of use on the user.   
 * SB: `titlePart` the semantics are an issue here, possible confusion here between titles of external works and the title of the title page of the work being encoded.  
 * SB and MH: `title` descends from both `name` and `rs` where it can have different meaning.  
@@ -566,7 +578,7 @@ Start with our [Miro board of TEI elements](https://miro.com/app/board/uXjVMopTU
   * The `<title>` in teiHeader `titleStmt` is a declaration like a speech act. I claim this document is called "Hello world", but this doesn’t mean that this is the title of the document I’m transcribing  
   * Elsewhere `<title>` refers to external documents. And `<head>` refers to the title of the current work or portion of it.
 
-### Council Activity: Create a blueprint 
+### Council activity: Create a blueprint 
 
  *Template: Council selects a Tom Hanks Letter Typewritten on a 1934 Smith Corona typewriter as a basis for constructing a simple experimental blueprint  Source: [https://flashbak.com/tom-hanks-writes-great-letter-1934-smith-corona-typerwriter-58609/](https://flashbak.com/tom-hanks-writes-great-letter-1934-smith-corona-typerwriter-58609/)*
  
@@ -854,7 +866,7 @@ persName ..|> Texty
   
  ----
 
-## Friday 3/13  
+<h2 id="F-2026-03-13"> Friday 3/13</h2> 
 
 ###  Proposed adjustments to Thursday's example abstract model and blueprints
  
@@ -949,7 +961,7 @@ Let's set some manageable tasks in motion for the near future.
     * UML modeling tools for experimentation (see [UML tools Wiki](https://en.wikipedia.org/wiki/List_of_Unified_Modeling_Language_tools)).   
     * XMI: XML metadata exchange.   
 
-#### Council Homework assignment after this F2F
+#### Council homework assignment after this F2F
  
  1. Thinking which languages would be appropriate for P6, how to build?   
  	* HBS: Modelling exercise will result in us quickly realising that meta and content become a class  
@@ -1047,7 +1059,7 @@ Let's set some manageable tasks in motion for the near future.
 
 Tables from small group activities
    
-### A. GitHub Guidelines and Stylesheets Tickets Marked or Mentioning P6
+<h3 id="appA">A. GitHub Guidelines and Stylesheets Tickets Marked or Mentioning P6</h3>
 
    * Group A:  HBS, RV
    *  Group B: SB, TOC, MS
@@ -1141,7 +1153,7 @@ Tables from small group activities
 
 
 
-### B.  Why not P6 yet?   Vs.  Why P6 now? 
+<h3 id="appB"> B.  Why not P6 yet?   Vs.  Why P6 now?</h3>
 
 | *In this column, write reasons why we should not bother with P6.* | *In this column, write reasons why we need P6 now?* |
 | :---- | :---- |
@@ -1200,7 +1212,7 @@ Tables from small group activities
 </div>
 
 
-### C. Element SubGroup Classification Exercise
+<h3 id="appC">C. Element SubGroup Classification Exercise</h3>
 
 `1.` SubGroup Classification Exercise (MS, HBS, RV) 
 
