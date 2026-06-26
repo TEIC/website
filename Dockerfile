@@ -6,7 +6,7 @@ ARG BASE_IMAGE="httpd:2.4"
 
 # Step 1:
 # Build the webpages via eleventy
-FROM node:23 AS builder
+FROM node:26 AS builder
 LABEL authors="pstadler"
 
 WORKDIR /app
