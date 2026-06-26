@@ -14,15 +14,15 @@
   "devDependencies": {
     "@11ty/eleventy": "^3.0.0",
     "@11ty/eleventy-navigation": "~1.0.2",
-    "@11ty/eleventy-plugin-rss": "~1.2.0"
+    "@11ty/eleventy-plugin-rss": "^3.0.0"
   },
   "dependencies": {
     "bootstrap": "^5.3.7",
     "bootstrap-icons": "^1.13.1",
     "CETEIcean": "^1.9.5",
     "highlight.js": "^11.11.1",
-    "jsdom": "^25.0.0",
-    "markdown-it-attrs": "^4.3.1",
+    "jsdom": "^29.1.1",
+    "markdown-it-attrs": "^5.0.0",
     "sass": "^1.89.2"
   }
 }
