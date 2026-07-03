@@ -12,8 +12,7 @@ WORKDIR /app
 
 COPY . .
 
-RUN cp src/_includes/analytics.html_src src/_includes/analytics.html && \
-    npm ci && \
+RUN npm ci && \
     npx @11ty/eleventy
 
 # Step 2:
