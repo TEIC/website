@@ -39,9 +39,9 @@ The following people have been nominated and have agreed to stand as candidates 
 Voting will be conducted via the OpaVote website, which uses the open-source balloting software OpenSTV for tabulation. OpenSTV is a widely used open-source Single Transferable Vote program.
 TEI Member voters, identified by email address, will receive a URL at which to cast their ballots. Upon closing of the election, all voters who cast a vote will be sent an email with a link to the results of the election, from which it is also possible to download the actual final ballots for verification. Individual members may vote in the TEI Technical Council elections. The nominated representative of institutions with membership may vote for both the TEI Board and TEI Technical Council.
 
-Voting will open on July 4, 2026 at 12:01am.
+Voting will open on July 4, 2026 at 12:01 am EST.
 
-Voting closes on August 4, 2025 at 11:59pm EST.
+Voting closes on August 4, 2026 at 11:59 pm EST.
 
 ## Candidate Statements: TEI Technical Council {#council}
 
