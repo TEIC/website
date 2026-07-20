@@ -162,10 +162,6 @@
           "url": "https://roma.tei-c.org"
         },
         {
-          "name": "Roma Antiqua",
-          "url": "https://romaantiqua.tei-c.org"
-        },
-        {
           "name": "Stylesheets",
           "url": "https://github.com/TEIC/Stylesheets"
         },
@@ -184,10 +180,6 @@
         {
           "name": "Roma",
           "url": "https://roma.tei-c.org"
-        },
-        {
-          "name": "Roma Antiqua",
-          "url": "https://romaantiqua.tei-c.org"
         },
         {
           "name": "Stylesheets",
