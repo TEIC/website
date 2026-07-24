@@ -169,8 +169,8 @@ and generate customized schemas and documentation. The chapter of the
 Guidelines on [Using
 the TEI](/release/doc/tei-p5-doc/en/html/USE.html) describes the customization process in more detail. You
 may also find it helpful to consult the materials provided at this site on
-how to [get the Guidelines](..Guidelines/P5/#body.1_div.1)
-and on [customization](../Guidelines/Customization/).
+how to [get the Guidelines](/Guidelines/P5/)
+and on [customization](/Guidelines/Customization/).
 
 
 
