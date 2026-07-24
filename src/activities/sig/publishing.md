@@ -25,9 +25,7 @@ creator: Kenneth Reed
  page](https://wiki.tei-c.org/index.php/SIG:Scholarly_Publishing) as a resource for discussion, documentation, and ongoing work.
 
 
-**Email 
-list:**[TEI\-PUB\-SIG](https://lists.psu.edu/cgi-bin/wa?A0=TEI-PUB-SIG) at 
-Penn State.
+**Email list:** [TEI\-PUB\-SIG](https://lists.psu.edu/cgi-bin/wa?A0=TEI-PUB-SIG) at Penn State.
 
 
 
