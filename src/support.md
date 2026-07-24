@@ -5,7 +5,7 @@ tags: page
 ---
 # Support
 
-## Advice and queries: TEI-L mailing list
+## Advice and queries: TEI-L mailing list {#tei-l}
 The TEI boasts a friendly and highly skilled worldwide user community, whose members are quite willing to share their expertise. The best way
 to tap into this community is to join the TEI-L discussion list. Everyone is welcome to subscribe to the list, either via a [webform](https://lists.psu.edu/cgi-bin/wa?SUBED1=TEI-L&A=1) or by sending an email to [TEI-L-subscribe-request@lists.psu.edu](mailto:TEI-L-subscribe-request@lists.psu.edu).
 Archived messages from the list can be browsed or searched online [through the LISTSERV archive](https://lists.psu.edu/cgi-bin/wa?A0=TEI-L)
