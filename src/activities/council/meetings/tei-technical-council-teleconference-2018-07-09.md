@@ -94,7 +94,8 @@ SIG on Libraries
 	+ under: “Currently Active SIGs”
 	+ Conveners: \[new appointments to be determined]
 * Shop TEI SIG to the ADHO Libraries SIG? **Action on EM** to do so by 07\-13, report back by next conference call.
-* Any news about the \<sourceDesc\> proposal [https://listserv.brown.edu/archives/cgi\-bin/wa?A2\=TEI\-L;93f8cf13\.1805](https://listserv.brown.edu/archives/cgi-bin/wa?A2=TEI-L;93f8cf13.1805).
+* Any news about the \<sourceDesc\> proposal 
+  <https://lists.psu.edu/cgi-bin/wa?A2=TEI-L;93f8cf13.1805>.
 
 
 Tickets

@@ -68,7 +68,7 @@ Agenda
 * Review [Website\_Redesign\_for\_tei\-c.org](https://wiki.tei-c.org/index.php/Website_Redesign_for_tei-c.org "Website_Redesign_for_tei-c.org"); Begin Recommendations for Web site Structure and Organization (PW)
 * [Proposed Revisions to Bylaws](https://wiki.tei-c.org/index.php/Bylaws_Amendments_for_2016 "Proposed Revisions to Bylaws")
 * Final questions or comments?
-* Initial vetting by TEI community; see [Elena's email in June 2013](https://listserv.brown.edu/archives/cgi-bin/wa?A2=TEI-L;48887b02.1306 "Elena's email in June 2013") for proposed changes to the Bylaws?
+* Initial vetting by TEI community; see [Elena's email in June 2013](https://lists.psu.edu/cgi-bin/wa?A2=TEI-L;48887b02.1306 "Elena's email in June 2013") for proposed changes to the Bylaws?
 * Prepare revisions for online voting? see Elena's email referenced above
 * Revisit alternative governance structures
 

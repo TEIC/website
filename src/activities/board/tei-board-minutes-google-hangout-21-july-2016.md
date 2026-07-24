@@ -173,7 +173,7 @@ Please post to list asap with additional questions.
 ### Proposal for Community Development of a TEI\-Aware XML Editor for Teaching (MB \& HC)
 
 
-See [Compelling TEI\-L Discussion](https://listserv.brown.edu/archives/cgi-bin/wa?A1=ind1607&L=TEI-L#1 "Compelling TEI-L Discussion") for the [Need of Lightweight XML Editor for Teaching the TEI](https://wiki.tei-c.org/index.php/Editor_for_teaching_TEI_-_features "Need of Lightweight XML Editor for Teaching the TEI")
+See [Compelling TEI\-L Discussion](https://lists.psu.edu/cgi-bin/wa?A1=ind1607&L=TEI-L#1 "Compelling TEI-L Discussion") for the [Need of Lightweight XML Editor for Teaching the TEI](https://wiki.tei-c.org/index.php/Editor_for_teaching_TEI_-_features "Need of Lightweight XML Editor for Teaching the TEI")
 How can we incentivize this work? Commission, as part of the Rahtz Award, some other
  way?
 Discussion of Elena Gonzales\-Blanco’s web\-based TEI Scribe\-\-was posted to list in

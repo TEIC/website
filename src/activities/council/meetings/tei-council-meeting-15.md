@@ -252,7 +252,7 @@ Some discussion follows on other types of TEI funding. DO notes that funding is 
  XSLT
  2\.0 stylesheets for schema generation. (In the aftermath of Council discussion in
  Lyon
- and on tei\-council, SR formally released to TEI\-L the [roadmap / project plan for Roma and ODD processing](https://listserv.brown.edu/archives/cgi-bin/wa?A2=ind0904&L=TEI-L&T=0&O=D&P=5859) based on Council agreement
+ and on tei\-council, SR formally released to TEI\-L the [roadmap / project plan for Roma and ODD processing](https://lists.psu.edu/cgi-bin/wa?A2=TEI-L;ca05ff2b.0904&S=) based on Council agreement
  about our goals. The following paragraph briefly summarizes the Lyon portion of that
  discussion.)
 

@@ -460,9 +460,9 @@ TEI Board \& Council Meeting to discuss website infrastructure and TEI\-L migrat
 		- **Summary:** Complete transfer of the intellectual context of the listserv from Brown to Penn State but the links in these messages will break once transferred to the new institutional host
 		- **Action:** Notify people that the links in the Archive will break
 		- EBB and SB: We should postpone the date of the transfer because of the persisting link issues with the archive.
-		- Sample Brown archive URL: https://listserv.brown.edu/cgi\-bin/wa?A2\=ind2308\&L\=TEI\-TRANSFER\-TEST\&P\=677
+		- Sample Brown archive URL: `https://listserv.brown.edu/cgi\-bin/wa?A2\=ind2308\&L\=TEI\-TRANSFER\-TEST\&P\=677`
 		- Sample PSU for *same post* on the *same list:*
-		https://lists.psu.edu/cgi\-bin/wa?A2\=TEI\-TRANSFER\-TEST;fc69cc62\.2308\&S\=
+		`https://lists.psu.edu/cgi\-bin/wa?A2\=TEI\-TRANSFER\-TEST;fc69cc62\.2308\&S\=`
 		- SB: it would be possible, perhaps, to set up a redirect from Brown to Penn State, but it will be time consuming enough that it will likely have to be paid.
 		- DJ: Discussion of using cloud hosting service that can support listservs, arose from concerns over institutional hosting. Not free, but we could pursue this path if it eliminates the risk of losing links in the Brown hosted archive
 		- RV: Using an alias (as proposed by JC) to help with long term stability (so that no matter where it is hosted, folks could post to TEI\-C lists in the same seamless way no matter who is hosting)

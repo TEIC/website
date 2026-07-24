@@ -24,10 +24,8 @@ The goal of the TEI Special Interest Group on Tools (formerly "Presentation") is
 The main channel of information for the SIG is the [TEI WIKI](https://wiki.tei-c.org/index.php/SIG:Tools).
 
 
-The SIG runs a mailing list on this topic. Click [here](https://listserv.brown.edu/?SUBED1=tei-tools-sig&A=1) to join.
-
+The SIG runs a mailing list [was: 
+`https://listserv.brown.edu/?SUBED1=tei-tools-sig&A=1`] on this 
+topic.
 
 For further information about the Tools SIG, please contact [Serge Heiden](mailto:slh@ens-lyon.fr).
-
-
-

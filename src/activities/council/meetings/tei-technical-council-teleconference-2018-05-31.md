@@ -109,7 +109,8 @@ SIG on Libraries
 * No new candidate to take it over.
 * KH suggests to retire the SIG for the moment.
 * Related question 1: represent active and inactive SIGs separately on TEI website?
-* Related question 2: \<sourceDesc\> proposal [https://listserv.brown.edu/archives/cgi\-bin/wa?A2\=TEI\-L;93f8cf13\.1805](https://listserv.brown.edu/archives/cgi-bin/wa?A2=TEI-L;93f8cf13.1805)
+* Related question 2: \<sourceDesc\> 
+  proposal <https://lists.psu.edu/cgi-bin/wa?A2=TEI-L;93f8cf13.1805>
 * Proclaim this SIG “dormant” on the website, but keep the teilib\-l@list.indiana.edu e\-mail list.
 	+ Let Michelle Dalmau know that the SIG is now going to be “dormant”.
 	+ EM talks to Kevin about a) contacting Michelle, b) crafting a response to Martin Mueller.
