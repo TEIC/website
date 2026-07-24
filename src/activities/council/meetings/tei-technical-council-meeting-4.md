@@ -644,7 +644,8 @@ Location: Buttery, Wolfson College, Linton Road, Oxford, OX2 6UD
  page, and clarify categorizations of customizations (e.g., What does
  experimental or restricted mean?)
 
-- Two things to do: fix the language on the TEI customization web page ([http://www.tei\-c.org/Guidelines/Customization/index.xml](/Guidelines/Customization/) ), and decide what will
+- Two things to do: fix the language on the TEI customization web page 
+  ([https://www.tei\-c.org/Guidelines/Customization/](/Guidelines/Customization/)), and decide what will
  be included in Roma as an available customization in the drop down list. In
  particular, is there a distinction to be made between things like Bare, Lite, and
  the

@@ -13,7 +13,7 @@ and cover just about every text encoding topic you can imagine. All queries or c
 should be sent to the TEI-L list. You can unsubscribe from the list by sending an email to <mailto:TEI-L-unsubscribe-request@lists.psu.edu>.
 There is also [a list for the francophone community](https://groupes.renater.fr/wiki/tei-fr/).
 
-For queries or comments about non-technical matters, please see the list of addresses on our [contacts page](../About/contact.xml).
+For queries or comments about non-technical matters, please see the list of addresses on our [contacts page](../about/contact/).
 
 ## Slack
 In addition to the TEI-L mailing list, the TEI uses an instance of Slack for some asynchronous communication. As with other communication mediums, this is open to the entire TEI Community, regardless of whether they are paying members or not. However, you need to be invited to the TEI-C Slack and the process to do so is [to fill out this google form](https://docs.google.com/forms/d/e/1FAIpQLSea-bODBGKqVAHvU7bwNMcVLRRy6XjQNkrPlBbab6XIIocjSQ/viewform?usp=header). The form will be reviewed and approved by an admin as soon as possible.   

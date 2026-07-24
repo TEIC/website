@@ -18,7 +18,7 @@ las [hojas de estilo] empleadas para convertir documentos en diversos formatos s
 
 Las herramientas mantenidas oficialmente se describen más abajo con mayor detalle y son de código abierto, 
 [made available under the terms and conditions of both Creative Commons Attribution-ShareAlike 3.0 Unported 
-License and a BSD 2-Clause license].(../Guidelines/access.xml#licensing).
+License and a BSD 2-Clause license].(../Guidelines/licensing-and-citation/).
  
  Otras herramientas son aportadas por miembros de la comunidad de la TEI y no están mantenidas por la 
  iniciativa. Estas pueden incluir utilidades para la redacción y edición, para la publicación en línea 
@@ -46,7 +46,7 @@ License and a BSD 2-Clause license].(../Guidelines/access.xml#licensing).
  (para más detalles, véase la [sección sobre internacionalización debajo](#I18N)). Para obtener instrucciones
  detalladas sobre el uso de Roma, consulta [ Personalizando la TEI con Roma](../Guidelines/Customization/use_roma.xml). 
  Una versión en línea de comandos de Roma (llamada Roma) también está disponible y puede instalarse y ejecutarse localmente; 
- una descripción e instrucciones de uso se encuentran [aquí](../Guidelines/Customization/odds.xml#romacommandline). El código 
+ una descripción e instrucciones de uso se encuentran [aquí](../Guidelines/Customization/getting-started-with-p5-odds/). El código 
  fuente 
  de Roma está disponible en el [sitio de TEI en  Sourceforge](https://sourceforge.net/project/showfiles.php?group_id=106328&package_id=141128). Roma es la equivalente en P5 de la antigua[TEI Pizza Chef](/Vault/P4/pizza.html) , una herramienta web que construía DTDs 
  personalizados de TEI compatibles con P4 y versiones anteriores de las directrices.

@@ -1467,7 +1467,8 @@ A full list of actions and their current status is available from: [http://wiki.
 	- EM: Do we have tools for making translation easier? Could we provide existing examples
 	 that people can work from?
 	
-	- SR: That is already in the spreadsheets. See http://www.tei\-c.org/Tools/I18N/index.xml
+	- SR: That is already in the spreadsheets. See 
+     <http://www.tei-c.org/Tools/I18N/>
 	 for contact details of translators. **Action: MH to get contact info on original groups and activate if possible, probably
 	 starting with French and Italian****Action: LB to testdrive the spreadsheet.**
 
