@@ -35,7 +35,7 @@ SB: summarize dating attributes issues
 	 resulting discussion has moved the issue forward, so a new
 	 summary with recommendations is in order. We are waiting
 	 for the results of the [does
-	 anyone use minute query on TEI\-L](https://listserv.brown.edu/archives/cgi-bin/wa?A2=ind0611&L=tei-l&T=0&F=&S=&P=10791).
+	 anyone use minute query on TEI\-L](https://lists.psu.edu/cgi-bin/wa?A2=TEI-L;66e6e845.0611&S=).
 	 It was suggested that due to the American Thanksgiving
 	 holiday, we should not consider the query unanswered until
 	 Fri 01 Dec. Thus the

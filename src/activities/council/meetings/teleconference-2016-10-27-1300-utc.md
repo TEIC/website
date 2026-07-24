@@ -115,14 +115,10 @@ JC: Simple\-Print seems easiest to me. Has benefit of partly maintaining current
 	+ TEI Conference is Nov 12–14; F2F hold afterwards, Nov 15–17
 * Other business
 	+ Remove support for p4 from oxygen framework (see [https://github.com/TEIC/oxygen\-tei/issues/8\#issuecomment\-255604849](https://github.com/TEIC/oxygen-tei/issues/8#issuecomment-255604849 "https://github.com/TEIC/oxygen-tei/issues/8#issuecomment-255604849"))
-	+ Martin’s post from that ticket is about Minimal, not P4\. See [the post itself](https://listserv.brown.edu/?A2=tei-l;8ef50537.1610 "the post itself")
+	+ Martin’s post from that ticket is about Minimal, not P4\. See [the 
+	  post itself](https://lists.psu.edu/cgi-bin/wa?A2=tei-l;8ef50537.1610 
+	  "the post itself")
 	+ LB: Support for "Simple" would also be nice to have in Oxygen. ACTION on MT to investigate
 	 the state of the Simple Oxygen plugin and report back to Council. Might have to do
 	 just a simple (ha!) template and wait on fuller support. JC: A simple template already
 	 exists.
-
-
-
-
-
-

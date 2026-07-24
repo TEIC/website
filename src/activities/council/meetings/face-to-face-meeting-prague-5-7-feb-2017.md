@@ -301,7 +301,9 @@ URLs:
 	3. Need to get in contact with reps of other vocabs. RV: Identify people who work with
 	 TEI and SVG/IIIF, etc. Martin Holmes, Jeff Witt, RV, MS, etc. Make presentation to
 	 Text and Graphics SIG? Or take it over?
-	4. [The SIG list](https://listserv.brown.edu/?A0=TEI-GRAPHICS-SIG "The SIG list")has not had much activity, but [the last msg](https://listserv.brown.edu/?A2=TEI-GRAPHICS-SIG;5fb3bb40.1610 "the last msg")refers to several tickets.
+	4. [The SIG list](https://lists.psu.edu/cgi-bin/wa?A0=TEI-GRAPHICS-SIG) has not had much activity, 
+	   but [the last msg](https://lists.psu.edu/cgi-bin/wa?A2=TEI-GRAPHICS-SIG;5fb3bb40.1610) 
+       refers to several tickets.
 	5. RV: propose something for TEI Conference? Or speak to relevant SIGs (Manuscripts SIG,
 	 Text and Graphics) EM: Perhaps emphasis should be on integrating standards rather
 	 than IIIF in particular. RV: Perhaps a Council presentation to membership. (SB question:

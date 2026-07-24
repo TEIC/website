@@ -24,9 +24,5 @@ This SIG is a small but active group. To follow and participate in our work, ple
 
 Archived contents:
 * Guidelines on [embedding MEI in TEI](https://tei-music-sig.github.io/twm/index.html) (circa 2010).
-*  The [wiki](https://wiki.tei-c.org/index.php/SIG:Music), which contains now osbolete information about
+*  The [wiki](https://wiki.tei-c.org/index.php/SIG:Music), which contains now obsolete information about
  the SIG. 
-* The [mailing list](https://listserv.brown.edu/archives/cgi-bin/wa?A0=TEI-MUSIC-SIG) (rarely used).
-
-
-

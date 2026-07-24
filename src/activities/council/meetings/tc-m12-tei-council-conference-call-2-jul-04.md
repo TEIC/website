@@ -179,7 +179,7 @@ The request for feature requests on SourceForge had not met with
 
 * Reporting on the new Physical Bibliography workgroup, 
  SB said that Terry Catapano had initiated a discussion
- list ([http://listserv.brown.edu/tei\-pb.html](http://listserv.brown.edu/tei-pb.html));
+ list [was: `http://listserv.brown.edu/tei-pb.html`].
  that a new European member (Anne\-Mette Hansen) had joined the
  group; and that Terry, Richard Noble, and JF had make a
  well\-received presentation about the workgroup at a recent
