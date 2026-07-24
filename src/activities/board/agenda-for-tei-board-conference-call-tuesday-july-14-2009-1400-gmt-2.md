@@ -21,7 +21,7 @@ Agenda
  Contact information for the teleconference is available in the following email on
  the tei\-board mailing list: [\[tei\-board] Conference Space information](http://lists.village.virginia.edu/mailman/private/tei-board/2009/006446.html ). If you have forgotten your
  tei\-board archive password, you can find instructions on how to get a reminder
- in our [Procedures, Customs, and Practices Document](/Board/procedures.xml#mailingListArchive).
+ in our [Procedures, Customs, and Practices Document](/Board/tei-consortium-procedures-customs-and-practices/).
 
 
 * [14:00 UTC](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2009&month=7&day=14&hour=14&min=0&sec=0&p1=136&p2=179&p3=538) Certification of meeting

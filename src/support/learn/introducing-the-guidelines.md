@@ -156,7 +156,7 @@ choosing among the encoding options that the Guidelines permit.
 
 
 Informal community-wide discussion of what constitutes best practices is
-carried out [on the TEI discussion list](../index.xml#tei-l); the
+carried out [on the TEI discussion list](../index.html#tei-l); the
 [TEI Council](..//activities/Council/) is ultimately responsible for decisions
 about standards that are recommended officially by the TEI Consortium in
 editions of the Guidelines and other publications.

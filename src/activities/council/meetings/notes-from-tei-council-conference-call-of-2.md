@@ -50,7 +50,8 @@ CT: Initiate and facilitate production of note on
 	 . CT reports that after
 	 some discussion and consideration he concluded that this
 	 activity would be best situated as one of the [Manuscript
-	 SIG](/Activities/SIG/Manuscript/index.xml?style=printable)'s activities, rather than creating a new SIG.
+	 SIG](/Activities/SIG/Manuscript/index.html?style=printable)'s activities, 
+    rather than creating a new SIG.
 	 CT or DP
 	 post to TEI\-MS\-SIG or TEI\-L requesting input
 	 2006\-03\-12

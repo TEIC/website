@@ -13,7 +13,7 @@ have electronic copies of any original TEI documents not available here, please 
 
 
 The [archive](https://listserv.brown.edu/archives/tei-l.html) of the
-[TEI-L discussion list](/Support/index.xml#tei-l) is a rich
+[TEI-L discussion list](/Support/index.html#tei-l) is a rich
 resource for historical information, as is the archive of the now defunct TEI-TECH
 mailing list, which can be [downloaded](/wp-content/uploads/2018/04/tei-tech.tar.gz) in its
 entirety.

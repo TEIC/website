@@ -25,7 +25,7 @@ The SIG also maintains a page on the [TEI wiki](https://wiki.tei-c.org/index.php
 
 
 A detailed 
- [Bibliography of Publications relatedto the Text Encoding Initiative](/Support/Learn/tei_bibliography.xml) has been prepared for the
+ [Bibliography of Publications related to the Text Encoding Initiative](/Support/Learn/a-bibliography-of-publications-related-to-the-text-encoding-initiative/) has been prepared for the
  SIG.
 
 

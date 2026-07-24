@@ -17,7 +17,7 @@ though the underlying tool may also be installed and used separately. Similarly,
 stylesheets that are used by the TEI itself to convert TEI documents into various
 formats are distributed here for use and adaptation by others. Tools maintained by
 the TEI are described in more detail below and are open-source, [made available under the terms and conditions of both Creative Commons Attribution-ShareAlike
-3.0 Unported License and a BSD 2-Clause license](../Guidelines/access.xml#licensing).
+3.0 Unported License and a BSD 2-Clause license](../guidelines/licensing-and-citation).
 
 Others tools are contributed by members of the TEI community and are not maintained
 by the TEI. These might include tools for authoring and editing, for publishing collections

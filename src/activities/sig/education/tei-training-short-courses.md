@@ -205,6 +205,6 @@ through Extensible Stylesheet Language (XSLT).
 
 
 
-For further resources currently available on the TEI site, please see the [Tutorials Pages](/Support/Learn/tutorials.xml).
+For further resources currently available on the TEI site, please see the [Tutorials Pages](/Support/Learn/teach-yourself-tei/).
 
 

@@ -59,7 +59,7 @@ institutional member or an individual subscriber you will be making it
 possible for the TEI to continue developing and supporting the TEI
 Guidelines. You can also support the TEI by participating in its work: by
 contributing to a TEI [special interest group](/activities/SIG/), by using the
-[Guidelines](../Guidelines/), by participating in discussions on the [TEI-L discussion list](/Support/index.xml#tei-l),
+[Guidelines](../Guidelines/), by participating in discussions on the [TEI-L discussion list](/Support/index.html#tei-l),
 and by contributing stylesheets, tools, and sample texts to the [TEI
 wiki](../wiki/).
 
@@ -163,7 +163,7 @@ but it is no longer being developed.
 
 
 The TEI is intended to be customized by its users. To simplify the
-customization process, the TEI supports a tool called [Roma](/Tools/index.xml#roma), which provides a web
+customization process, the TEI supports a tool called [Roma](/Tools/index.html#roma), which provides a web
 interface through which you can make and preserve your customization choices
 and generate customized schemas and documentation. The chapter of the
 Guidelines on [Using
@@ -218,8 +218,8 @@ customization based on TEI Lite, you need to take the customization file
 that produced the TEI Lite DTD or schema, and modify that file, then
 generate a new DTD or schema. You should not modify the TEI Lite DTD or
 schema itself directly. The [specification file for the P5 version of TEI Lite is available](/release/xml/tei/custom/odd/tei_lite.odd).
-Information on [how to customize a TEI P5 schema with Roma is also available](/Guidelines/Customization/use_roma.xml); see also
-[Getting Started with P5 ODDs](/Guidelines/Customization/odds.xml). The [customization files for the TEI Lite are also
+Information on [how to customize a TEI P5 schema with Roma is also available](/Guidelines/Customization/); see also
+[Getting Started with P5 ODDs](/Guidelines/Customization/). The [customization files for the TEI Lite are also
 available](../Guidelines/Customization/Lite/).
 
 
@@ -233,7 +233,7 @@ encode?
 The TEI Guidelines include [an alphabetical list of all elements defined in
 the Guidelines](/release/doc/tei-p5-doc/en/html/REF-ELEMENTS.html).
 You can also [browse the full text](/Guidelines/). If you
-need further guidance, try sending a query to [the TEI-L mailing list](/Support/index.xml#tei-l) or
+need further guidance, try sending a query to [the TEI-L mailing list](/Support/index.html#tei-l) or
 contact a nearby TEI project.
 
 
@@ -301,8 +301,10 @@ expertise necessary to apply it appropriately.
 For some people, the simplest way to learn the TEI is to read the [TEI Guidelines](/release/doc/tei-p5-doc/en/html/). However, the Guidelines are not primarily intended as
 a training document, and many find it easier to work with a tutorial or to
 attend a workshop. [Workshops](../Support/Learn/) are
-taught at intervals in various places and also through the [Education SIG](/activities/SIG/Education/). The TEI also
-maintains a [list of online tutorials and other training materials](/Support/Learn/tutorials.xml). However you choose to
+taught at intervals in various places and also through the [Education SIG](/activities/SIG/Education/). 
+The TEI also maintains a
+[list of online tutorials and other training materials](/Support/Learn/teach-yourself-tei/). 
+However, you choose to
 begin, the best way to learn is to do some actual encoding: choose a text
 that interests you, get an XML-aware text editor, and try your hand at
 encoding it. (For information on tools to support text encoding, see
@@ -358,8 +360,3 @@ with an electronic text archive, quite independently of any plans you have
 for distribution of it yourself. [The
 Oxford Text Archive](http://www.ota.ox.ac.uk/) is one of the oldest such archives and is
 always on the look-out for scholarly digital resources.
-
-
-
-
- 
