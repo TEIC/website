@@ -29,7 +29,7 @@ and distribute.
 
 There is also a [Special Interest Group on Tools](/activities/SIG/Tools/).
 
-## Generation of schemas and documentation: Roma
+## Generation of schemas and documentation: Roma {#roma}
 
 [Roma](https://roma.tei-c.org/) is a web-based application which allows TEI users to
 generate their own customized P5-compatible schemas and documentation. Roma is useful for all TEI customization
