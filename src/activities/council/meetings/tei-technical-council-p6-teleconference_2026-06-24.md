@@ -1,5 +1,5 @@
 ---
-title:  "TEI Technical Council P5 Teleconference, 2026-06-24"
+title:  "TEI Technical Council P6 Teleconference, 2026-06-24"
 date: 2026-06-24
 ---
 # TEI Technical Council P6 Teleconference, 2026-06-24
