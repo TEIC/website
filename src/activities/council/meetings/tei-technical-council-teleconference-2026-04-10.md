@@ -36,7 +36,7 @@ Council agrees to plan alternating P5 and P6 meetings.
        * discuss TEI publications during calls when there is no set topic
        * discuss TEI editing environments (alternatives to oXygen).  
       
-#### JT: TEI Conference 2026 (JT):  
+#### TEI Conference 2026 (JT):  
   * Conference dates: 2026-08-10 (M) – 2026-08-14 (F) 
   * Dates for the TEI Council meeting  
       * Council consensus: Hold the F2F on Saturday, Sunday, half-day Monday *after* the conference**: August 15, 16, and half-day on 17.   
