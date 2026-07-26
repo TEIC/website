@@ -1,13 +1,10 @@
-# TEI Technical Council Teleconference, 2026-07-16
+---
+title:  "TEI Technical Council P6 Teleconference, 2026-07-16"
+date: 2026-07-16
+---
+# TEI Technical Council P6 Teleconference, 2026-07-16
 
 6am PDT | 9am EDT | 2pm BST | 3pm CEST
-
-## Administrative
-
-* Zoom: [https://psu.zoom.us/j/98850059066?pwd=UzhBL2NFc1lweWYzS2xZd2dqYVZpdz09](https://psu.zoom.us/j/98850059066?pwd=UzhBL2NFc1lweWYzS2xZd2dqYVZpdz09)   
-  * Meeting ID: 988 5005 9066  
-  * Password: tei  
-* 
 
 ### Present:
 
@@ -25,16 +22,6 @@
 * Ulrike Henny-Krahmer (UHK)  
 * Patricia O'Connor (TOC)  
 * Joey Takeda (JT)
-
-### Previous meetings
-
-* [June 24 (P6) Meeting Notes](https://docs.google.com/document/u/0/d/12DuMVfHNJN8WW9_StPcJ8bVXpCRFKbaK2G9o-l1KLwI/edit)  
-* [June 22 (P5) Meeting Notes](https://docs.google.com/document/u/0/d/1P9t-B0OgOea9pVz6lLWYoeRVcPDf7uhTx5FR7XXob_c/edit)  
-* [July 14 (P5) Meeting Notes](https://docs.google.com/document/d/1_ScNJlgiaRNq6TCYeHmlt9aChI7Nb544MwxlPGLh0hE/edit?tab=t.0)
-
-**Note:** minute review / p5subset update table is near the end of this document.
-
-## Agenda & notes:
 
 * Discussion of bibl and other P6 modeling experiments, related to P5 modeling decisions  
 * Preparation of the conference panel discussion  
@@ -207,22 +194,4 @@ Problems and Pain Points with P5:
 * Slide prep subgroup  
   * EBB has launched a repo in TEIC space for the slide deck via [reveal.js](http://reveal.js) \+ gh-pages: [https://github.com/TEIC/timeForP6](https://github.com/TEIC/timeForP6)   
   * We edit the index.html and can do slides in markdown
-
-## Minute review, and P5 update assignment table
-
-| Month | minute review/assist | update P5 subset  |
-| ----- | ----- | ----- |
-| **December 2025** | SB | TOC: done 2025-12-11 |
-| **January 2026** | EB | EB: done 2026-01-12 |
-| **February 2026** | HBS | SB done 2026-02-09 |
-| **March 2026** | TOC | MS |
-| **April 2026** | MH | SB done 2026-04-10 |
-| **May 2026** | HBS | TOC done 2026-05-03 |
-| **June 2026** | SB | HBS (done 2026-06-23 by SB and MH, since HBS is away) |
-| **July 2026** | TOC | SB done 2026-07-13 |
-| **August 2026** | MS | TOC |
-| **September 2026** | UHK | SB |
-| **October 2026** | TOC | EB |
-| **November 2026** | MH | SB |
-| **December 2026** | RV | TOC |
 
