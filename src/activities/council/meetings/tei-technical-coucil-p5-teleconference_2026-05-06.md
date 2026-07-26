@@ -35,12 +35,12 @@ date: 2026-05-06
     * Wed 12 – Fri 14 Aug: conference  
     * Sat 15 – Mon 17 Aug: Council F2F
 
-#### Next P5 release?  
+#### Next P5 release  
   * Sometime last week of July (27th – 31st)   
   * Release technicians: MH, EBB, MS  
   * Exact refridge and freeze dates to be set by release techs as soon as they have agreed on release date
 
-#### [**ATOP tickets**](https://github.com/TEIC/TEI/issues?q=state%3Aopen%20label%3Aatop)  
+#### ATOP tickets 
   * [\#2729](https://github.com/TEIC/TEI/issues/2729): ODD processing for glosses and descs  
     * Main question is whether the "only-one-each-lang" constraint should be moved from p5odds to P5. (That is, are customizers and people who use the TEI ODD system to write non-TEI markup languages allowed to have multiple `<gloss>`es or `<desc>`s in a given language for a particular construct?)  
     * Marked status "Go" to move this processing to P5. 
@@ -68,7 +68,7 @@ date: 2026-05-06
     * Parameter in the stylesheets to fix: processChangeInformation  
     * Council decision: Instead of using the `processChangeInformation` parameter, just write proper processing for change and always apply it (comments added to both the TEI and Stylesheets issues).
 
-##### [All open Pull Requests](https://github.com/TEIC/TEI/pulls)  
+##### Pull Requests  
   * [\#2538](https://github.com/TEIC/TEI/pull/2538): **Action on SB:** Update deprecation date `sequence/@preserveorder`  
       * Done: Deprecation date updated after meeting  
       * Merged.  

@@ -30,7 +30,7 @@ date: 2026-04-24
   * We're now also selecting a second meeting, probably two weeks later.   
   * We can and do adjust the schedule after polling results as needed.
 
-### TEI by Example (TBE)
+#### TEI by Example (TBE)
 
  * Topic left over from last (P5) meeting. Update of any recent communication on TBE w/ Melissa Terras?  
  * Board/Council decision: a backup of TBE should not be an official TEI resource because the materials are out of date and it would take lots of work to update. 
@@ -49,13 +49,13 @@ date: 2026-04-24
 * RV: tei\_all wouldn't really work any more in the new system (too much dictated in it). But we do need something for general purpose / a reference implementation of the abstract model. Maybe more like TEI Lite.
 
 
-### P6 work in progress
+#### P6 work in progress
   * Discussion w/ Board: very supportive for making sure we have time / space to work on P6. Some concern expressed about potential loss of tei_all.  
     * SB: People do use tei\_all, to see what's possible to encode in TEI. The convenience factor is important.
 
   * Work proceeding in [https://github.com/TEIC/p6-sandbox](https://github.com/TEIC/p6-sandbox) and P6-dev Slack channel  
   
- #### Discussion of class hierarchy and P6  
+ ##### Discussion of class hierarchy and P6  
     
  * JT: Positionality is baked into definitions of some of our elements, e.g. `<postScript>` Does this pose serious problems for us?   
     * MH: `<postScript>` surely means written after rather than written below! There are lots of examples of postscripts being written at the top of the letter, for example.  
@@ -122,17 +122,18 @@ date: 2026-04-24
         * UHK: Consider ids: they may be attributes but also child elements. Either way it's a property.  
         * Relationship of type and subtype example:  
                               
-#### Practice modeling 
+##### Practice modeling 
  * EB: HBS would want us to try a UML experiment. It will help us visualise what we’re trying to say. Gave it a go at [PlantUML](https://editor.plantuml.com/uml/LL5BRkCm3Dth5DeFaYCCCeFPpB90Bi38pp41YJ8eActGzkvDx2YnTjJxF3sGXsAaLbDqZiMW8mNu8pxiwZ-Tzxy2YGzPZ5YytM0lUK1ntrlvMoKn7fbE4QlhGh7YFbHXwyN_SgW9OgIF7nGXwr3yF5qB1uf-15bLzBR_OX3ZB1HRCLL6yI6dL8K36L_W4qXOpdSldOef1VCXKYd-Y3HdRUx3-mHP1ids5sDMjDUVqQ3tWDKtaE7X2HGX0sr8uzJ8MH6uS9ONEqDvsTcgiEkC5nbX1fr0mrDEIcUbUNBkMNQ___gzdgF7kfsxfUDkTuERo2tDUiYrFjlK7jiSnxqAhZbDwTopQ1VKWvjxENU033N57m00).
 
  * **Council homework:** Play with PlantUML and make blueprints / do some writing for the next P6 meeting. 
      * MS: Can we organize a visualization session, to explore w/ PlantUML? 
 
-#### Guidelines for P6?
+##### Guidelines for P6?
 * EBB asks: what is a Guidelines "chapter"in P6? Can a chapter express blueprints?  
    
 
-#### [ATOP tickets](https://github.com/TEIC/TEI/issues?q=is%3Aissue%20state%3Aopen%20label%3A%22Status%3A%20Needs%20Discussion%22%20label%3Aatop)   
+#### ATOP tickets
+   
   * [\#2840](https://github.com/TEIC/TEI/issues/2840): When `@module` attribute is missing, what should a processor do?  
     * In 2026-03 we decided on a path forward. So should we just remove "Needs Discussion" label and move on? — SB  
   * [\#2729](https://github.com/TEIC/TEI/issues/2729): ODD processing for glosses and descs  
