@@ -24,9 +24,8 @@ date: 2026-07-14
 * Ulrike Henny-Krahmer (UHK)
 
 #### Assign new Guidelines / Stylesheets issues   
-  * [Open Guidelines Issues with no assignee](https://github.com/TEIC/TEI/issues?q=is%3Aissue%20state%3Aopen%20no%3Aassignee)   
-  * [Latest new Stylesheets Issue](https://github.com/TEIC/Stylesheets/issues?q=is%3Aissue%20state%3Aopen%20no%3Aassignee%20sort%3Aupdated-desc%20created%3A%3E2026-01-01) (opened in May by community member)  
-  * Are any of these high priority for the July release?
+  * Review of open Guidelines Issues with no assignee and latest new Stylesheets issue (opened in May by community member).  
+  * Are any of these high priority to try to resolve for the July release?
 
 #### Welcome to July TEI Meetings Week\! 
 * Next meetings:  
