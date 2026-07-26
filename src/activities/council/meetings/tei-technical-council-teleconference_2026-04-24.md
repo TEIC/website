@@ -6,7 +6,7 @@ date: 2026-04-24
 
 6:30 – 8am PDT |  9:30 \- 11am EDT  | 2:30 – 4pm BST | 3:30 – 5pm CEST
 
-### Present:
+#### Present:
 
 * Syd Bauman (SB)  
 * Elisa Beshero-Bondar (EBB, Chair)  
@@ -18,7 +18,7 @@ date: 2026-04-24
 * Joey Takeda (JT)  
 * Raff Viglianti (RV) 
 
-### Apologies:
+#### Apologies:
 
 * Helena Bermúdez Sabel (HBS)   
 * Patricia O'Connor (TOC)
