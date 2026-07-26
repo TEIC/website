@@ -49,10 +49,8 @@ Council agrees to plan alternating P5 and P6 meetings.
   * What kinds of continued work on P5 will we do now?  
     * Is "maintenance mode" the correct term?  
           * MH: Not yet. Might take us 10 years. We have a community of users that depend on P5 and we cannot leave them in the lurch.  
-         * RV: But the work of our F2F can't be for nothing...  
-      * "Maintenance mode" gives us a chance to decide which tickets require immediate attention and which makes sense to defer.  
-      * RV: Let's not dampen our momentum.  
-      * TR: "maintenance mode" may be too strong: seems to imply that P5 will go away very soon.  
+         * RV: But the work of our F2F can't be for nothing. "Maintenance mode" gives us a chance to decide which tickets require immediate attention and which makes sense to defer. Let's not dampen our momentum.  
+      * TR: The phrasing "maintenance mode" may be too strong: seems to imply that P5 will go away very soon.  
         * What term is best to use?  
         * Or don't label it, and just continue?  
         * General agreement that the term  "maintenance mode" does not apply until we are ready to release P6.  
@@ -82,7 +80,6 @@ Council agrees to plan alternating P5 and P6 meetings.
         * SB: I have no objection to making \<place\>, \<org\>, and even \<person\> members of att.datable, but (IMHO) the use of these attributes needs to be at least explained if not exemplified in the prose of ND.  
       * MH: One comprehensive example might cover this: An \<org\> lasting from date X to date Y, which has a \<listPerson\> of directors, each of which goes from one date to another date, as well as a \<listPlace\> for its headquarters, again with each \<place\> having @from and @to.   
       * Council decides status GO and **Action on TOC** to resolve.  
-        
 
     * [\#2816](https://github.com/TEIC/TEI/issues/2816): Modify points attribute to allow third coordinate in teidata.point  
       * See [PR2821](https://github.com/TEIC/TEI/pull/2821) and the discussion  
@@ -113,4 +110,4 @@ Council agrees to plan alternating P5 and P6 meetings.
 
 #### Pull requests ready for merging?  
   * [\#2831](https://github.com/TEIC/TEI/pull/2831): Fix for issue \#2830: make `q` a member of `att.typed`  
-    * Merged during meeting
+    * Merged during meetin
