@@ -87,7 +87,7 @@ date: 2026-05-06
       * Check to see if anything breaks after resolution of related ticket [\#2306](https://github.com/TEIC/TEI/issues/2306).
         
   * [\#2821](https://github.com/TEIC/TEI/pull/2821): Adding optional third coordinate to teidata.point  
-      * Council agree to proceed with mixing 2D and 3D on the same attribute.  
+      * Council agrees to proceed with mixing 2D and 3D on the same attribute.  
       * Merged in meeting.  
       * **Action on TOC:** Add prose and examples.  
       
