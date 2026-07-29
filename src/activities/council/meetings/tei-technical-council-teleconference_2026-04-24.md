@@ -42,10 +42,10 @@ date: 2026-04-24
   * JT: It would be useful to identify a canonical home for it (as opposed to a one-time experiment by students that won't be updated).   
  * EBB: We should be able to hand it to a SIG to keep updating it.   
       * PRs and updating TBE could also be student projects.  
-* MH: Does there need to be a consensus on what constitutes good TEI?  
-      * All our current starting points are semi-adequate (for example, the Dictionary module when you’re working with a digital dictionary)  
-      * We could be providing more and better starting points, so that people won’t have to resort to tei\_all.  
-      * MH: we can teach what a good starting point is; the first thing to teach would be how to select the most appropriate blueprint(s) to start from for your purposes.  
+* MH: Does there need to be a consensus on what constitutes good TEI? 
+* All our current starting points are semi-adequate (for example, the Dictionary module when you’re working with a digital dictionary). 
+* We could be providing more and better starting points, so that people won’t have to resort to tei\_all.  
+* MH: we can teach what a good starting point is; the first thing to teach would be how to select the most appropriate blueprint(s) to start from for your purposes.  
 * RV: tei\_all wouldn't really work any more in the new system (too much dictated in it). But we do need something for general purpose / a reference implementation of the abstract model. Maybe more like TEI Lite.
 
 
@@ -73,24 +73,23 @@ date: 2026-04-24
         * Do we then have multiple abstract models of TEI, and the customizer must decide which to use?  
 
 * What should the P6 abstract model represent? Or what is an abstract model?  
-       * MH: Semantic components of texts.  
-       * Not about structural constraints. 
-       * Maybe it's just a glossary?  
-       * But it should be semantically hierarchical:   
-       * More abstract to more specific: without dictating where the elements appear.  
-       * UHK: It would be nice to have semantic modeling of relationships to help us organize the elements. Relationships could be of different kinds:  
-            * Specificity: sub- or super-ordinated concepts like in WordNet.  
-            * Structural relationships could be expressed in a semantic way: paragraph, heading, div related to each other  
-       * RV: We can model types of relations that aren't just child or parent, could also communicate belonging, positioning. Could be expressed as hierarchy or in other ways.   
+	* MH: Semantic components of texts.  
+   * Not about structural constraints. 
+   * Maybe it's just a glossary?  
+   * But it should be semantically hierarchical: more abstract to more specific, without dictating where the elements appear.  
+   * UHK: It would be nice to have semantic modeling of relationships to help us organize the elements. Relationships could be of different kinds:
+   		* Specificity: sub- or super-ordinated concepts like in WordNet.  
+       * Structural relationships could be expressed in a semantic way: paragraph, heading, div related to each other  
+   * RV: We can model types of relations that aren't just child or parent, could also communicate belonging, positioning. Could be expressed as hierarchy or in other ways.   
             * "often" , "normally", "frequently" language doesn't necessarily dictate structure but describes prototypical structure/usage/….  
-       * RV: We define relationships, and we can combine them.  
-            * Blueprints help you apply a structure. Lego analogy.  
-            * Abstract model of components (e.g. the glossary) that would be a hierarchical concept tree.   
-            * Concept graph of elements: RV: to avoid XML concepts, these could be considered as “things”, or textual phenomena.  
-            * Concept graph of types of relationships  
-            * Containment is one kind of relationship.   
-      * JT: This is an ontology we're describing like a w3c web ontology. Ontologizing helps with serializations. It's a technical step that would promote interoperability and interchange via a knowledge tree that we create for the TEI.  
-        * MH: Would be completely serializable as RDF (rather than UML).  
+   * RV: We define relationships, and we can combine them.  
+        * Blueprints help you apply a structure. Lego analogy.  
+        * Abstract model of components (e.g. the glossary) that would be a hierarchical concept tree.   
+        * Concept graph of elements: RV: to avoid XML concepts, these could be considered as “things”, or textual phenomena.  
+        * Concept graph of types of relationships  
+        * Containment is one kind of relationship.   
+    * JT: This is an ontology we're describing, like a w3c web ontology. Ontologizing helps with serializations. It's a technical step that would promote interoperability and interchange via a knowledge tree that we create for the TEI.  
+    * MH: Would be completely serializable as RDF (rather than UML).  
         * SB: RDF is an output format, not a data format. RV: but it's modeling a graph.   
         * SB: So, any of these concepts could have multiple inheritance?  
         * MH: We don't know yet.  

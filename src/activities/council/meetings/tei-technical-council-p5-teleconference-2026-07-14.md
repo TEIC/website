@@ -51,7 +51,7 @@ date: 2026-07-14
 
 #### TEI Conference / F2F Meeting updates  
   * Conference schedule: [https://tei2026.tei-c.org/schedule.html](https://tei2026.tei-c.org/schedule.html)   
-  * Treasurer is seeking estimated expenses: Diane Jackaki (in new Treasurer role) is seeking estimates of our travel expenses to help with Anticipated Expenses section of Treasurer Report at the AGM. Please respond privately to her in the Slack Board-Council channel.
+  * Treasurer is seeking estimated expenses: Diane Jackaki (in new Treasurer role) is seeking estimates of our travel expenses to help with "Anticipated Expenses"-section of Treasurer Report at the AGM. Please respond privately to her in the Slack Board-Council channel.
 
 #### “It's Time for P6” Panels at TEI and Editopia conferences
   * P6 Slides for Conferences subgroup: EBB, RV, and MS  
@@ -67,7 +67,7 @@ date: 2026-07-14
     * Ideally offer PRs to review.   
   * Teaching about customization and testing: Could some live teaching be blended with Community calls?   
     * RV and TOC to discuss further  
-    * Maybe a separate Technical Contributor series would be better  
+    * Maybe a separate "Technical Contributor"-series would be better  
   * Request for guidance on how to update styling/formatting to improve legibility of [TCW 20](https://tei-c.org/documentation/tcw20/), which will be important for the program.
 
 #### Pull Requests with meaningless whitespace changes
@@ -75,7 +75,7 @@ date: 2026-07-14
 * Could we set a policy whereby any PR for a ticket will only include changes for that ticket, and if whitespace/indents/layout of the XML is bothering you greatly, you just make those changes in a separate PR labelled “whitespace only”, to reduce the burden on people reviewing PRs? 
   * EBB thinks some of these changes come in by accident based on people's editors / operating systems.  
   * SB: Making all the glosses \+ descs go on one line used to be important for i8n translators group but we're not sure that's still active.  
-  * Council discussion: Suggest: warn us if it happens (and a lot of white space changes are making a PR difficult to review, and point out exactly which sections of a PR involve significant changes.
+  * Council discussion: warn us if it happens (and a lot of white space changes are making a PR difficult to review, and point out exactly which sections of a PR involve significant changes.
 
 
 #### P5 Tickets and PRs
@@ -84,33 +84,33 @@ date: 2026-07-14
     * [TEI PR \#2921](https://github.com/TEIC/TEI/pull/2921): `att.performed`   
       * Still need to review the recent changes
       
-    * [TEI PR \#2923](https://github.com/TEIC/TEI/pull/2923): `<death>` and `<birth>` as members of `att.locatable` (ready to merge?) — merged during mtg
+    * [TEI PR \#2923](https://github.com/TEIC/TEI/pull/2923): `<death>` and `<birth>` as members of `att.locatable` (ready to merge?) — merged during meeting
 
-  * [Stylesheets PR \#800](https://github.com/TEIC/Stylesheets/issues/800) — We should (hopefully) be able to set this to either GO without deprecation or GO with deprecation at this meeting.  
+  * [Stylesheets PR \#800](https://github.com/TEIC/Stylesheets/issues/800): We should (hopefully) be able to set this to either GO without deprecation or GO with deprecation at this meeting.  
     * EBB should comment on this carefully in the release announcement, but we don't think this needs a deprecation  
     * Merged during call.
 
-* [TEI PR \#2909](https://github.com/TEIC/TEI/pull/2909) — Set a timeout so the build does not wait forever if the website is down.  
-  * Merged during call.
+* [TEI PR \#2909](https://github.com/TEIC/TEI/pull/2909): Set a timeout so the build does not wait forever if the website is down.  
+  * Merged during meeting.
 
-* TEI PRs [\#2910](https://github.com/TEIC/TEI/pull/2910) & [\#2911](https://github.com/TEIC/TEI/pull/2911) — Regularize Schematron msgs.  
+* TEI PRs [\#2910](https://github.com/TEIC/TEI/pull/2910) & [\#2911](https://github.com/TEIC/TEI/pull/2911): Regularize Schematron msgs.  
   * We merged \#2910, but what about \#2911?  
   * Fix the conflicts; then merge (SB or TR).
 
-* [TEI PR \#2901](https://github.com/TEIC/TEI/pull/2901) — Improved wording around `<application>` and `<appInfo>`.  
+* [TEI PR \#2901](https://github.com/TEIC/TEI/pull/2901): Improved wording around `<application>` and `<appInfo>`.  
   * Good for TR to merge.
 
-* [TEI PR \#2855](https://github.com/TEIC/TEI/pull/2855) — `oddDecl` elements only belong in ODD stuff; by now the deprecation date should probably be shifted forward  
+* [TEI PR \#2855](https://github.com/TEIC/TEI/pull/2855): `oddDecl` elements only belong in ODD stuff; by now the deprecation date should probably be shifted forward  
   * SB to fix the conflicts and merge before the release.  
   
-* TEI PR \#2888:  
+* [TEI PR \#2888](https://github.com/TEIC/TEI/pull/2888):  
    * HBS and SB to review and try to prepare for the July release  
    * TEI [https://github.com/TEIC/TEI/issues/2837](https://github.com/TEIC/TEI/issues/2837)   
     * Raff to add sentence to TAGDOCS to resolve for 4.12 release.
 
 
 #### Council Preparation for the P6 meeting on Thurs 07-16 
-from June P6 meeting notes:  
+From June P6 meeting notes:  
   * Continue experimenting with modeling `bibl` and other TEI concepts, but also consult the P5 Guidelines to understand the reasons/backgrounds for modeling them as they are now.  
     * See for example notes for Library Catalogers in [https://www.tei-c.org/release/doc/tei-p5-doc/en/html/HD.html\#HD8](https://www.tei-c.org/release/doc/tei-p5-doc/en/html/HD.html#HD8).   
     * Think about which parts of nesting are conceptual and which are due to content model constraints (that don’t make sense to us now)  

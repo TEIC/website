@@ -60,12 +60,12 @@ date: 2026-06-24
     * Should we try not to let UML syntax itself overly influence what we're doing?  
   * Are we modeling a markup language or bibliography itself?
 
-#### Relationship of P5 to P6 (with example of `<bibl>`)
+#### Relationship of P5 to P6 (with example of `bibl`)
 
-* We can continue experimenting with modeling bibl and other things, but also consult the P5 Guidelines to understand the reasons/backgrounds for modeling them as they are now.  
+* We can continue experimenting with modeling `bibl` and other things, but also consult the P5 Guidelines to understand the reasons/backgrounds for modeling them as they are now.  
   * See for example: [https://www.tei-c.org/release/doc/tei-p5-doc/en/html/HD.html\#HD8](https://www.tei-c.org/release/doc/tei-p5-doc/en/html/HD.html#HD8)   
 * UHK: Think about which parts of nesting are conceptual and which are due to content model constraints (especially constraints that don't make sense to us now).
     * Allowing `bibl` to nest is for scenarios that help with specifying chapters within a larger text.   
-    * MH: My understanding of one reason why bibl nests in P5 is because, while in reality a book contains chapters, in a traditional bibliographical citation for a chapter, we put the information for the containing work inside the information for the target chapter. So you might have a `bibl` for a complete book, listing its editors, which is cited for itself; then you might cite a specific chapter, with its title and authors, and inside that you need to also supply the information for the containing work, so you just drop that in as a nested `bibl`. So to resolve this reference, you first have to resolve the reference to the containing text, and then in that context you can further resolve the location of the contained chapter. 
+    * MH: My understanding of one reason why `bibl` nests in P5 is because, while in reality a book contains chapters, in a traditional bibliographical citation for a chapter, we put the information for the containing work inside the information for the target chapter. So you might have a `bibl` for a complete book, listing its editors, which is cited for itself; then you might cite a specific chapter, with its title and authors, and inside that you need to also supply the information for the containing work, so you just drop that in as a nested `bibl`. So to resolve this reference, you first have to resolve the reference to the containing text, and then in that context you can further resolve the location of the contained chapter. 
     * MH: Physical addresses do this not by nesting but by sequence – in the west, street then town then country, or in Japan the reverse: country then town then street. But the inference is that each is contained in the one before or after it.
 

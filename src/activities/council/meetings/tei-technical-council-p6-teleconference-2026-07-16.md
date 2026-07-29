@@ -57,20 +57,20 @@ date: 2026-07-16
   * Pure ODD draws a line between Schematron and Relax NG  
   * Schematron was a way of indicating a mistake in pure ODD.  
   * Devil's advocate for ODD: One advantage of Pure ODD is having full control. The idea of class membership is a little anti-pattern. Not necessarily unique to TEI but not seen very often. The P5 abstract model had to be force-fit into Relax NG.  
-      * SB: there was a line between the two but it went both ways. Relax NG could still refer to a class: rng:ref.   
+      * SB: there was a line between the two but it went both ways. Relax NG could still refer to a class with rng:ref.   
       * MH, RV: But Relax NG is all patterns, doesn't know about model classes. It just includes patterns, not indicating that the pattern is defined by that.  
   * Model classes: an attempt to introduce more abstraction in the TEI content model that didn't go far enough?  
      * P4 organized elements in modules and modules descend from chapters which is kind of a membership thing. We had classes in P4 too. Classes had members. Classes declared members, not the other way around. The reversal of that in P5 was difficult to get used to.  
-     * Class membership--was it an attempt to add more abstraction to the abstract model?  
+     * Class membership –– was it an attempt to add more abstraction to the abstract model?  
      * RV: There's a history of trying to make things abstract, and we need to remember it in our new work.  
   * The abstraction we want is for the abstract model, NOT the schema spec. 
 
 ##### Actively relating P5 to P6
   * RV: Maybe a specific team should work on ideas and definitions that we care about in P5 and construct them in something like [schema.org](http://schema.org) . Some other team can work on the mechanisms that help us with the infrastructure for generating content models, schemas, the work that ODD does.  
-  * Maybe we know what this ODD-like thing should NOT look like from ATOP! But it's difficult to see an alternative path. Annotating Relax NG might work?   
+  * Maybe we know what this ODD-like thing should *not* look like from ATOP! But it's difficult to see an alternative path. Annotating Relax NG might work?   
   * RV: We want something that will generate more than XML schemas.  
   * MH: We need to choose an expression language.  
-  * General agreement :ODD has been such a preoccupation and it's hard for us on Council to imagine alternatives: Council members have expertise in this area that's hard to step away from.  
+  * General agreement: ODD has been such a preoccupation and it's hard for us on Council to imagine alternatives. Council members have expertise in this area that's hard to step away from.  
   * But maybe we need to succeed in stepping back to see it from a distance as if it's new.  
   * EBB: Could Relax NG help us with alternative serializations? Relax NG could be abstracted, but it's for trees.  
   * We recall Elena Pierazzo's keynote address in the mid 2010s on need to serialize TEI in alternative ways  
@@ -95,15 +95,15 @@ date: 2026-07-16
   
 ##### Idea for a Customization / Blueprint Repository for P5 and P6 
   * Peter Stadler's idea for an ODD repository / registry was for P5. But that would forfeit the opportunity to improve the abstract model  
-    * But should we *start* with this customization infrastructure--an ODD repository for finding, registering and using blueprints for P5...?  
+    * But should we *start* with this customization infrastructure –– an ODD repository for finding, registering and using blueprints for P5...?  
     * ...and then move on to modeling blueprints there in P6. 
     * Do this if we need this infrastructure for the vision work for the community 
  
   * EBB: Perhaps we can start a repository for either kind of customizations now? The mechanism for sharing material could be in place first. 
-  * MH: Likes the ODD registry repo, but there's a big difference between a highly specific project ODD and a more generic blueprint for the wider world. A larger repo of bespoke project customizations. 
+  * MH: I like the ODD registry repo, but there's a big difference between a highly specific project ODD and a more generic blueprint for the wider world. A larger repo of bespoke project customizations. 
   * EBB: ODDs for DRACOR and correspSearch might be good models for more general customizations.   
   * RV: Who would make these generic customizations?   
-  * Answer: Mostly we (Council) would--because we're in the position of seeing how to make specialized things generic.  
+  * Answer: Mostly we (Council) would –– because we're in the position of seeing how to make specialized things generic.  
   * TR: DRACOR, correspSearch, German Text Archive: these projects are maintainers of their own schemas and we shouldn't take control of that away from them. How would we manage this so they maintain control of their schemas?   
       * EBB: I think we'd invite the maintainers to contribute their work as blueprints / starting points and still maintain responsibility. Just inviting them to register their ODDs as a contribution to the TEI, and (MH): also representing these as good starting points for beginners.  
      * TR: Such schemas are such starting points now, and TEI can provide others. Would it cause confusion about the blueprints for drama, correspondence that are already well accepted in the community? Would there be an adoption process of these products from the community.    
@@ -112,13 +112,13 @@ date: 2026-07-16
       * MS: Remember the idea of the "Council-approved" flag that we came up with in Würzburg? Council can offer experienced vetting of customizations.  
   * RV: ODD-API idea (not yet developed): [https://explore.openaire.eu/search/result?pid=10.5281%2Fzenodo.17165495](https://explore.openaire.eu/search/result?pid=10.5281%2Fzenodo.17165495)   
   * SB: But are we letting the perfect be the enemy of the good? Why not EBB's idea to make a repo and just collect a few? To do it correctly may take years.  
-        * RV: Has anyone collected ODDs?   
-        * MH: As a preliminary for P6 work it's reasonable to collect ODDs to review them and examine them to see patterns of customization and pain points in P5  
-        * Could give birth to a repo of P5 ODDs.  
-        * SB: We have a collection of ODDs in ATOP already.  
-        * SB: The first actual TEI organizational effort to collect ODDs was in 1997 and they were called extensions then. It wasn't a raging success.  
-        * JT's efforts to collect ODDs: (in Slack 2025\) [https://tei-c.slack.com/archives/C08909H95QW/p1774483544107909](https://tei-c.slack.com/archives/C08909H95QW/p1774483544107909)  
-        * RV: This only makes sense in relation to P6 because we've identified an infrastructure to share and use others’ customizations as fundamental to its success. We would want to establish this from a modeling perspective  
+       * RV: Has anyone collected ODDs?   
+       * MH: As a preliminary for P6 work it's reasonable to collect ODDs to review them and examine them to see patterns of customization and pain points in P5  
+       * Could give birth to a repo of P5 ODDs.  
+       * SB: We have a collection of ODDs in ATOP already.  
+       * SB: The first actual TEI organizational effort to collect ODDs was in 1997 and they were called extensions then. It wasn't a raging success.  
+       * JT's efforts to collect ODDs: (in Slack 2025\) [https://tei-c.slack.com/archives/C08909H95QW/p1774483544107909](https://tei-c.slack.com/archives/C08909H95QW/p1774483544107909)  
+       * RV: This only makes sense in relation to P6 because we've identified an infrastructure to share and use others’ customizations as fundamental to its success. We would want to establish this from a modeling perspective.  
     * We should create an ODD repository immediately as a precursor to P6, so that we can a) collect current ODDs as an input to the P6 modelling work, and b) provide a useful resource for P5 users now.  
     * EBB: We need to clarify that we’re not necessarily offering these as models, so nobody needs to be ashamed of their ODD.   
     * MH: We might want to offer two models of submission, so you can volunteer to share your ODD with everyone or to keep it private to Council.
@@ -156,7 +156,7 @@ date: 2026-07-16
       * P6 should separate concept from serialization.   
           * XML stays the primary format, but the abstract model should be expressible in graph forms (e.g. JSONLD)  
           * TR: "TEI becomes a negotiator between a standardized vocabulary and an implemented data format."  
-      * Context-sensitive content models (`<p>` in `<body>` versus `<teiHeader>`)  
+      * Context-sensitive content models (`p` in `body` versus `teiHeader`)  
       * Customization becomes the center.  
       * P6 should provide a layered architecture: abstract model \-\> blueprints \-\> customizations (or chained blueprints)  
       * But this adds another layer / complexity for how people think about the TEI. How does this make things easier?  
@@ -166,12 +166,12 @@ date: 2026-07-16
           * SB: The new thing is that a blueprint permits a user to customize the abstract model. RV: That only works if the abstract model is more abstract than it is now. You can create divergent TEIs that are still working with the same concepts.   
           * TR: If I start from a registered blueprint that will make things easier. 
 
-       * This will be part that may seem most problematic –if P6 seems not that different from customizing P5, really.  
+       * This will be part that may seem most problematic –– if P6 seems not that different from customizing P5, really.  
       * P6 needs to reduce and rationalize  
           * Fewer elements  
           * Lighter structure (JT points to [schema.org](http://schema.org) as example)  
       * ODD processing must be replaced or radically simplified; above all, it must be clearly specified.  
-     * The speed of updates to P5 may decrease as we devote energy to P6. Analogy of Python 2 and Python 3: Co-eval development, but the way we develop P5 will necessarily change b/c we're working on / thinking about P6. This will take a long time before P5 is set to something like "maintenance mode."
+     * The speed of updates to P5 may decrease as we devote energy to P6. Analogy of Python 2 and Python 3: Co-eval development, but the way we develop P5 will necessarily change because we're working on / thinking about P6. This will take a long time before P5 is set to something like "maintenance mode" (or "consilidation mdoe").
 
 ##### Review of Council's  main points of disagreement about P6 so far  
       
@@ -181,30 +181,30 @@ date: 2026-07-16
 * Whether P5 can be expressed entirely in P6 (as opposed to a P5 schema can be created from scratch using P6 specification mechanisms)  
 
 * Pace: do we have a “big idea” for P6 ?  
-        * Do we need more thinking and inspiration from outside domains or are we ready to proceed based on the main points of agreement above?  
+     * Do we need more thinking and inspiration from outside domains or are we ready to proceed based on the main points of agreement above?  
 * Metadata/data separation.   
-      * SB: wants it strict and sharply defined  
-      * MH: "an already lost argument"  
+     * SB: wants it strict and sharply defined  
+     * MH: “an already lost argument”  
  * RV proposed “scopes” at abstract level, but TR would push the distinction down to the blueprint level. 
 * What does a “blueprint” even mean, in practice?  
-      * JT: Like a customization  
-     * RV: Like a middle layer (interpretations of the abstract model, targeting a format)  
+    * JT: Like a customization  
+    * RV: Like a middle layer (interpretations of the abstract model, targeting a format)  
 * Levels of prescriptiveness  
-      * HBS "80% conformant" damages grant applications  
-      * Perspective that most users do not customize (source??)  
-       * TR fears losing the “basic TEI literacy” if P6 changes too drastically.  
-        * MH and JT want constraint moved out of the abstract layer entirely  
+    * HBS "80% conformant" damages grant applications  
+    * Perspective that most users do not customize (source??)  
+    * TR fears losing the “basic TEI literacy” if P6 changes too drastically.  
+    * MH and JT want constraint moved out of the abstract layer entirely  
  * Should P5 be expressible in P6?  
-        * James: it should be a design requirement (RV: this seems untenable to me)  
-        * RV: it should be possible to build P5 as a blueprint out of a new abstract model (with additions at blueprint level like restoring numbered divs)  
+    * James: it should be a design requirement (RV: this seems untenable to me)  
+    * RV: it should be possible to build P5 as a blueprint out of a new abstract model (with additions at blueprint level like restoring numbered divs)  
 * Underdeveloped but important points of discussion: 
-      * P6 should have better integration with existing standards  
-          * Mentions of DTS, HTML \+ RDFa (MH, RV: "making TEI work in the browser immediately, without CETEIcean, would be wonderful")
-          *  MH "will need to be more explicitly linked to concepts defined in other ontologies and taxonomies," with machine-checkable rationales.  
+    * P6 should have better integration with existing standards  
+    * Mentions of DTS, HTML \+ RDFa (MH, RV: "making TEI work in the browser immediately, without CETEIcean, would be wonderful")
+    *  MH "will need to be more explicitly linked to concepts defined in other ontologies and taxonomies," with machine-checkable rationales.  
 * Feasibility – is P6 worth it?  
-      * SB: “if P6 is harder to maintain than P5, don't do it”  
-      * Median user (tei\_allers) gains little from a cleaner abstract model unless the tooling layer (Roma successor, blueprint repository system) is executed well.  
-      * P6's value case may currently be strongest for maintainers and expert customizers, but weakest for the silent majority.  
+    * SB: “if P6 is harder to maintain than P5, don't do it”  
+    * Median user (tei\_allers) gains little from a cleaner abstract model unless the tooling layer (Roma successor, blueprint repository system) is executed well.  
+    * P6's value case may currently be strongest for maintainers and expert customizers, but weakest for the silent majority.  
       
 #### Slide prep subgroup  
   * EBB has launched a repo in TEIC space for the slide deck via [reveal.js](http://reveal.js) \+ gh-pages: [https://github.com/TEIC/timeForP6](https://github.com/TEIC/timeForP6)   

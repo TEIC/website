@@ -62,7 +62,7 @@ Council agrees to plan alternating P5 and P6 meetings.
             * If we put too much work into P5, is it more difficult to develop and migrate to P6?  
             * Or can we do work on P5 that helps align with priorities for P6 and not significantly complicate migration to P6. For example: working on the critical apparatus module requires making some significant changes, and we can use this as a starting point for thinking about what the CA *should* do, even implementing it should wait til P6.  
         * Keep in mind future P6 alignment.  EB suggests: "Consolidation mode"?   
-        * Council would have several parallel tracks in active progress: 
+        	* Council would have several parallel tracks in active progress: 
              1. P5 consolidation mode; 
              1. P5 module work with P6 alignment in mind (like work on the CA); 
              1. P6 preparations like the abstract model, formal specification, etc.  
@@ -110,4 +110,4 @@ Council agrees to plan alternating P5 and P6 meetings.
 
 #### Pull requests ready for merging?  
   * [\#2831](https://github.com/TEIC/TEI/pull/2831): Fix for issue \#2830: make `q` a member of `att.typed`  
-    * Merged during meetin
+    * Merged during meeting

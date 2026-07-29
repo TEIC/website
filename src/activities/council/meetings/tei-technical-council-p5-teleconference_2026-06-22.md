@@ -52,7 +52,7 @@ date: 2026-06-22
 
 #### TEI Conference / F2F Meeting updates  
   * Tentative schedule : [https://tei2026.tei-c.org/schedule.html](https://tei2026.tei-c.org/schedule.html)   
-  * Discussion / request to move Council's panel ("It's TIme for P6") to a later moment in the conference to make sure we can all attend and are in good shape to present. [Panel was rescheduled later thanks to JT and conference organizers!]
+  * Discussion / request to move Council's panel ("It's Time for P6") to a later moment in the conference to make sure we can all attend and are in good shape to present. [Panel was rescheduled later thanks to JT and conference organizers!]
   * Council F2F arrangements / locations at SFU discussed.
       
 #### ATOP presentations + discussion:   
@@ -80,7 +80,7 @@ date: 2026-06-22
   * Arrange a task force between Board and Council members to work on fundraising / grant writing for P6.
 
 #### Council Homework for the P6 meeting on Wed 06-24
- Each of us will make an abstract model for bibliography in UML, and (if we feel up to it), take to to blueprint expression for encoding a bibliographic record. 
+ Each of us will make an abstract model for bibliography in UML, and (if we feel up to it), take to blueprint expression for encoding a bibliographic record. 
 
 
   
