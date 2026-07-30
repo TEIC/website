@@ -186,9 +186,4 @@ This
 * Continue discussion and investigate new approaches, via Wiki and Listserv
 	+ Wiki: The Wiki is located at [http://www.tei\-c.org/wiki/index.php/SIG:Overlap](http://www.tei-c.org/wiki/index.php/SIG:Overlap). It currently acts as a review of approaches
 	 to OL, and also as a bibliography. Anyone can add to or edit the Wiki page.
-	+ Listserv: to join the listserv, register at [http://listserv.brown.edu/tei\-ol\-sig.html](http://listserv.brown.edu/tei-ol-sig.html)
-
-
-
-
-
+	+ Listserv: to join the listserv, register at `http://listserv.brown.edu/tei-ol-sig.html`

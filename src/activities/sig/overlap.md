@@ -31,9 +31,9 @@ It will do this by:
 The SIG is convened by Dorothy Carr Porter.
 
 
-The SIG runs a mailing list on this topic. To join visit
- [http://listserv.brown.edu/tei\-ol\-sig.html](http://listserv.brown.edu/tei-ol-sig.html)
 
+The SIG runs a mailing list on this topic. 
+[was: `http://listserv.brown.edu/tei-ol-sig.html`]
 
 
 

@@ -232,7 +232,7 @@ SIGs
 **2023**
 * **Co-convenors: Raff Viglianti & Torsten Roeder**
 	+ Provide a catalyst for projects combining text and music notation
-	+ Join the [mailing list](sendto:tei-music-sig@listserv.brown.edu)!
+	+ Join the mailing list [was: `tei-music-sig@listserv.brown.edu`]!
 
 
 ### TEI for Linguists SIG (LingSIG)

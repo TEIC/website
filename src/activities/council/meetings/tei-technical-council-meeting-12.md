@@ -78,7 +78,8 @@ TEI Council Teleconference Draft Minutes 2014\-08\-01
 Reminder to feed back thoughts on CorrespDesc (PWS)
  Some feedback has been
  submitted, keep it up! Discussion on TEI\-CORRESP\-SIG list suggests that the spec
- is still in flux. List archive: [https://listserv.brown.edu/?A0\=TEI\-CORRESP\-SIG](https://listserv.brown.edu/?A0=TEI-CORRESP-SIG). LB: Is
+ is still in flux. List archive: 
+<https://lists.psu.edu/cgi-bin/wa?A0=TEI-CORRESP-SIG>. LB: Is
  anyone looking at what CMC SIG is doing? JC looked at this before Rome meeting.
  LB believes their proposals are getting more mature, and there is substantial
  overlap. JC: We suggested to PWS that he contact them; we should make sure that

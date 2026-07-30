@@ -357,7 +357,7 @@ In addition, I have been active in promoting the TEI in various forums,
 * Invited presentation at a seminar on [Online
  Access to Qualitative Data](http://www.esds.ac.uk/news/eventdetail.asp?ID=1031) held at the Royal Statistical
  Society, London
-* Presentation on TEI Feature Structures at [LREC 2004](https://listserv.brown.edu/archives/cgi-bin/wa?A2=ind0405&L=tei-l&P=R5460)
+* Presentation on TEI Feature Structures at [LREC 2004](https://lists.psu.edu/cgi-bin/wa?A2=ind0405&L=tei-l&P=R5460)
 * Invited plenary on digital editing at a [Workshop on
  editing in the Digital medium](http://www.zrc-sazu.si/slolit/posvetov.htm) at the Institute of Slovenian
  Literature, Ljubljana

@@ -171,11 +171,10 @@ Planning Board Activities for the Final Quarter of 2018
 * Models: see old letters (MD)
 * **KT/MS to draft** with aid of volunteers
 * Examples from 2015 and 2016:
-	+ [https://listserv.brown.edu/archives/cgi\-bin/wa?A2\=ind1702\&L\=TEI\-L\&P\=R11940\&X\=5D1AAFF6A4CBAE0BCC\&Y\=mdalmau%40indiana.edu](https://listserv.brown.edu/archives/cgi-bin/wa?A2=ind1702&L=TEI-L&P=R11940&X=5D1AAFF6A4CBAE0BCC&Y=mdalmau@indiana.edu)
-	+ [https://listserv.brown.edu/archives/cgi\-bin/wa?A2\=ind1512\&L\=TEI\-L\&P\=R8125\&X\=5D1AAFF6A4CBAE0BCC\&Y\=mdalmau%40indiana.edu](https://listserv.brown.edu/archives/cgi-bin/wa?A2=ind1512&L=TEI-L&P=R8125&X=5D1AAFF6A4CBAE0BCC&Y=mdalmau@indiana.edu)
+	+ <https://lists.psu.edu/cgi-bin/wa?A2=ind1702&L=TEI-L&P=R11940&X=5D1AAFF6A4CBAE0BCC&Y=mdalmau@indiana.edu>
+	+ <https://lists.psu.edu/cgi-bin/wa?A2=ind1512&L=TEI-L&P=R8125&X=5D1AAFF6A4CBAE0BCC&Y=mdalmau@indiana.edu>
 
 
- 
 ### Communication Board to Community
 
 
@@ -221,7 +220,6 @@ We discussed the following questions as possibilities:
 		- Service and Member Benefit in partnership with APEX in which the TEI\-C serves as an aggregator for the outsourcing of digitization and encoding (following TEI Tite guidelines).
 
 
- 
 * **KT to check status of TEI Access with John Unsworth**
 
 
@@ -256,6 +254,3 @@ Any other business
 
 
 none
- 
-
-

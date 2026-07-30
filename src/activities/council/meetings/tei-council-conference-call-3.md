@@ -168,8 +168,8 @@ MD \& DP
 
 LB
 * + Discussion deferred. Note: this item was accomplished,
-	 DP \& MD are now on the [PB
-	 list](https://listserv.brown.edu/archives/tei-pb.html) — SB
+	 DP \& MD are now on 
+	the PB list [was: `https://listserv.brown.edu/archives/tei-pb.html`] — SB
 
 
 MZ: Check whether the monies personography has not
