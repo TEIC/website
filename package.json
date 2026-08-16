@@ -20,9 +20,9 @@
     "bootstrap": "^5.3.7",
     "bootstrap-icons": "^1.13.1",
     "CETEIcean": "^1.9.5",
-    "highlight.js": "^11.11.1",
+    "highlight.js": "^11.12.0",
     "jsdom": "^29.1.1",
-    "markdown-it-attrs": "^5.0.0",
-    "sass": "^1.89.2"
+    "markdown-it-attrs": "^5.0.1",
+    "sass": "^1.102.0"
   }
 }
