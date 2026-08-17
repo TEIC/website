@@ -5,7 +5,16 @@ tags: page
 ---
 ## Board of Directors
 
-The TEI [Board of Directors](/about/board-of-directors/) is the governing body for the TEI Consortium, and is responsible for its strategic and financial oversight. The Board consists of five voting members who are elected to staggered two-year terms by the TEI membership at the Annual Meeting, and several nonvoting members potentially drawn from outside the elected membership: the Membership Secretary, the Treasurer, the TEI webmaster, and the chair of the TEI Technical Council. The Board meets once a year in person, immediately following the Annual Meeting, and holds meetings via teleconferencing software on a regular basis.
+The TEI [Board of Directors](/about/board-of-directors/) is the governing 
+body for the TEI Consortium, and is responsible for its strategic and 
+financial oversight. 
+The Board consists of five voting members who are elected to staggered 
+two-year terms by the TEI membership at the Annual Meeting, and several 
+nonvoting members potentially drawn from outside the elected membership: 
+the Membership Secretary, the Treasurer, the TEI webmaster, and the chair 
+of the TEI Technical Council. 
+The Board meets once a year in person, immediately following the Annual 
+Meeting, and holds meetings via teleconferencing software on a regular basis.
 
 ## Meetings of the Board
 * 14 August 2026: TEI2026 AGM Slides ([slides](../../files/TEI2026_AGM-slides.pdf))
@@ -20,7 +29,7 @@ The TEI [Board of Directors](/about/board-of-directors/) is the governing body f
 * 14 November 2025: Zoom ([minutes](minutes-from-tei-board-meeting-2025-11-14/))
 * 24 October 2025: Zoom ([minutes](minutes-from-tei-board-meeting-2025-10-24/))
 * 19 September 2025: In Person AGM Slides ([slides](../../files/TEI2025_AGM_Slides.pdf))
-* 17 September 2025: In Person Joint Council and Board Meeting ([minutes](minutes-from-tei-board-meeting-2025-09-17/)) 
+* 17 September 2025: In Person Joint Council and Board Meeting ([minutes](minutes-from-tei-board-meeting-2025-09-17/))
 * 20 August 2025: Zoom ([minutes](minutes-from-tei-board-meeting-2025-08-20/))
 * 24 July 2025: Zoom ([minutes](minutes-from-tei-board-meeting-2025-07-24/))
 * 27 June 2025: Zoom ([minutes](/activities/board/minutes-from-tei-board-meeting-2025-06-27/))
@@ -134,14 +143,14 @@ The TEI [Board of Directors](/about/board-of-directors/) is the governing body f
 
 ---
 
-* 13-14 Nov 2010: face to face meeting, Zadar ([agenda](/activities/board/bm40a.xml) and [minutes](/activities/board/bm40.xml))
+* 13–14 Nov 2010: face to face meeting, Zadar ([agenda](/activities/board/bm40a.xml) and [minutes](/activities/board/bm40.xml))
 * 07 May 2010: conference call ([agenda](/activities/board/bm39a.xml) and [minutes](/activities/board/bm39.xml))
 * 08 February 2010: conference call ([agenda](/activities/board/bm38a.xml) and [minutes](/activities/board/bm38.xml))
 * 01 February 2010: conference call ([agenda](/activities/board/bm37a.xml) and [minutes](/activities/board/bm37.xml))
 
 ---
 
-* 14-15 November 2009: face to face meeting, University of Michigan ([agenda](/activities/board/bm36a.xml) and [minutes](/activities/board/bm36.xml))
+* 14–15 November 2009: face to face meeting, University of Michigan ([agenda](/activities/board/bm36a.xml) and [minutes](/activities/board/bm36.xml))
 * 08 October 2009: conference call ([agenda](/activities/board/bm35a.xml) and [minutes](/activities/board/bm35.xml))
 * 14 July 2009: conference call ([agenda [amended]](/activities/board/bm34a.xml) and [minutes](/activities/board/bm34.xml))
 * 18 May 2009: conference call ([agenda](/activities/board/bm33a.xml) and [minutes](/activities/board/bm33.xml))
@@ -164,39 +173,39 @@ The TEI [Board of Directors](/about/board-of-directors/) is the governing body f
 * 5 October 2007: conference call ([agenda](/activities/board/bm22a.xml) and [minutes](/activities/board/bm22.xml))
 * 4 May 2007: conference call ([agenda](/activities/board/bm21a.xml) and [minutes](/activities/board/bm21.xml))
 * 29 January 2007: conference call ([agenda](/activities/board/bm20a.xml) and [minutes](/activities/board/bm20.xml))
-* 
-* 
-* 
+
+---
+
 * 13 December 2006: conference call ([minutes](/activities/board/bm19.xml))
 * 29 October 2006: meeting in Victoria ([agenda](/activities/board/bm18a.xml) and [minutes](/activities/board/bm18.xml))
 * 12 October 2006: conference call ([agenda](/activities/board/bm17a.xml) and [minutes](/activities/board/bm17.xml))
 * 9 May 2006: conference call ([agenda](/activities/board/bm16a.xml) and [minutes](/activities/board/bm16.xml))
 * 24 January 2006: conference call ([agenda](/activities/board/bm15a.xml) and [minutes](/activities/board/bm15.xml))
 * 24 January 2006: conference call ([agenda](/activities/board/bm15a.xml) and [minutes](/activities/board/bm15.xml))
-* 
-* 
-* 
+
+---
+
 * 30 October 2005: meeting in Sofia ([agenda](/activities/board/bm14a.xml) and [minutes](/activities/board/bm14.xml))
 * 21 July 2005: conference call ([minutes](/activities/board/bm13.xml))
-* 
-* 
-* 
+
+---
+
 * 24 October 2004: meeting in Baltimore ([minutes](/activities/board/bm12.xml))
-* 
-* 
-* 
+
+---
+
 * 8 November 2003: meeting in Nancy ([agenda](/activities/board/bm11a.xml) and [minutes](/activities/board/bm11.xml))
 * 19 June 2003: conference call ([agenda](/activities/board/bm09.xml) and [minutes](/activities/board/bm10.xml))
-* 
-* 
-* 
+
+---
+
 * 12 October 2002: meeting in Chicago ([agenda](/activities/board/bm07.xml) and ([minutes](/activities/board/bm08.xml))
-* 9-10 May 2002: meeting in Prague ([agenda](/activities/board/bm03a.xml) and ([minutes](/activities/board/bm06.xml))
+* 9–10 May 2002: meeting in Prague ([agenda](/activities/board/bm03a.xml) and ([minutes](/activities/board/bm06.xml))
 
+---
 
-
-* 16-17 November 2001: meeting in Pisa ([minutes](/activities/board/text-encoding-intiative-consortium-minutes-of-the-board-of-directors-meeting-saturday-november-17-2001-grand-hotel-duomo-pisa-italy/))
-* 11-12 May 2001: meeting in Tingveken, Norway ([minutes](/activities/board/bm01.xml))
+* 16–17 November 2001: meeting in Pisa ([minutes](/activities/board/text-encoding-intiative-consortium-minutes-of-the-board-of-directors-meeting-saturday-november-17-2001-grand-hotel-duomo-pisa-italy/))
+* 11–12 May 2001: meeting in Tingveken, Norway ([minutes](/activities/board/bm01.xml))
 
 
 
