@@ -9,6 +9,13 @@ The TEI Board of Directors is the governing body for the TEI Consortium, and is 
 
 ## Current Board of Directors Members
 
+### Elected members: term January 2027 through December 2029
+**Gimena del Rio Riande**
+Researcher, Seminario de Edicion y Critica Textual (SECRIT-IIBICRIT), External Professor at LINHD-UNED (Madrid) and at the University of Buenos Aires: gdelrio AT conicet.gov.ar
+
+**Christine Routolo**
+Director, Research in the Arts and Humanities at the University of Virginia Library: cjr2q AT virginia.edu
+
 ### Elected members: term January 2026 through December 2028
 
 **[Dimitra Grigoriou](https://www.oeaw.ac.at/en/ihb/people/grigoriou-dimitra)**
