@@ -17,13 +17,11 @@ Apologies: Magdalena Turska
   
 *   Conference Updates
        * TEI2026 Update 
-           * James, Diane, and Connie will meet with Emily Murphy who has expressed interest in being PC chair
-
+           * James will meet with Emily Murphy who has expressed interest in being PC chair
 
 *   Membership Drive
     * James Cummings will canvas feedback from the board and council on a membership structure survey
-    * Will send the survey to the membership on the 19th, with a reminder the new year to fill it in. 
-
+    * Will send the survey to the membership soon, with a reminder the new year to fill it in. 
 
 *   Council Report 
     * Spring face-to-face may be in Würzburg
@@ -31,10 +29,8 @@ Apologies: Magdalena Turska
     * Considering revising the technical process behind the guideline release.
     * We can task SIGs with P6-related tasks, the Board and Council can work on grant funding (P6 likely to roll out in decade)
 
-
 * Finances
     * The Jagiellonian University will join as an institutional member, U Virginia and Hamburg Science Academy have left 
-
  
  * TEI Projects Page 
     *  May ask for volunteers to curate our list of older projects; could add a banner to the current list to say when it was last updated

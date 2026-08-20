@@ -15,7 +15,7 @@ The TEI [Board of Directors](/about/board-of-directors/) is the governing body f
 * 20 March 2026: _Pending_
 * 20 February 2026: _Pending_
 * 23 January 2026: _Pending_
-* 12 December 2025: _Pending_
+* 12 December 2025: Zoom ([minutes](minutes-from-tei-board-meeting-2025-12-12/)
 * 14 November 2025: Zoom ([minutes](minutes-from-tei-board-meeting-2025-11-14/))
 * 24 October 2025: Zoom ([minutes](minutes-from-tei-board-meeting-2025-10-24/))
 * 19 September 2025: In Person AGM Slides ([slides](../files/TEI2025_AGM_Slides.pdf))
