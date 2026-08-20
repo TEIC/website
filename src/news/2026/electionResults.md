@@ -1,5 +1,5 @@
 ---
-title: "Results of TEI-C Elections 2026"
+title: "Results of Elections 2026"
 date: 2026-08-20
 tags: news
 ---
