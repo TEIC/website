@@ -8,6 +8,7 @@ tags: page
 The TEI [Board of Directors](/about/board-of-directors/) is the governing body for the TEI Consortium, and is responsible for its strategic and financial oversight. The Board consists of five voting members who are elected to staggered two-year terms by the TEI membership at the Annual Meeting, and several nonvoting members potentially drawn from outside the elected membership: the Membership Secretary, the Treasurer, the TEI webmaster, and the chair of the TEI Technical Council. The Board meets once a year in person, immediately following the Annual Meeting, and holds meetings via teleconferencing software on a regular basis.
 
 ## Meetings of the Board
+* 14 August 2026: TEI2026 AGM Slides ([slides](../../files/TEI2026_AGM-slides.pdf))
 * 17 July 2026: Slack Huddle ([minutes](board-meeting_2026-07-17/))
 * 19 June 2026: Slack Huddle ([minutes](board-meeting_2026-06-19/))
 * 15 May 2026: Slack Huddle ([minutes](board-meeting_2026-05-15/))
