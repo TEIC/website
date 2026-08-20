@@ -8,7 +8,7 @@ The TEI Consortium is pleased to announce the results of the [TEI-C annual elect
 
 All members of the TEI-C Consortium are able to vote in the TEI-C elections for Board of Directors and Technical Council.
 
-There were three people standing for the two open positions on the Board of Directors. Those accepting the nomination were Gimena del Rio Riande, Torsten Roeder, and Christine Ruotolo. Those successfully elected to Board of Directors were: Gimena del Rio Riande and Christine Ruotolo. 
+There were three people standing for the two open positions on the Board of Directors. Those accepting the nomination were Gimena del Rio Riande, Torsten Roeder, and Christine Ruotolo. Torsten Roeder was successfully elected, but stepped aside. Those successfully elected to Board of Directors were: Gimena del Rio Riande and Christine Ruotolo. 
 
 We had eleven people standing for the four open positions on the Technical Council. Those accepting the nomination were: Syd Bauman, Roman Bleier, Selina Galka, Dario Kampkaspar, Chiara Martignano, Elsa Pereira, Ariane Pinche, Torsten Roeder, Joey Takeda, Raffaele Viglianti, and Yifan Wang. Those successfully re-elected were: Syd Bauman, Torsten Roeder, Joey Takeda, and Raffaele Viglianti. 
 
