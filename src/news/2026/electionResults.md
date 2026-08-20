@@ -1,8 +1,10 @@
 ---
-title: "Results of Elections 2026"
+title: "Results of TEI-C Elections 2026"
 date: 2026-08-20
 tags: news
 ---
+
+# Results of TEI-C Elections 2026
 
 The TEI Consortium is pleased to announce the results of the [TEI-C annual elections](https://tei-c.org/news/2026/07/03/tei-c-elections-2026/) for Technical Council and Board of Directors. These were announced last week at the TEI-C annual general meeting at the TEI2026 conference in Vancouver, Canada. 
 
