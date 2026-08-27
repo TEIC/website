@@ -41,23 +41,23 @@ Review of proposals for funding* [Community Outreach Program (COP)](/board/tei-b
 	 were eventually funded, it would be even more effective, but in this
 	 budget situation it makes sense to spend the money elsewhere. The
 	 proposed cost is now $0K.
-	[Credit card payments](/board/tei-board-meeting-31-2008-board-meeting-addendum-credit-card-proposal/) (DO)+ DO described his proposal to set up a credit card payment system,
+	[Credit card payments](/activities/board/tei-board-meeting-31-2008-board-meeting-addendum-credit-card-proposal/) (DO)+ DO described his proposal to set up a credit card payment system,
 	 which could handle membership and subscriber fees and anything else
 	 that involves money. This would allow us to automate most of our
 	 membership activities. The estimated cost is roughly $3\-$4K, which
 	 includes setup costs and fees for each transaction.
 	[Tiered subscriber fees](/board/agenda-for-tei-board-conference-call-wednesday-december-17-2008-2/) (DO)+ Proposal to establish three different levels of subscribers, and
 	 charge each a different fee.
-	[Administrative assistant](/board/tei-board-meeting-31-2008-board-meeting-addendum-central-admin-assistant-manager/) (DO)+ Proposal to hire a central administrative person for \~8 hours per
+	[Administrative assistant](/activities/board/tei-board-meeting-31-2008-board-meeting-addendum-central-admin-assistant-manager/) (DO)+ Proposal to hire a central administrative person for \~8 hours per
 	 week to help the Board get its work done. Because we already spend a
 	 considerable amount on administrative work, we would need to examine
 	 how the work proposed here would overlap with work being done at
 	 U.Va. and Nancy. The estimated cost is roughly $3\-$4K.
-	[Strategic travel](/board/tei-board-meeting-31-2008-board-meeting-addendum-strategic-travel/) (DO)+ Proposal to set aside funds for outreach\-related travel. Last year we
+	[Strategic travel](/activities/board/tei-board-meeting-31-2008-board-meeting-addendum-strategic-travel/) (DO)+ Proposal to set aside funds for outreach\-related travel. Last year we
 	 spent $2K to send representatives to conferences in Russia and
 	 Morocco, as well as a DLF meeting. This year's proposal is for
 	 $2K.
-	[Additional Council meeting](/tei-board-meeting-31-2008-board-meeting-addendum-strategic-travel-2/) (LR)+ LR proposed that we fund an additional face\-to\-face Council meeting.
+	[Additional Council meeting](/activities/board/tei-board-meeting-31-2008-board-meeting-addendum-strategic-travel-2/) (LR)+ LR proposed that we fund an additional face\-to\-face Council meeting.
 	 Each time the Council meets in person, more work gets done, and the
 	 outreach impact of "TEI Day" meetings is enormous. Council tries to
 	 find local funds to defray meeting costs wherever possible. There
@@ -70,10 +70,10 @@ Review of proposals for funding* [Community Outreach Program (COP)](/board/tei-b
 	 to spend it as they wanted. We could consider that model again. It
 	 would help to know exactly what LR wants to achieve at the proposed
 	 second meeting.
-	[SIG grants](/tei-board-meeting-31-2008-board-meeting-addendum-strategic-travel-4/) (SS)+ SS proposed several small grants to fund the activities of the SIGs
+	[SIG grants](/activities/board/tei-board-meeting-31-2008-board-meeting-addendum-strategic-travel-4/) (SS)+ SS proposed several small grants to fund the activities of the SIGs
 	 \-\- for example, 4 grants of $500\-$1,000 each. The proposed cost is
 	 $3\-$4K.
-	[Members Meeting funding](/tei-board-meeting-31-2008-board-meeting-addendum-strategic-travel-3/) (SS)+ In the past, we let any number of people from member institutions
+	[Members Meeting funding](/activities/board/tei-board-meeting-31-2008-board-meeting-addendum-strategic-travel-3/) (SS)+ In the past, we let any number of people from member institutions
 	 attend the MM for free. Now that we have a conference model and
 	 costs are higher, we may need to limit each institution to 3 free
 	 registrations and charge after that. Alternately, the Board could
