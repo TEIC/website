@@ -25,11 +25,11 @@ Proposed Agenda
 	 Note: we can defer any conditional or complicated decisions on
 	 these positions until Sunday afternoon if necessary, after we
 	 have seen the scope of our plans for the year).
-		- [Chair](/About/bylaws.xml#TEIby-A3.2) (DPOD)
-		- [Vice Chair](/About/bylaws.xml#TEIby-A3.3) (SS)
-		- [Secretary](/About/bylaws.xml#TEIby-A3.4) (CR)
-		- [Treasurer](/About/bylaws.xml#TEIby-A3.5) (DP)
-		- [Council Chair](/About/bylaws.xml#TEIby-A3.6) (LR) 
+		- [Chair](/about/bylaws/#TEIby-A3.2) (DPOD)
+		- [Vice Chair](/about/bylaws/#TEIby-A3.3) (SS)
+		- [Secretary](/about/bylaws/#TEIby-A3.4) (CR)
+		- [Treasurer](/about/bylaws/#TEIby-A3.5) (DP)
+		- [Council Chair](/about/bylaws/#TEIby-A3.6) (LR) 
 		 Note: Council chair
 		 appointment was for a renewable two year term
 		 (2008\-2009\) subject to continuing Board approval. It
@@ -79,7 +79,7 @@ Note: Since most of these were also discussed at the Members'
 		- Oxford
 		- Virginia
 * 11:30\-12:00 Selection of Standing Committees and Representatives 
-	+ Nominating Committee ([Bylaws](/About/bylaws.xml#TEIby-A6.6); [Customs and Practices](/Board/procedures.xml#body.1_div.2_div.3)):
+	+ Nominating Committee ([Bylaws](/about/bylaws/#TEIby-A6.6); [Customs and Practices](https://wiki.tei-c.org/index.php/Procedural_Documentation_for_the_TEI-C_Board_of_Directors#body.1_div.2_div.3)):
 		- Chair
 		- 1 Board Member and 0 or more additional members
 	+ Web
@@ -88,7 +88,7 @@ Note: Since most of these were also discussed at the Members'
 		- Program Organizer/Committee Chair
 		- External Member(s)
 	+ [Board Representative to Council (Board or
-	 External)](/About/bylaws.xml#TEIby-A6.2)
+	 External)](/about/bylaws/#TEIby-A6.2)
 	+ [SIG Coordinator](/Board/procedures.xml#body.1_div.5_div.1)
 * 12:00\-13:00 Lunch (Onsite)
 * 13:00\-13:55 

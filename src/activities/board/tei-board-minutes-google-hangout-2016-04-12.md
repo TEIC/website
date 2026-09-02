@@ -40,7 +40,7 @@ Apologies: John Unsworth (JU)
 	+ Review Committee: Chair of the Board, Chair of the Council, and Community Representative
 	 (as tie\-breaker)
 	+ See emails to board \& council lists from March 24 and March 25
-* Convene Nominating Committee: [http://www.tei\-c.org/About/bylaws.xml\#TEIby\-A2\.6](http://www.tei-c.org/About/bylaws.xml#TEIby-A2.6) (MD)
+* Convene Nominating Committee: [http://www.tei\-c.org/about/bylaws/\#TEIby\-A2\.6](http://www.tei-c.org/about/bylaws/#TEIby-A2.6) (MD)
 	+ 2 or more Board members, one of which will act as Chair
 	+ Improve nomination and ballot submission process ([http://wiki.tei\-c.org/index.php/TEI\-C\_Board\_Action\_Items\_for\_2016\#New\_Initiatives](http://wiki.tei-c.org/index.php/TEI-C_Board_Action_Items_for_2016#New_Initiatives))
 		- Google forms process as discussed in Lyon: [http://www.tei\-c.org/Board/bm60\.xml\#body.1\_div.10\_div.1](http://www.tei-c.org/Board/bm60.xml#body.1_div.10_div.1)
@@ -173,7 +173,7 @@ Apologies: John Unsworth (JU)
 
  6\.0 Convene Nominating Committee (MD)
  
- 6\.1 Bylaws on nominations process: [http://www.tei\-c.org/About/bylaws.xml\#TEIby\-A2\.6](http://www.tei-c.org/About/bylaws.xml#TEIby-A2.6)
+ 6\.1 Bylaws on nominations process: [http://www.tei\-c.org/about/bylaws/\#TEIby\-A2\.6](http://www.tei-c.org/about/bylaws/#TEIby-A2.6)
 
 
 6\.2 This group should be convened soon so that we can revisit the nomination and ballot

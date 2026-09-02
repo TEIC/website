@@ -41,7 +41,7 @@ Training and outreach
 	 of P5 these will become even more central to the TEI's work. Training programs are
 	 held at intervals by various groups within the TEI community, and specific projects
 	 also make their internal training and documentation available to the public. The TEI
-	 maintains a selected list of [materials for learning the TEI](../../Support/Learn/), including tutorials, project documentation, and training events. In addition, the
+	 maintains a selected list of [materials for learning the TEI](/support/learn/), including tutorials, project documentation, and training events. In addition, the
 	 TEI encourages user communities and projects to develop documentation and TEI schemas
 	 that are specific to particular disciplinary or thematic areas. These may be disseminated
 	 by the TEI through its [customizations](../../Guidelines/Customization/) page and through the [TEI wiki](https://wiki.tei-c.org/).

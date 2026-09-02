@@ -34,7 +34,7 @@ carpetas) pueden descargarse desde el sitio de GitHub.
  
  Conocé los términos de licencia de las Directrices y cómo citarlas.
  
- [Aprende TEI por tu cuenta](../Support/Learn/)
+ [Aprende TEI por tu cuenta](/support/learn/)
  
  TEI mantiene una lista de recursos y materiales que pueden ayudarte a comenzar a aprender las Directrices, incluyendo enlaces a talleres, documentación de proyectos y tutoriales en línea.
  

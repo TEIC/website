@@ -188,7 +188,7 @@ The Council agrees that adding a
  There should be a draft text at the members meeting, 
  but it will not be not sufficiently vetted to create much furore about it. There is
  still room for people who want to join in.
- See [http://www.tei\-c.org/wiki/index.php/Getting\_Started](http://www.tei-c.org/wiki/index.php/Getting_Started). 
+ See <https://wiki.tei-c.org/index.php/Getting_Started>. 
  EP will contribute material about selecting an XML editor, that others may want to
  enhance.
  

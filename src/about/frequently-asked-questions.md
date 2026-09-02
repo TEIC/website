@@ -61,7 +61,7 @@ Guidelines. You can also support the TEI by participating in its work: by
 contributing to a TEI [special interest group](/activities/SIG/), by using the
 [Guidelines](../Guidelines/), by participating in discussions on the [TEI-L discussion list](/Support/index.html#tei-l),
 and by contributing stylesheets, tools, and sample texts to the [TEI
-wiki](../wiki/).
+wiki](https://wiki.tei-c.org).
 
 
 
@@ -300,10 +300,10 @@ expertise necessary to apply it appropriately.
 
 For some people, the simplest way to learn the TEI is to read the [TEI Guidelines](/release/doc/tei-p5-doc/en/html/). However, the Guidelines are not primarily intended as
 a training document, and many find it easier to work with a tutorial or to
-attend a workshop. [Workshops](../Support/Learn/) are
+attend a workshop. [Workshops](/support/learn/) are
 taught at intervals in various places and also through the [Education SIG](/activities/SIG/Education/). 
 The TEI also maintains a
-[list of online tutorials and other training materials](/Support/Learn/teach-yourself-tei/). 
+[list of online tutorials and other training materials](/support/learn/teach-yourself-tei/). 
 However, you choose to
 begin, the best way to learn is to do some actual encoding: choose a text
 that interests you, get an XML-aware text editor, and try your hand at

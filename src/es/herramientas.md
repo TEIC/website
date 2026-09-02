@@ -44,9 +44,9 @@ License and a BSD 2-Clause license].(../Guidelines/licensing-and-citation/).
  que incluya modificaciones a elementos específicos. También puede ayudar a generar documentación 
  en otros idiomas además del inglés
  (para más detalles, véase la [sección sobre internacionalización debajo](#I18N)). Para obtener instrucciones
- detalladas sobre el uso de Roma, consulta [ Personalizando la TEI con Roma](../Guidelines/Customization/use_roma.xml). 
+ detalladas sobre el uso de Roma, consulta [ Personalizando la TEI con Roma](/guidelines/customization/customizing-the-tei-with-roma/). 
  Una versión en línea de comandos de Roma (llamada Roma) también está disponible y puede instalarse y ejecutarse localmente; 
- una descripción e instrucciones de uso se encuentran [aquí](../Guidelines/Customization/getting-started-with-p5-odds/). El código 
+ una descripción e instrucciones de uso se encuentran [aquí](/guidelines/customization/getting-started-with-p5-odds/). El código 
  fuente 
  de Roma está disponible en el [sitio de TEI en  Sourceforge](https://sourceforge.net/project/showfiles.php?group_id=106328&package_id=141128). Roma es la equivalente en P5 de la antigua[TEI Pizza Chef](/Vault/P4/pizza.html) , una herramienta web que construía DTDs 
  personalizados de TEI compatibles con P4 y versiones anteriores de las directrices.

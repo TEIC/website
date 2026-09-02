@@ -184,7 +184,7 @@ We need to decide about the immediate issues raised by Christian in [his email]
 ### Host RFPs
 
 
-[Article VI.3 of the Bylaws](https://www.tei-c.org/About/bylaws.xml "Article VI.3 of the Bylaws") indicates that hosts must be renewed every four years:
+[Article VI.3 of the Bylaws](https://www.tei-c.org/about/bylaws/ "Article VI.3 of the Bylaws") indicates that hosts must be renewed every four years:
  
  
 Thereafter, the Board of Directors shall select a minimum of four TEI\-C Hosts, using
