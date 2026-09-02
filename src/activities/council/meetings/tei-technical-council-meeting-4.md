@@ -645,7 +645,7 @@ Location: Buttery, Wolfson College, Linton Road, Oxford, OX2 6UD
  experimental or restricted mean?)
 
 - Two things to do: fix the language on the TEI customization web page 
-  ([https://www.tei\-c.org/Guidelines/Customization/](/Guidelines/Customization/)), and decide what will
+  <https://www.tei-c.org/guidelines/customization/>, and decide what will
  be included in Roma as an available customization in the drop down list. In
  particular, is there a distinction to be made between things like Bare, Lite, and
  the
@@ -1441,7 +1441,7 @@ model.editorialDeclPart
 - Should we begin generating HTML and PDF documentation for any modules besides
  Lite and Tite (and putting them in [http://www.tei\-c.org/release/doc/tei\-p5\-exemplars/](/release/doc/tei-p5-exemplars/))?
 
-- For the two sections of customizations at [http://www.tei\-c.org/Guidelines/Customization/](/Guidelines/Customization/): 
+- For the two sections of customizations at <http://www.tei-c.org/guidelines/customization/>: 
  
  
 	

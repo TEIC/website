@@ -9,7 +9,7 @@ creator: Christian Wittern
 Report of the TEI Council to the Members Meeting 2004
  
  The TEI Council is in charge of overseeing the technical development of the TEI
- Guidelines. This year, all energy was devoted to develop [P5](../../../Guidelines/P5/),
+ Guidelines. This year, all energy was devoted to develop [P5](/guidelines/p5/),
  the next major revision of the Guidelines. The development takes place mainly in the
  workgroups charged by the Council and through the work of the TEI editors. The Council
  held one face to face meeting and five telephone conference calls to discuss reports

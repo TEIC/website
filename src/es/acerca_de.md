@@ -19,7 +19,7 @@ El alcance de la TEI está en constante expansión y las Directrices se desarrol
 Para más información, visita:
 
 * [Membresía](http://members.tei-c.org/join/)
-* Las Guías directrices o [Guidelines](../Guidelines/)
+* Las Guías directrices o [Guidelines](/guidelines/)
 * La [organización](https://tei-c.org/about/organization/) de la TEI
 * [Preguntas frecuentes](frequently-asked-questions)
 * [Logos](logos)

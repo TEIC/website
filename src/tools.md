@@ -27,7 +27,7 @@ to [inventory them on the TEI wiki](https://wiki.tei-c.org/index.php/Category:To
 Note that the TEI does not endorese any particular tool that it does not maintain
 and distribute.
 
-There is also a [Special Interest Group on Tools](/activities/SIG/Tools/).
+There is also a [Special Interest Group on Tools](/activities/sig/tools/).
 
 ## Generation of schemas and documentation: Roma {#roma}
 

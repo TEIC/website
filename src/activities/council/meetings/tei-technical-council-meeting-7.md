@@ -1468,7 +1468,7 @@ A full list of actions and their current status is available from: [http://wiki.
 	 that people can work from?
 	
 	- SR: That is already in the spreadsheets. See 
-     <http://www.tei-c.org/Tools/I18N/>
+     <http://www.tei-c.org/tools/I18N/>
 	 for contact details of translators. **Action: MH to get contact info on original groups and activate if possible, probably
 	 starting with French and Italian****Action: LB to testdrive the spreadsheet.**
 

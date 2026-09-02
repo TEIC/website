@@ -13,7 +13,7 @@ have electronic copies of any original TEI documents not available here, please 
 
 
 The [archive](https://lists.psu.edu/cgi-bin/wa?A0=TEI-L) of the
-[TEI-L discussion list](/Support/index.html#tei-l) is a rich
+[TEI-L discussion list](/support/index.html#tei-l) is a rich
 resource for historical information, as is the archive of the now defunct TEI-TECH
 mailing list, which can be [downloaded](/Vault/tei-tech.tar.gz) in its
 entirety.

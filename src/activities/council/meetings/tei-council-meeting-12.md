@@ -408,7 +408,7 @@ Council agreed that the purpose of this SIG should not be the
  Work on TEI (X)HTML and PDF stylesheets
  
  A related item is the [XSLT
- stylesheets](/Tools/Stylesheets/) which we do formally provide as a tool
+ stylesheets](https://github.com/TEIC/Stylesheets) which we do formally provide as a tool
  for transforming TEI documents to HTML, LaTeX, and XSL\-FO.
  Discussion here focused on how these might be improved and/or
  extended.

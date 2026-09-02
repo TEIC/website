@@ -44,14 +44,14 @@ Training and outreach
 	 maintains a selected list of [materials for learning the TEI](/support/learn/), including tutorials, project documentation, and training events. In addition, the
 	 TEI encourages user communities and projects to develop documentation and TEI schemas
 	 that are specific to particular disciplinary or thematic areas. These may be disseminated
-	 by the TEI through its [customizations](../../Guidelines/Customization/) page and through the [TEI wiki](https://wiki.tei-c.org/).
+	 by the TEI through its [customizations](/guidelines/customization/) page and through the [TEI wiki](https://wiki.tei-c.org/).
 
 
 Cultivation of a TEI research community
 * The thriving research community surrounding the TEI is one of its greatest assets
  and also the reason for its ongoing vitality. This community is loosely bound together
  through a variety of forums, virtual and actual. Of these the oldest and most inclusive
- is [the TEI-L discussion list](../../Support/) which serves as a clearing house for TEI questions,
+ is [the TEI-L discussion list](/support/) which serves as a clearing house for TEI questions,
  debates, opinion, and information of all kinds. It includes TEI users at all levels
  of expertise and [its archive](https://lists.psu.edu/cgi-bin/wa?A0=TEI-L) 
  contains a record of discussion on text encoding and TEI usage going back to January 1990. 

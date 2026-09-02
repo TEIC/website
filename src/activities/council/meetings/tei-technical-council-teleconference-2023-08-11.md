@@ -147,7 +147,7 @@ TEI Lite2 customization
 
 
 * Lite2 should be more like an "on ramp" that doesn't cover all cases but takes us quite far as common ground.
-* Getting started drafting a paragraph for the Customization page and the [TEI Lite](https://tei-c.org/guidelines/customization/Lite/) page that Council can review **(JJ, or reassign?)**
+* Getting started drafting a paragraph for the Customization page and the [TEI Lite](https://tei-c.org/release/doc/tei-p5-exemplars/html/tei_lite.doc.html) page that Council can review **(JJ, or reassign?)**
 * Lite2 customization progress
 * (Review from last month): MT merging teipublisher.odd with teiSimplePrint.odd: a few "default" models are added, while superfluous teiSimplePrint ones removed.
 * Next up: "Diff" TEI Simple and TEI Lite so Council can decide what to do about them. MT's proposal is to largely include the elements from Simple which were not present in Lite (but remove numbered divs if they are present in Lite).

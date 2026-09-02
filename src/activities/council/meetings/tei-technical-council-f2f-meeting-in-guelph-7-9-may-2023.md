@@ -157,7 +157,7 @@ EBB leads “Assigned Ticket Triage” session. Each of us goes through our assi
 			* When this was proposed, it was meant to emphasize that no customization can serve 100% of the community!
 			* It is \*necessary\* to tweak it to get it to work for you.
 			* Lite2 should be more like an "on ramp" that doesn't cover all cases but takes us quite far as common ground.
-			* JJ volunteers to get us started drafting a paragraph for the Customization page and the [TEI Lite](https://tei-c.org/guidelines/customization/Lite/) page that Council can review this summer.
+			* JJ volunteers to get us started drafting a paragraph for the Customization page and the [TEI Lite](https://tei-c.org/release/doc/tei-p5-exemplars/html/tei_lite.doc.html) page that Council can review this summer.
 			* Lite and other customisations also mentioned in Chapter 22 at: [https://tei\-c.org/release/doc/tei\-p5\-doc/en/html/USE.html\#MDlite](https://tei-c.org/release/doc/tei-p5-doc/en/html/USE.html#MDlite)
 		- For next Fall's release?
 			* So we get started this summer.

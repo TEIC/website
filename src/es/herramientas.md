@@ -18,7 +18,7 @@ las [hojas de estilo] empleadas para convertir documentos en diversos formatos s
 
 Las herramientas mantenidas oficialmente se describen más abajo con mayor detalle y son de código abierto, 
 [made available under the terms and conditions of both Creative Commons Attribution-ShareAlike 3.0 Unported 
-License and a BSD 2-Clause license].(../Guidelines/licensing-and-citation/).
+License and a BSD 2-Clause license].(/guidelines/licensing-and-citation/).
  
  Otras herramientas son aportadas por miembros de la comunidad de la TEI y no están mantenidas por la 
  iniciativa. Estas pueden incluir utilidades para la redacción y edición, para la publicación en línea 
@@ -29,7 +29,7 @@ License and a BSD 2-Clause license].(../Guidelines/licensing-and-citation/).
   Cabe señalar que la iniciativa no avala ninguna herramienta que no mantenga ni distribuya directamente.
  
  
- También existe un  [Grupo de Interés Especial sobre Herramientas](/activities/SIG/Tools/)
+ También existe un  [Grupo de Interés Especial sobre Herramientas](/activities/sig/tools/)
  
  
  

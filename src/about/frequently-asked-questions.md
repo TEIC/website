@@ -58,8 +58,8 @@ support from membership and subscription dues, so by joining the TEI as an
 institutional member or an individual subscriber you will be making it
 possible for the TEI to continue developing and supporting the TEI
 Guidelines. You can also support the TEI by participating in its work: by
-contributing to a TEI [special interest group](/activities/SIG/), by using the
-[Guidelines](../Guidelines/), by participating in discussions on the [TEI-L discussion list](/Support/index.html#tei-l),
+contributing to a TEI [special interest group](/activities/sig/), by using the
+[Guidelines](/guidelines/), by participating in discussions on the [TEI-L discussion list](/support/index.html#tei-l),
 and by contributing stylesheets, tools, and sample texts to the [TEI
 wiki](https://wiki.tei-c.org).
 
@@ -163,14 +163,14 @@ but it is no longer being developed.
 
 
 The TEI is intended to be customized by its users. To simplify the
-customization process, the TEI supports a tool called [Roma](/Tools/index.html#roma), which provides a web
+customization process, the TEI supports a tool called [Roma](/tools/index.html#roma), which provides a web
 interface through which you can make and preserve your customization choices
 and generate customized schemas and documentation. The chapter of the
 Guidelines on [Using
 the TEI](/release/doc/tei-p5-doc/en/html/USE.html) describes the customization process in more detail. You
 may also find it helpful to consult the materials provided at this site on
-how to [get the Guidelines](/Guidelines/P5/)
-and on [customization](/Guidelines/Customization/).
+how to [get the Guidelines](/guidelines/p5/)
+and on [customization](/guidelines/customization/).
 
 
 
@@ -218,9 +218,9 @@ customization based on TEI Lite, you need to take the customization file
 that produced the TEI Lite DTD or schema, and modify that file, then
 generate a new DTD or schema. You should not modify the TEI Lite DTD or
 schema itself directly. The [specification file for the P5 version of TEI Lite is available](/release/xml/tei/custom/odd/tei_lite.odd).
-Information on [how to customize a TEI P5 schema with Roma is also available](/Guidelines/Customization/); see also
-[Getting Started with P5 ODDs](/Guidelines/Customization/). The [customization files for the TEI Lite are also
-available](../Guidelines/Customization/Lite/).
+Information on [how to customize a TEI P5 schema with Roma is also available](/guidelines/customization/); see also
+[Getting Started with P5 ODDs](/guidelines/customization/). The [customization files for the TEI Lite are also
+available](https://tei-c.org/release/doc/tei-p5-exemplars/html/tei_lite.doc.html).
 
 
 
@@ -232,8 +232,8 @@ encode?
 
 The TEI Guidelines include [an alphabetical list of all elements defined in
 the Guidelines](/release/doc/tei-p5-doc/en/html/REF-ELEMENTS.html).
-You can also [browse the full text](/Guidelines/). If you
-need further guidance, try sending a query to [the TEI-L mailing list](/Support/index.html#tei-l) or
+You can also [browse the full text](/guidelines/). If you
+need further guidance, try sending a query to [the TEI-L mailing list](/support/index.html#tei-l) or
 contact a nearby TEI project.
 
 
@@ -301,7 +301,7 @@ expertise necessary to apply it appropriately.
 For some people, the simplest way to learn the TEI is to read the [TEI Guidelines](/release/doc/tei-p5-doc/en/html/). However, the Guidelines are not primarily intended as
 a training document, and many find it easier to work with a tutorial or to
 attend a workshop. [Workshops](/support/learn/) are
-taught at intervals in various places and also through the [Education SIG](/activities/SIG/Education/). 
+taught at intervals in various places and also through the [Education SIG](/activities/sig/education/). 
 The TEI also maintains a
 [list of online tutorials and other training materials](/support/learn/teach-yourself-tei/). 
 However, you choose to
@@ -333,7 +333,7 @@ TEI markup supports a wide range of useful functions including online
 publication, searching, text analysis, and conversion into other formats.
 There are many tools for manipulating, presenting and querying XML documents
 available and [listed in the TEI wiki](https://wiki.tei-c.org/index.php/Category:Tools). The TEI does not directly endorse any of these, however, there is
-a [TEI Tools Special Interest Group](/Activities/SIG/Tools/) where experiences
+a [TEI Tools Special Interest Group](/activities/sig/tools/) where experiences
 with these tools are discussed.
 
 
