@@ -53,7 +53,7 @@ Review of the Guidelines* In continuing the review process started last
 
 
 Information about the status of P5, how to use it and much more is available at the
- [P5 section](../../../Guidelines/P5/) of the TEI website.
+ [P5 section](/guidelines/p5/) of the TEI website.
 
 
 There has been a change in membership of the Council in late April, Alejandro Bia

@@ -25,7 +25,7 @@ Seven in attendence.
 
 
 Approach: At last year's meeting (see [the 
- minutes](/Activities/SIG/Overlap/olm01.txt)), we had discussed creating a web site to
+ minutes](/activities/sig/overlap/olm01.txt)), we had discussed creating a web site to
  explain in some detail many different approaches to
  overlapping markup. This year, we discussed some approaches
  that are currently in use by those of us in the SIG: the use

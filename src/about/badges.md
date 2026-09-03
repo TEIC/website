@@ -14,7 +14,7 @@ Let others know you use the TEI
 
  (See also the [TEI Logos page](/About/Logos/))
  
- The [Guidelines of the Text Encoding Initiative](/Guidelines/) are now in their fifth version. With more than 20 years of work behind
+ The [Guidelines of the Text Encoding Initiative](/guidelines/) are now in their fifth version. With more than 20 years of work behind
  them, they are a de facto standard in many areas of textual markup. The Guidelines are used by [hundreds of projects](/Activities/Projects/) around the world. Their use is required by many public funding agencies.
  
  Many projects use the TEI Guidelines 'behind the scenes' while delivering their content to the public using HTML. The

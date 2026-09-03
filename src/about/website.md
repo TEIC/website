@@ -4,7 +4,7 @@ title: "About the TEI Website"
 tags: page
 ---
 # About the TEI Website
-The TEI website was redesigned in October 2007, to coincide with the 1.0 release of the [P5 Guidelines](/Guidelines/P5/ "P5 Guidelines"). In addition to the new design, which provides enhanced site navigation, the new site features updated content, written in TEI P5 Lite and delivered to the web as HTML.
+The TEI website was redesigned in October 2007, to coincide with the 1.0 release of the [P5 Guidelines](/guidelines/p5/ "P5 Guidelines"). In addition to the new design, which provides enhanced site navigation, the new site features updated content, written in TEI P5 Lite and delivered to the web as HTML.
 
 
 Content on www.tei-c.org is a composite of quite a few underlying sources.

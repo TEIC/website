@@ -57,7 +57,7 @@ datatype stricter
  Below is a table of all of the TEI modules. More information about each one is given
  in the TEI Guidelines; each module corresponds to a single chapter.
 
-### The TEI modules
+### The TEI modules {#tab_modlist}
  
 | module name | title | elements defined |
 | --- | --- | --- |

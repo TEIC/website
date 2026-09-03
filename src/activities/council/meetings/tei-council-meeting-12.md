@@ -387,7 +387,7 @@ Council agreed that the purpose of this SIG should not be the
  OpenOffice and Microsoft Word conversions
  
  This agenda item was to address the tools provided on
- Sourceforge for [converting between TEI\-XML and OpenOffice](/wiki/index.php/TEI_OpenOffice_Package), and
+ Sourceforge for [converting between TEI\-XML and OpenOffice](https://wiki.tei-c.org/index.php/TEI_OpenOffice_Package), and
  related MS Word conversion. SR began by noting that although
  the OpenOffice stylesheets are hosted on the TEI Sourceforge
  site, there has never been a suggestion that they are an
@@ -408,7 +408,7 @@ Council agreed that the purpose of this SIG should not be the
  Work on TEI (X)HTML and PDF stylesheets
  
  A related item is the [XSLT
- stylesheets](/Tools/Stylesheets/) which we do formally provide as a tool
+ stylesheets](https://github.com/TEIC/Stylesheets) which we do formally provide as a tool
  for transforming TEI documents to HTML, LaTeX, and XSL\-FO.
  Discussion here focused on how these might be improved and/or
  extended.

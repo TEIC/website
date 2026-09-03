@@ -5,7 +5,7 @@ tags: page
 ---
 # Support
 
-## Advice and queries: TEI-L mailing list
+## Advice and queries: TEI-L mailing list {#tei-l}
 The TEI boasts a friendly and highly skilled worldwide user community, whose members are quite willing to share their expertise. The best way
 to tap into this community is to join the TEI-L discussion list. Everyone is welcome to subscribe to the list, either via a [webform](https://lists.psu.edu/cgi-bin/wa?SUBED1=TEI-L&A=1) or by sending an email to [TEI-L-subscribe-request@lists.psu.edu](mailto:TEI-L-subscribe-request@lists.psu.edu).
 Archived messages from the list can be browsed or searched online [through the LISTSERV archive](https://lists.psu.edu/cgi-bin/wa?A0=TEI-L)
@@ -13,7 +13,7 @@ and cover just about every text encoding topic you can imagine. All queries or c
 should be sent to the TEI-L list. You can unsubscribe from the list by sending an email to <mailto:TEI-L-unsubscribe-request@lists.psu.edu>.
 There is also [a list for the francophone community](https://groupes.renater.fr/wiki/tei-fr/).
 
-For queries or comments about non-technical matters, please see the list of addresses on our [contacts page](../About/contact.xml).
+For queries or comments about non-technical matters, please see the list of addresses on our [contacts page](../about/contact/).
 
 ## Slack
 In addition to the TEI-L mailing list, the TEI uses an instance of Slack for some asynchronous communication. As with other communication mediums, this is open to the entire TEI Community, regardless of whether they are paying members or not. However, you need to be invited to the TEI-C Slack and the process to do so is [to fill out this google form](https://docs.google.com/forms/d/e/1FAIpQLSea-bODBGKqVAHvU7bwNMcVLRRy6XjQNkrPlBbab6XIIocjSQ/viewform?usp=header). The form will be reviewed and approved by an admin as soon as possible.   

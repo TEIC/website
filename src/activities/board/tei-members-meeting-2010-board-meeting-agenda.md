@@ -39,7 +39,7 @@ We had a number of suggestions about planning the 2011 (and further)
  * 0900\-1015 Bylaws.
 We need to decide whether we wish to act on the proposed bylaws on
  behalf of the membership. The proposed bylaws are [here](/Board/2010BylawsProposal.xml). There relevant section on amendments can be found
- [here](/About/bylaws.xml#TEIby-A7). If we decide to amend the bylaws, we must make some
+ [here](/about/bylaws/#TEIby-A7). If we decide to amend the bylaws, we must make some
  changes: the proposed bylaws would reduce the size of the board to 6
  for one year. Changes in the minimum (7\) and maximum (10\) size of
  the board requires approval of the membership.
@@ -52,11 +52,11 @@ If we decide to alter the bylaws, we need to plan the transition.
 	 We are facing major changes this year. We can either fill some
 	 or all of these positions now, or decide to defer or delegate
 	 some of these decisions.
-		- [Chair](/About/bylaws.xml#TEIby-A3.2) (DPOD)
-		- [Vice Chair](/About/bylaws.xml#TEIby-A3.3) (SS)
-		- [Secretary](/About/bylaws.xml#TEIby-A3.4) (SW)
-		- [Treasurer](/About/bylaws.xml#TEIby-A3.5) (SW)
-		- [Council Chair](/About/bylaws.xml#TEIby-A3.6) (LR) 
+		- [Chair](/about/bylaws/#TEIby-A3.2) (DPOD)
+		- [Vice Chair](/about/bylaws/#TEIby-A3.3) (SS)
+		- [Secretary](/about/bylaws/#TEIby-A3.4) (SW)
+		- [Treasurer](/about/bylaws/#TEIby-A3.5) (SW)
+		- [Council Chair](/about/bylaws/#TEIby-A3.6) (LR) 
 		 Note: Council chair
 		 appointment was for a renewable two year term
 		 (2010\-2011\) subject to continuing Board approval. It
@@ -68,7 +68,7 @@ Given the changes what budget process would we like to follow this
  offering the SIG programme on a regular basis with timely
  announcements?
 * 1330\-14:00 Selection of Standing Committees and Representatives 
-	+ Nominating Committee ([Bylaws](/About/bylaws.xml#TEIby-A6.6); [Customs and Practices](/Board/procedures.xml#body.1_div.2_div.3)):
+	+ Nominating Committee ([Bylaws](/about/bylaws/#TEIby-A6.6); [Customs and Practices](https://wiki.tei-c.org/index.php/Procedural_Documentation_for_the_TEI-C_Board_of_Directors#body.1_div.2_div.3)):
 		- Chair
 		- 1 Board Member and 0 or more additional members
 	+ Web
@@ -77,7 +77,7 @@ Given the changes what budget process would we like to follow this
 		- Program Organizer/Committee Chair
 		- External Member(s)
 	+ [Board Representative to Council (Board or
-	 External)](/About/bylaws.xml#TEIby-A6.2)
+	 External)](/about/bylaws/#TEIby-A6.2)
 	+ [SIG Coordinator](/Board/procedures.xml#body.1_div.5_div.1)
 * 1400\-1500 Host Recruitment?
 A general discussion of approaches to host/partner and other forms of recruitment.

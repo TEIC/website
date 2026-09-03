@@ -26,7 +26,7 @@ carpetas) pueden descargarse desde el sitio de GitHub.
  
  El Archivo TEI contiene versiones anteriores de las Directrices, así como parte de la historia de su desarrollo; también incluye materiales archivados de versiones previas del sitio web de TEI.
  
- [Participar](../Support/)
+ [Participar](/support/)
  
  TEI invita a participar en el desarrollo de las Directrices; aquí detallamos las diferentes formas en que la comunidad TEI (miembros y no miembros) puede contribuir.
  
@@ -34,7 +34,7 @@ carpetas) pueden descargarse desde el sitio de GitHub.
  
  Conocé los términos de licencia de las Directrices y cómo citarlas.
  
- [Aprende TEI por tu cuenta](../Support/Learn/)
+ [Aprende TEI por tu cuenta](/support/learn/)
  
  TEI mantiene una lista de recursos y materiales que pueden ayudarte a comenzar a aprender las Directrices, incluyendo enlaces a talleres, documentación de proyectos y tutoriales en línea.
  

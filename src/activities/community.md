@@ -28,7 +28,7 @@ Please note that the [TEI Code of Conduct](/about/code-of-conduct/) applies to a
 	<div class="col-md-4 p-4 border rounded m-4" style="width: 15em">
 		<h3>TEI-L</h3>
 		<p>The TEI Community primarily congregates around the TEI-L mailing list.</p>
-		<a href="/Support/" title="TEI-L">Learn more 🢚</a>
+		<a href="/support/" title="TEI-L">Learn more 🢚</a>
 	</div>
 	<div class="col-md-4 p-4 border rounded m-4" style="width: 15em">
 		<h3>GitHub</h3>

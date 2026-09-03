@@ -381,7 +381,7 @@ TEI Wiki administrators* James Cummings (Council), Piotr Banski, Kevin Hawkins. 
  arrangements.
 
 
-Information about Council funding of the meeting is on the TEI Wiki in the [TEI Council FAQ](/wiki/index.php/TEI-Council-FAQ#What_funding_is_available_for_Council_Activities.3F).
+Information about Council funding of the meeting is on the TEI Wiki in the [TEI Council FAQ](https://wiki.tei-c.org/index.php/TEI-Council-FAQ#What_funding_is_available_for_Council_Activities.3F).
 
 
 

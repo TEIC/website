@@ -17,7 +17,7 @@ though the underlying tool may also be installed and used separately. Similarly,
 stylesheets that are used by the TEI itself to convert TEI documents into various
 formats are distributed here for use and adaptation by others. Tools maintained by
 the TEI are described in more detail below and are open-source, [made available under the terms and conditions of both Creative Commons Attribution-ShareAlike
-3.0 Unported License and a BSD 2-Clause license](../Guidelines/access.xml#licensing).
+3.0 Unported License and a BSD 2-Clause license](../guidelines/licensing-and-citation).
 
 Others tools are contributed by members of the TEI community and are not maintained
 by the TEI. These might include tools for authoring and editing, for publishing collections
@@ -27,9 +27,9 @@ to [inventory them on the TEI wiki](https://wiki.tei-c.org/index.php/Category:To
 Note that the TEI does not endorese any particular tool that it does not maintain
 and distribute.
 
-There is also a [Special Interest Group on Tools](/activities/SIG/Tools/).
+There is also a [Special Interest Group on Tools](/activities/sig/tools/).
 
-## Generation of schemas and documentation: Roma
+## Generation of schemas and documentation: Roma {#roma}
 
 [Roma](https://roma.tei-c.org/) is a web-based application which allows TEI users to
 generate their own customized P5-compatible schemas and documentation. Roma is useful for all TEI customization

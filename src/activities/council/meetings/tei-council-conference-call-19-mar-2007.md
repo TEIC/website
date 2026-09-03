@@ -37,7 +37,7 @@ relatedItem and biblItem * LB confirmed that he had discussed the issues with LR
  relatedItem, as reported to the list.
 Text and image encoding * DP reported that she and Conal had completed the ODD
  but not yet tested it. It was available for comment on the wiki
- at [http://www.tei\-c.org.uk/wiki/index.php/FacsimileMarkupODD](http://www.tei-c.org.uk/wiki/index.php/FacsimileMarkupODD); after the call, CT reported that he was still working on it.
+ at <https://wiki.tei-c.org/index.php/FacsimileMarkupODD>; after the call, CT reported that he was still working on it.
 Physical Bibliography * The workgroup seemed to have stagnated, with no
  further progress after recent comments from MD and DP. CW
  had received no response to his last mail to MgGilvray. DO
