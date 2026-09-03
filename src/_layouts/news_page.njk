@@ -18,6 +18,7 @@
         <div class="row">
           {% if sidenav %}
             <div class="col col-md-9 mt-4">
+              <h1>{{ title }}</h1>
               {{ content | safe }}
             </div>
             <button class="tc-sidebar-toggler btn btn-light" type="button" data-bs-toggle="collapse" data-bs-target="#sidebar" aria-controls="#sidebar" aria-expanded="false" aria-label="Toggle sidebar">
@@ -30,6 +31,7 @@
             {% endif %}
           {% else %}
             <div class="col mt-4">
+              <h1>{{ title }}</h1>
               {{ content | safe }}
             </div>
           {% endif %}
