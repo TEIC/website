@@ -1,16 +1,20 @@
 ---
 title: "Call for Proposals: Encoding Cultures – joint MEC and TEI Conference 2023"
-date: 2023-02-27
-tags: news
+date: "2023-02-27"
+author: "Patricia O Connor"
+permalink: "/news/2023/02/27/call-for-proposals-encoding-cultures-joint-mec-and-tei-conference-2023/"
+tags: ["News"]
 ---
-# Call for Proposals: Encoding Cultures – joint MEC and TEI Conference 2023
+
+
+
 We are pleased to announce a call for papers, posters, panels, and workshops for “Encoding Cultures,” a joint conference of the annual Music Encoding Conference and Text Encoding Initiative Members’ Meeting.
 
 
 The conference will be held 5–8 September 2023 (Tue-Fri) at Paderborn University, Germany, with pre-conference workshops 4–5 September 2023 (Mon-Tue).
 
 
-This event brings together, for the first time, the Music Encoding Initiative (MEI) and Text Encoding Initiative (TEI) communities, both of which are involved in the digitization and encoding of cultural heritage artifacts. While musical and textual artifacts have fundamental differences, there are many overlapping approaches in regard to data modeling, encoding theory, and digital publication. MEI and TEI also share technical tools and services, as both XML vocabularies are formally expressed using TEI's customization and documentation language.
+This event brings together, for the first time, the Music Encoding Initiative (MEI) and Text Encoding Initiative (TEI) communities, both of which are involved in the digitization and encoding of cultural heritage artifacts. While musical and textual artifacts have fundamental differences, there are many overlapping approaches in regard to data modeling, encoding theory, and digital publication. MEI and TEI also share technical tools and services, as both XML vocabularies are formally expressed using TEI’s customization and documentation language.
 
 
 The conference topic is *Encoding Cultures*, understood both as the encoding of multiple cultures and cultural outputs as well as the variety of encoding cultures that exist within and across our communities.
@@ -26,4 +30,6 @@ We look forward to seeing you in Paderborn!
 
 
 On behalf of the 2023 Program Committee
+
+
 
