@@ -30,11 +30,11 @@ Each year we draw people who are interested in learning to run and manage digita
 * Opportunity to join an active and intensive “dig site” for important data on networks of women writers, theaters, and publishers in the nineteenth century.
 * Hands-on Learning of Text Encoding, including the following:
 
-       * TEI XML encoding and experience with producing editions of manuscripts, especially of letters
-       * Autotagging and regular expression matching to prepare texts as code
-       * Hands-on experience with XPath, a language to navigate XML, particularly helpful in navigating our site index and complex texts
-       * Experience in working with code schemas, to ensure consistency and accuracy for multiple editors on a project
-       * The use of XSLT to extract and chart information from TEI markup, and to transform and publish TEI for view on the web.
+    * TEI XML encoding and experience with producing editions of manuscripts, especially of letters
+    * Autotagging and regular expression matching to prepare texts as code
+    * Hands-on experience with XPath, a language to navigate XML, particularly helpful in navigating our site index and complex texts
+    * Experience in working with code schemas, to ensure consistency and accuracy for multiple editors on a project
+    * The use of XSLT to extract and chart information from TEI markup, and to transform and publish TEI for view on the web.
 
 * Individual and Group Instruction, working with our own Explanatory Guides and Resources developed by the Principal Editor for her students and for the Mitford team. (See <http://www.pitt.edu/~ebb8/DHDS/> and scroll to Explanatory Guides.)
 

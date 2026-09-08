@@ -18,8 +18,8 @@ The editors of the Journal of the Text Encoding Initiative, the official journal
 * Requirements from annotation practices in Digital Humanities using TEI
 * TEI as an Infrastructure across domains
 
-       * Especially the role of the TEI in infrastructural initiatives in the humanities
-       * Especially the use of TEI in Infrastructures to support collaborative editing and crowd-sourced editions
+    * Especially the role of the TEI in infrastructural initiatives in the humanities
+    * Especially the use of TEI in Infrastructures to support collaborative editing and crowd-sourced editions
 
 * Dynamic presentation interfaces for TEI-encoded text
 * The TEI as an architectural component within national or international infrastructures (such as DARIAH, Europeana, Project Bamboo, TextGrid, etc.)

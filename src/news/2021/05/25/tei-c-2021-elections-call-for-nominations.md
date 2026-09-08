@@ -12,12 +12,12 @@ The following positions are vacant and up for election:
 
 * TEI-C Board
 
-       * 2 members (for 3-year term)
+    * 2 members (for 3-year term)
 
 * TEI-C Council
 
-       * 4 members (for 3-year term)
-       * 2 members (for 1-year term)
+    * 4 members (for 3-year term)
+    * 2 members (for 1-year term)
 
 Please submit your nominations to the TEI-C Board Nominating Committee by ** 30 June 2021**: <http://bit.ly/TEICelections2021>
 

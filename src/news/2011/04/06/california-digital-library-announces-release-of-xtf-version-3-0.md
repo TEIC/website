@@ -30,16 +30,16 @@ Offering a suite of customizable features that support diverse intellectual acce
 * **Easy to configure: **Can create indexes on any XML element or attribute; entire presentation layer is customizable via XSLT.
 * **Robust:******Optimized to perform well on large documents (e.g., a single text that exceeds 10MB of encoded text); scales to perform well on collections of millions of documents; provides full Unicode support.
 * **Extensible:**
-       * Works well with a variety of authentication systems (e.g., IP address lists, LDAP, Shibboleth).
-       * Provides an interface for external data lookups to support thesaurus-based term expansion, recommender systems, etc.
-       * Can power other digital library services (e.g., XTF contains an OAI-PMH data provider that allows others to harvest metadata, and an SRU interface that exposes searches to federated search engines).
-       * Can be deployed as separate, modular pieces of a third-party system (e.g., the module that displays snippets of matching text).
+    * Works well with a variety of authentication systems (e.g., IP address lists, LDAP, Shibboleth).
+    * Provides an interface for external data lookups to support thesaurus-based term expansion, recommender systems, etc.
+    * Can power other digital library services (e.g., XTF contains an OAI-PMH data provider that allows others to harvest metadata, and an SRU interface that exposes searches to federated search engines).
+    * Can be deployed as separate, modular pieces of a third-party system (e.g., the module that displays snippets of matching text).
 
 * **Powerful for the end user:******
-       * Spell checking of queries
-       * Faceted displays for browsing
-       * Dynamically updated browse lists
-       * Session-based bookbags
+    * Spell checking of queries
+    * Faceted displays for browsing
+    * Dynamically updated browse lists
+    * Session-based bookbags
 
 These basic features can be tuned and modified.  For instance, the same bookbag feature that allows users to store links to entire books, can also store links to citable elements of an object, such as a note or other reference.
 

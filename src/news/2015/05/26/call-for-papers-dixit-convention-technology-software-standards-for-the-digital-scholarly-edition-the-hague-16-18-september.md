@@ -22,8 +22,8 @@ tags: ["Other", "Digital Humanities", "Leo Jansen", "Lorna Hughes", "Muruca Huyg
 
 * Tuesday 15: two parallel workshops
 
-       * Net7 will present Pundit and Muruca
-       * Huygens ING will run a workshop ‘TEI and neighbouring standards’
+    * Net7 will present Pundit and Muruca
+    * Huygens ING will run a workshop ‘TEI and neighbouring standards’
 
 * Wednesday 16 until Friday 18 (morning): the **Convention** proper (‘Technology, Software, Standards for the Digital Scholarly Edition’)
 
