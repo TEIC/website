@@ -3,7 +3,6 @@ title: "TEI-C Elections 2026"
 date: 2026-07-03
 tags: news
 ---
-# TEI-C Elections 2026
 
 * [Introduction](#intro)
 * [A Note on Voting](#note)

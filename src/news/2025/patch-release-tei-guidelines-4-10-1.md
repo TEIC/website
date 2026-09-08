@@ -2,7 +2,6 @@
 title: "Patch Release: TEI Guidelines 4.10.1"
 date: 2025-08-28
 ---
-# Patch Release of the TEI Guidelines 4.10.1
 
 On 28 August 2025, the TEI Consortium released a small but significant “patch” of the TEI Guidelines as [version 4.10.1](https://www.tei-c.org/release/doc/tei-p5-doc/en/html/index.html). The patch removed a Schematron constraint that we had introduced in the recent 4.10.0 release, because the constraint proved problematic for TEI projects when their TEI headers use elements that are members of [att.declarable](https://www.tei-c.org/Vault/P5/4.10.1/doc/tei-p5-doc/en/html/ref-att.declarable.html) without the attributes for selection. For details on the issue, please see the explanation and tickets linked in the release notes below.
 

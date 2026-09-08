@@ -2,7 +2,6 @@
 title: "Patch Release: TEI Guidelines 4.10.2"
 date: 2025-09-04
 ---
-# Patch Release of the TEI Guidelines 4.10.2
 
 On 4 September 2025, the TEI Consortium released a second small but significant “patch” of the TEI Guidelines as [version 4.10.2](https://www.tei-c.org/release/doc/tei-p5-doc/en/html/index.html), in order to address a bug in the content model of <sp> that we introduced in the [4.10.0 release](https://www.tei-c.org/Vault/P5/4.10.2/doc/tei-p5-doc/readme-4.10.0.html). The bug inadvertently set a requirement for the `<speaker>` element within `<sp>` when previously it had been optional. For details on the patch and ongoing work to simplify the content modeling, please see the tickets linked in the release notes below.
 

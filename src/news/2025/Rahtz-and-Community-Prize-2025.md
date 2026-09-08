@@ -2,7 +2,6 @@
 title: "2025 Winners of the Rahtz Prize and Community Prize"
 date: 2025-10-06
 ---
-# 2025 Winners of the Rahtz Prize and Community Prize
 
 The TEI Consortium is pleased to announce the winners of the 2025 Rahtz Prize for TEI Ingenuity and the TEI Community Award.
 

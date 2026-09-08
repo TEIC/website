@@ -2,7 +2,6 @@
 title: "Report on the TEI Consortium Consultation About Membership"
 date: 2026-07-29
 ---
-# Report on the TEI Consortium Consultation About Membership
 
 - **DOI**: [https://doi.org/10.5281/zenodo.21669563](https://doi.org/10.5281/zenodo.21669563) 
 

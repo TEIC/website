@@ -4,8 +4,6 @@ date: 2024-10-02
 author: Diane Jakacki
 ---
 
-# TEI Officer Nominations — 2024-25
-
 This document offers names, statements of purpose, and biographies of candidates for open positions for the TEI Board of Directors and Technical Council.
 
 ## TEI Technical Council

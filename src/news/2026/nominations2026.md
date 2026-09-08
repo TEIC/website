@@ -2,7 +2,6 @@
 title: "Nominations for TEI-C Elections"
 date: 2026-05-19
 ---
-# Nominations for TEI-C Elections
 The Text Encoding Initiative Consortium (TEI-C) invites **nominations for election to the TEI-C Board and the Technical Council**.
 The following positions are vacant and up for election:
 

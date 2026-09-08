@@ -2,7 +2,7 @@
 title: "TEI 2026: Conference and Members meeting 2026, Vancouver, BC, Canada"
 date: 2026-01-16
 ---
-# TEI Conference and Members Meeting 2026: Call for Proposals DEADLINE EXTENDED
+## TEI Conference and Members Meeting 2026: Call for Proposals DEADLINE EXTENDED
 
 We are pleased to announce the call for papers, posters, panels, and workshops for the 26th annual meeting of the Text Encoding Initiative (TEI). Co-hosted by the University of British Columbia and Simon Fraser University, TEI 2026 will be held **August 10–14, 2026** (Mon-Fri) at the [University of British Columbia](https://www.ubc.ca/), Vancouver, BC, Canada on the unceded, unsurrendered, traditional and ancestral territories of the [xʷməθkʷəy̓əm (Musqueam)](https://www.musqueam.bc.ca/our-story/our-territory/) people.
 

@@ -4,7 +4,6 @@ date: 2025-08-31
 tags: news
 author: Magdalena Turska
 ---
-# TEI-C Elections 2025
 
 * [Introduction](#intro)
 * [A Note on Voting](#note)

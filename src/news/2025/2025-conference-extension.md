@@ -2,7 +2,6 @@
 title: "25th TEI Conference submission extended deadline: Apr 28th"
 date: 2025-04-21
 ---
-# TEI Conference and Members meeting 2025: submission deadline extended
 
 Following community requests, the call for papers, posters, panels, and workshops for **New Territories**, the Silver Jubilee, twenty-fifth annual meeting of the Text Encoding Initiative is now open until **April 28th** 2025. We welcome contributions via [ConfTool](https://www.conftool.pro/tei2025/) and expect to send out notifications of acceptance by mid-June.
 

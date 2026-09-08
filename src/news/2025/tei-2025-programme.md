@@ -3,7 +3,6 @@ title: "TEI Conference Programme"
 date: 2025-07-14
 author: Magdalena Turska
 ---
-# Conference Programme: TEI Conference and Members meeting 2025
 
 We are happy to present the [conference programme](/news/2025/TEINewTerritoriesProgramme1.1.1.pdf) and schedule for the upcoming Annual Meeting of the Text Encoding Initiative.
 

@@ -5,8 +5,6 @@ author: "Diane Jakacki"
 permalink: "/news/2023/09/24/tei-annual-members-meeting-report/"
 tags: ["Uncategorized"]
 ---
-
-# TEI 2022-23 Annual Report
 The Annual General Meeting of the TEI Consortium was held on 7 September, 2023 at Paderborn, Germany. The meeting took place during the TEI-MEC “Encoding Cultures” conference. (9:15-10:30 am local time)
 
 The following is a report of that meeting.
