@@ -14,10 +14,6 @@ With the support of the [Andrew W. Mellon                         Foundation](ht
 AccessTEI is a digitization program that allows member institutions of the TEI to realize saving and workflow efficiencies in the outsourcing of digitization work normally available only to the largest and most active of institutions. By taking advantage of economies of scale among the TEI membership, AccessTEI is able to offer preferred pricing even on very small jobs—while still providing users with access to individual project management and Quality Assurance programs. Pricing is set by the output kilobyte, providing cost certainty.
 
 
-[TODO: fix transformation]
-![The AccessTEI Project Management Interface](https://sourceforge.net/apps/wordpress/tei/nfs/project/t/te/tei/uploads/2010/06/MyAccount-300x173.png)
-[TODO: fix transformation]
-The AccessTEI Project Management Interface
 Using the [AccessTEI web portal](http://accesstei.apexcovantage.com/) member institutions submit work for digitization. In recognition of the fact that TEI members work with a wide variety of content, AccessTEI accepts a very wide variety of original documents from modern print to manuscript and in western and non-western character sets. An [innovative pricing matrix](http://accesstei.apexcovantage.com/Home/PriceMatrix) allows users to determine the cost effectiveness of any particular job, ensuring that limited resources (including the time of skilled researchers) are applied with maximum efficiency.
 
 
