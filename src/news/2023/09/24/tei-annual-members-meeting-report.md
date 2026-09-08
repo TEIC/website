@@ -14,7 +14,6 @@ The following is a report of that meeting.
 The meeting was convened by Diane Jakacki, Board of Directors Chair.
 
 **Board Members present:**
-
 * Constance Crompton
 * James Cummings
 * Gimena del Rio Riande
@@ -22,7 +21,6 @@ The meeting was convened by Diane Jakacki, Board of Directors Chair.
 * Wolfgang Meier
 
 **Officers present:**
-
 * Elisa Beshero-Bondar (Technical Council Chair)
 * Hugh Cayless (Treasurer)
 
@@ -56,11 +54,9 @@ The meeting comprised reports from officers and SIGs, business, and announcement
     * [Version 4.6.0](/release/doc/tei-p5-doc/readme-4.6.0.html), “the Peace Release” of the TEI Guidelines, April 4, 2023  (<lg> may now include model.pPart.transcriptional, including supplied, redo, and damage ) 
 
 * Met face-to-face twice, during the LINCS conference in Guelph, Ontario in May 2023 and in Paderborn in September 2023
-
     * Hatched plans for a new “TEI Lite 2” customization
     * Worked on i8n and improving accessibility of the Guidelines “spec” pages
     * Contributed to planning of a more robust TEI-C website
-
 * TEI Stylesheets Co-op group
 * Another TEI Odd Processor (ATOP) task force: Weekly meetings on upgrading the processing of customization ODDs
 
@@ -90,13 +86,11 @@ The trend in academic institutions toward continued austerity suggests that the 
 (Beshero-Bondar, Cayless)
 
 * **Mailing Lists:** With staff at Brown moving to other institutions or now retired, the TEI listservs hosted there (18 separate accounts) are vulnerable to lack of support and cancellation.
-
     * Board and Council discussed and pursued multiple options, including changing to a different mailing list platform, considering whether it is sustainable to continue to align with institutions based on employees active in TEI, and/or professional hosting services.
     * Beshero-Bondar approached Penn State about long-term hosting of listservs (all 18 accounts, plus complete archive including searchable access)
     * Penn State and Brown are testing transfer, with preliminary tests successful, and a goal of end of 2023 for complete transfer pending successful transfer of searchable archives.
 
 * **Website**: Cayless has for a long time advocated for moving the website from the current WordPress instance to a more efficient, sustainable, streamlined, flattened structure.
-
     * Cayless presented a prototype of a site in 11ty, which can be maintained in the current GitHub repositories in Markdown files.
     * Cayless estimated that transition to the new site would take approximately a year.
 
@@ -133,32 +127,21 @@ The trend in academic institutions toward continued austerity suggests that the 
 
 #### Publications
 * Rolling Issue
-
     * 2023: 1 article published
-
 * Issue 14
-
     * completely published
     * Edited by Georg Vogeler
     * 13 articles (including editors introduction)
-
 * Issue 15
-
     * 4 articles submitted (peer review decisions send to authors)
-
 * Issue 16
-
     * First (Special) Issue completely published in Spanish: [Treinta años de TEI en español: usos y comunidad. Thirty years of TEI in Spanish: uses and community.](https://journals.openedition.org/jtei/4491)
     * Edited by Gimena del Rio Riande and Susanna Alles Torrent
     * 7 articles (including editors introduction)
-
 * Issue 17
-
     * Edited by James Cummings, Martina Scholger and Tiago Sousa Garcia
     * 9 articles submitted (going through peer review)
-
 * Planned
-
     * Special issue as curated proceedings for this year’s joint TEI-MEC conference
 
 ## SIGs
@@ -178,21 +161,18 @@ The trend in academic institutions toward continued austerity suggests that the 
 ### Text & Graphics SIG
 * **Co-conveners: Martin de la Iglesia and John Walsh**
     * Report from SIG meeting:
-
-               * Interplay between TEI and other formats (IIIF, SVG, (Geo)JSON, …): when to use what? How to connect? (cf. [#1508](https://github.com/TEIC/TEI/issues/1508)])
-               * Are we describing physical objects or digital representations? Or both? How to distinguish? (cf. [#2148](https://github.com/TEIC/TEI/issues/2148))
-               * facsimile//zone vs. sourceDoc//zone (Release [4.5.0](/Vault/P5/current/doc/tei-p5-doc/readme-4.5.0.html), cf. [#2300](https://github.com/TEIC/TEI/issues/2300))
-               * proposed new element (cf. [#1861](https://github.com/TEIC/TEI/issues/1861))
+        * Interplay between TEI and other formats (IIIF, SVG, (Geo)JSON, …): when to use what? How to connect? (cf. [#1508](https://github.com/TEIC/TEI/issues/1508)])
+        * Are we describing physical objects or digital representations? Or both? How to distinguish? (cf. [#2148](https://github.com/TEIC/TEI/issues/2148))
+        * facsimile//zone vs. sourceDoc//zone (Release [4.5.0](/Vault/P5/current/doc/tei-p5-doc/readme-4.5.0.html), cf. [#2300](https://github.com/TEIC/TEI/issues/2300))
+        * proposed new element (cf. [#1861](https://github.com/TEIC/TEI/issues/1861))
 
 ### Graph Technologies
 * Applied Text as Graph (ATAG) <https://git.thm.de/aksz15/atag>
     * Up to now used in:
-
-               * https://liberepistolarum.mni.thm.de/home
-               * https://sozinianer.mni.thm.de/home
+        * https://liberepistolarum.mni.thm.de/home
+        * https://sozinianer.mni.thm.de/home
 
 * Future Work:
-
     * Apply TEI Standards
     * Web-based editor
     * Generic publication system
@@ -201,7 +181,6 @@ The trend in academic institutions toward continued austerity suggests that the 
 **2008 – 2018**
 
 * Drafted and proposed
-
     * Contributed section **14.3 Notated Music** in Written Text to the TEI Guidelines
     * Provides ODDs for embedding MEI into TEI (updated on request) github.com/TEI-Music-SIG/tei-mei
 
@@ -216,59 +195,43 @@ The trend in academic institutions toward continued austerity suggests that the 
     * Andreas Witt stepped down
     * Susanne new since early 2023
     * Technical Council Liaisons
-
-               * Helena Bermúdez Sabel
-               * Magdalena Turska
-
+        * Helena Bermúdez Sabel
+        * Magdalena Turska
     * Liaison
-
-               * Peter Stadler
+        * Peter Stadler
 
 * LingSIG virtual meetings in 2023
 * Presentations on work regarding TEI and linguistics (so far by Susanne Haaf, Eduard Drenth, Joel Kalvesmaki)
 * Topics:
-
     * Issue of further linguistic inline annotations in TEI (att.linguistic)
     * morphosyntactic annotations
     * dependency relationships
     * Collection of linguistic projects working with TEI
-
 * Virtual meetings (once every one to two months) will continue
 
 ### East Asian/Japanese SIG
 * **Co-conveners: Kiyonori Nagasaki and Charles Mueller**
     * The Structure
-
-               * SIG EAJ is managed by the steering committee (SC)
-
-                       * Kazuhiro Okada (Keio University)
-                       * Kiyonori Nagasaki (International Institute for Digital Humanities)
-                       * Natsuko Nakagawa (National Institute for Japanese Language and Linguistics)
-                       * Satoru Nakamura (The University of Tokyo)
-
-               * SC decides and manages activities of the SIG
-
+        * SIG EAJ is managed by the steering committee (SC)
+            * Kazuhiro Okada (Keio University)
+            * Kiyonori Nagasaki (International Institute for Digital Humanities)
+            * Natsuko Nakagawa (National Institute for Japanese Language and Linguistics)
+            * Satoru Nakamura (The University of Tokyo)
+        * SC decides and manages activities of the SIG
     * Activities
-
-               * Workshop<br/>
-We hold workshops every week, alternating between translations, encoding, and research presentations.
-               * Discussion on development of the guidelines
-               * Extension of the language code (ISO639-3)
-               * Translating spec files on the Google spreadsheet prepared by M. Holmes
-               * Now translating chapter 3.
-               * Encoding a linguistic material of Japanese dialect. <https://tei.dhii.jp/>
-               * On a GitHub account https://github.com/TEI-EAJ
-               * Making TEI-guidelines for Japanese literature
-
-                       * To share easy and appropriate methods among related people
-
-               * Developing and providing some TEI-utilization tools
-
-                       * To show convenience of TEI-encoded texts (e.g. correspondence)
-
-               * Grant
-
-                       * The activity has been funded for around 100,000 USD over three years by JSPS (Japan Society for Promotion of Science).
+        * Workshop<br/>We hold workshops every week, alternating between translations, encoding, and research presentations.
+        * Discussion on development of the guidelines
+        * Extension of the language code (ISO639-3)
+        * Translating spec files on the Google spreadsheet prepared by M. Holmes
+        * Now translating chapter 3.
+        * Encoding a linguistic material of Japanese dialect. <https://tei.dhii.jp/>
+        * On a GitHub account https://github.com/TEI-EAJ
+        * Making TEI-guidelines for Japanese literature
+            * To share easy and appropriate methods among related people
+        * Developing and providing some TEI-utilization tools
+            * To show convenience of TEI-encoded texts (e.g. correspondence)
+        * Grant
+            * The activity has been funded for around 100,000 USD over three years by JSPS (Japan Society for Promotion of Science).
 
 ### TEI for MS
 * SIG meeting on Tuesday, Sept 13, 2:30pm to 4pm in Newcastle (minutes have been taken)
@@ -327,13 +290,10 @@ Gimena del Rio Riande announced that TEI 2024 will be held in **Buenos Aires, Ar
 * David Maus (DM): Website overhaul: editorial board needed to maintain the website long term
 * James Cummings: reminds that poster slides should be sent for the conference’s poster session
 * DM: wiki dormant for 4 years, decide if it should be kept or dropped
-
     * Hugh Cayless: discussions are already underway; either revitalize or pull the good bits
     * DM: SIG require wiki as publication space; replacement needed
     * Elisa Beshero-Bondar (EBB): website repository based on markdown, so it is comparable to a wiki
-
 * Diane Jakacki (DJ): new website architecture enables us to give more people active editorial access
-
     * EBB: seconds idea of editorial board; how many members should it have?
     * DM: 3 or 4 people; communication officer could be head of the editorial board
     * DJ: editorial board members do not need/should not come from the board or council

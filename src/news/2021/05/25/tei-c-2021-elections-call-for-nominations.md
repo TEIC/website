@@ -11,11 +11,8 @@ The Text Encoding Initiative Consortium (TEI-C) invites nominations for election
 The following positions are vacant and up for election:
 
 * TEI-C Board
-
     * 2 members (for 3-year term)
-
 * TEI-C Council
-
     * 4 members (for 3-year term)
     * 2 members (for 1-year term)
 
@@ -28,7 +25,6 @@ The elections will take place via online voting prior to the virtual Members’ 
 Self-nominations are welcome and common. TEI-C membership is not a requirement to serve on the Board or Council. All nominees who choose to accept their nomination will be asked to provide a brief statement of interest and biographical paragraph, and to give notice that, if elected, they will be willing to serve.
 
 Once nominations are received and registered, the named person will be asked for:
-
 * formal acceptance of  the nomination by **30 July**
 * a biography and a statement of interest and purpose by **9 August**
 

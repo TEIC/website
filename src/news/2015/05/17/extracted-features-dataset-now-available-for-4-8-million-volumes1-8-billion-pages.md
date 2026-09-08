@@ -10,42 +10,21 @@ The HathiTrust Research Center is pleased to announce the release of its Extract
 
  
 
-* 
-Volume-level metadata
-
-* 
-Page-level features
-
-    * 
-Part-of-speech-tagged token counts
-
-    * 
-Header and footer identification
-
-    * 
-Sentence and line count
-
-    * 
-Algorithmic language detection
-
-* 
-Line-level features
-
-    * 
-Beginning and end line character count
-
-    * 
-Maximum length of the sequence of capital characters starting a line
+* Volume-level metadata
+* Page-level features
+    * Part-of-speech-tagged token counts
+    * Header and footer identification
+    * Sentence and line count
+    * Algorithmic language detection
+* Line-level features
+    * Beginning and end line character count
+    * Maximum length of the sequence of capital characters starting a line
 
 These features allow for analysis of large worksets of volumes in the HathiTrust public domain collection, at scales previously intractable for most individual researchers. For example, page-level token (word) counts, can be used to help build topic models, classifications and perform other text analytics. Similarly, features can be used to evaluate readability of a given volume or workset.
-
- 
 
 How to get the data:
 
 The entire dataset, as well as sample subsets and custom worksets, are available at: <https://sharc.hathitrust.org/features>
-
- 
 
 How to cite:
 
