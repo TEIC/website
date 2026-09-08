@@ -9,9 +9,9 @@ tags: ["Other", "Digital Humanities Incubator", "Humanities", "School of Culture
 
 ## Digital Densities: examining relations between material cultures and digital data
 
-**Call For Papers**
+**Call For Papers*
 
-**27^th^ March 2015, The University of Melbourne**
+**27<sup>th</sup> March 2015, The University of Melbourne**
 
 Hosted by the Digital Humanities Incubator (DHI) in the School of Culture and Communication, University of Melbourne.
 
@@ -46,7 +46,7 @@ We invite papers that explore any aspect of the intersection between digital and
 
  
 
-The symposium will run for one day. Proposals for 20 minute papers should contain an abstract of 150 words, as well as your paper title, a short biography (100 words), institutional affiliation and contact details. Proposals should be submitted by **4^th^February 2015** to [amandat@unimelb.edu.au](mailto:amandat@unimelb.edu.au)
+The symposium will run for one day. Proposals for 20 minute papers should contain an abstract of 150 words, as well as your paper title, a short biography (100 words), institutional affiliation and contact details. Proposals should be submitted by **4<sup>th</sup> February 2015** to [amandat@unimelb.edu.au](mailto:amandat@unimelb.edu.au)
 
  
 
