@@ -7,7 +7,6 @@ author: Magdalena Turska
 
 The Text Encoding Initiative Consortium (TEI-C) invites nominations for election to the TEI-C Board and the Technical Council -- join us!
 
-
 The following positions are vacant and up for election:
 
 _TEI-C Board_

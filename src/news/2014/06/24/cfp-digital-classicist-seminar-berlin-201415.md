@@ -6,34 +6,22 @@ permalink: "/news/2014/06/24/cfp-digital-classicist-seminar-berlin-201415/"
 tags: ["Other", "Digital Classicist Seminar Berlin"]
 ---
 
-
-
 Dear all,
-
 
 I’m delighted to announce the CFP of the 3rd term of our Digital<br/>
 Classicist Seminar in Berlin. Please see below, and kindly forward the<br/>
 information to all colleagues who might be interested.
 
-
 On behalf of the Organising Committee,<br/>
 Fabian Körner.
 
-
-
-
-
 [with the usual apologies for cross-posting]
-
 
 (German version below)
 
-
 ====================
 
-
 CFP: Digital Classicist Seminar Berlin
-
 
 We are pleased to announce the Call for Papers for the third series of<br/>
 the Digital Classicist Seminar Berlin [1]. This initiative, inspired by<br/>
@@ -42,14 +30,12 @@ and connected to London’s Digital Classicist Work in Progress Seminar<br/>
 Institute and the Excellence Cluster TOPOI. It will run during the<br/>
 winter term of the academic year 2014/15.
 
-
 We invite submissions on any kind of research which employs digital<br/>
 methods, resources or technologies in an innovative way in order to<br/>
 enable a better or new understanding of the ancient world. We encourage<br/>
 contributions not only from Classics but also from the entire field of<br/>
 “Altertumswissenschaften”, to include the ancient world at large, such<br/>
 as Egypt and the Near East.
-
 
 Themes may include digital editions, natural language processing, image<br/>
 processing and visualisation, linked data and the semantic web, open<br/>
@@ -63,7 +49,6 @@ classicists, ancient historians or archaeologists, as well as to<br/>
 information scientists and digital humanists, with an academic research<br/>
 agenda relevant to at least one of these fields.
 
-
 Anonymised abstracts [3] of **300-500 words max.** (bibliographic<br/>
 references excluded) should be uploaded by **midnight (CET) on 01<br/>
 August 2014** using the special submission form [4]. Although we do<br/>
@@ -72,7 +57,6 @@ presentations are expected to be delivered in English (when submitting<br/>
 the same proposal for consideration to multiple venues, please do let<br/>
 us know via the submission form). The acceptance rate for the first two<br/>
 seminar series was of 41% (2012/13) and 31% (2014/15).
-
 
 Seminars will run **fortnightly on Tuesday evenings (18:00-19:30)**<br/>
 from October 2014 until February 2015 and will be hosted by the<br/>
@@ -85,7 +69,6 @@ speakers and contribute towards their travel expenses. There are plans<br/>
 to publish papers selected from the first three series of the seminar<br/>
 as a special issue of the new open access publication from TOPOI [5].
 
-
 [1] <http://de.digitalclassicist.org/berlin/><br/>
 [2] <http://www.digitalclassicist.org/wip/><br/>
 [3] The anonymised abstract should have all author names, institutions<br/>
@@ -96,12 +79,9 @@ into the submission system in separate fields.<br/>
 [4] <http://de.digitalclassicist.org/berlin/submit><br/>
 [5] <http://journal.topoi.org/>
 
-
 ====================
 
-
 CFP: Digital Classicist Seminar Berlin
-
 
 Wir freuen uns, hiermit den Call for Papers für die dritte Reihe des<br/>
 Digital Classicist Seminar Berlin im Wintersemester 2014/15 bekannt<br/>
@@ -109,7 +89,6 @@ geben zu können [1]. Diese Seminarreihe orientiert sich an dem Digital<br/>
 Classicist Work in Progress Seminar [2] in London und wird vom<br/>
 Deutschen Archäologischen Institut und dem Excellenzcluster TOPOI in<br/>
 Berlin veranstaltet.
-
 
 Sie sind herzlich dazu eingeladen Beiträge einzureichen, welche die<br/>
 innovative Anwendung moderner digitaler Methoden, Ressourcen und<br/>
@@ -126,7 +105,6 @@ Historiker und Archäologen als auch Informationswissenschaftler und<br/>
 andere Personen mit wissenschaftlichem Interesse an den genannten<br/>
 Fragestellungen ansprechen.
 
-
 Anonymisierte Vorschläge [3] im Umfang von **300-500 Wörtern**<br/>
 (bibliographische Angaben ausgenommen) können bis spätestens<br/>
 **Mitternacht (MEZ) am 1. August 2014** über die unten genannte<br/>
@@ -137,7 +115,6 @@ werden. Bitte teilen Sie uns im Online-Formular mit, ob der gleiche<br/>
 Vortrag bereits bei anderen Veranstaltungsreihen oder Konferenzen<br/>
 eingereicht wurde. Die bisherige Quote von akzeptierten Vorschlägen lag<br/>
 2012/13 bei 41% und 2013/14 bei 31%.
-
 
 Die Seminare werden von Oktober 2014 bis Februar 2015 **alle 14 Tage<br/>
 jeweils dienstags um 18.00 – 19.30 Uhr** in den Räumen des<br/>
@@ -151,7 +128,6 @@ Veröffentlichung des Programms mitgeteilt. Außerdem ist geplant,<br/>
 ausgewählte Beiträge der ersten drei Seminarrreihen in einem Band der<br/>
 neuen Open Access Reihe von TOPOI zu veröffentlichen [5].
 
-
 [1] <http://de.digitalclassicist.org/berlin/><br/>
 [2] <http://www.digitalclassicist.org/wip/><br/>
 [3] Die anonymisierte Kurzbeschreibung des geplanten Vortrages sollte<br/>
@@ -163,6 +139,4 @@ institutionelle Zugehörigkeit werden zusammen mit dem Titel des<br/>
 Vortrags durch separate Felder des Online-Formulars erfasst.<br/>
 [4] <http://de.digitalclassicist.org/berlin/submit><br/>
 [5] <http://journal.topoi.org/>
-
-
 

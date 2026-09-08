@@ -14,4 +14,3 @@ In general the survey provided acknowledgement that the costs for TEI-C infrastr
 
 The TEI-C Board of Directors will consider this feedback from the TEI-C community as it moves forwards with policy decisions to ensure the future health of the TEI-C. The report can be found at: [https://doi.org/10.5281/zenodo.21669563](https://doi.org/10.5281/zenodo.21669563).
 
-  

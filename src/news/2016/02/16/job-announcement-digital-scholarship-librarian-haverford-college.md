@@ -6,19 +6,11 @@ permalink: "/news/2016/02/16/job-announcement-digital-scholarship-librarian-have
 tags: ["Other"]
 ---
 
-
-
-
 DIGITAL SCHOLARSHIP LIBRARIAN
 
 Duties and Responsibilities:
 
-
 Creatively engages in support of faculty and students involved in digital scholarship.  Participates in the development of digital projects and collections by providing a full range of reference, instruction, and collection development/management, preservation, and metadata services for all areas of digital scholarship.. Supports and serves as a resource to colleagues in developing digital projects. Contributes to and supports the digital and online presence of the Library through the investigation, implementation and enhancement of tools that assist with research, instruction and scholarship.  Participates in Web-development team. Actively participates in and contributes to the Tri-College Group. Reports to Coordinator for Digital Scholarship and Services.
-
-
-
-
 
 <br/>
 Specific Duties and Responsibilities:
@@ -43,9 +35,7 @@ Specific Duties and Responsibilities:
 * Familiarity with academic and scholarly research practices.
 * Demonstrates initiative in developing projects.
 
-
 Qualifications:
-
 
 * One of the following: M.S., M.L.S., or M.A.
 * Proficiency in an academic discipline.
@@ -64,39 +54,26 @@ Qualifications:
 * Background in, knowledge of, and a record of achievement with digital scholarship and services. Demonstrated knowledge of emerging trends in digital scholarship.
 * Self-directed and collaborative. Goal-oriented.
 
-
 Preferred:
-
 
 * Experience with system administration and web servers.  Experience developing and troubleshooting applications using scripting, programming and database languages.
 * Intermediate to advanced knowledge of Web-related markup languages, features, and protocols including HTML, CSS, PHP etc.
 * Dual advanced degrees –M.A. and M.L.S.; M.L.S. and M.A., or Ph.D.
 
-
 The Position and the College:
-
 
 Located on a wooded suburban campus less than ten miles from the center of Philadelphia, Haverford College is a highly selective liberal arts institution of approximately 1,175 students and 120 faculty.  The Quaker foundation and traditions of the college encourage a respect for the individual and an openness of exchange that make it attractive to intellectually ambitious and socially conscious students.  The library staff of 26 offers a supportive environment for self-motivated, team-oriented, creative, committed librarians seeking intellectual and professional growth through involvement in the work of faculty and students.  Local Haverford library and information technology resources are substantially augmented by consortial relations with Bryn Mawr and Swarthmore Colleges.
 
-
 This position affords an excellent opportunity to pursue a career at an outstanding college and in a collaborative, consortially-oriented work environment.  The college seeks candidates who take an expansive approach to the work of libraries, to the possibilities afforded by information technologies for achieving the college’s goals for student and faculty work, and to the integration of their work with that of other units within the library and among the Tri-College libraries.
-
 
 To apply please send a resume and cover letter to Terry Snyder, Librarian of the College,[tsnyder@haverford.edu](mailto:tsnyder@haverford.edu); Haverford College Libraries; 370 Lancaster Avenue; Haverford, PA 19041.  Position is open until filled; applications received by March 12will receive priority consideration. Please no phone calls.
 
-
 Haverford College is an equal employment opportunity, affirmative action employer.
-
 
 *Posted by Paul O’Shea, TEI Social Media Coordinator on behalf of… *<br/>
 Michael Zarafonetis, PhD<br/>
 Coordinator for Digital Scholarship and Services<br/>
 Haverford College<br/>[(610) 896 4226](tel:%28610%29%20896%204226)<br/>[mzarafon@haverford.edu](mailto:mzarafon@haverford.edu)
 
-
-
-
  
-
-
 

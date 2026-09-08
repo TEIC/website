@@ -74,5 +74,3 @@ Highlights of this release follow.
 * Emendations of broken links in the Stylesheets README (Stylesheets [\#703](https://github.com/TEIC/Stylesheets/issues/703) and [PR \#710](https://github.com/TEIC/Stylesheets/pull/710))  
 * Modification of odd.css to modify the styling of new attribute lists in HTML ODD documentation (Stylesheets [\#657](https://github.com/TEIC/Stylesheets/issues/657) and [PR \#682](https://github.com/TEIC/Stylesheets/pull/682)).
 
-
-

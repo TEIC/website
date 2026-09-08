@@ -6,10 +6,7 @@ permalink: "/news/2015/07/01/cfp-digital-classicist-seminar-berlin-20152016/"
 tags: ["Other", "Berlin", "Digital Classicist", "German Archaeological Institute"]
 ---
 
-
-
 **CFP: Digital Classicist Seminar Berlin**
-
 
 We are pleased to announce the Call for Papers for the fourth series of<br/>
 the Digital Classicist Seminar Berlin [1]. This initiative, inspired by<br/>
@@ -18,14 +15,12 @@ and connected to London’s Digital Classicist Work in Progress Seminar<br/>
 Institute and the Excellence Cluster TOPOI. It will run during the<br/>
 winter term of the academic year 2015/16.
 
-
 We invite submissions on any kind of research which employs digital<br/>
 methods, resources or technologies in an innovative way in order to<br/>
 enable a better or new understanding of the ancient world. We encourage<br/>
 contributions not only from Classics but also from the entire field of<br/>
 “Altertumswissenschaften”, to include the ancient world at large, such<br/>
 as Egypt and the Near East.
-
 
 <br/>
 Themes may include digital editions, natural language processing, image<br/>
@@ -40,7 +35,6 @@ classicists, ancient historians or archaeologists, as well as to<br/>
 information scientists and digital humanists, with an academic research<br/>
 agenda relevant to at least one of these fields.
 
-
 Anonymised abstracts [3] of **300-500 words max.** (bibliographic<br/>
 references excluded) should be uploaded by **midnight (CET) on 17 July<br/>
 2015** using the special submission form [4]. Although we do accept<br/>
@@ -49,7 +43,6 @@ are expected to be delivered in English. When submitting the same<br/>
 proposal for consideration to multiple venues, please do let us know<br/>
 via the submission form. The acceptance rate for the first three<br/>
 seminar series was of 41% (2012/13), 31% (2013/14), and 40% (2014/15).
-
 
 Seminars will run **fortnightly on Tuesday evenings (17:15-19:00)**<br/>
 from October 2015 until February 2016 and will be hosted by the<br/>
@@ -60,7 +53,6 @@ previous series, the video recordings of the presentations will be<br/>
 published online and we endeavour to provide accommodation for the<br/>
 speakers and contribute towards their travel expenses.
 
-
 [1] <http://de.digitalclassicist.org/berlin/><br/>
 [2] <http://www.digitalclassicist.org/wip/><br/>
 [3] The anonymised abstract should have all author names, institutions<br/>
@@ -70,12 +62,9 @@ abstract title and author names with affiliations are entered into the<br/>
 submission system in separate fields.<br/>
 [4] <http://de.digitalclassicist.org/berlin/submit>
 
-
 ====================
 
-
 CFP: Digital Classicist Seminar Berlin
-
 
 Wir freuen uns, hiermit den Call for Papers für die vierte Reihe des<br/>
 Digital Classicist Seminar Berlin im Wintersemester 2015/16 bekannt<br/>
@@ -83,7 +72,6 @@ geben zu können [1]. Diese Seminarreihe orientiert sich an dem Digital<br/>
 Classicist Work in Progress Seminar [2] in London und wird von dem<br/>
 Deutschen Archäologischen Institut und dem Excellenzcluster TOPOI in<br/>
 Berlin veranstaltet.
-
 
 Sie sind herzlich dazu eingeladen Beiträge einzureichen, welche die<br/>
 innovative Anwendung moderner digitaler Methoden, Ressourcen und<br/>
@@ -100,7 +88,6 @@ Historiker und Archäologen als auch Informationswissenschaftler und<br/>
 andere Personen mit wissenschaftlichem Interesse an den genannten<br/>
 Fragestellungen ansprechen.
 
-
 Anonymisierte Vorschläge [3] im Umfang von **300-500 Wörtern**<br/>
 (bibliographische Angaben ausgenommen) können bis spätestens<br/>
 **Mitternacht (MEZ) am 17. Juli 2015** über die unten genannte Webseite<br/>
@@ -112,7 +99,6 @@ bei anderen Veranstaltungsreihen oder Konferenzen eingereicht wurde.<br/>
 Die bisherige Quote von akzeptierten Vorschlägen lag 2012/13 bei 41%,<br/>
 2013/14 bei 31% und 2014/15 bei 40%.
 
-
 Die Seminare werden von Oktober 2015 bis Februar 2016 **alle 14 Tage<br/>
 jeweils dienstags um 17.15 – 19.00 Uhr** in den Räumen des<br/>
 Excellenzclusters TOPOI und dem DAI in Berlin-Dahlem stattfinden. Das<br/>
@@ -122,7 +108,6 @@ online bereitgestellt werden. Die Vortragenden sollen so weit wie<br/>
 möglich bei der Finanzierung ihrer Reise- und Unterkunftskosten<br/>
 unterstützt werden. Nähere Informationen dazu werden bei der<br/>
 Veröffentlichung des Programms mitgeteilt.
-
 
 [1] <http://de.digitalclassicist.org/berlin/><br/>
 [2] <http://www.digitalclassicist.org/wip/><br/>
@@ -134,6 +119,4 @@ Verfassers” erfolgen. Der bzw. die Autorennamen und die institutionelle<br/>
 Zugehörigkeit werden zusammen mit dem Titel des Vortrags durch separate<br/>
 Felder des Online-Formulars erfasst.<br/>
 [4] <http://de.digitalclassicist.org/berlin/submit>
-
-
 

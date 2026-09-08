@@ -45,8 +45,6 @@ Voting closes on August 4, 2026 at 11:59 pm EST.
 
 ## Candidate Statements: TEI Technical Council {#council}
 
-
-
 ### Syd Bauman {#SB}
 _Affiliation:_ Northeastern University 
 
@@ -67,7 +65,6 @@ Having used the TEI for many years, I am looking forward to the opportunity to s
 **Biography:**
 I am currently a Principal Investigator for the digital scholarly editing project Peter of Poitiers’ Compendium historiae. I studied History and Religious Studies at the University of Graz, before completing my PhD at Trinity College, Dublin, with a thesis on a digital edition of Saint Patrick’s writings. I joined the Digital Humanities department at the University of Graz in May 2016, where I have worked on several projects, including the digital edition of the Imperial Diet of Regensburg of 1576. My research in recent years has focused on digital scholarly editing, digital history, and research data management. I am actively involved in international digital humanities networks, including the Institute for Documentology and Scholarly Editing (IDE) and the Digital Medievalist, for which I served as a board member between 2017 and 2021.
 
-
 ### Selina Galka {#SG}
 _Affiliation:_ Karl-Franzens-Universität Graz
 
@@ -80,7 +77,6 @@ As a member of the Technical Council, I would like to contribute this hands-on e
 Selina Galka is a Research Associate in the Department of Digital Humanities at the University of Graz, Austria, where she is also pursuing a PhD in Digital Humanities with a dissertation on the digital edition of the memoirs of Countess Schwerin and studies and analysis related to it. She holds two master's degrees from the University of Graz: an MA in Digital Humanities and a joint MA in German Philology of the Middle Ages and Early Modern Period, as well as bachelor's degrees in German Studies and Musicology.
 
 Since 2019, she has worked on a range of digital edition and digital humanities projects, including the Digital Edition of the Memoirs of Countess Schwerin, Giuseppe Tartini and his "School of Nations“ (ongoing), the Digital Edition of the Theatre Chronicles of Philipp Gumpenhuber, the Hyperdiplomatic Transcription Platform, and the digital edition of Karl Wiesinger's diaries, among others. Her research focuses on digital scholarly editing, data modelling, semantic web and the use of large language models in the humanities.
-
 
 ### Dario Kampkaspar {#DK}
 _Affiliation:_ University and State Library, Darmstadt, Germany
@@ -96,7 +92,6 @@ I hope that, if elected, I can contribute to the open, fair and inclusive commun
 Currently, I am the head of the Centre for Digital Editions at the University and State Library in Darmstadt, Germany. The projects I’m involved in span from in-depth scholarly editions to large corpora with only basic annotation (240 years of newspapers) and mass conversion of different formats to TEI. Also, I am actively contributing to the development of the framework for digital editions used in the library.
 My key interests are closely related to this background – the need to keep a large number of projects up and running while making sure that the markup is as consistent as possible.
 I hold a degree in (medieval and early modern) history and English linguistics and literature.
-
 
 ### Chiara Martignano {#CM}
 _Affiliation:_ Università di Padova
@@ -117,7 +112,6 @@ As a Portuguese native speaker, I take a particular interest in promoting and ma
 
 **Biography:**
 I am a textual scholar with a background in literary studies. After completing a Lic. (2003), a MA (2007), and a PhD (2013) in Romance Literature and Culture, I was a postdoctoral fellow (2014-2019) and a contracted researcher in textual scholarship (2019-2025). Since September 2025, I have been working at the University of Porto on a research project funded by the Portuguese Foundation for Science and Technology. I am also a board member of the European Society for Textual Scholarship. Full CV: https://www.cienciavitae.pt/portal/en/3F16-87B6-5794 
-
 
 ### Ariane Pinche {#AP}
 _Affiliation:_ CNRS
@@ -145,7 +139,6 @@ Beyond the Consortium, I actively promote TEI through workshops and presentation
 **Biography:**
 Torsten Roeder works at the Centre for Philology and Digitality at the University of Würzburg, Germany. He is part of a research group that creates and curates digital scholarly edition projects, and he manages the Retro Computing Lab, a place for researching and teaching with born-digital heritage.
 
-
 ### Joey Takeda {#JT}
 _Affiliation:_ Simon Fraser University
 
@@ -167,7 +160,6 @@ This same commitment shapes how I contribute to Council discussions, where I hel
 **Biography:**
 Dr. Raffaele (Raff) Viglianti is a Senior Research Software Developer at the Maryland Institute for Technology in the Humanities, University of Maryland. His research is grounded in digital humanities and textual scholarship, where “text” includes musical notation. He researches new and efficient practices to model and publish textual sources as innovative and sustainable digital scholarly resources. Dr. Viglianti is currently an elected member of the Text Encoding Initiative technical council (until Dec 2026) and the Technical Editor of the Scholarly Editing journal.
 
-
 ### Yifan Wang {#YW}
 _Affiliation:_ International Institute for Digital Humanities
 
@@ -179,7 +171,6 @@ Leveraging my knowledge, I would commit myself to expanding usability and applic
 Currently, a Research Fellow at the International Institute for Digital Humanities. Recently received PhD in library and information sciences from the University of Tokyo with a thesis on building medieval Chinese character corpus, while my BA and MA degrees are in linguistics. My research interests are around written languages, informatics of scripts, and writing system studies. Involved for ten years in the SAT project (SAT Daizōkyō Text Database Committee), mainly working on digitalization of the Taishō Tripiṭaka (a compilation of Chinese Buddhist scriptures) and research of medieval character dictionaries. An active member in standardization processes: ISO/IEC JTC 1/SC 2 (as IRG expert) for ISO/IEC 10646 (Universal coded character set) and the Unicode Standard, ISO/TC 37 (as delegate and WG expert) for ISO 639 (ISO language code), ISO 21646, and related standards. Also a freelance translator and a L10N/i18n engineer mainly in the field of video games.
 Academic activities: “Design of Document Repository Management System Based on Graph Database” (2018; awarded IPSJ SIG Computers and the Humanities Student Award), “What Are We Calling ‘Latin Script’? Name and Reality in the Grammatological Terminology” (2019), “慧琳撰『一切経音義』の符号化をめぐって [On the encoding of Huilin’s Yiqiejing Yinyi]” (2019), “Xu Yiqiejing Yinyi and Issues on TEI Markup of Chinese Literature” (2021; awarded Jinmoncom 2021 Student Award), “『續一切経音義』を通じた外字と割注の課題 [Problems on gaiji and warichū as seen in Xu Yiqiejing Yinyi]” (2022; in: ISBN 978-4-90-965884-5)
 Standardization activities: “On Encoding Policy of Gongche Notations and Upcoming Para-ideographs” (2019), “Proposal to Encode 20 Additional Kanbun Marks” (2021), “Proposed Updates and Expansions of Unihan Numeric Fields” (2022), “SAT Submission for the IRG Working Set 2024” (2024)
-
 
 ## Candidate Statements: TEI Board {#board}
 
@@ -202,7 +193,6 @@ Beyond the Consortium, I actively promote TEI through workshops and presentation
 
 **Biography:**
 Torsten Roeder works at the Centre for Philology and Digitality at the University of Würzburg, Germany. He is part of a research group that creates and curates digital scholarly edition projects, and he manages the Retro Computing Lab, a place for researching and teaching with born-digital heritage.
-
 
 ### Christine Ruotolo {#CR}
 _Affiliation:_ University of Virginia Library

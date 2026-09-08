@@ -6,8 +6,6 @@ permalink: "/news/2011/12/02/tei-community-initiative-grants/"
 tags: ["News"]
 ---
 
-
-
 ```
 **TEI Community Initiative Grants**
 Proposals Due 15 December 2011
@@ -61,5 +59,4 @@ fax:  +353 1 671 7114
 check out the new MPhil in Digital Humanities at TCD
 <http://www.tcd.ie/English/postgraduate/digital-humanities/>
 ```
-
 

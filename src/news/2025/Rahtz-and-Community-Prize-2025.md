@@ -22,7 +22,3 @@ This year’s Rahtz and Community Prize Committee consisted of Elisa Beshero-Bon
 
 Congratulations to this year's winners and sincere thanks to the wider TEI Community for your continued efforts to develop, maintain, and expand the TEI Guidelines.
 
-
-
-
-

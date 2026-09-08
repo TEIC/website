@@ -6,9 +6,5 @@ permalink: "/news/2017/01/31/first-papers-of-issue-10-of-the-journal-of-the-text
 tags: ["News"]
 ---
 
-
-
 See [the journal website](https://jtei.revues.org/1511). More to come!
-
-
 

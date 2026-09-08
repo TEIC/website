@@ -6,16 +6,9 @@ permalink: "/news/2014/06/11/tei-paid-assistance/"
 tags: ["Other", "authority data", "authority file", "project", "TEI", "xml"]
 ---
 
-
-
 Hello everyone,
 
-
 I am working on a project that uses TEI to organize some authority data related to a large collection of documents. I need an experienced user of TEI to consult on the project and help troubleshoot some of the issues I’m having. I don’t feel that I am experienced enough to do this alone. I have funding that I can use to pay this person for their time. Below is a description of the tasks I need assistance with. Please let me know if you are interested in this opportunity by emailing **jacobhill.mail@gmail.com**.
-
-
-
-
 
 * Creating an authority file for people (personaugraphy) that can incorporate multiple naming structures, including traditional Persian and Arabic names.
 * Creating an authority file for events, that includes basic data about the event–time, place, participants, etc.
@@ -24,12 +17,8 @@ I am working on a project that uses TEI to organize some authority data related 
 * Creating a controlled vocabulary with subject terms.
 * Setting up a project and linking each text that we encode to these authority files.
 
-
 Warm regards,<br/>
 Jacob Hill
 
-
  
-
-
 

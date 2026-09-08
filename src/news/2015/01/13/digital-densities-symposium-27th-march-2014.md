@@ -6,7 +6,6 @@ permalink: "/news/2015/01/13/digital-densities-symposium-27th-march-2014/"
 tags: ["Other", "Digital Humanities Incubator", "Humanities", "School of Culture and Communication", "University of Melbourne"]
 ---
 
-
 ## Digital Densities: examining relations between material cultures and digital data
 
 **Call For Papers*
@@ -15,14 +14,9 @@ tags: ["Other", "Digital Humanities Incubator", "Humanities", "School of Culture
 
 Hosted by the Digital Humanities Incubator (DHI) in the School of Culture and Communication, University of Melbourne.
 
- 
-
 The ‘material turn’ in Humanities research has seen a celebration of the physicality of things and a revaluing of the weight of experience, including in the case of digital data. In his key text Mechanisms, Matthew Kirschenbaum identifies a need to reassess theories of electronic textuality in light of “the material matrix governing writing and inscription in all forms: erasure, variability, repeatability and survivability” (2008, xii). In the academy, this material turn co-exists with an increasing utilization of digital resources and digital methodologies to preserve and disseminate the findings of our research. These shifts are accompanied by divergent affective responses that include an interest in tactile sensations and a mourning of the loss of the object. There is a new awareness of the forms of lightness or weight attached to the transmission of ideas in and beyond our research communities; the densities of our culture and scholarship. The ever more numerous moments of contact between material culture and digital methodologies open up debates that are of both practical and theoretical significance.
 
-
 We invite papers that explore any aspect of the intersection between digital and material cultures. We warmly encourage proposals from scholars with a range of disciplinary backgrounds as well as from archival practitioners. Topics and questions to be addressed might include:
-
- 
 
 *What are the critical practices in the intersection of digital humanities and the material turn?*
 
@@ -44,13 +38,7 @@ We invite papers that explore any aspect of the intersection between digital and
 
 *How have contemporary representations imagined the digital transformation  of contemporary cultures?*
 
- 
-
 The symposium will run for one day. Proposals for 20 minute papers should contain an abstract of 150 words, as well as your paper title, a short biography (100 words), institutional affiliation and contact details. Proposals should be submitted by **4<sup>th</sup> February 2015** to [amandat@unimelb.edu.au](mailto:amandat@unimelb.edu.au)
-
- 
-
- 
 
 *The Digital Humanities Incubator (DHI) is an initiative of the School of Culture and Communication at The University of Melbourne, and is supported by a collaborative Faculty of Arts Research Grant.*
 

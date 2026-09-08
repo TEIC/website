@@ -6,10 +6,7 @@ permalink: "/news/2011/10/27/2011-board-and-council-election-results/"
 tags: ["News"]
 ---
 
-
-
 [original source, TEI-L: <br/>[http://listserv.brown.edu/archives/cgi-bin/wa?A2=ind1110&L=TEI-L&T=0&F=&S=&P=12010](https://listserv.brown.edu/archives/cgi-bin/wa?A2=ind1110&L=TEI-L&T=0&F=&S=&P=12010)]
-
 
 ```
 
@@ -54,5 +51,4 @@ Chair, 2011 Nominations Committee
 
 | Voice:812-856-0707 Fax:812-856-2062 <mailto:jawalsh@indiana.edu>
 ```
-
 

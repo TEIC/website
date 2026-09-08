@@ -6,8 +6,6 @@ permalink: "/news/2011/03/08/call-for-papers-2011-tei-members-meeting/"
 tags: ["News"]
 ---
 
-
-
 ```
 Dear TEIers,
 As you know already, the TEI conference will take place this year in
@@ -142,5 +140,4 @@ For the international programm comittee,
 
 Laurent Romary (programm committee chair)
 ```
-
 
