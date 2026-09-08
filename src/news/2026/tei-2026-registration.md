@@ -2,7 +2,6 @@
 title: "TEI 2026: Registration Open"
 date: 2026-05-28
 ---
-# TEI 2026: Registration now open!
 
 Registration is now open for [TEI 2026: Creating Connections, Unsettling Practices](https://tei2026.tei-c.org), which will take plan August 10-14 at the University of British Columbia in Vancouver, British Columbia, Canada. 
 

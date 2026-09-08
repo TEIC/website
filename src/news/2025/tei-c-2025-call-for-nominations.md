@@ -3,7 +3,6 @@ title: "TEI-C Call for Nominations"
 date: 2025-05-15
 author: Magdalena Turska
 ---
-# TEI-C Call for Nominations 2025
 
 The Text Encoding Initiative Consortium (TEI-C) invites nominations for election to the TEI-C Board and the Technical Council -- join us!
 

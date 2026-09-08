@@ -2,7 +2,6 @@
 title: "Rahtz Prize 2024: Scholarly XML"
 date: 2024-11-10
 ---
-# Rahtz Prize for Ingenuity 2024 Winner: Scholarly XML
 
 [The Scholarly XML extension for VS Code](https://marketplace.visualstudio.com/items?itemName=raffazizzi.sxml), by Raffaele Viglianti, is the winner of this year's Rahtz Prize for TEI Ingenuity. 
 

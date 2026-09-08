@@ -2,7 +2,6 @@
 title: "TEI-C Survey on Membership and Activities"
 date: 2026-01-02
 ---
-# TEI-C Survey on Membership and Activities
 
 The Text Encoding Initiative (TEI) Consortium is conducting a survey concerning membership and activities of the consortium. You do not need to be a member to answer it.
 

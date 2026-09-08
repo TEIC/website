@@ -5,8 +5,6 @@ author: "Hugh Cayless"
 permalink: "/news/2024/05/24/rahtz-prize-2024-call-for-nominations/"
 tags: ["News"]
 ---
-
-# Rahtz Prize for Ingenuity 2024 — Call for nominations and self-submissions
 The TEI Consortium created the Rahtz Prize for TEI Ingenuity in memory of Sebastian Rahtz, who contributed significantly to the TEI infrastructure. The award is intended to honour Sebastian’s noteworthy technical and philosophical contributions to the TEI, and to encourage innovation in the TEI community. The Rahtz Prize for TEI Ingenuity is awarded to an individual or team judged to have made a significant contribution to the TEI-C’s mission in particular by means of non-commercial/openly-available projects or initiatives. Many members of the TEI community are engaged in exploring new ways of implementing and expanding the coverage of the TEI encoding system. It is hoped that the Rahtz Prize will not only recognize excellent work already completed, but through its celebration and dissemination of nominated works also encourage new projects and fresh approaches. The recipient(s) of the 2023 award will receive $1,000 USD or equivalent.
 
 The TEI community is encouraged to nominate prospective candidates for the Rahtz Prize. Self-submissions will also be accepted. You do not have to be a member of the TEI-C to make a nomination or submission. The project/work nominated or submitted does not have to be from 2024.

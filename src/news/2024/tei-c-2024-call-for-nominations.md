@@ -3,7 +3,6 @@ title: "TEI-C Call for Nominations"
 date: 2024-09-08
 author: Diane Jakacki
 ---
-# TEI-C Call for Nominations
 
 The Text Encoding Initiative Consortium (TEI-C) invites nominations for election to the TEI-C Board and the Technical Council -- join us!
 

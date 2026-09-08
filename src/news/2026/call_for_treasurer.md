@@ -2,7 +2,6 @@
 title: "Call for TEI-C Treasurer and Membership Secretary"
 date: 2026-05-01
 ---
-# Call for TEI-C Treasurer and Membership Secretary
 
 The TEI Consortium seeks applicants to fill the TEI-C Treasurer and Membership Secretary position, which will be appointed by the Board of Directors as a non-voting member of the Board. This is a three-year volunteer role which we would hope would start **1 July 2026**. This is an essential position for the TEI-C Board of Directors with global outreach and strategic decision-making on behalf of the TEI-C membership. The position offers valuable experience in managing a large budget and directly advising the TEI-C Board of Directors. 
 
