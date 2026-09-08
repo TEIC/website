@@ -19,9 +19,7 @@ This one-day symposium will bring together researchers, government analysts, doc
 
 
 ## **How:**
-* Submit full papers in XML to 
-[TODO: fix transformation]
-info@balisage.net
+* Submit full papers in XML to <info@balisage.net>
 * Guidelines, DTDs, schemas, and details at <http://www.balisage.net/submissions.html>
 
 
