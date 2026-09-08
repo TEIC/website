@@ -6,8 +6,6 @@ permalink: "/news/2010/07/12/groundbreaking-digital-musical-notation-model-relea
 tags: ["Other"]
 ---
 
-
-
 ```
 The Music Encoding Initiative Council announces the release of
 MEI 2010-05, a groundbreaking digital musical notation model
@@ -36,5 +34,4 @@ and the University of Paderborn from the Deutsche
 Forschungsgemeinschaft (German Research Foundation) and the
 National Endowment for the Humanities.
 ```
-
 

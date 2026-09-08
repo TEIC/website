@@ -6,39 +6,25 @@ permalink: "/news/2013/01/17/tei-p5-version-2-3-0-released/"
 tags: ["News"]
 ---
 
-
-
 Dear TEI Community,
-
 
 TEI P5 version 2.3.0 (Codename: Betty White) is now available from all the usual sources, such as the TEI-C website and SourceForge. The debian packages, TEI-C XSL, and oxygen-tei framework will be updated fairly soon. This release introduces both textual and schema-related changes, new features and a significant number of bug fixes. Mostly these are based on bug and feature request tickets submitted to SourceForge by the TEI community. If you notice anything that has changed in error, or want to submit additional changes, please do so on the http://tei.sf.net/ website.
 
-
 We have continued in our aim of opening up the release process to as many different people on Council and in this case the newly elected Hugh Cayless (NYU Digital Library Technology Services) was the release technician. Able assistance was also given by several other council members on the TEI IRC channel (see http://wiki.tei-c.org/index.php/IRC for more information). As always this has produced a set of notes for how to improve the release process that will be fed back into http://www.tei-c.org/Activities/Council/Working/tcw22.xml for future releases. The greatest thanks are due not only to the TEI Technical Council for undertaking the work, but the TEI community for submitting tickets!
-
 
 A text version of the release notes is below, but a version (with links) is available at: http://www.tei-c.org/release/doc/tei-p5-doc/readme-2.3.0.html
 
-
 Many thanks to all,
-
 
 James Cummings<br/>
 (TEI Technical Council Chair)<br/>
 ====
 
-
-
-
 # TEI P5 version 2.3.0 release notes
-
 
 This version of the TEI introduces new features and resolves a number of issues raised by the TEI community. As always, the majority of these changes and corrections are a consequence of feature requests or bugs reported by the TEI community, using the SourceForge tracking system. If you find something you think needs to change in the TEI Guidelines, schemas, tools, or website, please submit a feature request or bug ticket at <http://tei.sf.net/> for consideration.
 
-
 Since the last release (25 October 2012), the TEI Technical Council has closed 93 tickets entered in the SourceForge tracking system. During the same period 77 new tickets have been opened by the community according to <https://sourceforge.net/projects/tei/stats/tracker?tracker=&dates=2012-10-25+to+2013-01-17>.
-
-
 
 Some of the highlights of the TEI P5 2.3.0 release include:
 
@@ -57,10 +43,5 @@ Some of the highlights of the TEI P5 2.3.0 release include:
 * The [citedRange](/Vault/P5/2.3.0/doc/tei-p5-doc/en/html/ref-citedRange.html) element has been added inresponse to <http://purl.org/TEI/FR/3555191> in order to enable users to document in a bibliographic reference the range within a larger text that is being cited.
 * Many tickets reporting small bugs such as typos, inconsistencies, or places where greater clarity was needed in the Guidelines. The TEI Technical Council would encourage any such reports, so if you spot a problem, please do let us know by filing a bug at <http://purl.org/tei/bug>.
 
-
-
-
 ====
-
-
 

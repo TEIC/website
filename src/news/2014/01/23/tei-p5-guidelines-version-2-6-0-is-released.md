@@ -6,8 +6,6 @@ permalink: "/news/2014/01/23/tei-p5-guidelines-version-2-6-0-is-released/"
 tags: ["News"]
 ---
 
-
-
 ```
 Dear TEI Community,
 
@@ -154,5 +152,4 @@ at<https://github.com/TEIC/Stylesheets>.
 Dr James Cummings, James.Cummings@it.ox.ac.uk
 Academic IT Services, University of Oxford
 ```
-
 

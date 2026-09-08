@@ -6,9 +6,6 @@ permalink: "/news/2015/02/02/international-summer-school-2015-on-hpc-challenges-
 tags: ["Other", "Canada", "HPC", "International Summer School", "RIKEN Advanced Institute for Computational Science"]
 ---
 
-
-
-
 From: Compute Canada <[info@computecanada.ca](mailto:info@computecanada.ca)><br/>
 Reply-To: Compute Canada <[info@computecanada.ca](mailto:info@computecanada.ca)><br/>
 Date: Thursday, January 29, 2015 at 1:25 PM<br/>
@@ -33,8 +30,6 @@ We are proud to support this program that enables Canadian researchers and stude
 
 Applications will be accepted until March 11, 2015. Visit our website to learn more about this exciting opportunity.
 
-
-
 Chers collègues de Calcul Canada,
 
 Calcul Canada est honorée d’avoir été choisie pour accueillir la sixième édition de l’École internationale d’été 2015 sur les enjeux du CIP dans les sciences informatiques, qui se tiendra du 21 au 26 juin 2015 à Toronto. Dans le cadre de cette école d’été, d’éminents scientifiques et technologues donneront une variété de cours aux étudiants diplômés et chercheurs postdoctoraux des institutions canadiennes, européennes, japonaises et américaines qui recourent au CIP pour mener à bien leurs travaux.
@@ -44,7 +39,6 @@ L’École est parrainée par Calcul Canada, par l’Extreme Science and Enginee
 Calcul Canada est fière d’appuyer ce programme passionnant qui permet aux chercheurs et aux étudiants canadiens de collaborer avec des sommités mondiales de la communauté du calcul informatique de pointe et reconnaît le calibre mondial de la formation, de l’éducation et de l’expertise canadiennes.
 
 Les demandes d’admission seront acceptées jusqu’au 11 Mars 2015. Pour en apprendre davantage à ce sujet, veuillez visiter notre site web.
-
 
 **Copyright © 2015 Compute Canada, All rights reserved.**
 You are receiving this e-mail because you are a registered user on CCDB. Vous recevez ce courriel parce que vous êtes un utilisateur inscrit dans la base de données de Compute Canada Calcul Canada, ou vous faites partie d’un organisme subventionnaire.

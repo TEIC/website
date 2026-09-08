@@ -6,19 +6,14 @@ permalink: "/news/2015/07/09/its-2015-call-for-participation-doctoral-symposium/
 tags: ["Other"]
 ---
 
-
-
 **ITS 2015 – Call for Participation, Doctoral Symposium**
 
-
 Deadline Extended: 21 July, 2015
-
 
 The ITS Doctoral Symposium is a forum in which Ph.D. students can meet<br/>
 and discuss their work with each other and a panel of experienced<br/>
 Interactive Surface researchers in an informal and interactive<br/>
 setting.
-
 
 Students should submit a paper that describes: the problem that the<br/>
 thesis aims to address; the broad approach and how it builds upon and<br/>
@@ -27,13 +22,8 @@ completed and the plan for the full dissertation work. Completed work<br/>
 may be presented as an overview or highlighting a particularly<br/>
 important part in depth.
 
-
-
-
-
 Doctoral Symposium papers will be published in the ITS conference<br/>
 companion distributed at the conference.
-
 
 Each submission will be reviewed by both DS chairs to assess its<br/>
 suitability for the DS, as well as additional expert reviewers when<br/>
@@ -41,25 +31,20 @@ necessary. This will be based on whether the work is sufficiently<br/>
 mature to present but still early enough for the student to benefit<br/>
 from the feedback and experience.
 
-
 Accepted authors will present their work to the DS chairs and expert<br/>
 reviewers and participate in an intensive workshop around ITS<br/>
 research. The Doctoral Symposium will take place at the conference<br/>
 venue on Sunday, November 15, 2015 (for accepted authors and invited<br/>
 experts only!).
 
-
 Important Dates
-
 
 July 21, 2015, 5:00 p.m. PDT: Deadline for submissions<br/>
 August 21, 2015: Notifications<br/>
 September 11, 2015: Final Manuscript submission deadline<br/>
 November 15, 2015: Doctoral Symposium Date (full day)
 
-
 Submission
-
 
 Every submission should include both an extended abstract (no more<br/>
 than six pages in ACM landscape format) and a draft poster design. You<br/>
@@ -68,11 +53,9 @@ clarifies the work, as is often the case in ITS interfaces. The<br/>
 extended abstract should be in the SIGCHI extended abstract format.<br/>
 You can download Word and LaTeX templates from the sigchi website.
 
-
 Submissions should be converted to PDF and uploaded to the Precision<br/>
 Conference system athttps://[precisionconference.com/~sigchi/](http://precisionconference.com/~sigchi/) by 5:00<br/>
 p.m. Pacific Daylight Time on July 21st.
-
 
 Submissions must include a draft poster design, also in PDF format.<br/>
 This does not need to be a complete final version, but should give a<br/>
@@ -83,18 +66,12 @@ should follow the same guidelines as described here:<br/><http://its2015.org/aut
 main ITS poster session, and will not be used during the doctoral<br/>
 symposium itself.
 
-
 Submissions (both abstract and poster) should not be anonymised for review.
 
-
 Doctoral Symposium Co-Chairs
-
 
 Raimund Dachselt, Technische Universität Dresden<br/>
 Antonio Krüger, Saarland University
 
-
 [doctoral@its2015.org](mailto:doctoral@its2015.org)
-
-
 

@@ -6,13 +6,9 @@ permalink: "/news/2015/04/06/pkp-2015-call-for-participation-11-14-august-2015-v
 tags: ["Other", "conference website", "DH", "DHSI", "Digital Humanities", "open access publishing", "open source technologies", "PKP", "Vancouver"]
 ---
 
-
-
 **PKP 2015**<br/>**11-14 August 2015, Vancouver**<br/>**The deadline for submissions: May 1, 2015**
 
-
 Call for Participation
-
 
 The conference will address a wide range of issues such as open access<br/>
 publishing, global knowledge creation and sharing, open educational<br/>
@@ -21,12 +17,10 @@ publishers, and open source technologies. It will provide opportunities to<br/>
 explore a new array of connections among scholarship, technology, and<br/>
 community, all focused around the broad theme of openness.
 
-
 The program will consist of a mixture of invited plenary presentations, a<br/>
 “next generation scholars” panel discussion, brief “lightning talks,” a<br/>
 2-day development sprint, and workshops. A preliminary schedule, including<br/>
 the updated registration fees, can be found on the conference website:<br/><http://pkp.sfu.ca/pkp2015/pages/view/program>
-
 
 <br/>
 This year, the conference organizing team has chosen a more dynamic,<br/>
@@ -41,10 +35,8 @@ in which case you will have the opportunity to have that paper made<br/>
 available on the conference website; so that other participants can read<br/>
 it before or after the conference.
 
-
 Proposals that address one or more of the following topics are especially<br/>
 encouraged:
-
 
 * Roles for next generation scholars, researchers, and librarians;<br/>
 * Community connections and partnerships among scholarly journals, the<br/>
@@ -59,16 +51,12 @@ generation scholarly monograph;<br/>
 * The full research lifecycle and new linkages with scholarly publishing,<br/>
 e.g. research data.
 
-
 To start your submission, please visit:<br/><http://pkp.sfu.ca/pkp2015/schedConf/cfp>
-
 
 The deadline for submissions is May 1, 2015
 
-
 The Public Knowledge Project is pleased to announce the keynote speakers<br/>
 for the upcoming PKP 2015 conference:
-
 
 * John Maxwell , Director of the Canadian Institute for Studies in<br/>
 Publishing at SFU, and Associate Professor in the Masters of Publishing<br/>
@@ -83,9 +71,6 @@ Director of the Program in Science, Technology, and Society at Stanford<br/>
 University, Professor in Publishing Studies at SFU, and Distinguished<br/>
 Scholar in Residence at the SFU Library.
 
-
 For more information, please visit the ‘Invited Speakers’ page on the<br/>
 conference website: <http://pkp.sfu.ca/pkp2015/pages/view/speakers>
-
-
 

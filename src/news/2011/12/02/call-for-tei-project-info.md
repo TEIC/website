@@ -6,8 +6,6 @@ permalink: "/news/2011/12/02/call-for-tei-project-info/"
 tags: ["News"]
 ---
 
-
-
 ```
 All,
 
@@ -45,5 +43,4 @@ Thanks for assistance,
 David Sewell, [dsewell@virginia.edu](mailto:dsewell@virginia.edu)
 TEI webmaster
 ```
-
 

@@ -6,15 +6,12 @@ permalink: "/news/2015/07/03/digital-pedagogy-institute-august-19-21-2015-regist
 tags: ["Other", "Digital Pedagogy Institute", "Pedagogy", "research methodology", "Ryerson University", "University of Toronto Scarborough"]
 ---
 
-
-
 Registration is now open for the second iteration of the Digital Pedagogy<br/>
 Institute, co-hosted by the University of Toronto Scarborough, Brock<br/>
 University, and Ryerson University, and supported by the generosity of a<br/>
 SSHRC Connections grant and Victoria Owen, UTSC Chief Librarian. This<br/>
 Institute will explore the potential impact that digital pedagogy has on<br/>
 student experience.
-
 
 <br/>
 As emerging technologies have had an immense impact on the way that<br/>
@@ -26,7 +23,6 @@ development of new skill sets, both in faculty development and student<br/>
 training. As such, digital literacy and pedagogy must become a priority<br/>
 for undergraduate and graduate students, as well as faculty members who<br/>
 must adapt to and participate in new, digitally-mediated methodologies.
-
 
 The Digital Pedagogy Institute will explore following topics:<br/>
 •       How can digital research methodologies be used to improve student<br/>
@@ -41,7 +37,6 @@ research?<br/>
 collaborative learning, co-inquiring and co-learning with students via<br/>
 activity-centered projects?
 
-
 It will consist of plenary sessions, informational sessions, panel<br/>
 discussions, as well as hands-on workshops involving digital tools for<br/>
 research and curriculum development. Presentations from those who have<br/>
@@ -50,21 +45,17 @@ insight into the integration of this skill set into the post-secondary<br/>
 context, and how this integration has the potential to ameliorate learning<br/>
 experience and job readiness.
 
-
 WHO<br/>
 The Digital Pedagogy Institute is open and will bring together faculty<br/>
 members, scholars, librarians, and students with considerable expertise or<br/>
 interest in the area of digital pedagogy.
 
-
 WHEN/WHERE<br/>August 19th + 20th, 2015: University of Toronto Scarborough Campus,<br/>
 Toronto, ON<br/>August 21st, 2015: Ryerson University, Toronto, ON
-
 
 COST<br/>
 The cost of registration is $80.00. Please visit the DPI website in order<br/>
 to register (<http://www.utsc.utoronto.ca/conferences/dpi/register/>).
-
 
 CONFIRMED PLENARY SPEAKERS<br/>
 Nora Young – Host of CBC Radio’s Spark, Author of The Virtual Self<br/>
@@ -75,8 +66,5 @@ Associate in Comparative Humanities, Bucknell University<br/>
 Miriam Posner – Coordinator of the Digital Humanities, UCLA<br/>
 Sam Popowich – Discovery Systems Librarian at University of Alberta
 
-
 Questions? Please email Paulina Rousseau: [prousseau@utsc.utoronto.ca](mailto:prousseau@utsc.utoronto.ca)
-
-
 

@@ -6,6 +6,3 @@ permalink: "/news/2015/04/22/call-for-papers-tei-members-meeting-and-conference-
 tags: ["Other", "News"]
 ---
 
-
-
-
