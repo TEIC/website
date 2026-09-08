@@ -9,16 +9,16 @@ tags: ["News", "Elections", "TEI Board and Council elections"]
 * [Introduction](#intro "Introduction")
 * [A Note on Voting](#voting "A Note on Voting")
 * [Candidate Statements: TEI Technical Council](#council "Candidate Statements: TEI Technical Council")
-       * [Helena Bermúdez Sabel](#Bermudez)
-       * [Elli Bleeker](#Bleeker)
-       * [Nicholas Cole](#Cole)
-       * [Nick Laiacona](#Laiacona)
-       * [David Maus](#Maus)
-       * [Patricia O Connor](#OConnor)
-       * [Joey Takeda](#Takeda)
+    * [Helena Bermúdez Sabel](#Bermudez)
+    * [Elli Bleeker](#Bleeker)
+    * [Nicholas Cole](#Cole)
+    * [Nick Laiacona](#Laiacona)
+    * [David Maus](#Maus)
+    * [Patricia O Connor](#OConnor)
+    * [Joey Takeda](#Takeda)
 
 * [Candidate Statements: TEI Board of Directors](#board "Candidate Statements: TEI Board of Directors")
-       * [Constance Crompton](#Crompton)
+    * [Constance Crompton](#Crompton)
 
 ## Introduction
 In 2022, TEI Members will hold an election to fill 3 open positions on the TEI Technical Council (3-year term). There is 1 open position on the TEI Board of Directors (3-year term) and 1 candidate for that position, therefore Constance Crompton will be elected by default.

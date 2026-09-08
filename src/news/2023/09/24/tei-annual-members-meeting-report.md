@@ -52,14 +52,14 @@ The meeting comprised reports from officers and SIGs, business, and announcement
 * Completed and closed 115 tickets and pull requests
 * Issued two releases:
 
-       * [Version 4.5.0](/release/doc/tei-p5-doc/readme-4.5.0.html), “the Release of One’s Own”, October 26, 2022: (added a new <gender> element and revised <sex>, <person>, and <persona>, allowed for nested <ab> elements)
-       * [Version 4.6.0](/release/doc/tei-p5-doc/readme-4.6.0.html), “the Peace Release” of the TEI Guidelines, April 4, 2023  (<lg> may now include model.pPart.transcriptional, including supplied, redo, and damage ) 
+    * [Version 4.5.0](/release/doc/tei-p5-doc/readme-4.5.0.html), “the Release of One’s Own”, October 26, 2022: (added a new <gender> element and revised <sex>, <person>, and <persona>, allowed for nested <ab> elements)
+    * [Version 4.6.0](/release/doc/tei-p5-doc/readme-4.6.0.html), “the Peace Release” of the TEI Guidelines, April 4, 2023  (<lg> may now include model.pPart.transcriptional, including supplied, redo, and damage ) 
 
 * Met face-to-face twice, during the LINCS conference in Guelph, Ontario in May 2023 and in Paderborn in September 2023
 
-       * Hatched plans for a new “TEI Lite 2” customization
-       * Worked on i8n and improving accessibility of the Guidelines “spec” pages
-       * Contributed to planning of a more robust TEI-C website
+    * Hatched plans for a new “TEI Lite 2” customization
+    * Worked on i8n and improving accessibility of the Guidelines “spec” pages
+    * Contributed to planning of a more robust TEI-C website
 
 * TEI Stylesheets Co-op group
 * Another TEI Odd Processor (ATOP) task force: Weekly meetings on upgrading the processing of customization ODDs
@@ -91,14 +91,14 @@ The trend in academic institutions toward continued austerity suggests that the 
 
 * **Mailing Lists:** With staff at Brown moving to other institutions or now retired, the TEI listservs hosted there (18 separate accounts) are vulnerable to lack of support and cancellation.
 
-       * Board and Council discussed and pursued multiple options, including changing to a different mailing list platform, considering whether it is sustainable to continue to align with institutions based on employees active in TEI, and/or professional hosting services.
-       * Beshero-Bondar approached Penn State about long-term hosting of listservs (all 18 accounts, plus complete archive including searchable access)
-       * Penn State and Brown are testing transfer, with preliminary tests successful, and a goal of end of 2023 for complete transfer pending successful transfer of searchable archives.
+    * Board and Council discussed and pursued multiple options, including changing to a different mailing list platform, considering whether it is sustainable to continue to align with institutions based on employees active in TEI, and/or professional hosting services.
+    * Beshero-Bondar approached Penn State about long-term hosting of listservs (all 18 accounts, plus complete archive including searchable access)
+    * Penn State and Brown are testing transfer, with preliminary tests successful, and a goal of end of 2023 for complete transfer pending successful transfer of searchable archives.
 
 * **Website**: Cayless has for a long time advocated for moving the website from the current WordPress instance to a more efficient, sustainable, streamlined, flattened structure.
 
-       * Cayless presented a prototype of a site in 11ty, which can be maintained in the current GitHub repositories in Markdown files.
-       * Cayless estimated that transition to the new site would take approximately a year.
+    * Cayless presented a prototype of a site in 11ty, which can be maintained in the current GitHub repositories in Markdown files.
+    * Cayless estimated that transition to the new site would take approximately a year.
 
 ###  jTEI
 (Tanja Wissik, read by Jakacki)
@@ -134,50 +134,50 @@ The trend in academic institutions toward continued austerity suggests that the 
 #### Publications
 * Rolling Issue
 
-       * 2023: 1 article published
+    * 2023: 1 article published
 
 * Issue 14
 
-       * completely published
-       * Edited by Georg Vogeler
-       * 13 articles (including editors introduction)
+    * completely published
+    * Edited by Georg Vogeler
+    * 13 articles (including editors introduction)
 
 * Issue 15
 
-       * 4 articles submitted (peer review decisions send to authors)
+    * 4 articles submitted (peer review decisions send to authors)
 
 * Issue 16
 
-       * First (Special) Issue completely published in Spanish: [Treinta años de TEI en español: usos y comunidad. Thirty years of TEI in Spanish: uses and community.](https://journals.openedition.org/jtei/4491)
-       * Edited by Gimena del Rio Riande and Susanna Alles Torrent
-       * 7 articles (including editors introduction)
+    * First (Special) Issue completely published in Spanish: [Treinta años de TEI en español: usos y comunidad. Thirty years of TEI in Spanish: uses and community.](https://journals.openedition.org/jtei/4491)
+    * Edited by Gimena del Rio Riande and Susanna Alles Torrent
+    * 7 articles (including editors introduction)
 
 * Issue 17
 
-       * Edited by James Cummings, Martina Scholger and Tiago Sousa Garcia
-       * 9 articles submitted (going through peer review)
+    * Edited by James Cummings, Martina Scholger and Tiago Sousa Garcia
+    * 9 articles submitted (going through peer review)
 
 * Planned
 
-       * Special issue as curated proceedings for this year’s joint TEI-MEC conference
+    * Special issue as curated proceedings for this year’s joint TEI-MEC conference
 
 ## SIGs
 ### Correspondence SIG
 * **Co-conveners: Stefan Dumont and Sabine Seifert**
-       * Further development of Correspondence Metadata Interchange Format (CMIF)
-       * Further work on manual “[Encoding Correspondence](https://encoding-correspondence.bbaw.de/)“, opening of GitHub tickets
+    * Further development of Correspondence Metadata Interchange Format (CMIF)
+    * Further work on manual “[Encoding Correspondence](https://encoding-correspondence.bbaw.de/)“, opening of GitHub tickets
 
 ### Ontologies SIG
 * **Co-conveners: Connie Crompton and Kathryn Tomasek**
-       * Desired SIG Projects**
-       * Linked data training materials designed with TEI users in mind
-       * Bridge building with ontology maintaining organizations (e.g. ICS-Forth CIDOC-CRM)
-       * Lists of resources, authorities, ontologies on the TEI Wiki
-       * Survey of TEI users and creators: who is also using linked data and how? Can we see more examples?
+    * Desired SIG Projects**
+    * Linked data training materials designed with TEI users in mind
+    * Bridge building with ontology maintaining organizations (e.g. ICS-Forth CIDOC-CRM)
+    * Lists of resources, authorities, ontologies on the TEI Wiki
+    * Survey of TEI users and creators: who is also using linked data and how? Can we see more examples?
 
 ### Text & Graphics SIG
 * **Co-conveners: Martin de la Iglesia and John Walsh**
-       * Report from SIG meeting:
+    * Report from SIG meeting:
 
                * Interplay between TEI and other formats (IIIF, SVG, (Geo)JSON, …): when to use what? How to connect? (cf. [#1508](https://github.com/TEIC/TEI/issues/1508)])
                * Are we describing physical objects or digital representations? Or both? How to distinguish? (cf. [#2148](https://github.com/TEIC/TEI/issues/2148))
@@ -186,41 +186,41 @@ The trend in academic institutions toward continued austerity suggests that the 
 
 ### Graph Technologies
 * Applied Text as Graph (ATAG) <https://git.thm.de/aksz15/atag>
-       * Up to now used in:
+    * Up to now used in:
 
                * https://liberepistolarum.mni.thm.de/home
                * https://sozinianer.mni.thm.de/home
 
 * Future Work:
 
-       * Apply TEI Standards
-       * Web-based editor
-       * Generic publication system
+    * Apply TEI Standards
+    * Web-based editor
+    * Generic publication system
 
 ### Music SIG
 **2008 – 2018**
 
 * Drafted and proposed
 
-       * Contributed section **14.3 Notated Music** in Written Text to the TEI Guidelines
-       * Provides ODDs for embedding MEI into TEI (updated on request) github.com/TEI-Music-SIG/tei-mei
+    * Contributed section **14.3 Notated Music** in Written Text to the TEI Guidelines
+    * Provides ODDs for embedding MEI into TEI (updated on request) github.com/TEI-Music-SIG/tei-mei
 
 **2023**
 
 * **Co-convenors: Raff Viglianti & Torsten Roeder**
-       * Provide a catalyst for projects combining text and music notation
-       * Join the [mailing list](sendto:tei-music-sig@listserv.brown.edu)!
+    * Provide a catalyst for projects combining text and music notation
+    * Join the [mailing list](sendto:tei-music-sig@listserv.brown.edu)!
 
 ### TEI for Linguists SIG (LingSIG)
 * **Co-conveners: Piotr Bański, Susanne Haaf**
-       * Andreas Witt stepped down
-       * Susanne new since early 2023
-       * Technical Council Liaisons
+    * Andreas Witt stepped down
+    * Susanne new since early 2023
+    * Technical Council Liaisons
 
                * Helena Bermúdez Sabel
                * Magdalena Turska
 
-       * Liaison
+    * Liaison
 
                * Peter Stadler
 
@@ -228,16 +228,16 @@ The trend in academic institutions toward continued austerity suggests that the 
 * Presentations on work regarding TEI and linguistics (so far by Susanne Haaf, Eduard Drenth, Joel Kalvesmaki)
 * Topics:
 
-       * Issue of further linguistic inline annotations in TEI (att.linguistic)
-       * morphosyntactic annotations
-       * dependency relationships
-       * Collection of linguistic projects working with TEI
+    * Issue of further linguistic inline annotations in TEI (att.linguistic)
+    * morphosyntactic annotations
+    * dependency relationships
+    * Collection of linguistic projects working with TEI
 
 * Virtual meetings (once every one to two months) will continue
 
 ### East Asian/Japanese SIG
 * **Co-conveners: Kiyonori Nagasaki and Charles Mueller**
-       * The Structure
+    * The Structure
 
                * SIG EAJ is managed by the steering committee (SC)
 
@@ -248,7 +248,7 @@ The trend in academic institutions toward continued austerity suggests that the 
 
                * SC decides and manages activities of the SIG
 
-       * Activities
+    * Activities
 
                * Workshop<br/>
 We hold workshops every week, alternating between translations, encoding, and research presentations.
@@ -328,15 +328,15 @@ Gimena del Rio Riande announced that TEI 2024 will be held in **Buenos Aires, Ar
 * James Cummings: reminds that poster slides should be sent for the conference’s poster session
 * DM: wiki dormant for 4 years, decide if it should be kept or dropped
 
-       * Hugh Cayless: discussions are already underway; either revitalize or pull the good bits
-       * DM: SIG require wiki as publication space; replacement needed
-       * Elisa Beshero-Bondar (EBB): website repository based on markdown, so it is comparable to a wiki
+    * Hugh Cayless: discussions are already underway; either revitalize or pull the good bits
+    * DM: SIG require wiki as publication space; replacement needed
+    * Elisa Beshero-Bondar (EBB): website repository based on markdown, so it is comparable to a wiki
 
 * Diane Jakacki (DJ): new website architecture enables us to give more people active editorial access
 
-       * EBB: seconds idea of editorial board; how many members should it have?
-       * DM: 3 or 4 people; communication officer could be head of the editorial board
-       * DJ: editorial board members do not need/should not come from the board or council
+    * EBB: seconds idea of editorial board; how many members should it have?
+    * DM: 3 or 4 people; communication officer could be head of the editorial board
+    * DJ: editorial board members do not need/should not come from the board or council
 
 * DM: ATOP group: have something which starts to work for ODD customizations, so real projects are wanted for testing
 

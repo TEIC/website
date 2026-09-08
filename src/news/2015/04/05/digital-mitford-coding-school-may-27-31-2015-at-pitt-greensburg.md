@@ -19,9 +19,9 @@ Though we draw our active editors from researchers of 19th-century literature, w
 * Discussion of Best Practices for editing digital scholarly editions<br/>
 * Opportunity to join an active and intensive “dig site” for important data on networks of women writers, theaters, and publishers from the 18th and 19th centuries
 * Hands-on Learning of Text Encoding, including the following:
-       * TEI XML encoding
-       * Autotagging and regular expression matching to prepare digital texts
-       * Hands-on experience with XPath, code schemas, XSLT, and more
+    * TEI XML encoding
+    * Autotagging and regular expression matching to prepare digital texts
+    * Hands-on experience with XPath, code schemas, XSLT, and more
 
 * Individual and Group Instruction, working with our Explanatory Guides and Resources See <http://www.pitt.edu/~ebb8/DHDS/> and scroll to Explanatory Guides.)
 
