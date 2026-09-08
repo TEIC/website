@@ -29,23 +29,17 @@ Submissions: **https://www.conftool.net/tei2015/**
 
 ### **Possible Topics **
 This list is not exclusive.
-
 * Connecting the TEI
-
     * TEI across corpora, languages, and cultures
     * TEI, formal ontologies and the Semantic Web
     * TEI and beyond: interactions, interchange, integrations and interoperability
     * TEI in galleries, libraries, archives, and museums
-
 * Animating the TEI
-
     * TEI outreach, within and between communities of practice
     * TEI, editors, readers, collaborators
     * TEI and sustainability
     * TEI and visualization
-
 * Innovating with the TEI
-
 * TEI tools for analysis, publication, and infrastructures
 * TEI environments
 * TEI at scale

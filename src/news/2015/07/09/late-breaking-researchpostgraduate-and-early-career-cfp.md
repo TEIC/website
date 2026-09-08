@@ -21,31 +21,25 @@ Deadline: **Tuesday ****28**** July 2015**
 
 Submissions: **<https://www.conftool.net/tei2015/>**
 
-**<br/>**We invite proposals for individual papers on **late-breaking research** for the 15th annual Conference and Members’ Meeting of the Text Encoding Initiative Consortium (TEI—[http://www.tei-c.org](/)).
+We invite proposals for individual papers on **late-breaking research** for the 15th annual Conference and Members’ Meeting of the Text Encoding Initiative Consortium (TEI—[http://www.tei-c.org](/)).
 
 We particularly welcome proposals from **early career researchers and postgraduate students**.
 
-**<br/>**The power of the TEI is realized in interactions, between texts, between programs, between practices, and between members of its community. This theme invites considerations of technical and social applications and approaches, both to the practice of encoding and to the development of local and international communities of use. It includes training in the TEI and related areas, for example incorporating the digital into traditional forms of editing. It addresses integration of TEI-encoded texts at scale, for example in libraries and large corpora, and acknowledges that new research questions and external developments require continuous innovation.
+The power of the TEI is realized in interactions, between texts, between programs, between practices, and between members of its community. This theme invites considerations of technical and social applications and approaches, both to the practice of encoding and to the development of local and international communities of use. It includes training in the TEI and related areas, for example incorporating the digital into traditional forms of editing. It addresses integration of TEI-encoded texts at scale, for example in libraries and large corpora, and acknowledges that new research questions and external developments require continuous innovation.
 
 ### **POSSIBLE TOPICS**
 This list is not exclusive.
-
 * Connecting the TEI
-
     * TEI across corpora, languages, and cultures
     * TEI, formal ontologies and the Semantic Web
     * TEI and beyond: interactions, interchange, integrations and interoperability
     * TEI in galleries, libraries, archives, and museums
-
 * Animating the TEI
-
     * TEI outreach, within and between communities of practice
     * TEI, editors, readers, collaborators
     * TEI and sustainability
     * TEI and visualization
-
 * Innovating with the TEI
-
 * TEI tools for analysis, publication, and infrastructures
 * TEI environments
 * TEI at scale

@@ -25,17 +25,14 @@ Please share this message with any researcher potentially interested in learning
 Each year we draw people who are interested in learning to run and manage digital archive projects and to learn TEI XML and related forms of coding. Our workshops are a Coding School, to train our new editors as well as people simply interested in learning to code in order to develop their own projects. We anticipate hosting two kinds of audiences: 1) those who wish to join the Mitford project as active editors, and 2) equally welcome, those who wish to learn our methods to apply them to their own projects. Please note that the second audience must pay a registration fee to participate, but our fee is waived for continuing Digital Mitford editors and those we approve as new editors. More on this below.
 
 **WHAT WE TEACH AND SHARE:**
-
 * Discussion of Methods and Best Practices for editing digital scholarly editions, including coding to compare versions of texts (e.g. manuscript vs. print edition of a play or poem)
 * Opportunity to join an active and intensive “dig site” for important data on networks of women writers, theaters, and publishers in the nineteenth century.
 * Hands-on Learning of Text Encoding, including the following:
-
     * TEI XML encoding and experience with producing editions of manuscripts, especially of letters
     * Autotagging and regular expression matching to prepare texts as code
     * Hands-on experience with XPath, a language to navigate XML, particularly helpful in navigating our site index and complex texts
     * Experience in working with code schemas, to ensure consistency and accuracy for multiple editors on a project
     * The use of XSLT to extract and chart information from TEI markup, and to transform and publish TEI for view on the web.
-
 * Individual and Group Instruction, working with our own Explanatory Guides and Resources developed by the Principal Editor for her students and for the Mitford team. (See <http://www.pitt.edu/~ebb8/DHDS/> and scroll to Explanatory Guides.)
 
 **HOW TO JOIN THE WORKSHOPS:**<br/>
@@ -58,8 +55,7 @@ All registration fees are to be paid by check to the University of Pittsburgh at
 
 Please note that these fees are quite competitive with workshop rates at other institutions, such as the DHSI. The difference between our Coding School and alternative workshops is that we provide intensive concentration  on XML-based digital archive development of 19th-century manuscripts and related material–**connected with the development of a single project**, with a project team engaging with challenging questions for our long-range planning. Our coding school offers concentrated experience with the workflow and decisions of a large and very active digital project, and our editors have developed a collaborative tradition of working together to share in the learning process. Thus, people may come to us expecting to learn about the inner operations of a large project in progress, in order to gain (and share) perspective on collaborative project design and development. We offer a concentrated workshop and think tank, facilitated by our collaborative tradition on the Digital Mitford project..
 
-**If you wish to become an Active Editor** on the project for the long-term, and are willing to dedicate time and research to the Digital Mitford project beyond our workshop, to help develop digital editions, write editorial annotations and headnotes, research prosopography data; that is,** if you are interested in having your name as a researcher be affiliated with the Digital Mitford project as we grow and develop**, we ask that you write an application letter indicating your interest in working with us, and responding to the following questions:
-
+**If you wish to become an Active Editor** on the project for the long-term, and are willing to dedicate time and research to the Digital Mitford project beyond our workshop, to help develop digital editions, write editorial annotations and headnotes, research prosopography data; that is,**if you are interested in having your name as a researcher be affiliated with the Digital Mitford project as we grow and develop**, we ask that you write an application letter indicating your interest in working with us, and responding to the following questions:
 * What draws you to editing Mitford’s letters and literary texts?
 * Which of her texts (or what kinds of texts by Mitford) are you particularly interested in helping with? (Letters, drama, poetry, prose fiction, essays, life-writing…?)
 * The Digital Mitford project is dedicated for the next three years to working on Mitford’s letters and published texts from 1810 – 1825. Please indicate if you have a particular interest in Mitford’s work from this period in your application.
@@ -69,7 +65,6 @@ Please note that these fees are quite competitive with workshop rates at other i
 **ABOUT THE DIGITAL MITFORD PROJECT:**
 
 Our project goals are, as ever,
-
 * to produce the first comprehensive scholarly edition of the works and letters of Mary Russell Mitford, and
 * to share knowledge of TEI XML and other related humanities computing practices with all serious scholars interested in contributing to this  project.
 
@@ -85,7 +80,6 @@ and discussing editing issues as well as site design and development
 3) to bring specialists in data visualization and XML data extraction together to consult and help design effective and readable network graphs, charts, and maps drawn from our prosopography data collected thus far from our coding, and to advise on reading views and site design for our texts.(We’ll find time for these specialists to work on their own, and also to share ideas with the project team).
 
 **BUDGETING FOR THE MAY 2015 WORKSHOPS:**
-
 * We will cover the costs of residence in suites (with kitchens and good wireless internet) at the Pitt- Greensburg campus and will arrange for licenses for an extended (90-day) period to use our XML editing software <oXygen/>.
 * We cannot cover the costs of travel to Pitt-Greensburg, but we can and do coordinate rides from the Pittsburgh International Airport and the Amtrak train stations in Pittsburgh and in Greensburg.
 * We ask each participant to investigate local funding sources to help cover the costs of travel here. If all else fails, we will happily make it possible for you to attend the workshops through Skype as we have done in previous years, but it’s best if we can all be together in person!
