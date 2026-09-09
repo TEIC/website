@@ -16,7 +16,7 @@ The customization also allows the use of elements from the Music Encoding Iniati
 
 We would like to invite those of you who are interested in the encoding of texts which contain music notation to access the documentation, the ODD and the schema on the SIG’s webspace:
 
-[http://www.tei-c.org/SIG/Music/twm/index.html](/activities/sig/music/twm/index.html)
+<https://tei-music-sig.github.io/twm/index.html>
 
 We consider this output as a beta release and we are very interested in collecting comments, feedback and discussing possible use scenarios. Please join our mailing list if you would like to discuss any aspect of this customization.
 

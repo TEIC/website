@@ -8,7 +8,7 @@ tags: ["News", "candidates", "Elections"]
 
 Dear TEI Community,
 
-We have just sent out the ballots for the 2014 TEI elections. Election information, including the list of the standing candidates is at [http://www.tei-c.org/Membership/Meetings/2014/mm70.xml](/membership/meetings/2014/mm70.xml). We are very thankful for the outstanding candidates that have accepted to stand for election, this shows the vitality of our growing community.
+We have just sent out the ballots for the 2014 TEI elections. Election information, including the list of the standing candidates is at <https://www.tei-c.org/Vault/MembersMeetings/2014-info/mm70.html>. We are very thankful for the outstanding candidates that have accepted to stand for election, this shows the vitality of our growing community.
 
 The voting is being conducted via [OpaVote.org](http://opavote.org/) <[http://OpaVote.org](http://opavote.org/)> and ballots will be sent from “[noreply@opavote.org](mailto:noreply@opavote.org)“. All members in good standing at the time of the election are eligible to vote. Individual subscribers vote for Council only; institutional members vote for both Board and Council.
 

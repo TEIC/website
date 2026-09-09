@@ -19,7 +19,7 @@ If you have been an author or reviewer before, you should be able to use your ex
 
 Note that we have recently adopted a new Author Agreement based on open access principles which leaves copyright with the author rather than vesting it in the Journal, giving you much greater control over your work:
 
-<[http://www.tei-c.org/jTEI/jtei_author_agreement_CC.pdf](/jtei/jtei_author_agreement_cc.pdf)>
+<https://www.tei-c.org/files/jtei_author_agreement_CC.pdf>
 
 Detailed guidelines for authors are available here:
 

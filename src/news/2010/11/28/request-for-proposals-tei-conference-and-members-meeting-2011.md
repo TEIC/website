@@ -63,7 +63,7 @@ for a particular theme or focus, ease of access and accommodation).
 
 In submitting bids, local organisers are encouraged to be creative: the TEI is willing to work with hosts to reflect local interests and strengths.
 
-Further information about the requirements for the conference and members meeting may be found in our document on [Hosting a Members Meeting](/membership/meetings/meeting_hosting.xml "Hosting a Members Meeting") and the Board’s own [Practices and Procedures](/board/procedures.xml#body.1_div.4 "Practices and Procedures") document. These should be considered as suggestions rather than normative: the format of the conference changes every year.
+Further information about the requirements for the conference and members meeting may be found in our document on [Hosting a Members Meeting](https://members.tei-c.org/hosting) and the Board’s own [Practices and Procedures](/board/procedures.xml#body.1_div.4 "Practices and Procedures") document. These should be considered as suggestions rather than normative: the format of the conference changes every year.
 
 All bids will be reviewed by the TEI board, which makes the final decision.
 

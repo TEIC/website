@@ -12,5 +12,5 @@ The vote was unanimous amongst the ballots cast. However, the total number of ba
 
 Because of the complexity of the changes, the Board’s initial approval was in principle, reserving final pending the drafting of specific language and check on consistency. This process was completed in January 2011 and approved by the Board on Friday, January 14, 2011.
 
-The new Bylaws are now in effect and available on the Consortium’s website: [http://www.tei-c.org/About/bylaws.xml](/about/bylaws.xml). Special elections required for the transition to the new Board structure should be announced soon.
+The new Bylaws are now in effect and available on the Consortium’s website:<https://tei-c.org/about/bylaws/>. Special elections required for the transition to the new Board structure should be announced soon.
 

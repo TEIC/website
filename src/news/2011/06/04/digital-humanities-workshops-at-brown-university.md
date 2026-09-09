@@ -14,7 +14,7 @@ setting.
 
 More information, including detailed workshop descriptions and registration information, can be found at <http://www.wwp.brown.edu/outreach/seminars/>
 
-Students and [members of the TEI consortium](/membership/join.xml) receive a 33% discount on registration.
+Students and [members of the TEI consortium](https://members.tei-c.org/Join) receive a 33% discount on registration.
 
 All workshops are held at Brown University. Space is limited so please register early.
 

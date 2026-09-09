@@ -19,7 +19,7 @@ Paul O’Shea BA, MA,
 
 **Lecturer/Tutor** ([Digital Arts and Humanities MA](http://www.ucc.ie/en/cke09/))
 
-**Social Media Coordinator** for the [TEI](/index.xml)
+**Social Media Coordinator** for the [TEI](https://www.tei-c.org/)
 
 [Twitter](https://twitter.com/TEIconsortium) [Facebook](https://www.facebook.com/groups/22394009911/) [Blog](http://textencodinginitiative.wordpress.com/) [Newsfeed](/news/)
 
