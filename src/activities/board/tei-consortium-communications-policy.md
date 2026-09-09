@@ -12,7 +12,7 @@ Purpose
  
  The Text Encoding Initiative Consortium (TEI) is a not\-for\-profit
  membership organization, whose goals and missions are set out
- on its website at [http://www.tei\-c.org/About/mission.xml](/About/mission.xml). This
+ on its website at [http://www.tei\-c.org/about/mission/](/about/mission/). This
  document sets out the TEI's policies concerning all aspects of
  communication with both members of the Consortium and more
  generally with

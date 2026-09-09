@@ -9,6 +9,6 @@ El Consorcio la  **Text Encoding Initiative (TEI)** es una organización sin fin
 ¿Quieres participar en la comunidad de la TEI?
 
 * [Forma parte de la TEI](https://members.tei-c.org/join)
-* Únete a un [grupo de interés especial](https://tei-c.org/Activities/SIG/)
+* Únete a un [grupo de interés especial](/activities/sig/)
 * Regístrate en la [lista de correo de TEI-L](https://tei-c.org/support/#tei-l)
 * Ven a nuestras [conferencias anuales y reuniones de miembros](http://members.tei-c.org/Events/meetings)

@@ -16,7 +16,7 @@ There was great interest in the Presentation Tools SIG in Nancy. Most of the
  others were interested in TEI querying and delivery. Therefore, we split into
  two SIGs. If you are interested in TEI as an authoring tool you can check out
  the [TEI Authoring
- SIG](/Activities/SIG/Authoring/)
+ SIG](/activities/sig/authoring/)
 
 
 From the meeting in Nancy we discovered that many of us in the TEI are in the

@@ -97,7 +97,7 @@ SIG Coordinator
 * Web space: The TEI provides web space for each SIG,
  linked from [the main webpage for SIGs](./).
 * Wiki space: The TEI provides space for SIGs on its wiki,
- in the [SIG area](/wiki/index.php/Category:SIG).
+ in the [SIG area](https://wiki.tei-c.org/index.php/Category:SIG).
 * Meeting venue: The TEI provides SIGs with the opportunity
  to meet at the annual Members' Meeting, space and resources
  permitting.

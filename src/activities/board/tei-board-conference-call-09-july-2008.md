@@ -23,7 +23,7 @@ Approval of Agenda* Approved. An update from RS on the viral marketing study was
 Approval of Minutes* Approved with minor correction.
 Chair's Report* DO has been working on a way to recognize the service of the early TEI founders on
  the website. He proposed 
- adding to the [Organization page](/About/organization.xml), listing the 
+ adding to the [Organization page](/about/organization/), listing the 
  original steering committee members and editors beneath the current officers. Before
  it goes live on the website, DO will double check
  the list for accuracy, and will run it past Julia, Lou, John before circulating it

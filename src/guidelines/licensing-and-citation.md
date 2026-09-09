@@ -31,7 +31,7 @@ tags: page
  accessed the page in question.
  
  To cite P5 in its entirety, long (preferred) version
-TEI Consortium, eds. *TEI P5: Guidelines for Electronic Text Encoding and Interchange.* [Version number]. [Last modified date]. TEI Consortium. https://www.tei-c.org/Guidelines/P5/
+TEI Consortium, eds. *TEI P5: Guidelines for Electronic Text Encoding and Interchange.* [Version number]. [Last modified date]. TEI Consortium. https://www.tei-c.org/guidelines/p5/
  ([Date of access]).
 
 

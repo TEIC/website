@@ -107,7 +107,7 @@ JU confirmed to HC that he would still be Treasurer for the arrangements of the 
 ### Elect Officers and Appoint Other Roles
 
 
-[According to the Bylaws](https://www.tei-c.org/About/bylaws.xml#TEIby-A3 "According to the Bylaws"), we need to elect the following positions:
+[According to the Bylaws](https://www.tei-c.org/about/bylaws/#TEIby-A3 "According to the Bylaws"), we need to elect the following positions:
 * Chair: PW proposed MD stand for election as Chair. KT seconded it. MD accepted the
  nomination and was unanimously elected.
 * Secretary:MD proposed PW stand for election as Secretary. KT seconded it. PW accepted

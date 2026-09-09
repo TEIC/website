@@ -72,7 +72,7 @@ Meeting Procedures and Other Announcements
  Approve Board Meeting Minutes: 
  1 November 2015:
  
-Elect Officers (see [http://www.tei\-c.org/About/bylaws.xml\#TEIby\-A3](/About/bylaws.xml#TEIby-A3))
+Elect Officers (see [http://www.tei\-c.org/about/bylaws/\#TEIby\-A3](/about/bylaws/#TEIby-A3))
  Chair
  Secretary
  Membership Secretary
@@ -155,7 +155,7 @@ Elect Officers (see [http://www.tei\-c.org/About/bylaws.xml\#TEIby\-A3](/About/b
  1 November 2015: 
 MD asked whether the Elections Committee described in the Guidelines was the same
  entity as the Nominating Committee described in the Bylaws
- ([http://www.tei\-c.org/About/bylaws.xml\#TEIby\-A3](/About/bylaws.xml#TEIby-A3)). MM agreed it was as there is nothing
+ ([http://www.tei\-c.org/about/bylaws/\#TEIby\-A3](/about/bylaws/#TEIby-A3)). MM agreed it was as there is nothing
  about an Elections Committee in the Bylaws and their duties were agreed to be the
  same.
  MD noted that as we reconsider the balloting process we should use the correct

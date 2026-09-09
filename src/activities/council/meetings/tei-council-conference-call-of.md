@@ -59,7 +59,7 @@ the draft has been completed, but has not been announced
 anywhere. It was noted that there has already been some
 feedback, as it was announced as part of the Members'
 Meeting [MS SIG
-report](/activities/SIG/Manuscript/mssigr02.html). Council agreed that once the draft was
+report](/activities/sig/manuscript/mssigr02.html). Council agreed that once the draft was
 publicized, comments on it should receive rapid attention
 from the MS taskforce, and urged MD to announce draft far
 and wide immediately.

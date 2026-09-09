@@ -16,9 +16,9 @@ Technical development of the TEI Guidelines is organized and overseen by the [TE
 The TEI Consortium also awards the [Rahtz Prize for TEI Ingenuity](/activities/rahtz-prize-for-tei-ingenuity/ "Rahtz Prize for TEI Ingenuity") not more than once a year.
 
 
-The success of the TEI depends upon the active participation of its community of members and users. Those involved in projects using the TEI Guidelines are strongly encouraged to subscribe to the [TEI-L](/Support/ "TEI-L") mailing list, and to make others aware of their work by registering it on the [TEI projects page](/Activities/Projects/ "TEI projects page"). The TEI also supports a number of loosely-organized [Special Interest Groups](/Activities/SIG/ "Special Interest Groups") (SIGs), which provide an opportunity for people with similar interests to collaborate and share ideas.
+The success of the TEI depends upon the active participation of its community of members and users. Those involved in projects using the TEI Guidelines are strongly encouraged to subscribe to the [TEI-L](/support/ "TEI-L") mailing list, and to make others aware of their work by registering it on the [TEI projects page](/Activities/Projects/ "TEI projects page"). The TEI also supports a number of loosely-organized [Special Interest Groups](/activities/sig/ "Special Interest Groups") (SIGs), which provide an opportunity for people with similar interests to collaborate and share ideas.
 
 
-To find out about training-related activities, see the [events calendar](http://members.tei-c.org/Events "events calendar"). To find out about activities specifically related to tool development, visit the [Tools](/Tools/ "Tools") page.
+To find out about training-related activities, see the [events calendar](http://members.tei-c.org/Events "events calendar"). To find out about activities specifically related to tool development, visit the [Tools](/tools/ "Tools") page.
 
 

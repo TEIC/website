@@ -22,7 +22,7 @@ A summary of the changes introduced by these revisions follows. For
  completeness, members can also access and compare 
  [the proposed
  revision](/Board/bylaws2013.xml), [the current (2011\)
- version](/About/bylaws.xml) of the bylaws online, and a [redlined version showing changes](/wp-content/uploads/2018/04/bylaws2013-redlined.pdf).
+ version](/about/bylaws/) of the bylaws online, and a [redlined version showing changes](/wp-content/uploads/2018/04/bylaws2013-redlined.pdf).
 
 
 In the following list of substantive changes, article and clause

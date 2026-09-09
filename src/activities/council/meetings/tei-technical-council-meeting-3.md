@@ -54,7 +54,7 @@ Apologies: Gabriel Bodard (GB), Sebastian Rahtz (SPQR), Piotr Banski (PB)
  
  JC already circulated a report to the Council list. Some SIGs have responded,
  others not. This is available on the tei\-council mailing list at [http://lists.village.virginia.edu/pipermail/tei\-council/2012/016088\.html](http://lists.village.virginia.edu/pipermail/tei-council/2012/016088.html).
- KH reports from [the Libraries SIG](/Activities/SIG/Libraries/): 
+ KH reports from [the Libraries SIG](/activities/sig/libraries/): 
  they are beginning a study of the library community
  to see how/whether they are using TEI and how well TEI is meeting their needs.
  The results will be presented at TEI and at another conference in the fall.
@@ -75,7 +75,8 @@ TEI for Libraries list to help. For
  and issues, and then create tickets from that. 
  
   JC mentioned ongoing board discussions about reforming the way SIGs worked
- and that currently the SIG Rules [http://www.tei\-c.org/Activities/SIG/rules.xml](/Activities/SIG/rules.xml) say that “a single
+ and that currently the SIG Rules 
+  <https://www.tei-c.org/activities/sig/sig-rules-and-regulations/> say that “a single
  ‘SIG Coordinator' is appointed by the Council from among its members”. He
  has suggested (and will suggest again to the board) that it should not be
  limited to the Council Membership. 

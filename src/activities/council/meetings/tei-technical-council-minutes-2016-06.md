@@ -72,6 +72,8 @@ Apologies
 * Other business?
 	+ Conference in memory of SPQR. (Sadly 27 September 2016\)
 	+ East Asian SIG
-		- [http://www.tei\-c.org/Activities/SIG/EastAsian/](https://www.tei-c.org/Activities/SIG/EastAsian/ "http://www.tei-c.org/Activities/SIG/EastAsian/"). The conveners felt it important at this stage to retain the "Japanese" part of the name in order to engage Japanese textual scholars, HC indicated the Council's preference for a more inclusive naming, but deferred to their expert opinion.
+		- <https://www.tei-c.org/activities/sig/eastasian/>. The conveners
+		  felt it important at this stage to retain the 
+		  "Japanese" part of the name in order to engage Japanese textual scholars, HC indicated the Council's preference for a more inclusive naming, but deferred to their expert opinion.
 
 

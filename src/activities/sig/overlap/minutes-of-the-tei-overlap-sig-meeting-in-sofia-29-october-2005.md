@@ -69,7 +69,7 @@ In Attendance:
 TexMECS, An experimental markup meta\-language for complex documents (<http://decentius.aksis.uib.no/mlcd/2003/Papers/texmecs.html>)
 * HORSE/CLIX
  
- See the OL SIG Wiki at [http://www.tei\-c.org/wiki/index.php/SIG:Overlap\#HORSE](http://www.tei-c.org/wiki/index.php/SIG:Overlap#HORSE)
+ See the OL SIG Wiki at <https://wiki.tei-c.org/index.php/SIG:Overlap#HORSE>
 
 
 We
@@ -184,6 +184,6 @@ This
  to inclusion in the Guidelines.
 * Possible future cooperation with the Standoff Markup Workgroup
 * Continue discussion and investigate new approaches, via Wiki and Listserv
-	+ Wiki: The Wiki is located at [http://www.tei\-c.org/wiki/index.php/SIG:Overlap](http://www.tei-c.org/wiki/index.php/SIG:Overlap). It currently acts as a review of approaches
+	+ Wiki: The Wiki is located at <https://wiki.tei-c.org/index.php/SIG:Overlap>. It currently acts as a review of approaches
 	 to OL, and also as a bibliography. Anyone can add to or edit the Wiki page.
 	+ Listserv: to join the listserv, register at `http://listserv.brown.edu/tei-ol-sig.html`

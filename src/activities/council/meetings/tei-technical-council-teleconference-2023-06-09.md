@@ -108,7 +108,7 @@ TEI Lite2 customization
 * Update [https://tei\-c.org/guidelines/customization/](https://tei-c.org/guidelines/customization/)
 * From Guelph discussion:
 	+ Lite2 should be more like an "on ramp" that doesn't cover all cases but takes us quite far as common ground.
-	+ **Action on JJ** to get us started drafting a paragraph for the Customization page and the [TEI Lite](https://tei-c.org/guidelines/customization/Lite/) page that Council can review this summer\-\-to share at July meeting.
+	+ **Action on JJ** to get us started drafting a paragraph for the Customization page and the [TEI Lite](https://tei-c.org/release/doc/tei-p5-exemplars/html/tei_lite.doc.html) page that Council can review this summer\-\-to share at July meeting.
 	+ **Action on MT** to also get started on the Lite2 customization by July meeting.
 	+ Need to update Lite and other customisations also mentioned in Chapter 22 at: [https://tei\-c.org/release/doc/tei\-p5\-doc/en/html/USE.html\#MDlite](https://tei-c.org/release/doc/tei-p5-doc/en/html/USE.html#MDlite)
 

@@ -78,7 +78,7 @@ TEI Lite2 customization
 * Updates to [https://tei\-c.org/guidelines/customization/](https://tei-c.org/guidelines/customization/) ?
 * Reminders:
 	+ Lite2 should be more like an "on ramp" that doesn't cover all cases but takes us quite far as common ground.
-	+ **Action on JJ** to get us started drafting a paragraph for the Customization page and the [TEI Lite](https://tei-c.org/guidelines/customization/Lite/) page that Council can review before Paderborn F2F
+	+ **Action on JJ** to get us started drafting a paragraph for the Customization page and the [TEI Lite](https://tei-c.org/release/doc/tei-p5-exemplars/html/tei_lite.doc.html) page that Council can review before Paderborn F2F
 	+ **Action on MT** to also get started on the Lite2 customization.
 		- MT has begun work on this; teipublisher.odd is merged with teiSimplePrint.odd in terms of models and a few "default" models are added, while superfluous teiSimplePrint ones removed.
 		- Next up is looking at differences between TEI Simple and TEI Lite and present the "diff" for the Council for the final decision. MT's proposal is to largely include the elements from Simple which were not present in Lite (but remove numbered divs if they are present in Lite, ha!).

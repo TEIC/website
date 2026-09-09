@@ -644,7 +644,8 @@ Location: Buttery, Wolfson College, Linton Road, Oxford, OX2 6UD
  page, and clarify categorizations of customizations (e.g., What does
  experimental or restricted mean?)
 
-- Two things to do: fix the language on the TEI customization web page ([http://www.tei\-c.org/Guidelines/Customization/index.xml](/Guidelines/Customization/) ), and decide what will
+- Two things to do: fix the language on the TEI customization web page 
+  <https://www.tei-c.org/guidelines/customization/>, and decide what will
  be included in Roma as an available customization in the drop down list. In
  particular, is there a distinction to be made between things like Bare, Lite, and
  the
@@ -659,7 +660,7 @@ Location: Buttery, Wolfson College, Linton Road, Oxford, OX2 6UD
 - *Action on LB: In Roma, split the existing create
  customization from template button into two options: create
  customization from template and create customization from community
- customization, which can be opened from a list in the wiki ([http://www.tei\-c.org/wiki/index.php/Category:Customization](/wiki/index.php/Category:Customization)) or the TEI\-C
+ customization, which can be opened from a list in the wiki <https://wiki.tei-c.org/index.php/Category:Customization> or the TEI\-C
  Website. also remove the label experimental from those items in the
  drop down menu that have it.*
 
@@ -877,7 +878,7 @@ Location: Buttery, Wolfson College, Linton Road, Oxford, OX2 6UD
  
 - We have very similar information on writing ODDs [in the
  Guidelines](/release/doc/tei-p5-doc/en/html/USE.html#MD) and [on the
- TEI\-C website](/Guidelines/Customization/odds.xml#body.1_div.2). These should be merged into one place. Where should the merged
+ TEI\-C website](/guidelines/customization/getting-started-with-p5-odds/#body.1_div.2). These should be merged into one place. Where should the merged
  documentation be? Can someone review each document to make sure it's accurate before
  we
  ask someone to merge the two? 
@@ -1410,7 +1411,7 @@ model.editorialDeclPart
 
 - SR should explain the purpose of providing downloadable customizations.
 
-- On [http://www.tei\-c.org/Guidelines/Customization/](/Guidelines/Customization/) and [http://www.tei\-c.org/Guidelines/Customization/odds.xml](/Guidelines/Customization/odds.xml), are any modules
+- On [https://www.tei\-c.org/guidelines/customization/](/guidelines/customization/) and [https://www.tei\-c.org/guidelines/customization/getting-started-with-p5-odds/](/guidelines/customization/getting-started-with-p5-odds/), are any modules
  labeled as experimental that should not be, or any modules not labeled but should
  be?
  (Note that currently the dictionaries module is documented differently on these two
@@ -1440,7 +1441,7 @@ model.editorialDeclPart
 - Should we begin generating HTML and PDF documentation for any modules besides
  Lite and Tite (and putting them in [http://www.tei\-c.org/release/doc/tei\-p5\-exemplars/](/release/doc/tei-p5-exemplars/))?
 
-- For the two sections of customizations at [http://www.tei\-c.org/Guidelines/Customization/](/Guidelines/Customization/): 
+- For the two sections of customizations at <http://www.tei-c.org/guidelines/customization/>: 
  
  
 	

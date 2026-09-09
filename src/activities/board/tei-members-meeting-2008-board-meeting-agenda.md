@@ -15,17 +15,17 @@ Proposed Agenda
 	+ [Approval of Minutes of Last Meeting (Teleconference July 9th, 2008\)](/Board/bm29.xml)
 	+ Election/Confirmation of Officers (incumbents in brackets; links are to descriptions
 	 in Bylaws or Customs and Practices)
-		- [Chair](/About/bylaws.xml#TEIby-A3.2) (DPOD)
-		- [Vice Chair](/About/bylaws.xml#TEIby-A3.3) (JF; Vacant 2009\)
-		- [Secretary](/About/bylaws.xml#TEIby-A3.4) (CR)
-		- [Treasurer](/About/bylaws.xml#TEIby-A3.5) (DP)
-		- [Council Chair](/About/bylaws.xml#TEIby-A3.6) (LR)
+		- [Chair](/about/bylaws/#TEIby-A3.2) (DPOD)
+		- [Vice Chair](/about/bylaws/#TEIby-A3.3) (JF; Vacant 2009\)
+		- [Secretary](/about/bylaws/#TEIby-A3.4) (CR)
+		- [Treasurer](/about/bylaws/#TEIby-A3.5) (DP)
+		- [Council Chair](/about/bylaws/#TEIby-A3.6) (LR)
 		 
 		 Note: Council chair appointment was for a renewable two year term (2008\-2010\) subject
 		 to continuing Board approval.
 		- [Executive Director](/Board/procedures.xml#body.1_div.1) (VL)
 	+ Standing Committees and Representatives
-		- Nominating Committee ([Bylaws](/About/bylaws.xml#TEIby-A6.6);
+		- Nominating Committee ([Bylaws](/about/bylaws/#TEIby-A6.6);
 		 [Customs and Practices](/Board/procedures.xml#body.1_div.2_div.3)):
 			* Chair
 			* 1 Board Member and 0 or more additional members
@@ -33,7 +33,7 @@ Proposed Agenda
 		- 2009 [Members' Meeting Programme Committee](/Board/procedures.xml#body.1_div.2_div.1):
 			* Program Organizer/Committee Chair
 			* External Member(s)
-		- [Board Representative to Council (Board or External)](/About/bylaws.xml#TEIby-A6.2)
+		- [Board Representative to Council (Board or External)](/about/bylaws/#TEIby-A6.2)
 		- [SIG Coordinator](/Board/procedures.xml#body.1_div.5_div.1)
 * 09:20 Chair's Introduction (DO)
 * 09:30 Board Discussion and Brainstorming: Goals and Priorities (SS)

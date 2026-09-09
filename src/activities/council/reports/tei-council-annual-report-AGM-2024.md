@@ -15,7 +15,7 @@ The TEI Technical Council accomplished much in the past year since our meeting i
      * [Version 4.7.0](https://tei-c.org/Vault/P5/current/doc/tei-p5-doc/readme-4.7.0.html), codenamed “in nova fert animus”, November 16, 2023. This release
           * added a new `<eventName>` element
           *  included `<taxonomy>` and `<category>` in `att.datcat`
-     * [Version 4.8.0](https://tei-c.org/Vault/P5/current/doc/tei-p5-doc/readme-4.8.0.html), “the Six Degrees release", July 8, 2024, with special thanks to the [CMC SIG](/Activities/SIG/CMC/). This release adds [a new chapter on Computer-Mediated Communication (CMC)](https://tei-c.org/release/doc/tei-p5-doc/en/html/CMC.html) to the TEI Guidelines with just one new `<post>` element  and two new attribute classes: `att.cmc` and `att.indentation`
+     * [Version 4.8.0](https://tei-c.org/Vault/P5/current/doc/tei-p5-doc/readme-4.8.0.html), “the Six Degrees release", July 8, 2024, with special thanks to the [CMC SIG](/activities/sig/cmc/). This release adds [a new chapter on Computer-Mediated Communication (CMC)](https://tei-c.org/release/doc/tei-p5-doc/en/html/CMC.html) to the TEI Guidelines with just one new `<post>` element  and two new attribute classes: `att.cmc` and `att.indentation`
 
 Besides monthly council calls, the Technical Council hosted three extensive weekend “Virtual Face 2 Face meetings” (VF2Fs) over 3 weekends (March – May 2024) + the in-person F2F meeting in Buenos Aires in October 2024.
 

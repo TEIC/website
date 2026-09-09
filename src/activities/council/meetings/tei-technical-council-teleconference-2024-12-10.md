@@ -67,7 +67,7 @@ date: 2024-12-10
     * **Action on MS:** to add the Working Group to the TEI website. [Done.]
     * Group would make its repo(s) inside the TEI-C and shall confer with Council on how best to implement this.  
         
-## **TR:** [New SIG for Computable Text and Media](/activities/SIG/computable) 
+## **TR:** [New SIG for Computable Text and Media](/activities/sig/computable) 
   * Intention to provide better guidance for encoding computable text and media such as social media posts, e-mail, e-literature, punching cards (as discussed at BA conference), floppy disks etc.  
   * Would impact some modules and some other chapters of the TEI Guidelines, such as the Representation of Primary Sources.  
   * Discussion:  
