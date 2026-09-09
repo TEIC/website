@@ -11,7 +11,7 @@ Print copies of the P5 Guidelines are now available. The two volume set, which i
                 and handling)) using a special discount code.** In addition, Members receive one free copy of the Guidelines as a<br/>
                 Membership Benefit.
 
-* [Read more about the P5 Guidelines…](/guidelines/p5/get_p5.xml "Read more about the P5 Guidelines...")
+* [Read more about the P5 Guidelines…](https://tei-c.org/guidelines/p5/)
 * [Read more about becoming a member or subscriber of the TEI…](http://members.tei-c.org/join/ "Read more about becoming a member or subscriber of the TEI...")
 * [Go to the TEI Guidelines Webstore…](http://shop.omnipress.com/index.asp?PageAction=VIEWPROD&ProdID=161 "Go to the TEI Guidelines Webstore...")
 

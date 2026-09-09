@@ -14,14 +14,14 @@ The Text Encoding Initiative Consortium (TEI-C) invites nominations for election
 
 All nominations should include an email address for the nominee and should indicate whether the nomination is for Board or Council.
 
-Self-nominations are welcome and common; TEI-C membership is not a requirement to serve on the Board or Council. All nominees should provide a brief statement of interest and biographical paragraph, and notice that, if elected, they will be willing to serve. Example candidates’ biographies from a previous election can be found at [http://www.tei-c.org/Membership/Meetings/2011/mm54.xml](/membership/meetings/2011/mm54.xml). You may wish to indicate whether you can expect institutional support for your service if elected (e.g., time allowance for service, help with expenses).
+Self-nominations are welcome and common; TEI-C membership is not a requirement to serve on the Board or Council. All nominees should provide a brief statement of interest and biographical paragraph, and notice that, if elected, they will be willing to serve. Example candidates’ biographies from a previous election can be found at <https://www.tei-c.org/Vault/MembersMeetings/2011-info/mm54.html>. You may wish to indicate whether you can expect institutional support for your service if elected (e.g., time allowance for service, help with expenses).
 
 * The TEI-C Board is the governing body for the TEI Consortium, and is responsible for its strategic and financial oversight. Board members are expected to attend the annual meeting (travel subsidy from the TEI-C is available), and to participate in occasional conference calls and ongoing tasks during their term of service.
 * The TEI-C Technical Council oversees the technical development of the TEI Guidelines. Candidates for Council should be reasonably experienced users of the Guidelines, and expertise/interest in specific areas is helpful. Council members also evaluate bug reports and feature requests, and have primary responsibility for editing and updating the Guidelines and its release packages. Prospective candidates should be available for subsidized travel to one or two face-to-face meetings annually, and should be able to commit to ongoing work during the course of the year.
 
-For more information on the Board, including a list of current members, please see: [http://www.tei-c.org/About/board.xml](/about/board-of-directors/).
+For more information on the Board, including a list of current members, please see: <https://www.tei-c.org/about/board-of-directors/>.
 
-For more information on the Council, including a list of current members, please see: [http://www.tei-c.org/Activities/Council/index.xml](/activities/council/).
+For more information on the Council, including a list of current members, please see: <https://www.tei-c.org/activities/council/>).
 
 While Board and Council members are encouraged to seek institutional support for travel to TEI Board and Council meetings, the TEI Consortium has in the past subsidized such travel for elected Board and Council members and will continue to do so as the budget allows.
 

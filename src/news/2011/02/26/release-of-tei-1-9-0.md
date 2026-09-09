@@ -10,7 +10,7 @@ The new release of the TEI Guidelines in all its forms is now complete. You can 
 
 * visiting the TEI Web site and reading the Guidelines at[http://www.tei-c.org/release/doc/tei-p5-doc/en/html/index.html](/release/doc/tei-p5-doc/en/html/index.html)
 * using the schemas etc direct from the web site eg [http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng](/release/xml/tei/custom/schema/relaxng/tei_all.rng)
-* using Roma at [http://www.tei-c.org/Roma/](/roma/)
+* using Roma at <https://roma.tei-c.org/>
 * downloading a zip archive from Sourceforge (<https://sourceforge.net/projects/tei/files/TEI-P5-all/>)
 * subscribing to Ubuntu/Debian packages via [http://tei.oucs.ox.ac.uk/teideb/](http://packages.tei-c.org/deb/)
 * checking out the source files using Subversion from Sourceforge (see <https://sourceforge.net/scm/?type=svn&group_id=106328>)

@@ -15,7 +15,7 @@ The elections will take place via electronic voting prior to the annual Members
 Self-nominations are welcome and common. All nominees should provide a<br/>
 brief statement of interest and biographical paragraph, and notice<br/>
 that, if elected, they will be willing to serve.  Example candidates’<br/>
-biographies from a previous election can be found at<br/>[http://www.tei-c.org/Membership/Meetings/2008/mm45.xml](/membership/meetings/2008/mm45.xml)
+biographies from a previous election can be found at<br/><https://www.tei-c.org/Vault/MembersMeetings/2008-info/mm45.html>
 
 All nominations should include an email address for the nominee and<br/>
 should indicate whether the nomination is for Board or Council.
@@ -26,9 +26,8 @@ Council oversees the technical development of the TEI<br/>
 Guidelines. Service in either group is an opportunity to help the TEI<br/>
 grow and serve its members better.
 
-For more information on the Board please see:<br/>[http://www.tei-c.org/About/board.xml](/about/board-of-directors/)
-
-For more information on the Council please see:<br/>[http://www.tei-c.org/Activities/Council/index.xml](/activities/council/)
+For more information on the Board please see:<br/><https://www.tei-c.org/about/board-of-directors/>
+For more information on the Council please see:<br/><https://www.tei-c.org/activities/council/>
 
 TEI-C membership is NOT a requirement to serve on the Board or<br/>
 Council. Candidates should be familiar with the TEI and should be<br/>

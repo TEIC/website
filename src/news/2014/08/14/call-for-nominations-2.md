@@ -14,7 +14,7 @@ tags: ["News", "Council members", "positions available", "Technical Council", "T
 
 *Nominations should include an email address for the nominee and should indicate whether the nomination is for Board or Council. *
 
-*Self-nominations are welcome and common; TEI-C membership is not a requirement to serve on the Board or Council. All nominees should provide a brief statement of interest and biographical paragraph, and notice that, if elected, they will be willing to serve. Example candidates’ biographies from a previous election can be found at <[http://www.tei-c.org/Membership/Meetings/2012/mm58.xml](/membership/meetings/2011/mm54.xml)>. *
+*Self-nominations are welcome and common; TEI-C membership is not a requirement to serve on the Board or Council. All nominees should provide a brief statement of interest and biographical paragraph, and notice that, if elected, they will be willing to serve. Example candidates’ biographies from a previous election can be found at <https://www.tei-c.org/Vault/MembersMeetings/2011-info/mm54.html>.*
 
 * *The TEI-C Board is the governing body for the TEI Consortium, and is responsible for its strategic and financial oversight. The Board conducts its business by email correspondence, occasional telephone conferences, and at its annual meeting, for which travel subsidies are available. We are seeking 4 new members, 3 of which will be elected for 2 years and 1 for one year only. The duration of the term will be determined by the number of votes attributed to each candidate, as decided at the Members’ Meeting 2013. *
 * *The TEI-C Technical Council oversees the technical development of the TEI Guidelines. Candidates for Council should be reasonably experienced users of the Guidelines, and expertise/interest in specific areas is helpful. Council members also evaluate bug reports and feature requests, and have primary responsibility for editing and updating the Guidelines and its release packages.  Prospective candidates should be available for subsidized travel to one or two face-to-face meetings annually, and should be able to commit to ongoing work  during the course of the year. We are seeking 5 new members.*
@@ -27,9 +27,9 @@ tags: ["News", "Council members", "positions available", "Technical Council", "T
 
 *All nominees, regardless of their origin, should be reminded very strongly that members of the Board and Council are expected to participate actively in the discussion, activities, and meetings of their respective body.*
 
-*For more information on the Board, including a list of current members, please see: <[http://www.tei-c.org/About/board.xml](/about/board-of-directors/)>.*
+*For more information on the Board, including a list of current members, please see: <https://tei-c.org/about/board-of-directors/>.*
 
-*For more information on the Council, including a list of current members, please see: <[http://www.tei-c.org/Activities/Council/index.xml](/activities/council/index.xml)>.*
+*For more information on the Council, including a list of current members, please see: <https://tei-c.org/activities/council/index>.*
 
 *Service in either group is an opportunity to help the TEI grow and serve its members better. If you have ideas about how to make the TEI stronger or can help it do a better job, please nominate yourself! Or, if you know someone who you think could contribute to TEI, nominate him or her.*
 

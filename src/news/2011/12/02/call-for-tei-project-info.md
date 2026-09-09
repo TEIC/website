@@ -6,10 +6,9 @@ permalink: "/news/2011/12/02/call-for-tei-project-info/"
 tags: ["News"]
 ---
 
-```
 All,
 
-The TEI Projects page at [http://www.tei-c.org/Activities/Projects/index.xml](/activities/projects/) has
+The TEI Projects page at <https://www.tei-c.org/activities/projects/> has
 been gathering entries for quite a few years, and not surprisingly some of the
 information in the entries is obsolete or out of date. TEI Council has discussed
 migrating the information here to a more user-friendly database-like interface,
@@ -42,5 +41,4 @@ Thanks for assistance,
 
 David Sewell, [dsewell@virginia.edu](mailto:dsewell@virginia.edu)
 TEI webmaster
-```
 

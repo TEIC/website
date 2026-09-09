@@ -30,7 +30,7 @@ questions about how this might affect you, please do ask!
 As always, we encourage those starting projects to use the latest<br/>
 version of the TEI Guidelines and those working with previous<br/>
 versions of the TEI Guidelines to migrate content to TEI P5 where<br/>
-feasible. For information on migrating from P4 to P5, see<br/>[http://www.tei-c.org/Guidelines/P5/migrate.xml](/guidelines/p5/migrate.xml).
+feasible. For information on migrating from P4 to P5, see<br/><https://www.tei-c.org/Vault/P4/migrate.html>.
 
 Sincerely,
 

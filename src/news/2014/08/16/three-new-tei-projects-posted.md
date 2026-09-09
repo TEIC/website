@@ -10,11 +10,11 @@ Dear Colleagues,
 
 Three new TEI-based project descriptions have been posted to the TEI website:
 
-[http://www.tei-c.org/Activities/Projects/bi05.xml](/activities/projects/bi05.xml)
+<https://tei-c.org/activities/projects/biblioteca-digital-del-pensamiento-novohispano/>
 
-[http://www.tei-c.org/Activities/Projects/ma06.xml](/activities/projects/ma06.xml)
+<https://tei-c.org/activities/projects/the-map-of-early-modern-london/>
 
-[http://www.tei-c.org/Activities/Projects/di89.xml](/activities/projects/di89.xml)
+<https://tei-c.org/activities/projects/die-musik-in-geschichte-und-gegenwart-mgg/>
 
 Yours in Social Media,<br/>
 Paul O’Shea

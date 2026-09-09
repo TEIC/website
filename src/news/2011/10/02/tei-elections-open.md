@@ -10,9 +10,9 @@ tags: ["News"]
 
 Folks,
 
-Email has been sent to designated electors from TEI member institutions, inviting them to vote in the elections for Board and Council.  Candidates’ statements on a variety of questions having to do with the future of the TEI can be found at:  [http://www.tei-c.org/Membership/Meetings/2011/mm54.xml](/membership/meetings/2011/mm54.xml)
+Email has been sent to designated electors from TEI member institutions, inviting them to vote in the elections for Board and Council.  Candidates’ statements on a variety of questions having to do with the future of the TEI can be found at: <https://www.tei-c.org/Vault/MembersMeetings/2011-info/mm54.html>
 
-TEI member institutions eligible to vote are listed at [http://www.tei-c.org/Membership/current.xml](/membership/current.xml). If you are at one of those institutions and want to know who your institutional elector is, or if your institution is not listed and you believe it should be, contact [membership@tei-c.org](mailto:membership@tei-c.org).
+TEI member institutions eligible to vote are listed at <https://members.tei-c.org/Institutions>. If you are at one of those institutions and want to know who your institutional elector is, or if your institution is not listed and you believe it should be, contact [membership@tei-c.org](mailto:membership@tei-c.org).
 
 Many thanks to all the candidates and electors for participating in the election, and to all of you for helping me put together the questions candidates have addressed in their statements.
 
