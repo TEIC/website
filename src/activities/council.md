@@ -48,8 +48,8 @@ Center for Philology and Digitality, University of Würzburg
 [Martina Scholger](https://online.uni-graz.at/kfu_online/wbForschungsportal.cbShowPortal?pPersonNr=50869&pMode=E) (Jan 2025 – Dec 2027)
 Senior Scientist, Department of Digital Humanities, University of Graz
 
-[Joey Takeda](https://joeytakeda.github.io/) (Jan 2024 – Dec 2026)
-Developer, Digital Humanities Innovation Lab, Simon Fraser University
+[Joey Takeda](https://www.lib.sfu.ca/users/joey-takeda) (Jan 2024 – Dec 2026)
+Digital Scholarship Librarian, Digital Humanities Innovation Lab, Simon Fraser University
 
 [Raffaele Viglianti](http://mith.umd.edu/people/raffaele-viglianti/) (Jan 2024 – Dec 2026)
 Senior Research Software Developer, Maryland Institute for Technology in the Humanities, University of Maryland
