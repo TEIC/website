@@ -2,7 +2,6 @@
 title: "2025 Winners of the Rahtz Prize and Community Prize"
 date: 2025-10-06
 ---
-# 2025 Winners of the Rahtz Prize and Community Prize
 
 The TEI Consortium is pleased to announce the winners of the 2025 Rahtz Prize for TEI Ingenuity and the TEI Community Award.
 
@@ -21,8 +20,4 @@ supporting the longevity and preservation of DH projects. This project is distin
 This year’s Rahtz and Community Prize Committee consisted of Elisa Beshero-Bondar, Kiyonori Nagasaki, and Raffaele Viglianti.
 
 Congratulations to this year's winners and sincere thanks to the wider TEI Community for your continued efforts to develop, maintain, and expand the TEI Guidelines.
-
-
-
-
 

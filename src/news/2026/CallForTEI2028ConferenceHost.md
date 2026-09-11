@@ -2,7 +2,6 @@
 title: "Call For TEI2028 Conference Host"
 date: 2026-06-07
 ---
-# Call For TEI2028 Conference Host
 
 The Consortium of the Text Encoding Initiative (TEI-C) is seeking potential hosts for the TEI 2028 Conference. The TEI-C is a vibrant international consortium which develops and maintains a standard for the representation of texts in digital form for the TEI community. As you probably know, its chief deliverable is a set of Guidelines which specify encoding methods for machine-readable texts, chiefly in the humanities, social sciences and linguistics. In addition to the Guidelines themselves, the Consortium provides a variety of resources for learning TEI, information on projects using the TEI, software developed for or adapted to the TEI, and runs an international conference with an annual general meeting.
 

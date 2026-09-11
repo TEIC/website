@@ -2,7 +2,6 @@
 title: "25th TEI Conference and Members meeting 2025: Kraków, Poland"
 date: 2025-03-12
 ---
-# TEI Conference and Members meeting 2025: Call for Proposals
 
 We are pleased to announce a call for papers, posters, panels, and workshops for **New Territories**, the Silver Jubilee, twenty-fifth annual meeting of the Text Encoding Initiative. The conference will take place 18–20 September 2025 (Thu–Sat) at the Jagiellonian University, Kraków, Poland, with pre-conference workshops on 16–17 September 2025 (Tue–Wed).
 
