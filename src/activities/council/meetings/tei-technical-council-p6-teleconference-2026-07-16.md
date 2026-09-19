@@ -202,7 +202,7 @@ date: 2026-07-16
     * Mentions of DTS, HTML \+ RDFa (MH, RV: "making TEI work in the browser immediately, without CETEIcean, would be wonderful")
     *  MH "will need to be more explicitly linked to concepts defined in other ontologies and taxonomies," with machine-checkable rationales.  
 * Feasibility – is P6 worth it?  
-    * SB: “if P6 is harder to maintain than P5, don't do it”  
+    * SB: “if P6 is harder to maintain than P5, don't do it.”  
     * Median user (tei\_allers) gains little from a cleaner abstract model unless the tooling layer (Roma successor, blueprint repository system) is executed well.  
     * P6's value case may currently be strongest for maintainers and expert customizers, but weakest for the silent majority.  
       
