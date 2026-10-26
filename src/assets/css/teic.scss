@@ -163,6 +163,44 @@ th {
   font-family: "Outfit", "Segoe UI", sans-serif;
   font-weight: 600;
 }
+.we-are-tei-wave {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  column-gap: 0.35em;
+  row-gap: 0.12em;
+  overflow: visible;
+  transition: column-gap 0.45s cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+.we-are-tei-wave:hover,
+.we-are-tei-wave:focus-visible {
+  column-gap: 0.62em;
+}
+.we-are-tei-wave-word {
+  display: inline-block;
+  transform-origin: 50% 80%;
+  transition: transform 0.45s cubic-bezier(0.34, 1.56, 0.64, 1);
+  transition-delay: calc((var(--n) - 1 - var(--i)) * 70ms);
+}
+.we-are-tei-wave:hover .we-are-tei-wave-word,
+.we-are-tei-wave:focus-visible .we-are-tei-wave-word {
+  transform: translateY(-0.14em) scale(1.12);
+  transition-delay: calc(var(--i) * 70ms);
+}
+@media (prefers-reduced-motion: reduce) {
+  .we-are-tei-wave,
+  .we-are-tei-wave-word {
+    transition: none;
+  }
+  .we-are-tei-wave:hover,
+  .we-are-tei-wave:focus-visible {
+    column-gap: 0.35em;
+  }
+  .we-are-tei-wave:hover .we-are-tei-wave-word,
+  .we-are-tei-wave:focus-visible .we-are-tei-wave-word {
+    transform: none;
+  }
+}
 .we-are-tei-page blockquote,
 .we-are-tei-page .we-are-tei-quote {
   max-width: 30rem;
