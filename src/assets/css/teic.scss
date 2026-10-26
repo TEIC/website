@@ -243,12 +243,13 @@ th {
   width: 10rem;
   height: 10rem;
   text-decoration: none;
-  border-radius: 50%;
+  overflow: visible;
 }
 .we-are-tei-cta svg {
   display: block;
   width: 100%;
   height: 100%;
+  overflow: visible;
 }
 .we-are-tei-cta-fill {
   fill: #0059A8;
@@ -350,7 +351,7 @@ blockquote.we-are-tei-quote,
   font-size: 1.35rem;
   font-style: italic;
   font-weight: 500;
-  color: midnightblue;
+  color: #0059A8;
   margin: 2rem auto;
   padding: 0.85rem 1.25rem 0.85rem 2.5rem;
   border-left: 0;
@@ -366,7 +367,7 @@ blockquote.we-are-tei-quote,
   font-style: normal;
   font-weight: 500;
   line-height: 1;
-  color: #F5A623;
+  color: #0059A8;
   position: absolute;
   left: 0.55rem;
   top: 0.35rem;

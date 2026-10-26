@@ -34,8 +34,8 @@ Whether you are a seasoned expert or a relative newcomer, we invite you to share
 <p class="we-are-tei-cta-wrap">
   <a class="we-are-tei-cta" href="https://docs.google.com/forms/d/e/1FAIpQLScSoD9A6L4I-E67PevDaMX19LNAurYbiqmTMIOpQZ9lSDE-Kw/viewform" aria-label="Share your story">
     <svg viewBox="0 0 160 160" aria-hidden="true" focusable="false">
-      <circle class="we-are-tei-cta-ring" cx="80" cy="80" r="76"></circle>
-      <circle class="we-are-tei-cta-fill" cx="80" cy="80" r="68"></circle>
+      <circle class="we-are-tei-cta-ring" cx="80" cy="80" r="72"></circle>
+      <circle class="we-are-tei-cta-fill" cx="80" cy="80" r="64"></circle>
     </svg>
     <span class="we-are-tei-cta-label">Share your<br>story</span>
   </a>
