@@ -7,19 +7,19 @@ tags: []
 
 # We are TEI
 
-Dear TEI Community,
-
-We are delighted to invite you to contribute to a new series of blog posts, **We are TEI**.
-
 The TEI community is deeply multi-faceted. It consists of individuals who work on our Guidelines, build and maintain the TEI infrastructure, develop tools, manage projects, and write documentation. But it is equally made up of those who apply the Guidelines to their own research, encode texts in quiet library corners, teach undergrads about TEI, or simply use TEI-encoded resources for their work.
 
-We want to hear from all of you.
+We want to hear from **all of you**.
+{.we-are-tei-highlight}
 
 We are consciously looking for a diverse range of voices. We want to honour the respectable and well-known individuals who have shaped our history, but we are equally committed to showcasing the stories of our less visible community members.
 
-If you find yourself thinking, “Why should I say I am the TEI when I have never held an official role, joined a special interest group, or even spoken at a conference?”, then this call is specifically for you.
+> Why should I say I am the TEI when I have never held an official role, joined a special interest group, or even spoken at a conference?
+{.we-are-tei-quote}
 
-When we look at the TEI community, we can imagine an iceberg. The TEI Council, work groups and SIGs, board members, and frequent conference presenters are merely its tip. The true body of the TEI, the critical mass that gives this initiative its strength, purpose, and longevity, is often in those staying away from the spotlight. Every person who uses the TEI Guidelines, no matter for how long, is a foundational part of what makes the TEI a living, breathing standard. You are the TEI, and your story matters.
+If you find yourself thinking, *“Why should I say I am the TEI when I have never held an official role, joined a special interest group, or even spoken at a conference?”*, then this call is specifically for you.
+
+When we look at the TEI community, we can imagine an iceberg. The TEI Council, work groups and SIGs, board members, and frequent conference presenters are merely its tip. The true body of the TEI, the **critical mass** that gives this initiative its **strength, purpose, and longevity**, is often in those staying away from the spotlight. Every person who uses the TEI Guidelines, no matter for how long, is a foundational part of what makes the TEI a living, breathing standard. **You are the TEI**, and your story matters.
 
 Whether you are a seasoned expert or a relative newcomer, we invite you to share your perspective. To help you get started, we have provided a [submission form](https://docs.google.com/forms/d/e/1FAIpQLScSoD9A6L4I-E67PevDaMX19LNAurYbiqmTMIOpQZ9lSDE-Kw/viewform) which offers a framework you might find helpful. However, you are entirely welcome to structure your contribution differently. Your post could include any or all of:
 

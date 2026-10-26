@@ -213,3 +213,101 @@ th {
 .we-are-tei-list li {
   margin-bottom: 0.5rem;
 }
+
+.we-are-tei-cta-wrap {
+  float: right;
+  margin: 0 0 1.5rem 1.5rem;
+}
+.we-are-tei-cta {
+  position: relative;
+  display: block;
+  width: 10rem;
+  height: 10rem;
+  text-decoration: none;
+  border-radius: 50%;
+}
+.we-are-tei-cta svg {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+.we-are-tei-cta-fill {
+  fill: #0059A8;
+  transition: fill 0.2s ease;
+}
+.we-are-tei-cta-ring {
+  fill: none;
+  stroke: #F5A623;
+  stroke-width: 6;
+  transition: stroke-width 0.2s ease;
+}
+.we-are-tei-cta-label {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  color: #fff;
+  font-weight: 600;
+  font-size: 1.15rem;
+  line-height: 1.25;
+  pointer-events: none;
+}
+.we-are-tei-cta:hover .we-are-tei-cta-fill,
+.we-are-tei-cta:focus-visible .we-are-tei-cta-fill {
+  fill: #1a73c7;
+}
+.we-are-tei-cta:hover .we-are-tei-cta-ring,
+.we-are-tei-cta:focus-visible .we-are-tei-cta-ring {
+  stroke-width: 10;
+}
+.we-are-tei-cta:focus-visible {
+  outline: 3px solid #F5A623;
+  outline-offset: 4px;
+}
+.we-are-tei-rest {
+  clear: both;
+}
+
+@include media-breakpoint-down(sm) {
+  .we-are-tei-cta-wrap {
+    float: none;
+    display: flex;
+    justify-content: center;
+    margin: 1.5rem auto;
+  }
+}
+
+.we-are-tei-highlight {
+  font-size: 1.75rem;
+  // font-weight: 600;
+  color: #0059A8;
+  text-align: center;
+  margin: 2rem 1rem;
+  line-height: 1.3;
+}
+
+blockquote.we-are-tei-quote,
+.we-are-tei-quote {
+  font-size: 1.25rem;
+  font-style: italic;
+  color: midnightblue;
+  margin: 2rem 1rem 2rem 0;
+  padding: 0.75rem 0 0.75rem 2rem;
+  border-left: 4px solid #0059A8;
+  position: relative;
+}
+.we-are-tei-quote::before {
+  content: "\201C";
+  font-size: 3rem;
+  font-style: normal;
+  line-height: 1;
+  color: #F5A623;
+  position: absolute;
+  left: 0.2rem;
+  top: 0;
+}
+.we-are-tei-quote p {
+  margin: 0;
+}
