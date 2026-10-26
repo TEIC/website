@@ -11,7 +11,10 @@ I work with e-editiones and TEI Publisher, as a developer and research software 
 
 In the early years of the new millennium I was asked to develop a workflow for a parallel edition of the Polish-Hispanic *Corpus Diplomaticum* at the University of Warsaw. In the course of that work — and in my ignorance — what I developed was a poor-woman’s version of TEI. I only learned about the real thing a couple of years later, just a tip from a colleague in Gent about TEI and the DALF (Digital Archive of Letters in Flanders). At the time it was one of the rare treasures: a project openly sharing their encoding guidelines online.
 
-What followed was the application of the TEI Guidelines to the Corpus of Texts and Correspondence of Ioannes Dantiscus, where I was charged to define a data model and encoding scheme — and design a curation and publication system for it. And, two decades later, this is still my daily bread and butter.
+What followed was the application of the TEI Guidelines to the Corpus of Texts and Correspondence of Ioannes Dantiscus, where I was charged to define a data model and encoding scheme — and design a curation and publication system for it.
+
+And, two decades later, this is still my daily bread and butter.
+{.we-are-tei-highlight}
 
 ## Working as part of the Consortium
 
