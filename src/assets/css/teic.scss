@@ -368,7 +368,13 @@ th {
   right: 0;
   bottom: 0;
   height: 2px;
-  background: #F5A623;
+  background: linear-gradient(
+    to right,
+    transparent,
+    #F5A623 18%,
+    #F5A623 82%,
+    transparent
+  );
   transform: scaleX(0);
   transform-origin: center;
   transition: transform 0.25s ease;
@@ -385,18 +391,20 @@ th {
 blockquote.we-are-tei-quote,
 .we-are-tei-quote {
   position: relative;
+  box-sizing: border-box;
   font-family: "Fraunces", Georgia, serif;
   font-size: 1.35rem;
   font-style: italic;
   font-weight: 500;
   color: #0059A8;
   margin: 2rem auto;
-  padding: 0.85rem 1.25rem 0.85rem 2.5rem;
+  padding: 0.85rem 2.1rem 0.85rem 2.5rem;
   border-left: 0;
   border-radius: 0.4rem;
   background-color: transparent;
+  letter-spacing: 0;
   cursor: default;
-  transition: background-color 0.2s ease, transform 0.2s ease;
+  transition: letter-spacing 0.2s ease, padding 0.2s ease;
 }
 .we-are-tei-quote::before {
   content: "\201C";
@@ -412,8 +420,8 @@ blockquote.we-are-tei-quote,
 }
 .we-are-tei-quote:hover,
 .we-are-tei-quote:focus-visible {
-  background-color: rgba(245, 166, 35, 0.1);
-  transform: translateY(-2px);
+  letter-spacing: 0.02em;
+  padding-right: 0.55rem;
 }
 .we-are-tei-quote p {
   margin: 0;
@@ -427,9 +435,5 @@ blockquote.we-are-tei-quote,
   .we-are-tei-highlight::after,
   .we-are-tei-quote {
     transition: none;
-  }
-  .we-are-tei-quote:hover,
-  .we-are-tei-quote:focus-visible {
-    transform: none;
   }
 }
