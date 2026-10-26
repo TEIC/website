@@ -31,8 +31,14 @@ Whether you are a seasoned expert or a relative newcomer, we invite you to share
 * Why should people in the community become TEI Consortium members?
 * Your hopes for the future of text encoding and more.
 
-<p class="mt-3 mb-4">
-  <a class="btn btn-primary" href="https://docs.google.com/forms/d/e/1FAIpQLScSoD9A6L4I-E67PevDaMX19LNAurYbiqmTMIOpQZ9lSDE-Kw/viewform">Share your story</a>
+<p class="we-are-tei-cta-wrap">
+  <a class="we-are-tei-cta" href="https://docs.google.com/forms/d/e/1FAIpQLScSoD9A6L4I-E67PevDaMX19LNAurYbiqmTMIOpQZ9lSDE-Kw/viewform" aria-label="Share your story">
+    <svg viewBox="0 0 160 160" aria-hidden="true" focusable="false">
+      <circle class="we-are-tei-cta-ring" cx="80" cy="80" r="76"></circle>
+      <circle class="we-are-tei-cta-fill" cx="80" cy="80" r="68"></circle>
+    </svg>
+    <span class="we-are-tei-cta-label">Share your<br>story</span>
+  </a>
 </p>
 
 Help us celebrate the scope of our community. We look forward to reading your stories and showing the world exactly who makes up the TEI.
