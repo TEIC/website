@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/css/teic.css">
+    <title>{{ title }}</title>
+  </head>
+  {% include 'analytics.html' %}
+  <body>
+    {% include 'navbar.njk' %}
+    <main>
+      <div class="container mt-4">
+        <div class="row">
+          <div class="col">
+            {{ content | safe }}
+            {% if collections.we_are_tei.length %}
+              {% set recent = collections.we_are_tei | limit(4) %}
+              <h2>Recent stories</h2>
+              <div id="weAreTeiCarousel" class="carousel slide we-are-tei-carousel" data-bs-ride="carousel">
+                {% if recent.length > 1 %}
+                  <div class="carousel-indicators">
+                    {% for page in recent %}
+                      <button type="button" data-bs-target="#weAreTeiCarousel" data-bs-slide-to="{{ loop.index0 }}"{% if loop.first %} class="active" aria-current="true"{% endif %} aria-label="{{ page.data.author or page.data.title }}"></button>
+                    {% endfor %}
+                  </div>
+                {% endif %}
+                <div class="carousel-inner">
+                  {% for page in recent %}
+                    <div class="carousel-item{% if loop.first %} active{% endif %}">
+                      <a href="{{ page.url }}" class="we-are-tei-slide">
+                        {% if page.data.avatar %}
+                          <img src="{{ page.data.avatar }}" alt="" class="we-are-tei-avatar">
+                        {% else %}
+                          <i class="bi bi-person-circle we-are-tei-avatar-icon" aria-hidden="true"></i>
+                        {% endif %}
+                        <span class="we-are-tei-name">{{ page.data.author or page.data.title }}</span>
+                      </a>
+                    </div>
+                  {% endfor %}
+                </div>
+                {% if recent.length > 1 %}
+                  <button class="carousel-control-prev" type="button" data-bs-target="#weAreTeiCarousel" data-bs-slide="prev">
+                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                    <span class="visually-hidden">Previous</span>
+                  </button>
+                  <button class="carousel-control-next" type="button" data-bs-target="#weAreTeiCarousel" data-bs-slide="next">
+                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                    <span class="visually-hidden">Next</span>
+                  </button>
+                {% endif %}
+              </div>
+              <h2>All stories</h2>
+              <ul class="we-are-tei-list">
+                {% for page in collections.we_are_tei %}
+                  <li>
+                    <a href="{{ page.url }}">{{ page.data.author or page.data.title }}</a>
+                    {% if page.data.date %}
+                      <em>— {{ page.data.date | dateString }}</em>
+                    {% endif %}
+                  </li>
+                {% endfor %}
+              </ul>
+            {% else %}
+              <p>Stories will appear here as they are published.</p>
+            {% endif %}
+          </div>
+        </div>
+      </div>
+    </main>
+    {% include 'footer.html' %}
+    <script src="/js/main.js"></script>
+  </body>
+</html>

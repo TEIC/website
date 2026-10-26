@@ -55,6 +55,12 @@ export default function (eleventyConfig) {
     }
   );
 
+  eleventyConfig.addCollection("we_are_tei", function(collectionApi) {
+    return collectionApi.getFilteredByTag("we_are_tei")
+      .filter(item => item.page.url !== "/we-are-tei/")
+      .sort((a, b) => b.date - a.date);
+  });
+
   eleventyConfig.addFilter("isoDateToPath", 
     function(date) {
       if (date instanceof Date) {

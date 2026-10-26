@@ -352,6 +352,17 @@
     }
   },
   {
+    "id": "we-are-tei",
+    "en": {
+      "name": "We are TEI",
+      "url": "/we-are-tei/"
+    },
+    "es": {
+      "name": "We are TEI",
+      "url": "/we-are-tei/"
+    }
+  },
+  {
     "id": "news",
     "en": {
       "name": "News", 

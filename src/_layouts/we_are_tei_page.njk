@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/css/teic.css">
+    <title>{{ title }}</title>
+  </head>
+  {% include 'analytics.html' %}
+  <body>
+    {% include 'navbar.njk' %}
+    <main>
+      <div class="container">
+        <p class="mt-3 mb-0"><a href="/we-are-tei/">We are TEI</a></p>
+        <p class="lead" style="margin-top: .5em; margin-bottom: 0;"><em>{{ date | dateString }}</em></p>
+        {% if author %}
+          <p class="lead" style="margin-top: 0; margin-bottom: 1em;">By {{ author }}</p>
+        {% endif %}
+        <div class="row">
+          <div class="col mt-4">
+            {% if avatar %}
+              <img src="{{ avatar }}" alt="" class="we-are-tei-entry-avatar">
+            {% else %}
+              <i class="bi bi-person-circle we-are-tei-entry-avatar-icon" aria-hidden="true"></i>
+            {% endif %}
+            <h1>{{ title }}</h1>
+            {{ content | safe }}
+          </div>
+        </div>
+      </div>
+    </main>
+    {% include 'footer.html' %}
+    <script src="/js/main.js"></script>
+  </body>
+</html>
