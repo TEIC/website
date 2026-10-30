@@ -1,0 +1,45 @@
+.tei-membership-banner {
+  background: #f0b429;
+  color: #08243f;
+  font-family: "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  line-height: 1.35;
+}
+
+.tei-membership-banner a {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: baseline;
+  gap: 0.2rem 0.75rem;
+  padding: 0.45rem 1.25rem;
+  color: inherit;
+  text-align: center;
+  text-decoration: none;
+  font-size: 0.95rem;
+}
+
+.tei-membership-banner a:hover,
+.tei-membership-banner a:focus {
+  background: #e2a512;
+  color: inherit;
+  outline: 2px solid #08243f;
+  outline-offset: -2px;
+}
+
+.tei-membership-banner__label {
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  font-size: 0.75rem;
+}
+
+.tei-membership-banner__slogan {
+  text-decoration: underline;
+  text-underline-offset: 0.15em;
+}
+
+@media print {
+  .tei-membership-banner {
+    display: none !important;
+  }
+}
