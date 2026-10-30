@@ -83,7 +83,27 @@
     slogan.textContent = slogans[Math.floor(Math.random() * slogans.length)];
     link.appendChild(slogan);
 
+    var popup = document.createElement("div");
+    popup.className = "tei-membership-banner__popup";
+    fetch("/img/ask-not-tei.svg")
+      .then(function (response) {
+        if (!response.ok) {
+          throw new Error(String(response.status));
+        }
+        return response.text();
+      })
+      .then(function (markup) {
+        popup.innerHTML = markup;
+        var join = popup.querySelector("a");
+        if (join) {
+          join.setAttribute("href", config.href);
+          join.setAttribute("xlink:href", config.href);
+        }
+      })
+      .catch(function () {});
+
     banner.appendChild(link);
+    banner.appendChild(popup);
     nav.insertAdjacentElement("afterend", banner);
   }
 
