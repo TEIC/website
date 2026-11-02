@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 640 880" role="img">
+  <title>Notice of urgent acquisition: elite members required - TEI membership</title>
+  <defs>
+    <pattern id="hazard" width="28" height="28" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <rect width="28" height="28" fill="#FFD400"/>
+      <rect width="14" height="28" fill="#111"/>
+    </pattern>
+  </defs>
+
+  <rect width="640" height="880" fill="#ffffff"/>
+
+  <!-- warning bar -->
+  <rect width="640" height="64" fill="#FFD400"/>
+  <rect width="110" height="64" fill="url(#hazard)"/>
+  <rect x="530" width="110" height="64" fill="url(#hazard)"/>
+  <rect x="110" width="420" height="64" fill="#FFD400"/>
+  <text x="320" y="41" text-anchor="middle" font-family="Arial Black, Arial, Helvetica, sans-serif" font-size="24" font-weight="900" letter-spacing="10" fill="#111">NOTICE</text>
+  <rect y="64" width="640" height="4" fill="#111"/>
+
+  <!-- header -->
+  <g font-family="Arial Black, Arial, Helvetica, sans-serif" font-weight="900" fill="#111" text-anchor="middle">
+    <text x="320" y="112" font-size="25" textLength="540" lengthAdjust="spacingAndGlyphs">NOTICE OF URGENT ACQUISITION:</text>
+    <text x="320" y="148" font-size="31" fill="#0059A8" textLength="540" lengthAdjust="spacingAndGlyphs">ELITE MEMBERS REQUIRED</text>
+  </g>
+
+  <!-- directory badge -->
+  <g>
+    <rect x="50" y="170" width="540" height="130" fill="#f6f8fb" stroke="#0059A8" stroke-width="2"/>
+    <g stroke="#111" stroke-width="3" fill="none">
+      <path d="M42 190V162H70"/><path d="M598 190V162H570"/>
+      <path d="M42 280V308H70"/><path d="M598 280V308H570"/>
+    </g>
+    <g transform="translate(70 186) scale(0.72)">
+      <path d="M7.65 148.36H21.01L148.37 148.35V7.65H7.66V148.37L7.65 148.36Z" fill="#222120"/>
+      <path fill-rule="evenodd" d="M62.05 7.64H148.35V93.94H155.86V0.13H62.05V7.64Z" fill="#F7A823"/>
+      <path fill-rule="evenodd" d="M21 148.35H7.64V62.06H0.13V155.87H93.94V148.35H20.99H21Z" fill="#F7A823"/>
+      <g fill="#fff">
+        <path d="M26.4 51.73H68.71V58.96H51.79V103.36H43.33V58.96H26.41V51.73H26.4Z"/>
+        <path d="M74.33 51.73H106.05V58.96H82.79V73.28H104.31V80.51H82.79V96.13H107.27V103.36H74.32V51.72L74.33 51.73Z"/>
+        <path d="M111.85 51.73H120.31V103.37H111.85V51.73Z"/>
+      </g>
+    </g>
+    <line x1="206" y1="184" x2="206" y2="286" stroke="#0059A8" stroke-width="1.5"/>
+    <g font-family="'Courier New', Courier, monospace" fill="#111">
+      <text x="224" y="206" font-size="13" fill="#0059A8" font-weight="700" letter-spacing="2">ACTIVE ROSTER // TEI CONSORTIUM</text>
+      <text x="224" y="232" font-size="14">FILE No.   TEI-2027</text>
+      <text x="224" y="254" font-size="14">STATUS     OPEN RECRUITMENT</text>
+      <text x="224" y="276" font-size="14">CLEARANCE  ALL LEVELS WELCOME</text>
+    </g>
+  </g>
+
+  <!-- data block -->
+  <g font-family="'Courier New', Courier, monospace" fill="#111">
+    <g>
+      <rect x="50" y="326" width="540" height="22" fill="#111"/>
+      <text x="60" y="342" font-size="13" font-weight="700" fill="#FFD400" letter-spacing="2">TARGET PROFILE</text>
+      <text x="60" y="368" font-size="13">Scholars, librarians, archivists, developers, projects and</text>
+      <text x="60" y="386" font-size="13">institutions who encode texts.</text>
+    </g>
+    <g>
+      <rect x="50" y="402" width="540" height="22" fill="#111"/>
+      <text x="60" y="418" font-size="13" font-weight="700" fill="#FFD400" letter-spacing="2">KEY CREDENTIALS</text>
+      <text x="60" y="444" font-size="13">Fluent in the TEI Guidelines. Backs the Journal of the TEI and</text>
+      <text x="60" y="462" font-size="13">the annual conference. One vote in Board and Council elections.</text>
+    </g>
+    <g>
+      <rect x="50" y="478" width="540" height="22" fill="#111"/>
+      <text x="60" y="494" font-size="13" font-weight="700" fill="#FFD400" letter-spacing="2">BOUNTY / CONTRIBUTION (USD PER YEAR)</text>
+
+      <rect x="50" y="602" width="540" height="24" fill="#FFD400"/>
+      <g font-size="13">
+        <text x="60" y="520">INDIVIDUAL</text>        <text x="300" y="520" fill="#555">1 member</text>          <text x="580" y="520" text-anchor="end" font-weight="700">$50</text>
+        <text x="60" y="544">SUPPORTER</text>         <text x="300" y="544" fill="#555">up to 5 members</text>   <text x="580" y="544" text-anchor="end" font-weight="700">$250</text>
+        <text x="60" y="568">CONTRIBUTOR</text>       <text x="300" y="568" fill="#555">up to 10 members</text>  <text x="580" y="568" text-anchor="end" font-weight="700">$500</text>
+        <text x="60" y="592">FRIEND</text>            <text x="300" y="592" fill="#555">up to 30 members</text>  <text x="580" y="592" text-anchor="end" font-weight="700">$1,500</text>
+        <text x="60" y="619" font-weight="700">PATRON</text>   <text x="300" y="619" font-weight="700">up to 50 members</text>  <text x="580" y="619" text-anchor="end" font-weight="700">$2,500</text>
+        <text x="60" y="645">SUSTAINING PARTNER</text><text x="300" y="645" fill="#555">up to 100 members</text> <text x="580" y="645" text-anchor="end" font-weight="700">$5,000</text>
+      </g>
+      <g stroke="#c9d3df" stroke-width="1">
+        <line x1="50" y1="527" x2="590" y2="527"/><line x1="50" y1="551" x2="590" y2="551"/>
+        <line x1="50" y1="575" x2="590" y2="575"/><line x1="50" y1="599" x2="590" y2="599"/>
+        <line x1="50" y1="627" x2="590" y2="627"/><line x1="50" y1="652" x2="590" y2="652"/>
+      </g>
+    </g>
+  </g>
+
+  <!-- call to action -->
+  <rect x="50" y="676" width="540" height="46" fill="#0059A8"/>
+  <text x="320" y="708" text-anchor="middle" font-family="Arial Black, Arial, Helvetica, sans-serif" font-size="26" font-weight="900" fill="#fff" textLength="500" lengthAdjust="spacingAndGlyphs">SECURE YOUR CREDENTIALS</text>
+
+  <a href="https://members.tei-c.org/Join" xlink:href="https://members.tei-c.org/Join">
+    <rect x="50" y="740" width="540" height="88" fill="#fff" stroke="#111" stroke-width="2" stroke-dasharray="10 5"/>
+    <text x="70" y="768" font-family="'Courier New', Courier, monospace" font-size="12" fill="#555" letter-spacing="2">SUBMIT APPLICATION AT:</text>
+    <rect x="70" y="778" width="500" height="34" fill="#f6f8fb" stroke="#0059A8" stroke-width="1.5"/>
+    <text x="84" y="801" font-family="'Courier New', Courier, monospace" font-size="19" font-weight="700" fill="#0059A8">&#9654; members.tei-c.org/Join</text>
+  </a>
+
+  <text x="320" y="858" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#666" letter-spacing="1">TEXT ENCODING INITIATIVE CONSORTIUM - MEMBERSHIP FUNDS THE GUIDELINES, THE JOURNAL AND THE CONFERENCE</text>
+</svg>
