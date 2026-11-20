@@ -8,8 +8,11 @@
       .mono { font-family: "IBM Plex Mono", Menlo, Consolas, monospace; font-size: 14px; }
       .tag { font-weight: 500; fill: #C2272D; }
       .sans { font-family: "Source Sans 3", "Helvetica Neue", Arial, sans-serif; }
-      .join rect { transition: fill .2s ease; }
-      .join:hover rect, .join:focus-visible rect { fill: #000; }
+      .join { cursor: pointer; }
+      .join rect, .join text { transition: fill .2s ease; }
+      .join:hover rect, .join:focus-visible rect { fill: #F7A823; }
+      .join:hover text, .join:focus-visible text { fill: #1B1A19; }
+      .join:focus-visible { outline: 3px solid #C2272D; outline-offset: 3px; }
     </style>
   </defs>
 
