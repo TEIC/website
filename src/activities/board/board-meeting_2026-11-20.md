@@ -35,7 +35,7 @@ Regrets: Elisa Beshero-Bondar, Gimena del Rio Riande
   * annual income ~45, expenses ~84 (huge deficit)
   * cash reserve of 8.7 months based on the average FY26 monthly spending
 * Website banner / parallel social media campaign?
-  * MT presents two main versions of the banner: TEI blue and the "editor's cut". The **latter* was accepted to use (with minor changes requested).
+  * MT presents two main versions of the banner: TEI blue and the "editor's cut". The **latter** was accepted to use (with minor changes requested).
   * MT presents the wild-west WANTED banner series proposal and points out the Slack Canvas collections of slogans. This proposal is **declined** for the website but tentatively accepted for Social Media campaign.
   * MT demonstrated technical means for randomly presented slogans on the yellow notice strip. Board members asked to propose/review further slogans. PR for the website is ready to go as soon as we receive Treasurer's green light.
 * We are TEI:
