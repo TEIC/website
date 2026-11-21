@@ -17,6 +17,7 @@ Membership slogans, social media posts are being continuously drafted and review
 # TEI-C Board Minutes: 20 November 2026
 
 Attending:  James Cummings (chair),  Dimitra Grigoriou, Magdalena Turska, Diane Jakacki
+
 Regrets: Elisa Beshero-Bondar, Gimena del Rio Riande 
 
 ## Agenda Items:
@@ -45,4 +46,4 @@ Regrets: Elisa Beshero-Bondar, Gimena del Rio Riande
 * Council report:
   * Not given (Chair of the Council not present), discussion of infrastructure resiliency and responses to the major outage postponed till next month
 * TEI 2028: 
-  * One candidate withdrew: JC will share with the board the submitted application and the board shares their thoughts on it. 
+  * One candidate withdrew. JC will share with the board the submitted application and asks for feedback. 
