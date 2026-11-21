@@ -1,0 +1,53 @@
+{
+  "href": "https://members.tei-c.org/Join",
+  "label": {
+    "en": "Become a member",
+    "es": "Hazte miembro"
+  },
+  "slogans": {
+    "en": [
+      "Membership keeps the Guidelines alive for everyone.",
+      "The TEI is sustained by its members. Add your support.",
+      "Join the community that maintains the standard you rely on.",
+      "Your membership funds the Guidelines, the Journal, and the conference.",
+      "The Guidelines don’t write themselves. (We checked.) Become a member!",
+      "Encoding is free. Maintaining the standard isn’t. Join the TEI!",
+      "Free to use, vital to sustain. Support the TEI Guidelines today!",
+      "Open standards don’t maintain themselves. Fund the future of the TEI Guidelines.",
+      "Free to use, not free to make. Support the TEI Guidelines you rely on.",
+      "Preserving the past, encoding the future. Invest in the TEI today.",
+      "Powered by volunteers, sustained by you! Join the TEI Consortium today.",
+      "Encoding any texts, from any period, in any language, using any writing system needs constant maintenance.",
+      "Yesterday’s information tomorrow. Help sustain the TEI.",
+      "Built by the community, for the community. Join today.",
+      "Use the TEI Guidelines? Help fund their development and maintenance.",
+      "Your research projects are built using TEI. Help sustain the open infrastructure that keeps them going.",
+      "If you use the TEI at work encourage them to get a project, institution, or sustaining partner membership!",
+      "Give your institution a vote in the future of text encoding. Join the TEI Consortium!",
+      "Lead by example in open scholarship: support the TEI Guidelines, jTEI, Roma, and the volunteers who maintain them.",
+      "No paywalls, no author fees – open community standard made possible by our institutional members.",
+      "Digital libraries understand the TEI's role for long-term preservation. Sustaining partners preserve the TEI!",
+      "TEI materials are licensed CC-BY. Your membership tells the hardworking volunteers you appreciate them!",
+      "Your texts are well-formed. Is your membership?",
+      "Every element has a story, and someone who maintains it. Help them out.",
+      "Add your @resp to the Guidelines: become a member!",
+      "Roma, Stylesheets, the TEIGarage: kept running by members like you.",
+      "Behind every release is a Council fuelled by coffee and goodwill. Fund the goodwill (or at least the coffee).",
+      "TEI Journal is open access. Somebody makes that possible, and it could be you!",
+      "Peer review, open access, impeccable footnotes. Your membership makes the TEI Journal possible.",
+      "Members make the conference happen. Without institutions, there will be no coffee breaks.",
+      "Join the people who can debate <p> vs <ab> over dinner and stay friends. Become a member.",
+      "SIGs, community calls, annual conference and a lot of opinions about markup. Join in!",
+      "Not just a schema, but a community.",
+      "New individual membership rate. <measure unit=\"USD\" quantity=\"100\"/><note>still worth it</note>.",
+      "Memberships need renewing for 2027. Consider this your <date when=\"2026-12-31\"/> reminder.",
+      "<affiliation from=\"2027-01-01\"/>? Renew your TEI membership before the New Year!"
+    ],
+    "es": [
+      "La membresía mantiene las Guidelines activas para todo el mundo.",
+      "La TEI se sostiene gracias a sus miembros. Suma tu apoyo.",
+      "Únete a la comunidad que mantiene el estándar que usas.",
+      "Tu membresía financia las Guidelines, el Journal y el congreso."
+    ]
+  }
+}

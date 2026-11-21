@@ -98,7 +98,15 @@ If this is successful, you'll likely see a whole bunch of output, which should c
 **Note**: Since the website is localized, the homepage will be located at `index.[LANGUAGE-CODE]`. E.g. to see the English homepage, go to: `https://localhost:8080/index.en`
 
 
+## Membership banner
 
+A yellow banner is added under the blue menu bar with the membership poke. 
 
+It is loaded by a small JS in `src/assets/js/membership-banner.js`) via the regular bundle in `src/assets/js/js-main-bundle.njk` for most of the pages, in particular the Guidelines (you will see it in these templates as `<script src="/js/main.js"/>`). 
 
+On some pages that were not loading this bundle (i.e. News and Documentation sections) the script is explicitly loaded in their templates (in `src/_layouts/`, `documentation.njk` and `news.njk`).
+
+Slogans on the banner are picked randomly on each page display from `src/_data/membership-banner.json`.
+
+Banner styles are in `src/assets/css/membership-banner.css`
 
