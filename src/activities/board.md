@@ -17,6 +17,7 @@ The Board meets once a year in person, immediately following the Annual
 Meeting, and holds meetings via teleconferencing software on a regular basis.
 
 ## Meetings of the Board
+* 25 September 2026: Slack Huddle ([minutes](board-meeting_2026-09-25/))
 * 21 August 2026: Slack Huddle ([minutes](board-meeting_2026-08-21/))
 * 14 August 2026: TEI2026 AGM Slides ([slides](../../files/TEI2026_AGM-slides.pdf))
 * 17 July 2026: Slack Huddle ([minutes](board-meeting_2026-07-17/))
