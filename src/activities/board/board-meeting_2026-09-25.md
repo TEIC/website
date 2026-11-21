@@ -12,7 +12,7 @@ Regrets:  Diane Jakacki, Gimena del Rio Riande
 ## Agenda Items:
 
 * Approval of minutes: 
-    * MT and DG accepting the July minutes
+    * MT and DG accepting the August minutes
 * Treasurer report: 
     * As the treasurer sent her regrets, the report is postponed.
     * Brief discussion of the scale of PayPal payments (unknown) and feasibility of keeping this method available, as it requires manual processing.
