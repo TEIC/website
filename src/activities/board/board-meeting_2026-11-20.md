@@ -25,15 +25,15 @@ Regrets: Elisa Beshero-Bondar, Gimena del Rio Riande
 * Approval of minutes: 
     * DG and DJ accepting the October minutes
 * Membership rates:
-  * Announcement of last chance for lower membership rates should go out promptly. JC volunteers to test renewing membership ahead of time.
-  * MT: Atm we are pro-rating, we discussed it before and I think we should stop it.
-  * **Decision** we will move to buying a membership for a given year. If new members join in November or December, they are buying next year's membership, no pro-rating. Membership runs for a calendar year Jan 1st - Dec 31st. 
+  * Discussion of membership and when individuals and institutions should renew. It would be good to get them doing so around the beginning of the year.
+  * MT: Atm we are pro-rating institutional membership, we discussed it before and I think we should stop it.
+  * **Decision** we will move to buying a membership for a given year. If new members institutional or individual join in November or December, they are buying next year's membership, no pro-rating. Membership runs for a calendar year Jan 1st - Dec 31st. 
   * Discussion of pros and cons of advertising last days of lower individual membership rates. Advice from Treasurer: any income is desperately needed, even if individual memberships cannot make a substantial difference (ca 100 individual members). Majority (70%) renews in the period Jun-Nov, probably in time for the conference to benefit from the reduced fee.
   * MT: As a Board we should rationalize our efforts and try to target institutional members a bit more, but it's important to have an energetic membership campaign targeting individuals, to give correct and sustained impression of how dire the situation is. It is only through individuals we can hope to convince institutions.
   * Institutional members get a reminder from WildApricot on Dec 2nd
   * Call for institutional membership push from our members?
 * Treasurer's impromptu report: 
-  * annual income ~45, expenses ~84 (huge deficit)
+  * DJ summarised the dire state of TEI-C finances. We are spending more than our income, burning into our cash reserve.
   * cash reserve of 8.7 months based on the average FY26 monthly spending
 * Website banner / parallel social media campaign?
   * MT presents two main versions of the banner: TEI blue and the "editor's cut". The **latter** was accepted to use (with minor changes requested).
@@ -43,7 +43,7 @@ Regrets: Elisa Beshero-Bondar, Gimena del Rio Riande
   * Agreed to invite Council before other nominees, to gather first feedback on the form
   * Agreed to proceed with invitations for other nominees without much delay, not waiting for Council's posts to come in
   * Postponed till next meeting: Distribution and publication policy and Automated *we are tei* branch preview
-* Council report:
+* Council report: (Council Chair was not available.)
   * Not given (Chair of the Council not present), discussion of infrastructure resiliency and responses to the major outage postponed till next month
 * TEI 2028: 
   * One candidate withdrew. JC will share with the board the submitted application and asks for feedback. 
