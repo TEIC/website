@@ -21,7 +21,6 @@ Regrets:  Diane Jakacki, Gimena del Rio Riande
     * JC reports that he has made a draft form and invites constructive critique. The form 
 * Website Banner to encourage membership:
     * JC is investigating website banner. Link to join page on membership site. 
-    * Slogan proposals: “Join the TEI-C before the membership rates go up!”, “Buy one, bring a friend to buy one as well!”
     * It's not sufficient for the banner to be available on the core website sections, it has to work on Guidelines pages as well, to assure maximum reach.
     * Ideally we should be switching through more that one slogan/banner. 
 * Council report (EBB): 
@@ -38,7 +37,7 @@ Regrets:  Diane Jakacki, Gimena del Rio Riande
   * There was a request for the post on next TEI meeting information. On hold until local organizers have a chance to set up a website. JC has contacted them (Mari and Kiyonori) on this matter.
 * TEI2028: 
   * JC has emailed the two candidates asking for a more detailed application. 
-  * DG liaised with Prof. Christos Papatheodorou. The event would be hosted at the National Kapodistrian University, in the city center. Some costings can be obtained on the basis of previous events there. A question arrived what happens with the surplus money, does University keep it. JC: there was a change of policy, any surplus the organizers are free to keep, but there's no subvention from the TEI, unless the conference is unable to cover the cost.
+  * DG liaised with one of them. The event would be hosted at the their University, in the city center. Some costings can be obtained on the basis of previous events there. A question arrived what happens with the surplus money, does University keep it. JC: there was a change of policy, any surplus the organizers are free to keep, but there's no subvention from the TEI, unless the conference is unable to cover the cost.
   * JC: we should make a decision before Christmas, to give organizers time to start making arrangements. We want to come to 2027 with the announcement for 28, which implies representatives from 28 to be present in Tokyo in 27.
 * OPM mid-term report (MT): 
   * OPM has been released on schedule, on Sep 15th. Sep 27th a steering committee meeting is planned to determine further focus, but so far we are even ahead of schedule.
@@ -47,6 +46,6 @@ Regrets:  Diane Jakacki, Gimena del Rio Riande
   * From MT's perspective it would be helpful if Council agreed to prioritize the incoming PRs and PM-related issues. If TEI infrastructure is supposed to rely on the OPM, then the extensions required for the TEI infrastructure should be incorporated into the TEI vocabulary. OPM is scheduled to run for another half a year, so the Consortium should aim to keep this timeline to in mutual interest of both communities.
 * **Next Meetings:** 
   * 16 October 2026, 8:30am Eastern
-  * 20 November 2026, 8:30 Eastern 
+  * 20 November 2026, 8:30am Eastern 
   * 18 December 2026, 8:30 Eastern
 
