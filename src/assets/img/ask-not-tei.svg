@@ -4,15 +4,15 @@
   <defs>
     <style>
       @import url("https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,700;1,9..144,500&amp;family=IBM+Plex+Mono:wght@400;500&amp;family=Source+Sans+3:wght@400;600&amp;display=swap");
-      .head { font-family: Fraunces, Georgia, "Times New Roman", serif; font-weight: 700; font-size: 84px; letter-spacing: -1.68px; fill: #1B1A19; }
-      .mono { font-family: "IBM Plex Mono", Menlo, Consolas, monospace; font-size: 14px; }
-      .tag { font-weight: 500; fill: #C2272D; }
-      .sans { font-family: "Source Sans 3", "Helvetica Neue", Arial, sans-serif; }
-      .join { cursor: pointer; }
-      .join rect, .join text { transition: fill .2s ease; }
-      .join:hover rect, .join:focus-visible rect { fill: #F7A823; }
-      .join:hover text, .join:focus-visible text { fill: #1B1A19; }
-      .join:focus-visible { outline: 3px solid #C2272D; outline-offset: 3px; }
+      svg .head { font-family: Fraunces, Georgia, "Times New Roman", serif; font-weight: 700; font-size: 84px; letter-spacing: -1.68px; fill: #1B1A19; }
+      svg .mono { font-family: "IBM Plex Mono", Menlo, Consolas, monospace; font-size: 14px; }
+      svg .tag { font-weight: 500; fill: #C2272D; }
+      svg .sans { font-family: "Source Sans 3", "Helvetica Neue", Arial, sans-serif; }
+      svg .join { cursor: pointer; }
+      svg .join rect, .join text { transition: fill .2s ease; }
+      svg .join:hover rect, .join:focus-visible rect { fill: #F7A823; }
+      svg .join:hover text, .join:focus-visible text { fill: #1B1A19; }
+      svg .join:focus-visible { outline: 3px solid #C2272D; outline-offset: 3px; }
     </style>
   </defs>
 
