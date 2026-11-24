@@ -479,7 +479,7 @@ tei-text tei-list[type=ordered] > tei-item:before {
 /* Ordered lists: Items encoded with @n: use the encoded label */
 tei-text tei-list > tei-item[n] {
   display: block;  /* suppresses the default marker */
-  padding-left: 5em;
+  padding-left: 1em;
 }
 tei-text tei-list > tei-item[n]::before {
   content: attr(n)". ";
@@ -914,4 +914,3 @@ tei-wit {
 tei-witdetail {
   display:none;
 }
-
