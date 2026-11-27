@@ -476,6 +476,18 @@ tei-text tei-list[type=ordered] > tei-item:before {
   counter-increment: items 1;
   content: counter(items, decimal) ". ";
 }
+/* Ordered lists: Items encoded with @n: use the encoded label */
+tei-text tei-list > tei-item[n] {
+  display: block;  /* suppresses the default marker */
+  padding-left: 1em;
+}
+tei-text tei-list > tei-item[n]::before {
+  content: attr(n)". ";
+  display: inline-block;
+  box-sizing: border-box;
+  padding-right: .5em;
+  text-align: right;
+}
 tei-text tei-list[type=gloss] {
   list-style-type: none;
 }
@@ -499,7 +511,7 @@ tei-listapp {
 tei-listbibl {
   display:block;
   list-style-type: none;
-  margin-left: .5 em;
+  margin-left: .5em;
   margin-top: .5em;
 }
 tei-listbibl > tei-head {
@@ -902,4 +914,3 @@ tei-wit {
 tei-witdetail {
   display:none;
 }
-
